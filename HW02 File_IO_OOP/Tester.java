@@ -59,7 +59,8 @@ public class Tester
 		
 		try
 		{
-			raf = new RandomAccessFile("students2.txt", "r");
+			raf = new RandomAccessFile("HW-02_Student-Average-Gender.txt", "r");
+			raf.readLine();
 
 			while(raf.getFilePointer() < raf.length())
 			{

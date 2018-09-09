@@ -1,3 +1,4 @@
+name	gender	overall_average
 Eamon Jeynes	Male	66.6
 Laural Aronsohn	Female	53.0
 Hamil Penticost	Male	68.6
