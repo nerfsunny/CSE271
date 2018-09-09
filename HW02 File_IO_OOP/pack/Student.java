@@ -3,25 +3,27 @@ import java.security.InvalidParameterException;
 
 public class Student
 {
-	private String gender;
-	private String studentName;
-	private double average;
+	private String gender; //stores the gender (in this case Male or Female) for each Student object
+	private String studentName; //stores the name for each Student object
+	private double average; //stores the average score for each student object
 
+
+	//Getter and Setter's for the Student Class
 	public String getLetterGrade()
 	{
-		if(this.getAverage() > 89)
+		if(average > 89)
 		{
 			return "A";
 		}else
-		if(this.getAverage() > 79)
+		if(average > 79)
 		{
 			return "B";
 		}else
-		if(this.getAverage() > 69)
+		if(average > 69)
 		{
 			return "C";
 		}else
-		if(this.getAverage() > 59)
+		if(average > 59)
 		{
 			return "D";
 		}else
@@ -30,7 +32,7 @@ public class Student
 		}
 	}
 
-	public void setAverage(int a)
+	public void setAverage(double a)
 	{
 		if(a >= 0 && a <= 100)
 		{
@@ -66,8 +68,9 @@ public class Student
 		return gender;
 	}
 
-	public Student()
+	//default constructor (not used)
+	/*public Student()
 	{
 
-	}
+	}*/
 }

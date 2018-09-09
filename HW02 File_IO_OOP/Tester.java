@@ -13,7 +13,7 @@ import java.io.*;
 
 public class Tester
 {
-	public static double averageMaleScore(ArrayList<Student> scores)
+	public static double averageMaleScore(ArrayList<Student> scores) //Computes the total average score for all male students
 	{
 		double average = 0;
 		int counter = 0;
@@ -30,7 +30,7 @@ public class Tester
 		return average/counter;
 	}
 
-	public static double averageFemaleScore(ArrayList<Student> scores)
+	public static double averageFemaleScore(ArrayList<Student> scores) //Computes the total average score for all female students
 	{
 		double average = 0;
 		int counter = 0;
@@ -53,8 +53,8 @@ public class Tester
 		Student s = null;
 		ArrayList <Student> studentNamesAndAverages = new ArrayList <Student>();
 
-		int maleGradeA = 0, maleGradeB = 0, maleGradeC = 0, maleGradeD = 0, maleGradeF = 0;
-		int femaleGradeA = 0, femaleGradeB = 0, femaleGradeC = 0, femaleGradeD = 0, femaleGradeF = 0;
+		int maleGradeA = 0, maleGradeB = 0, maleGradeC = 0, maleGradeD = 0, maleGradeF = 0; //serves to count all of the male students who have a certain letter grade (in this case A, B, C, D, F)
+		int femaleGradeA = 0, femaleGradeB = 0, femaleGradeC = 0, femaleGradeD = 0, femaleGradeF = 0; //serves to count all of the female students who have a certain letter grade (in this case A, B, C, D, F)
 		String grade;
 		
 		try
@@ -65,12 +65,10 @@ public class Tester
 			{
 				s = new Student();
 				String[] parts = raf.readLine().split("\t");
-				System.out.println(parts[0]);
+
 				s.setName(parts[0]);
-				System.out.println(parts[1]);
 				s.setGender(parts[1]);
-				System.out.println(parts[2]);
-				s.setAverage(Integer.parseInt(parts[2]));
+				s.setAverage(Double.parseDouble(parts[2]));
 
 				studentNamesAndAverages.add(s);
 			}
@@ -90,9 +88,9 @@ public class Tester
 
 		for(Student a : studentNamesAndAverages)
 		{
-			if(s.getGender().equalsIgnoreCase("male"))
+			if(a.getGender().equalsIgnoreCase("male"))
 			{
-				grade = s.getLetterGrade();
+				grade = a.getLetterGrade();
 
 				switch (grade)
 					{
@@ -113,9 +111,9 @@ public class Tester
 							break;
 					}
 			}else
-			if(s.getGender().equalsIgnoreCase("female"))
+			if(a.getGender().equalsIgnoreCase("female"))
 			{
-				grade = s.getLetterGrade();
+				grade = a.getLetterGrade();
 
 				switch (grade)
 				{
@@ -138,12 +136,13 @@ public class Tester
 			}
 		}
 
-		System.out.println("Grades | Number of Male Students | Number of Female Students");
-		System.out.println("A" + " | " + maleGradeA + " | " + femaleGradeA);
-		System.out.println("B" + " | " + maleGradeB + " | " + femaleGradeB);
-		System.out.println("C" + " | " + maleGradeC + " | " + femaleGradeC);
-		System.out.println("D" + " | " + maleGradeD + " | " + femaleGradeD);
-		System.out.println("F" + " | " + maleGradeF + " | " + femaleGradeF);
-		System.out.println("Averages for both genders." + "Male: " + averageMaleScore(studentNamesAndAverages) + "Female: " + averageFemaleScore(studentNamesAndAverages));
+		System.out.printf("%s \t %s \t %s \n", "Grades", "Men", "Women");
+		System.out.printf("%s \t %s \t %s \n", "------", "---", "-----");
+		System.out.printf("%s \t %d \t %d \n", "A", maleGradeA, femaleGradeA);
+		System.out.printf("%s \t %d \t %d \n", "B", maleGradeB, femaleGradeB);
+		System.out.printf("%s \t %d \t %d \n", "C", maleGradeC, femaleGradeC);
+		System.out.printf("%s \t %d \t %d \n", "D", maleGradeD, femaleGradeD);
+		System.out.printf("%s \t %d \t %d \n", "F", maleGradeF, femaleGradeF);
+		System.out.printf("%s %.1f %.1f \n", "Average: ", averageMaleScore(studentNamesAndAverages), averageFemaleScore(studentNamesAndAverages));
 	}
 }
