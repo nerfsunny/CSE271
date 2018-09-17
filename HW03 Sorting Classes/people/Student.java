@@ -157,7 +157,7 @@ public class Student
 	public String allData()
 	{
 		return "Student: " + firstName + " " + lastName + " Gender: " + gender + " University: " + university + " Year: " + yearInSchool + " Student's GPA: " + currentGPA + 
-		" City: " + city + " State: " + state + "Zip Code: " + zip + " Phone Number: " + phoneNumber + " Email: " + email + " Username: " + username + " Password: " + password;
+		" City: " + city + " State: " + state + " Zip Code: " + zip + " Phone Number: " + phoneNumber + " Email: " + email + " Username: " + username + " Password: " + password;
 	}
 
 	//default constructor (left empty)
@@ -177,7 +177,7 @@ public class Student
 		setUniversity(uni);
 		setEmail(mail);
 		setYearInSchool(year);
-		setCity(city);
+		setCity(cty);
 		setState(sta);
 		setGPA(gp);
 		setZip(zp);
