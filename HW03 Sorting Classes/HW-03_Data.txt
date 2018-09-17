@@ -1,4 +1,4 @@
-eczlastName	firstName	gender	userName	password	email	currentGPA	university	yearInSchool	city	state	zip	phoneNumber
+lastName	firstName	gender	userName	password	email	currentGPA	university	yearInSchool	city	state	zip	phoneNumber
 Pascall	Sabine	Female	spascall0	dFtSnx	spascall0@photobucket.com	0.59	Tokuyama University	Freshman	Houston	TX	77250	(713) 6974063
 Anfusso	Kelsy	Female	kanfusso1	UeKfWXMdb	kanfusso1@amazon.co.jp	1.55	Vermont Law School	Graduate Student	Portland	OR	97221	(503) 5698919
 Petkov	Gael	Female	gpetkov2	HiOh3qnZo	gpetkov2@studiopress.com	0.93	Mississippi University for Women	Freshman	Austin	TX	78744	(512) 9825081
@@ -998,4 +998,4 @@ Rizon	Urbain	Male	urizonrn	R9RWdy	urizonrn@uol.com.br	1.1	Albion College	Senior	
 Roggeman	Dorothy	Female	droggemanro	S0VqZSzkDL	droggemanro@fotki.com	2.05	Universidad del Turismo	Freshman	Washington	DC	20397	(202) 9912531
 Blaver	Sabina	Female	sblaverrp	PWm6eg4fupu	sblaverrp@unesco.org	2.17	Universidad de San Jos	Senior	Las Vegas	NV	89135	(702) 5621193
 Etchell	Orelia	Female	oetchellrq	SPC2bd4XnJ	oetchellrq@apache.org	1.72	University of KwaZulu-Natal	Junior	Evansville	IN	47737	(812) 4034386
-Tathacott	Malinda	Female	mtathacottrr	HJK5b0NpA7Y	mtathacottrr@reference.com	-1.78	Universidad Carlos III de Madrid	Sophomore	Dallas	TX	75310	(214) 8133733
+Tathacott	Malinda	Female	mtathacottrr	HJK5b0NpA7Y	mtathacottrr@reference.com	1.78	Universidad Carlos III de Madrid	Sophomore	Dallas	TX	75310	(214) 8133733
