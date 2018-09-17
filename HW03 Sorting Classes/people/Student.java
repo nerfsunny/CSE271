@@ -5,9 +5,9 @@ import java.io.*;
 public class Student
 {
 	//Initiallizing necessary variables for Students
-	private String firstName, lastName, gender, username, password, university, email, yearInSchool, city, state;
+	private String firstName, lastName, gender, username, password, university, email, yearInSchool, city, state, phoneNumber;
 	private double currentGPA;
-	private int zip, phoneNumber;
+	private int zip;
 
 
 	//Getters and Setters
@@ -72,7 +72,7 @@ public class Student
 		}
 	}
 
-	public void setPhoneNumber(int p)
+	public void setPhoneNumber(String p)
 	{
 		phoneNumber = p;
 	}
@@ -142,9 +142,22 @@ public class Student
 		return zip;
 	}
 
-	public Integer getPhoneNumber()
+	public String getPhoneNumber()
 	{
 		return phoneNumber;
+	}
+
+	//returns basic information about the Student object
+	@Override
+	public String toString()
+	{
+		return "Student: " + firstName + " " + lastName + " Gender: " + gender + " University: " + university + " Year: " + yearInSchool + " Student's GPA: " + currentGPA; 
+	}
+
+	public String allData()
+	{
+		return "Student: " + firstName + " " + lastName + " Gender: " + gender + " University: " + university + " Year: " + yearInSchool + " Student's GPA: " + currentGPA + 
+		" City: " + city + " State: " + state + "Zip Code: " + zip + " Phone Number: " + phoneNumber + " Email: " + email + " Username: " + username + " Password: " + password;
 	}
 
 	//default constructor (left empty)
@@ -153,14 +166,8 @@ public class Student
 
 	}
 
-	public Student(String a, String b)
-	{
-		setFirstName(a);
-		setLastName(b);
-	}
-
 	//workhorse constructor
-	public Student(String fName, String lName, String gen, String user, String pass, String uni, String mail, String year, String cty, String sta, Double gp, Integer zp, Integer phone)
+	public Student(String fName, String lName, String gen, String user, String pass, String uni, String mail, String year, String cty, String sta, Double gp, Integer zp, String phone)
 	{
 		setFirstName(fName);
 		setLastName(lName);
@@ -177,14 +184,24 @@ public class Student
 		setPhoneNumber(phone);
 	}
 
+	protected Student clone()
+	{
+		return new Student(this);
+	}
+
+	public Student(Student s)
+	{
+		this(s.getFirstName(), s.getLastName(), s.getGender(), s.getUsername(), s.getPassword(), s.getUniversity(), s.getEmail(), s.getYearInSchool(), s.getCity(), s.getState(), s.getGPA(), s.getZip(), s.getPhoneNumber());
+	}
+
 	//Constructor that accepts an array of Strings necessary for the Student object
 	public Student(String[] x)
 	{
-
+		this(x[1], x[0], x[2], x[3], x[4], x[7], x[5], x[8], x[9], x[10], Double.parseDouble(x[6]), Integer.parseInt(x[11]), x[12]);
 	}
 
-	public Student(RandomAccessFile r)
+	/*public Student(RandomAccessFile r)
 	{
 
-	}
+	}*/
 }
