@@ -9,7 +9,6 @@ public class Student
 	private double currentGPA;
 	private int zip;
 
-
 	//Getters and Setters
 	public void setFirstName(String f)
 	{
@@ -46,9 +45,15 @@ public class Student
 		email = e;
 	}
 
-	public void setYearInSchool(String z)
+	public void setYearInSchool(String yis)
 	{
-		yearInSchool = z;
+		if(yis.equalsIgnoreCase("freshman") || yis.equalsIgnoreCase("sophomore") || yis.equalsIgnoreCase("junior") || yis.equalsIgnoreCase("senior") || yis.equalsIgnoreCase("graduate student"))
+		{
+			yearInSchool = yis;
+		}else
+		{
+			throw new InvalidParameterException("Student can not be a " + yis);
+		}
 	}
 
 	public void setCity(String c)
@@ -151,7 +156,36 @@ public class Student
 	@Override
 	public String toString()
 	{
-		return "Student: " + firstName + " " + lastName + " Gender: " + gender + " University: " + university + " Year: " + yearInSchool + " Student's GPA: " + currentGPA; 
+		return "City: " + city 
+			 + " State: " + state
+			 + " Zip: " + zip 
+			 + " University " + university
+			 + " Student Last's Name: " + lastName; 
+	}
+
+	@Override
+	public boolean equals(Object obj)
+	{
+		if(!(obj instanceof Student)) 
+		{
+			return false;
+		}
+
+		Student s = (Student) obj;
+
+		return	firstName.equalsIgnoreCase(s.getFirstName()) &&
+				lastName.equalsIgnoreCase(s.getLastName()) &&
+				gender.equalsIgnoreCase(s.getGender()) &&
+				username.equalsIgnoreCase(s.getUsername()) &&
+				password.equalsIgnoreCase(s.getPassword()) &&
+				university.equalsIgnoreCase(s.getUniversity()) &&
+				email.equalsIgnoreCase(s.getEmail()) &&
+				yearInSchool.equalsIgnoreCase(s.getYearInSchool()) &&
+				city.equalsIgnoreCase(s.getCity()) &&
+				state.equalsIgnoreCase(s.getState()) && 
+				phoneNumber.equalsIgnoreCase(s.getPhoneNumber()) &&
+				currentGPA == s.getGPA() &&
+				zip == s.getZip();
 	}
 
 	public String allData()
@@ -167,21 +201,21 @@ public class Student
 	}
 
 	//workhorse constructor
-	public Student(String fName, String lName, String gen, String user, String pass, String uni, String mail, String year, String cty, String sta, Double gp, Integer zp, String phone)
+	public Student(String firstName, String lastName, String gender, String username, String pass, String university, String email, String year, String city, String state, Double gpa, Integer zip, String phoneNumber)
 	{
-		setFirstName(fName);
-		setLastName(lName);
-		setGender(gen);
-		setUsername(user);
-		setPassword(pass);
-		setUniversity(uni);
-		setEmail(mail);
+		setFirstName(firstName);
+		setLastName(lastName);
+		setGender(gender);
+		setUsername(username);
+		setPassword(password);
+		setUniversity(university);
+		setEmail(email);
 		setYearInSchool(year);
-		setCity(cty);
-		setState(sta);
-		setGPA(gp);
-		setZip(zp);
-		setPhoneNumber(phone);
+		setCity(city);
+		setState(state);
+		setGPA(gpa);
+		setZip(zip);
+		setPhoneNumber(phoneNumber);
 	}
 
 	protected Student clone()
@@ -189,6 +223,7 @@ public class Student
 		return new Student(this);
 	}
 
+	//copy constrcutor
 	public Student(Student s)
 	{
 		this(s.getFirstName(), s.getLastName(), s.getGender(), s.getUsername(), s.getPassword(), s.getUniversity(), s.getEmail(), s.getYearInSchool(), s.getCity(), s.getState(), s.getGPA(), s.getZip(), s.getPhoneNumber());
@@ -200,8 +235,13 @@ public class Student
 		this(x[1], x[0], x[2], x[3], x[4], x[7], x[5], x[8], x[9], x[10], Double.parseDouble(x[6]), Integer.parseInt(x[11]), x[12]);
 	}
 
+	public Student(String output)
+	{
+		this(output.split("\t"));
+	}
+
 	/*public Student(RandomAccessFile r)
 	{
-
+		this(r.readLine());
 	}*/
 }
