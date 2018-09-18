@@ -832,7 +832,7 @@ Lindbergh	Sonny	Female	slindberghn1	cCw0aJ	slindberghn1@mapquest.com	2.79	Darul 
 Rupel	Paulie	Male	prupeln2	o8S03be	prupeln2@t-online.de	3.95	Benha University	Senior	Syracuse	NY	13205	(315) 5482798
 Sopp	Consuela	Female	csoppn3	fvroA7o	csoppn3@netvibes.com	1.08	Universidad Privada Abierta Latinoamericana	Freshman	Dallas	TX	75205	(972) 7314612
 Whistlecraft	Kathlin	Female	kwhistlecraftn4	a53L1pqd1ag5	kwhistlecraftn4@goodreads.com	3.11	Escuela Nacional de Estudios Superiores Unidad Len	Sophomore	Lubbock	TX	79491	(806) 1209846
-Francis	Shellie	Female	sfrancisn5	y1LzYta2V9iz	sfrancisn5@narod.ru	1.33	Universit de Kinshasa	Senoir	Greensboro	NC	27425	(336) 6760014
+Francis	Shellie	Female	sfrancisn5	y1LzYta2V9iz	sfrancisn5@narod.ru	1.33	Universit de Kinshasa	Senior	Greensboro	NC	27425	(336) 6760014
 Kyffin	Aleksandr	Male	akyffinn6	wuwwjBbqpEb	akyffinn6@zdnet.com	2.8	Tohoku Fukushi University	Junior	Syracuse	NY	13205	(315) 9738382
 Glennard	Bobbette	Female	bglennardn7	DjRAoGI	bglennardn7@slashdot.org	3.58	Europische Fachhochschule	Sophomore	Washington	DC	20226	(202) 3774109
 Whithalgh	Tobit	Male	twhithalghn8	8U48BV	twhithalghn8@tripadvisor.com	2.91	Arba Minch University	Freshman	Los Angeles	CA	90010	(213) 8835011
@@ -893,7 +893,7 @@ Delbergue	Valery	Female	vdelbergueoq	yyQlaW	vdelbergueoq@oracle.com	2.2	Universi
 Hedditch	Sheena	Female	shedditchor	KGKN8X	shedditchor@shop-pro.jp	2.84	Universitas Tunas Pembangunan	Graduate Student	Merrifield	VA	22119	(571) 1765604
 O'Kynsillaghe	Tad	Male	tokynsillagheos	E1vJ4a	tokynsillagheos@cargocollective.com	3.38	Universidad Catlica de Santiago de Guayaquil	Graduate Student	San Antonio	TX	78240	(210) 2369088
 Foley	Doloritas	Female	dfoleyot	QKFO6tXdWzqn	dfoleyot@so-net.ne.jp	1.46	Information and Communications Technology Academy	Sophomore	Phoenix	AZ	85030	(602) 6834375
-Angrick	Windham	Male	wangrickou	LUCI7qMsU	wangrickou@chronoengine.com	0.61	Fondazione Sacro Cuore	Sofomore	Bethlehem	PA	18018	(484) 8250559
+Angrick	Windham	Male	wangrickou	LUCI7qMsU	wangrickou@chronoengine.com	0.61	Fondazione Sacro Cuore	Sophomore	Bethlehem	PA	18018	(484) 8250559
 Patise	Tory	Female	tpatiseov	QCoxnal	tpatiseov@artisteer.com	1.59	Nankai University	Graduate Student	Amarillo	TX	79116	(806) 3641374
 Ewan	Tine	Female	tewanow	flO7i7LMq	tewanow@soup.io	2.01	National Yunlin University of Science and Technology	Junior	Irvine	CA	92612	(510) 7317099
 Slemming	Gwenny	Female	gslemmingox	pHjbAVbGLf	gslemmingox@abc.net.au	3.99	Sung Kyun Kwan University	Senior	Los Angeles	CA	90045	(323) 6659433
