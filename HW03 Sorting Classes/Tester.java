@@ -145,7 +145,7 @@ public class Tester
 			}
 		}
 
-		System.out.printf("%s \t %.2f", name, gpa);
+		System.out.printf("%s \t %.2f \n", name, gpa);
 	}
 
 	public static void main(String args[])
@@ -164,6 +164,7 @@ public class Tester
 			{
 				String[] studentDataArray = raf.readLine().split("\t");
 				s = new Student(studentDataArray);
+				//s = new Student();
 
 				listOfStudents.add(s);
 			}
@@ -181,9 +182,18 @@ public class Tester
 			}
 		}
 
-		for(Student z : listOfStudents)
+		/*for(Student z : listOfStudents)
 		{
 			System.out.println(z.allData());
-		}
+		}*/
+
+		System.out.printf("%s \t %.2f \n", "Average Male GPA: ", averageGPAForAllMaleStudents(listOfStudents));
+		System.out.printf("%s \t %.2f \n", "Average Female GPA: ", averageGPAForAllFemaleStudents(listOfStudents));
+		System.out.printf("%s \t %.2f \n", "Average Freshman GPA: ", averageGPAForFreshman(listOfStudents));
+		System.out.printf("%s \t %.2f \n", "Average Sophomore GPA: ", averageGPAForSophomore(listOfStudents));
+		System.out.printf("%s \t %.2f \n", "Average Junior GPA: ", averageGPAForJunior(listOfStudents));
+		System.out.printf("%s \t %.2f \n", "Average Senior GPA: ", averageGPAForSenior(listOfStudents));
+		System.out.printf("%s \t %.2f \n", "Average Graduate Student GPA: ", averageGPAForGraduateStudent(listOfStudents));
+		findWimmerRoth(listOfStudents);
 	}
 }
