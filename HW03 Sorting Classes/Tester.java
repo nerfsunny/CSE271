@@ -131,29 +131,61 @@ public class Tester
 		return gpa/graduateStudent;
 	}
 
-	public static void findWimmerRoth(ArrayList<Student> students)
+	public static void findSpecificStudent(String name, ArrayList<Student> students)
 	{
-		String name = null;
+		String firstName = (name.split(" "))[1];
+		String lastName = (name.split(" "))[0];
+		String studentName = null;
 		double gpa = 0.0;
 
 		for(Student s : students)
 		{
-			if(s.getFirstName().equalsIgnoreCase("wimmer") && s.getLastName().equalsIgnoreCase("roth"))
+			if(s.getFirstName().equalsIgnoreCase(firstName) && s.getLastName().equalsIgnoreCase(lastName))
 			{
-				name = s.getFirstName() + " " + s.getLastName();
+				studentName = s.getLastName() + " " + s.getFirstName();
 				gpa = s.getGPA();
 			}
 		}
 
-		System.out.printf("%s \t %.2f \n", name, gpa);
+		System.out.printf("%s %s \t %.2f \n", studentName + "'s", "GPA: ", gpa);
+	}
+
+	public static ArrayList getListOfUniversities(ArrayList<Student> students)
+	{
+		ArrayList <String> listOfUniversities = new ArrayList<String>();
+		int counter = 0;
+		int arrayListSize = 0;
+		String university;
+
+		for(Student s : students)
+		{
+			university = s.getUniversity();
+
+			for(int i = 0; i < listOfUniversities.size(); i++)
+			{
+				if( !( university.equalsIgnoreCase( listOfUniversities.get(i) ) ) )
+				{
+					counter++;
+				}
+			}
+
+			if(counter == arrayListSize)
+			{
+				listOfUniversities.add(university);
+			}
+		}
+
+		return listOfUniversities;
 	}
 
 	public static void main(String args[])
 	{
 		ArrayList<Student> listOfStudents = new ArrayList<Student>(); //Contains all of the listed students in the text file
-		ArrayList<Double> listOfSpecifiedCalculations = new ArrayList<Double>(); //Contains the average GPA for the requested categories
+		ArrayList<Student> listOfUniversities = null;
+		//ArrayList<Double> listOfSpecifiedCalculations = new ArrayList<Double>(); //Contains the average GPA for the requested categories
 		Student s = null;
 		RandomAccessFile raf = null;
+		String specificName = "Harbron Louella";
 
 		try
 		{
@@ -164,8 +196,6 @@ public class Tester
 			{
 				String[] studentDataArray = raf.readLine().split("\t");
 				s = new Student(studentDataArray);
-				//s = new Student();
-
 				listOfStudents.add(s);
 			}
 		} catch(Exception e)
@@ -182,10 +212,7 @@ public class Tester
 			}
 		}
 
-		/*for(Student z : listOfStudents)
-		{
-			System.out.println(z.allData());
-		}*/
+		listOfUniversities = getListOfUniversities(listOfStudents);
 
 		System.out.printf("%s \t %.2f \n", "Average Male GPA: ", averageGPAForAllMaleStudents(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Female GPA: ", averageGPAForAllFemaleStudents(listOfStudents));
@@ -194,6 +221,6 @@ public class Tester
 		System.out.printf("%s \t %.2f \n", "Average Junior GPA: ", averageGPAForJunior(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Senior GPA: ", averageGPAForSenior(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Graduate Student GPA: ", averageGPAForGraduateStudent(listOfStudents));
-		findWimmerRoth(listOfStudents);
+		findSpecificStudent(specificName, listOfStudents);
 	}
 }
