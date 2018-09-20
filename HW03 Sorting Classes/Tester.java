@@ -181,7 +181,7 @@ public class Tester
 		System.out.printf("%s %s \t %.2f \n", studentName + "'s", "GPA: ", gpa);
 	}
 
-	/*public static void writeToFileToString(ArrayList<Student> students, PrintWriter pw, int c) //writes to a text file to see if it actually sorts in alphabetical order
+	/*public static void writeToFileToString(ArrayList<Student> students, PrintWriter pw, int c) //writes to a text file the override toString to see if it actually sorts in alphabetical order
 	{
 		if(c == 1)
 		{
@@ -354,7 +354,7 @@ public class Tester
 		//writeToFile(listOfStudents, pw, 2);
 
 		//writeToFileAllUniversities(listOfStudents, pw);
-		//listOfUniversities = getListOfUniversitiesWithMoreThan1Student(listOfStudents);
+		listOfUniversities = getListOfUniversitiesWithMoreThan1Student(listOfStudents);
 		//writeToFileUniversity(listOfUniversities, pw);
 
 		/*System.out.printf("%s \t %.2f \n", "Average Male GPA: ", averageGPAForAllMaleStudents(listOfStudents));
@@ -364,6 +364,15 @@ public class Tester
 		System.out.printf("%s \t %.2f \n", "Average Junior GPA: ", averageGPAForJunior(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Senior GPA: ", averageGPAForSenior(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Graduate Student GPA: ", averageGPAForGraduateStudent(listOfStudents));*/
+		//System.out.println("");
+
+		System.out.println("City | State Code | Zip Code | University | Last Name");
+		for(int i = 0; i < 5; i++)
+		{
+			System.out.println(listOfStudents.get(i).toString());
+		}
+
+		System.out.println("");
 
 		System.out.printf("%s \t %.2f \n", "Average Male GPA: ", averageGPA("male", listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Female GPA: ", averageGPA("female", listOfStudents));
