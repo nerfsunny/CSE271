@@ -12,125 +12,6 @@ import java.io.*;
 
 public class Tester
 {
-	/*public static double averageGPAForAllMaleStudents(ArrayList<Student> students)
-	{
-		int male = 0;
-		double gpa = 0.0;
-
-		for(Student s : students)
-		{
-			if(s.getGender().equalsIgnoreCase("male"))
-			{
-				gpa = gpa + s.getGPA();
-				male++;
-			}
-		}
-
-		return gpa/male;
-	}
-
-	public static double averageGPAForAllFemaleStudents(ArrayList<Student> students)
-	{
-		int female = 0;
-		double gpa = 0.0;
-
-		for(Student s : students)
-		{
-			if(s.getGender().equalsIgnoreCase("female"))
-			{
-				gpa = gpa + s.getGPA();
-				female++;
-			}
-		}
-
-		return gpa/female;
-	}
-
-	public static double averageGPAForFreshman(ArrayList<Student> students)
-	{
-		int freshman = 0;
-		double gpa = 0.0;
-
-		for(Student s : students)
-		{
-			if(s.getYearInSchool().equalsIgnoreCase("freshman"))
-			{
-				gpa = gpa + s.getGPA();
-				freshman++;
-			}
-		}
-
-		return gpa/freshman;
-	}
-
-	public static double averageGPAForSophomore(ArrayList<Student> students)
-	{
-		int sophomore = 0;
-		double gpa = 0.0;
-
-		for(Student s : students)
-		{
-			if(s.getYearInSchool().equalsIgnoreCase("sophomore"))
-			{
-				gpa = gpa + s.getGPA();
-				sophomore++;
-			}
-		}
-
-		return gpa/sophomore;
-	}
-
-	public static double averageGPAForJunior(ArrayList<Student> students)
-	{
-		int junior = 0;
-		double gpa = 0.0;
-
-		for(Student s : students)
-		{
-			if(s.getYearInSchool().equalsIgnoreCase("junior"))
-			{
-				gpa = gpa + s.getGPA();
-				junior++;
-			}
-		}
-
-		return gpa/junior;
-	}
-
-	public static double averageGPAForSenior(ArrayList<Student> students)
-	{
-		int senior = 0;
-		double gpa = 0.0;
-
-		for(Student s : students)
-		{
-			if(s.getYearInSchool().equalsIgnoreCase("senior"))
-			{
-				gpa = gpa + s.getGPA();
-				senior++;
-			}
-		}
-
-		return gpa/senior;
-	}
-
-	public static double averageGPAForGraduateStudent(ArrayList<Student> students)
-	{
-		int graduateStudent = 0;
-		double gpa = 0.0;
-
-		for(Student s : students)
-		{
-			if(s.getYearInSchool().equalsIgnoreCase("graduate student"))
-			{
-				gpa = gpa + s.getGPA();
-				graduateStudent++;
-			}
-		}
-
-		return gpa/graduateStudent;
-	}*/
-
 	public static double averageGPA(String specificString, ArrayList<Student> students)
 	{
 		int counter = 0;
@@ -204,95 +85,6 @@ public class Tester
 		}
 	}
 
-	/*public static void writeToFileToString(ArrayList<Student> students, PrintWriter pw, int c) //writes to a text file the override toString to see if it actually sorts in alphabetical order
-	{
-		if(c == 1)
-		{
-			try
-			{
-				pw = new PrintWriter("originalWay.txt");
-
-				for(Student b : students)
-				{
-					pw.println(b.toString());
-				}
-			}catch(Exception e)
-			{
-				System.out.println("Error: " + e.getMessage());
-			}finally
-			{
-				if(pw != null)
-				{
-					pw.close();
-				}
-			}
-		}else
-		if(c == 2)
-		{
-			try
-			{
-				pw = new PrintWriter("originalWay2.txt");
-
-				for(Student b : students)
-				{
-					pw.println(b.toString());
-				}
-			}catch(Exception e)
-			{
-				System.out.println("Error: " + e.getMessage());
-			}finally
-			{
-				if(pw != null)
-				{
-					pw.close();
-				}
-			}
-		}
-	}*/
-
-	/*public static void writeToFileUniversity(ArrayList<String> universities, PrintWriter pw) //writes to file how many universities in the given list have more than 1 student
-	{
-		try
-		{
-			pw = new PrintWriter("listOfUniversities.txt");
-
-			for(String v : universities)
-			{
-				pw.println(v);
-			}
-		}catch(Exception e)
-		{
-			System.out.println("Error: " + e.getMessage());
-		}finally
-		{
-			if(pw != null)
-			{
-				pw.close();
-			}
-		}
-	}*/
-
-	/*public static void writeToFileAllUniversities(ArrayList<Student> students, PrintWriter pw) //writes all student objects universities to a text file in alphabetical order to see how many of one university shows up
-	{
-		try
-		{
-			pw = new PrintWriter("originalWay.txt");
-			for(Student b : students)
-			{
-				pw.println(b.shit());
-			}
-		}catch(Exception e)
-		{
-			System.out.println("Error: " + e.getMessage());
-		}finally
-		{
-			if(pw != null)
-			{
-				pw.close();
-			}
-		}
-	}*/
-
 	public static ArrayList<String> getListOfUniversitiesWithMoreThan1Student(ArrayList<Student> students)
 	{
 		ArrayList <String> listOfUniversities = new ArrayList<String>(); //contains list of universities with more than one student
@@ -340,12 +132,10 @@ public class Tester
 	public static void main(String args[])
 	{
 		ArrayList<Student> listOfStudents = new ArrayList<Student>(); //Contains all of the listed students in the text file
-		//ArrayList<Student> testCase = new ArrayList<Student>();
 		ArrayList<String> listOfUniversities = null; //contains a list of universities with more than one student in the given list
 		ArrayList<Double> scores = new ArrayList<Double>();
 		Student s = null;
 		RandomAccessFile raf = null;
-		//PrintWriter pw = null;
 		String specificName = "Harbron Louella";
 		int counter = 0;
 
@@ -373,29 +163,14 @@ public class Tester
 			}
 		}
 
-		
-		//writeToFile(listOfStudents, pw, 1);
 		Collections.sort(listOfStudents);
-		//writeToFile(listOfStudents, pw, 2);
-
-		//writeToFileAllUniversities(listOfStudents, pw);
 		listOfUniversities = getListOfUniversitiesWithMoreThan1Student(listOfStudents);
-		//writeToFileUniversity(listOfUniversities, pw);
 
 		for(String university : listOfUniversities)
 		{
 			scores.add(averageGenderUniversityGPA(listOfStudents, university, "male"));
 			scores.add(averageGenderUniversityGPA(listOfStudents, university, "female"));
 		}
-
-		/*System.out.printf("%s \t %.2f \n", "Average Male GPA: ", averageGPAForAllMaleStudents(listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Female GPA: ", averageGPAForAllFemaleStudents(listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Freshman GPA: ", averageGPAForFreshman(listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Sophomore GPA: ", averageGPAForSophomore(listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Junior GPA: ", averageGPAForJunior(listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Senior GPA: ", averageGPAForSenior(listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Graduate Student GPA: ", averageGPAForGraduateStudent(listOfStudents));*/
-		System.out.println("");
 
 		System.out.println("City | State Code | Zip Code | University | Last Name");
 		for(int i = 0; i < 5; i++)

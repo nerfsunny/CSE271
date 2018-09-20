@@ -203,23 +203,6 @@ public class Student implements Comparable<Student>
 		return this.sortByCity().compareTo(s.sortByCity());
 	}
 
-	/*public String shit()
-	{
-		return university + " " + lastName + " " + firstName;
-	}*/
-
-	/*@Override
-	public int compareTo(Student s)
-	{
-		return this.shit().compareTo(s.shit());
-	}*/
-
-	/*public String allData()
-	{
-		return "Student: " + firstName + " " + lastName + " Gender: " + gender + " University: " + university + " Year: " + yearInSchool + " Student's GPA: " + currentGPA + 
-		" City: " + city + " State: " + state + " Zip Code: " + zip + " Phone Number: " + phoneNumber + " Email: " + email + " Username: " + username + " Password: " + password;
-	}*/
-
 	//default constructor (left empty)
 	public Student()
 	{
