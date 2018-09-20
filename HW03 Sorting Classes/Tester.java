@@ -178,7 +178,30 @@ public class Tester
 			}
 		}
 
-		System.out.printf("%s %s \t %.2f \n", studentName + "'s", "GPA: ", gpa);
+		System.out.printf("%s %-12s %.2f \n \n", studentName + "'s", "GPA:", gpa);
+	}
+
+	public static double averageGenderUniversityGPA(ArrayList<Student> students, String university, String gender)
+	{
+		int counter = 0;
+		double gpa = 0.0;
+
+		for(Student y : students)
+		{
+			if(y.getGender().equalsIgnoreCase(gender) && y.getUniversity().equalsIgnoreCase(university))
+			{
+				counter++;
+				gpa = gpa + y.getGPA();
+			}
+		}
+
+		if(counter == 0)
+		{
+			return 0;
+		}else
+		{
+			return gpa/counter;
+		}
 	}
 
 	/*public static void writeToFileToString(ArrayList<Student> students, PrintWriter pw, int c) //writes to a text file the override toString to see if it actually sorts in alphabetical order
@@ -317,12 +340,14 @@ public class Tester
 	public static void main(String args[])
 	{
 		ArrayList<Student> listOfStudents = new ArrayList<Student>(); //Contains all of the listed students in the text file
-		ArrayList<Student> testCase = new ArrayList<Student>();
+		//ArrayList<Student> testCase = new ArrayList<Student>();
 		ArrayList<String> listOfUniversities = null; //contains a list of universities with more than one student in the given list
+		ArrayList<Double> scores = new ArrayList<Double>();
 		Student s = null;
 		RandomAccessFile raf = null;
 		//PrintWriter pw = null;
 		String specificName = "Harbron Louella";
+		int counter = 0;
 
 		try
 		{
@@ -357,6 +382,12 @@ public class Tester
 		listOfUniversities = getListOfUniversitiesWithMoreThan1Student(listOfStudents);
 		//writeToFileUniversity(listOfUniversities, pw);
 
+		for(String university : listOfUniversities)
+		{
+			scores.add(averageGenderUniversityGPA(listOfStudents, university, "male"));
+			scores.add(averageGenderUniversityGPA(listOfStudents, university, "female"));
+		}
+
 		/*System.out.printf("%s \t %.2f \n", "Average Male GPA: ", averageGPAForAllMaleStudents(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Female GPA: ", averageGPAForAllFemaleStudents(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Freshman GPA: ", averageGPAForFreshman(listOfStudents));
@@ -364,23 +395,30 @@ public class Tester
 		System.out.printf("%s \t %.2f \n", "Average Junior GPA: ", averageGPAForJunior(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Senior GPA: ", averageGPAForSenior(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Graduate Student GPA: ", averageGPAForGraduateStudent(listOfStudents));*/
-		//System.out.println("");
+		System.out.println("");
 
 		System.out.println("City | State Code | Zip Code | University | Last Name");
 		for(int i = 0; i < 5; i++)
 		{
-			System.out.println(listOfStudents.get(i).toString());
+			System.out.println(listOfStudents.get(i).sortByCity());
 		}
 
 		System.out.println("");
 
-		System.out.printf("%s \t %.2f \n", "Average Male GPA: ", averageGPA("male", listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Female GPA: ", averageGPA("female", listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Freshman GPA: ", averageGPA("freshman", listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Sophomore GPA: ", averageGPA("sophomore", listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Junior GPA: ", averageGPA("junior", listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Senior GPA: ", averageGPA("senior", listOfStudents));
-		System.out.printf("%s \t %.2f \n", "Average Graduate Student GPA: ", averageGPA("graduate student", listOfStudents));
+		System.out.printf("%-30s %.2f \n", "Average Male GPA:", averageGPA("male", listOfStudents));
+		System.out.printf("%-30s %.2f \n", "Average Female GPA:", averageGPA("female", listOfStudents));
+		System.out.printf("%-30s %.2f \n", "Average Freshman GPA:", averageGPA("freshman", listOfStudents));
+		System.out.printf("%-30s %.2f \n", "Average Sophomore GPA:", averageGPA("sophomore", listOfStudents));
+		System.out.printf("%-30s %.2f \n", "Average Junior GPA:", averageGPA("junior", listOfStudents));
+		System.out.printf("%-30s %.2f \n", "Average Senior GPA:", averageGPA("senior", listOfStudents));
+		System.out.printf("%-30s %.2f \n", "Average Graduate Student GPA:", averageGPA("graduate student", listOfStudents));
 		findSpecificStudent(specificName, listOfStudents);
+
+		for(String university : listOfUniversities)
+		{
+			System.out.println(university);
+			System.out.printf("%s %.2f %s %.2f \n \n", "Average Male GPA:", scores.get(counter), "Average Female GPA:", scores.get(counter+1));
+			counter++;
+		}
 	}
 }

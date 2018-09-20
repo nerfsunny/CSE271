@@ -152,15 +152,24 @@ public class Student implements Comparable<Student>
 		return phoneNumber;
 	}
 
-	//returns basic information about the Student object
-	@Override
-	public String toString()
+	public String sortByCity()
 	{
 		return city + " " 
 			 + state + " "
 			 + zip + " "
 			 + university + " "
-			 + lastName; 
+			 + lastName;  
+	}
+
+	//returns basic information about the Student object
+	@Override
+	public String toString()
+	{
+		return lastName + " " 
+			 + firstName + " "
+			 + gender + " "
+			 + university + " "
+			 + currentGPA; 
 	}
 
 	@Override
@@ -191,7 +200,7 @@ public class Student implements Comparable<Student>
 	@Override
 	public int compareTo(Student s)
 	{
-		return this.toString().compareTo(s.toString());
+		return this.sortByCity().compareTo(s.sortByCity());
 	}
 
 	/*public String shit()
