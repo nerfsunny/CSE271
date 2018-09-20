@@ -194,6 +194,17 @@ public class Student implements Comparable<Student>
 		return this.toString().compareTo(s.toString());
 	}
 
+	/*public String shit()
+	{
+		return university + " " + lastName + " " + firstName;
+	}*/
+
+	/*@Override
+	public int compareTo(Student s)
+	{
+		return this.shit().compareTo(s.shit());
+	}*/
+
 	/*public String allData()
 	{
 		return "Student: " + firstName + " " + lastName + " Gender: " + gender + " University: " + university + " Year: " + yearInSchool + " Student's GPA: " + currentGPA + 

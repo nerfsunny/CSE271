@@ -181,7 +181,7 @@ public class Tester
 		System.out.printf("%s %s \t %.2f \n", studentName + "'s", "GPA: ", gpa);
 	}
 
-	public static void writeToFile(ArrayList<Student> students, PrintWriter pw, int c)
+	/*public static void writeToFileToString(ArrayList<Student> students, PrintWriter pw, int c) //writes to a text file to see if it actually sorts in alphabetical order
 	{
 		if(c == 1)
 		{
@@ -225,9 +225,52 @@ public class Tester
 				}
 			}
 		}
-	}
+	}*/
 
-	/*public static ArrayList<String> getListOfUniversitiesWithMoreThan1Student(ArrayList<Student> students)
+	/*public static void writeToFileUniversity(ArrayList<String> universities, PrintWriter pw) //writes to file how many universities in the given list have more than 1 student
+	{
+		try
+		{
+			pw = new PrintWriter("listOfUniversities.txt");
+
+			for(String v : universities)
+			{
+				pw.println(v);
+			}
+		}catch(Exception e)
+		{
+			System.out.println("Error: " + e.getMessage());
+		}finally
+		{
+			if(pw != null)
+			{
+				pw.close();
+			}
+		}
+	}*/
+
+	/*public static void writeToFileAllUniversities(ArrayList<Student> students, PrintWriter pw) //writes all student objects universities to a text file in alphabetical order to see how many of one university shows up
+	{
+		try
+		{
+			pw = new PrintWriter("originalWay.txt");
+			for(Student b : students)
+			{
+				pw.println(b.shit());
+			}
+		}catch(Exception e)
+		{
+			System.out.println("Error: " + e.getMessage());
+		}finally
+		{
+			if(pw != null)
+			{
+				pw.close();
+			}
+		}
+	}*/
+
+	public static ArrayList<String> getListOfUniversitiesWithMoreThan1Student(ArrayList<Student> students)
 	{
 		ArrayList <String> listOfUniversities = new ArrayList<String>(); //contains list of universities with more than one student
 		int counter = 0; //counts how many instances a certain university shows up in a list of students
@@ -269,7 +312,7 @@ public class Tester
 		}
 
 		return listOfUniversities;
-	}*/
+	}
 
 	public static void main(String args[])
 	{
@@ -278,7 +321,7 @@ public class Tester
 		ArrayList<String> listOfUniversities = null; //contains a list of universities with more than one student in the given list
 		Student s = null;
 		RandomAccessFile raf = null;
-		PrintWriter pw = null;
+		//PrintWriter pw = null;
 		String specificName = "Harbron Louella";
 
 		try
@@ -309,6 +352,10 @@ public class Tester
 		//writeToFile(listOfStudents, pw, 1);
 		Collections.sort(listOfStudents);
 		//writeToFile(listOfStudents, pw, 2);
+
+		//writeToFileAllUniversities(listOfStudents, pw);
+		//listOfUniversities = getListOfUniversitiesWithMoreThan1Student(listOfStudents);
+		//writeToFileUniversity(listOfUniversities, pw);
 
 		/*System.out.printf("%s \t %.2f \n", "Average Male GPA: ", averageGPAForAllMaleStudents(listOfStudents));
 		System.out.printf("%s \t %.2f \n", "Average Female GPA: ", averageGPAForAllFemaleStudents(listOfStudents));
