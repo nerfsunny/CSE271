@@ -266,8 +266,8 @@ public class Student implements Comparable<Student>
 		this(output.split("\t"));
 	}
 
-	/*public Student(RandomAccessFile r)
+	public Student(RandomAccessFile r) throws Exception
 	{
 		this(r.readLine());
-	}*/
+	}
 }

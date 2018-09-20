@@ -53,7 +53,7 @@ public class Tester
 
 		for(Student s : students)
 		{
-			if(s.getYearInSchool().equalsIgnoreCase("freshman"));
+			if(s.getYearInSchool().equalsIgnoreCase("freshman"))
 			{
 				gpa = gpa + s.getGPA();
 				freshman++;
@@ -70,7 +70,7 @@ public class Tester
 
 		for(Student s : students)
 		{
-			if(s.getYearInSchool().equalsIgnoreCase("sophomore"));
+			if(s.getYearInSchool().equalsIgnoreCase("sophomore"))
 			{
 				gpa = gpa + s.getGPA();
 				sophomore++;
@@ -87,7 +87,7 @@ public class Tester
 
 		for(Student s : students)
 		{
-			if(s.getYearInSchool().equalsIgnoreCase("junior"));
+			if(s.getYearInSchool().equalsIgnoreCase("junior"))
 			{
 				gpa = gpa + s.getGPA();
 				junior++;
@@ -104,7 +104,7 @@ public class Tester
 
 		for(Student s : students)
 		{
-			if(s.getYearInSchool().equalsIgnoreCase("senior"));
+			if(s.getYearInSchool().equalsIgnoreCase("senior"))
 			{
 				gpa = gpa + s.getGPA();
 				senior++;
@@ -121,7 +121,7 @@ public class Tester
 
 		for(Student s : students)
 		{
-			if(s.getYearInSchool().equalsIgnoreCase("graduate student"));
+			if(s.getYearInSchool().equalsIgnoreCase("graduate student"))
 			{
 				gpa = gpa + s.getGPA();
 				graduateStudent++;
@@ -356,7 +356,7 @@ public class Tester
 
 			while(raf.getFilePointer() < raf.length())
 			{
-				s = new Student(raf.readLine());
+				s = new Student(raf);
 				listOfStudents.add(s);
 			}
 		} catch(Exception e)
