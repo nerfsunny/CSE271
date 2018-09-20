@@ -2,7 +2,7 @@ package people;
 import java.security.InvalidParameterException;
 import java.io.*;
 
-public class Student
+public class Student implements Comparable<Student>
 {
 	//Initiallizing necessary variables for Students
 	private String firstName, lastName, gender, username, password, university, email, yearInSchool, city, state, phoneNumber;
@@ -156,11 +156,11 @@ public class Student
 	@Override
 	public String toString()
 	{
-		return "City: " + city 
-			 + " State: " + state
-			 + " Zip: " + zip 
-			 + " University " + university
-			 + " Student Last's Name: " + lastName; 
+		return city + " " 
+			 + state + " "
+			 + zip + " "
+			 + university + " "
+			 + lastName; 
 	}
 
 	@Override
@@ -188,11 +188,17 @@ public class Student
 				zip == s.getZip();
 	}
 
-	public String allData()
+	@Override
+	public int compareTo(Student s)
+	{
+		return this.toString().compareTo(s.toString());
+	}
+
+	/*public String allData()
 	{
 		return "Student: " + firstName + " " + lastName + " Gender: " + gender + " University: " + university + " Year: " + yearInSchool + " Student's GPA: " + currentGPA + 
 		" City: " + city + " State: " + state + " Zip Code: " + zip + " Phone Number: " + phoneNumber + " Email: " + email + " Username: " + username + " Password: " + password;
-	}
+	}*/
 
 	//default constructor (left empty)
 	public Student()
