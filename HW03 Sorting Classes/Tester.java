@@ -193,7 +193,8 @@ public class Tester
 		{
 			System.out.println(university);
 			System.out.printf("%s %.2f %s %.2f \n \n", "Average Male GPA:", scores.get(counter), "Average Female GPA:", scores.get(counter+1));
-			counter++;
+			counter = counter + 2;
 		}
+		
 	}
 }
