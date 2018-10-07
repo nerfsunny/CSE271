@@ -13,6 +13,9 @@ public class Tester
 {
 	public static void main(String args[])
 	{
-		System.out.println("Hello World!");
+		ArrayList<RPGCharacter> list = new ArrayList<RPGCharacter>();
+		RPGCharacter test = new Knight("Bob");
+		//test.quickGenerate();
+		//list.add(test);
 	}
 }
