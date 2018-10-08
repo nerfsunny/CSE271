@@ -36,6 +36,7 @@ public abstract class RPGCharacter
 	/*public abstract void run();
 	public abstract void walk();
 	public abstract void stop();
-	public abstract void talk();
-	public abstract void quickGenerate();*/
+	public abstract void talk();*/
+	public abstract void quickGenerate();
+	public abstract String sortCharacters();
 }

@@ -3,17 +3,19 @@ package characterClasses;
 import java.security.*;
 import java.util.*;
 
-public class Knight extends CombatCharacter //implements Comparable<RPGCharacter>
+public class Knight extends CombatCharacter implements Comparable<RPGCharacter>
 {
+	//Variables for the object
 	private String characterClass;
 	private int level, totalExperience, strength, dexterity, charisma, speed;
 
-	//Workhorse constructor
+	//Constructors
 	public Knight(String name)
 	{
 		super(name);
 	}
 
+	//Workhorse
 	public Knight(String name, int level, int totalExperience, int strength, int dexterity, int charisma, int speed)
 	{
 		super(name);
@@ -26,6 +28,16 @@ public class Knight extends CombatCharacter //implements Comparable<RPGCharacter
 		setSpeed(speed);
 	}
 
+	public Knight clone()
+	{
+		return new Knight(this);
+	}
+
+	public Knight(Knight k)
+	{
+		this(k.getName(), k.getLevel(), k.getTotalExperience(), k.getStrength(), k.getDexterity(), k.getCharisma(), k.getSpeed());
+	}
+
 	//Getter's and Setter's
 	private void setCharacterClass()
 	{
@@ -34,7 +46,7 @@ public class Knight extends CombatCharacter //implements Comparable<RPGCharacter
 
 	public void setLevel(int l)
 	{
-		if(l <= 0 && l >= 100)
+		if(l > 0 && l <= 25)
 		{
 			level = l;
 		}else
@@ -104,27 +116,16 @@ public class Knight extends CombatCharacter //implements Comparable<RPGCharacter
 	}
 
 	//Methods
-	public void quickGenerate(String name)
-	{
-		Random number = new Random();
-		setName(name);
-		setLevel(number.nextInt(10) + 1);
-		setTotalExperience(number.nextInt(100) + 1);
-		setStrength(number.nextInt(20) + 1);
-		setDexterity(number.nextInt(15) + 1);
-		setCharisma(number.nextInt(10) + 1);
-		setSpeed(number.nextInt(10) + 1);
-	}
-
 	public void quickGenerate()
 	{
 		Random number = new Random();
-		setLevel(number.nextInt(10) + 1);
+		setCharacterClass();
+		setLevel(number.nextInt(20) + 1);
 		setTotalExperience(number.nextInt(100) + 1);
 		setStrength(number.nextInt(20) + 1);
-		setDexterity(number.nextInt(15) + 1);
-		setCharisma(number.nextInt(10) + 1);
-		setSpeed(number.nextInt(10) + 1);
+		setDexterity(number.nextInt(20) + 1);
+		setCharisma(number.nextInt(20) + 1);
+		setSpeed(number.nextInt(15) + 1);
 	}
 
 	public void defaultStats(String name)
@@ -138,27 +139,38 @@ public class Knight extends CombatCharacter //implements Comparable<RPGCharacter
 		setSpeed(1);
 	}
 
-	public String sort()
+	//Action classes
+	public void run()
 	{
-		return characterClass  + " " + 
-			   getName() 	   + " " +
-			   level 		   + " " +
-			   totalExperience;
+		Random number = new Random();
+
+		if(number.nextInt(2) == 1)
+		{
+
+		}
 	}
 
-	//Overriden Methods
+	public void fight(RPGCharacter x)
+	{
+		if(!(x instanceof CombatCharacter))
+		{
+
+		}
+	}
+
+	//Override Methods
 	@Override
 	public String toString()
 	{
 		return  "Character's Name: "  + getName()  +
-				"Character's Class: " + characterClass + 
-				"Character's Level: " + level + 
-				"Character's Life Points: " + getLifePoints() +
-				"Character's Strenght Stat: " + strength +
-				"Character's Dexterity Stat: " + dexterity +
-				"Character's Charisma: " + charisma + 
-				"Character's Speed: " + speed +
-				"Character's Total Experience: " + totalExperience;
+			   " Character's Class: " + characterClass + 
+			   " Character's Level: " + level + 
+			   " Character's Life Points: " + getLifePoints() +
+			   " Character's Strenght Stat: " + strength +
+			   " Character's Dexterity Stat: " + dexterity +
+			   " Character's Charisma: " + charisma + 
+			   " Character's Speed: " + speed +
+			   " Character's Total Experience: " + totalExperience;
 	}
 
 	@Override
@@ -182,9 +194,18 @@ public class Knight extends CombatCharacter //implements Comparable<RPGCharacter
 			   totalExperience == x.getTotalExperience();
 	}
 
-	/*@Override
+	@Override
+	public String sortCharacters()
+	{
+		return characterClass  + " " + 
+			   getName() 	   + " " +
+			   level 		   + " " +
+			   totalExperience;
+	}
+
+	@Override
 	public int compareTo(RPGCharacter x)
 	{
 		return this.sort().compareTo(x.sort());
-	}*/
+	}
 }
