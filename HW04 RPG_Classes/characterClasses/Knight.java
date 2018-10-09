@@ -3,16 +3,21 @@ package characterClasses;
 import java.security.*;
 import java.util.*;
 
-public class Knight extends CombatCharacter implements Comparable<RPGCharacter>
+public class Knight extends CombatCharacter
 {
 	//Variables for the object
 	private String characterClass;
 	private int level, totalExperience, strength, dexterity, charisma, speed;
+	//private int experienceGained;
+
+	private int level0, totalExperience0, strength0, dexterity0, charisma0, speed0;
 
 	//Constructors
 	public Knight(String name)
 	{
 		super(name);
+		quickGenerate();
+
 	}
 
 	//Workhorse
@@ -20,6 +25,8 @@ public class Knight extends CombatCharacter implements Comparable<RPGCharacter>
 	{
 		super(name);
 		setCharacterClass();
+		//setExperienceGained();
+		setDefaultStats();
 		setLevel(level);
 		setTotalExperience(totalExperience);
 		setStrength(strength);
@@ -43,6 +50,11 @@ public class Knight extends CombatCharacter implements Comparable<RPGCharacter>
 	{
 		characterClass = "Knight";
 	}
+
+	/*private void setExperienceGained()
+	{
+		experienceGained = 0;
+	}*/
 
 	public void setLevel(int l)
 	{
@@ -115,11 +127,23 @@ public class Knight extends CombatCharacter implements Comparable<RPGCharacter>
 		return speed;
 	}
 
+	public void setDefaultStats()
+	{
+		level0 = level;
+		totalExperience0 = totalExperience;
+		strength0 = strength;
+		dexterity0 = dexterity;
+		charisma0 = charisma;
+		speed0 = speed;
+	}
+
 	//Methods
 	public void quickGenerate()
 	{
 		Random number = new Random();
 		setCharacterClass();
+		setDefaultStats();
+		//setExperienceGained();
 		setLevel(number.nextInt(20) + 1);
 		setTotalExperience(number.nextInt(100) + 1);
 		setStrength(number.nextInt(20) + 1);
@@ -131,46 +155,133 @@ public class Knight extends CombatCharacter implements Comparable<RPGCharacter>
 	public void defaultStats(String name)
 	{
 		setName(name);
-		setLevel(1);
-		setTotalExperience(0);
-		setStrength(1);
-		setDexterity(1);
-		setCharisma(1);
-		setSpeed(1);
+		setLevel(level0);
+		setTotalExperience(totalExperience0);
+		setStrength(strength0);
+		setDexterity(dexterity0);
+		setCharisma(charisma0);
+		setSpeed(speed0);
 	}
 
 	//Action classes
-	public void run()
+	public void run() //checks if the character is able to run away from the enemy
 	{
-		Random number = new Random();
+		setSpeed(speed0);
+		setSpeed(speed0 + 2);
+	}
 
-		if(number.nextInt(2) == 1)
+	public void walk()
+	{
+		setSpeed(speed0);
+		setSpeed(speed0 - 2);
+	}
+
+	public void stop() //the character cannot move
+	{
+		setSpeed(speed0);
+		speed = 0;
+	}
+
+	public boolean talk(RPGCharacter x)
+	{
+		boolean ret = false;
+
+		if(this.getCharisma() > x.getCharisma())
 		{
+			ret = true;
+		}else
+		if(x.getCharisma() > this.getCharisma())
+		{
+			ret = false;
+		}
 
+		return ret;
+	}
+
+	public void fight(RPGCharacter x) //allows two character objects to fight each other
+	{
+		if(x instanceof NonCombatCharacter)
+		{
+			x.setLifePoints(0);
+		}else
+		{
+			RPGCharacter player1 = null;
+			RPGCharacter player2 = null;
+			//RPGCharacter buffer = null;
+
+			if(this.getSpeed() > x.getSpeed())
+			{
+				player1 = new Knight(this);
+				player2 = x;
+			}else
+			{
+				player1 = x;
+				player2 = new Knight(this);
+			}
+
+			/*if(player1.getCharacterClass().equalsIgnoreCase("Knight"))
+			{
+				buffer = player1;
+			}else
+			if(player2.getCharacterClass().equalsIgnoreCase("Knight"))
+			{
+				buffer = player2;
+			}*/
+
+			while(/*buffer.getLifePoints() > 0*/ true)
+			{
+				player2.setLifePoints(player2.getLifePoints() - player1.getStrength());
+
+				if(player2.getLifePoints() <= 0)
+				{
+					break;
+				}
+
+				player1.setLifePoints(player1.getLifePoints() - player2.getStrength());
+
+				if(player1.getLifePoints() <= 0)
+				{
+					break;
+				}
+			}
+
+			if( (player2.getCharacterClass().equalsIgnoreCase("Knight") && player2.getLifePoints() <= 0) || (player1.getCharacterClass().equalsIgnoreCase("Knight") && player1.getLifePoints() <= 0))
+			{
+				this.setLifePoints(0);
+			}else
+			{
+				x.setLifePoints(0);
+				this.setLifePoints(100);
+				//increaseStats(x);
+			}
 		}
 	}
 
-	public void fight(RPGCharacter x)
+	/*public void increaseStats(RPGCharacter x)
 	{
-		if(!(x instanceof CombatCharacter))
+		experienceGained = experienceGained + |this.getLevel() - x.getLevel()| + |this.getTotalExperience() - x.getTotalExperience()|
+
+		if(experienceGained >= 50)
 		{
 
 		}
-	}
+	}*/
 
 	//Override Methods
 	@Override
 	public String toString()
 	{
-		return  "Character's Name: "  + getName()  +
-			   " Character's Class: " + characterClass + 
-			   " Character's Level: " + level + 
-			   " Character's Life Points: " + getLifePoints() +
-			   " Character's Strenght Stat: " + strength +
-			   " Character's Dexterity Stat: " + dexterity +
-			   " Character's Charisma: " + charisma + 
-			   " Character's Speed: " + speed +
-			   " Character's Total Experience: " + totalExperience;
+		return " Character's Name: "  + getName()  + "\n" +
+			   " Character's Class: " + characterClass + "\n" +
+			   " Character's Level: " + level + "\n" +
+			   " Character's Life Points: " + getLifePoints() + "\n" +
+			   " Character's Status: " + battleStatus() + "\n" +
+			   " Character's Strenght Stat: " + strength + "\n" +
+			   " Character's Dexterity Stat: " + dexterity + "\n" +
+			   " Character's Charisma: " + charisma + "\n" +
+			   " Character's Speed: " + speed + "\n" +
+			   " Character's Total Experience: " + totalExperience + "\n" +
+			   " Character's Battle Tally: " + getBattlesWon();
 	}
 
 	@Override
@@ -192,20 +303,5 @@ public class Knight extends CombatCharacter implements Comparable<RPGCharacter>
 			   charisma == x.getCharisma()								    &&
 			   speed == x.getCharisma()					 				    &&
 			   totalExperience == x.getTotalExperience();
-	}
-
-	@Override
-	public String sortCharacters()
-	{
-		return characterClass  + " " + 
-			   getName() 	   + " " +
-			   level 		   + " " +
-			   totalExperience;
-	}
-
-	@Override
-	public int compareTo(RPGCharacter x)
-	{
-		return this.sort().compareTo(x.sort());
 	}
 }

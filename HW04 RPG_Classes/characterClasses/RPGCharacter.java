@@ -32,11 +32,33 @@ public abstract class RPGCharacter
 		return lifePoints;
 	}
 
+	public void setLifePointsToZero()
+	{
+		lifePoints = 0;
+	}
+
+	public String battleStatus()
+	{
+		if(lifePoints <= 0)
+		{
+			return "Dead";
+		}
+
+		return "Alive";
+	}
+
 	//Abstract Methods to be implemented in the child classes
-	/*public abstract void run();
+	public abstract void run();
 	public abstract void walk();
 	public abstract void stop();
-	public abstract void talk();*/
+	public abstract boolean talk(RPGCharacter x);
+	public abstract void fight(RPGCharacter x);
 	public abstract void quickGenerate();
-	public abstract String sortCharacters();
+	public abstract int getLevel();
+	public abstract int getSpeed();
+	public abstract int getDexterity();
+	public abstract int getCharisma();
+	public abstract int getStrength();
+	public abstract String getCharacterClass();
+	public abstract void increaseBattleCount();
 }

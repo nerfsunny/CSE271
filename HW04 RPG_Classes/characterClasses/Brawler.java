@@ -3,7 +3,7 @@ package characterClasses;
 import java.security.*;
 import java.util.*;
 
-public class Wizard extends CombatCharacter
+public class Brawler extends CombatCharacter
 {
 	//Variables for the object
 	private String characterClass;
@@ -13,7 +13,7 @@ public class Wizard extends CombatCharacter
 	private int level0, totalExperience0, strength0, dexterity0, charisma0, speed0;
 
 	//Constructors
-	public Wizard(String name)
+	public Brawler(String name)
 	{
 		super(name);
 		quickGenerate();
@@ -21,7 +21,7 @@ public class Wizard extends CombatCharacter
 	}
 
 	//Workhorse
-	public Wizard(String name, int level, int totalExperience, int strength, int dexterity, int charisma, int speed)
+	public Brawler(String name, int level, int totalExperience, int strength, int dexterity, int charisma, int speed)
 	{
 		super(name);
 		setCharacterClass();
@@ -35,12 +35,12 @@ public class Wizard extends CombatCharacter
 		setSpeed(speed);
 	}
 
-	public Wizard clone()
+	public Brawler clone()
 	{
-		return new Wizard(this);
+		return new Brawler(this);
 	}
 
-	public Wizard(Wizard k)
+	public Brawler(Brawler k)
 	{
 		this(k.getName(), k.getLevel(), k.getTotalExperience(), k.getStrength(), k.getDexterity(), k.getCharisma(), k.getSpeed());
 	}
@@ -48,7 +48,7 @@ public class Wizard extends CombatCharacter
 	//Getter's and Setter's
 	private void setCharacterClass()
 	{
-		characterClass = "Wizard";
+		characterClass = "Brawler";
 	}
 
 	/*private void setExperienceGained()
@@ -147,8 +147,8 @@ public class Wizard extends CombatCharacter
 		setLevel(number.nextInt(20) + 1);
 		setTotalExperience(number.nextInt(100) + 1);
 		setStrength(number.nextInt(20) + 1);
-		setDexterity(number.nextInt(15) + 1);
-		setCharisma(number.nextInt(25) + 1);
+		setDexterity(number.nextInt(17) + 1);
+		setCharisma(number.nextInt(13) + 1);
 		setSpeed(number.nextInt(15) + 1);
 	}
 
@@ -211,19 +211,19 @@ public class Wizard extends CombatCharacter
 
 			if(this.getSpeed() > x.getSpeed())
 			{
-				player1 = new Wizard(this);
+				player1 = new Brawler(this);
 				player2 = x;
 			}else
 			{
 				player1 = x;
-				player2 = new Wizard(this);
+				player2 = new Brawler(this);
 			}
 
-			/*if(player1.getCharacterClass().equalsIgnoreCase("Wizard"))
+			/*if(player1.getCharacterClass().equalsIgnoreCase("Brawler"))
 			{
 				buffer = player1;
 			}else
-			if(player2.getCharacterClass().equalsIgnoreCase("Wizard"))
+			if(player2.getCharacterClass().equalsIgnoreCase("Brawler"))
 			{
 				buffer = player2;
 			}*/
@@ -245,7 +245,7 @@ public class Wizard extends CombatCharacter
 				}
 			}
 
-			if( (player2.getCharacterClass().equalsIgnoreCase("Wizard") && player2.getLifePoints() <= 0) || (player1.getCharacterClass().equalsIgnoreCase("Wizard") && player1.getLifePoints() <= 0))
+			if( (player2.getCharacterClass().equalsIgnoreCase("Brawler") && player2.getLifePoints() <= 0) || (player1.getCharacterClass().equalsIgnoreCase("Brawler") && player1.getLifePoints() <= 0))
 			{
 				this.setLifePoints(0);
 			}else
@@ -287,12 +287,12 @@ public class Wizard extends CombatCharacter
 	@Override
 	public boolean equals(Object obj)
 	{
-		if(!(obj instanceof Wizard))
+		if(!(obj instanceof Brawler))
 		{
 			return false;
 		}
 
-		Wizard x = (Wizard) obj;
+		Brawler x = (Brawler) obj;
 
 		return characterClass.equalsIgnoreCase(x.getCharacterClass())       &&
 			   getName().equalsIgnoreCase(x.getName())        				&&

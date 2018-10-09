@@ -3,7 +3,7 @@ package characterClasses;
 import java.security.*;
 import java.util.*;
 
-public class Wizard extends CombatCharacter
+public class BlackSmith extends NonCombatCharacter
 {
 	//Variables for the object
 	private String characterClass;
@@ -13,7 +13,7 @@ public class Wizard extends CombatCharacter
 	private int level0, totalExperience0, strength0, dexterity0, charisma0, speed0;
 
 	//Constructors
-	public Wizard(String name)
+	public BlackSmith(String name)
 	{
 		super(name);
 		quickGenerate();
@@ -21,7 +21,7 @@ public class Wizard extends CombatCharacter
 	}
 
 	//Workhorse
-	public Wizard(String name, int level, int totalExperience, int strength, int dexterity, int charisma, int speed)
+	public BlackSmith(String name, int level, int totalExperience, int strength, int dexterity, int charisma, int speed)
 	{
 		super(name);
 		setCharacterClass();
@@ -35,12 +35,12 @@ public class Wizard extends CombatCharacter
 		setSpeed(speed);
 	}
 
-	public Wizard clone()
+	public BlackSmith clone()
 	{
-		return new Wizard(this);
+		return new BlackSmith(this);
 	}
 
-	public Wizard(Wizard k)
+	public BlackSmith(BlackSmith k)
 	{
 		this(k.getName(), k.getLevel(), k.getTotalExperience(), k.getStrength(), k.getDexterity(), k.getCharisma(), k.getSpeed());
 	}
@@ -48,7 +48,7 @@ public class Wizard extends CombatCharacter
 	//Getter's and Setter's
 	private void setCharacterClass()
 	{
-		characterClass = "Wizard";
+		characterClass = "BlackSmith";
 	}
 
 	/*private void setExperienceGained()
@@ -144,12 +144,12 @@ public class Wizard extends CombatCharacter
 		setCharacterClass();
 		setDefaultStats();
 		//setExperienceGained();
-		setLevel(number.nextInt(20) + 1);
+		setLevel(number.nextInt(15) + 1);
 		setTotalExperience(number.nextInt(100) + 1);
-		setStrength(number.nextInt(20) + 1);
-		setDexterity(number.nextInt(15) + 1);
-		setCharisma(number.nextInt(25) + 1);
-		setSpeed(number.nextInt(15) + 1);
+		setStrength(number.nextInt(22) + 1);
+		setDexterity(number.nextInt(22) + 1);
+		setCharisma(number.nextInt(5) + 1);
+		setSpeed(number.nextInt(8) + 1);
 	}
 
 	public void defaultStats(String name)
@@ -200,60 +200,56 @@ public class Wizard extends CombatCharacter
 
 	public void fight(RPGCharacter x) //allows two character objects to fight each other
 	{
-		if(x instanceof NonCombatCharacter)
+		RPGCharacter player1 = null;
+		RPGCharacter player2 = null;
+		//RPGCharacter buffer = null;
+
+		if(this.getSpeed() > x.getSpeed())
 		{
-			x.setLifePoints(0);
+			player1 = new BlackSmith(this);
+			player2 = x;
 		}else
 		{
-			RPGCharacter player1 = null;
-			RPGCharacter player2 = null;
-			//RPGCharacter buffer = null;
+			player1 = x;
+			player2 = new BlackSmith(this);
+		}
 
-			if(this.getSpeed() > x.getSpeed())
+		/*if(player1.getCharacterClass().equalsIgnoreCase("BlackSmith"))
+		{
+			buffer = player1;
+		}else
+		if(player2.getCharacterClass().equalsIgnoreCase("BlackSmith"))
+		{
+			buffer = player2;
+		}*/
+
+		while(/*buffer.getLifePoints() > 0*/ true)
+		{
+			player2.setLifePoints(player2.getLifePoints() - player1.getStrength());
+			//System.out.println(player2.getCharacterClass() + " " + player2.getLifePoints());
+
+			if(player2.getLifePoints() <= 0)
 			{
-				player1 = new Wizard(this);
-				player2 = x;
-			}else
-			{
-				player1 = x;
-				player2 = new Wizard(this);
+				break;
 			}
 
-			/*if(player1.getCharacterClass().equalsIgnoreCase("Wizard"))
+			player1.setLifePoints(player1.getLifePoints() - player2.getStrength());
+			//System.out.println(player1.getCharacterClass() + " " + player1.getLifePoints());
+		
+			if(player1.getLifePoints() <= 0)
 			{
-				buffer = player1;
-			}else
-			if(player2.getCharacterClass().equalsIgnoreCase("Wizard"))
-			{
-				buffer = player2;
-			}*/
-
-			while(/*buffer.getLifePoints() > 0*/ true)
-			{
-				player2.setLifePoints(player2.getLifePoints() - player1.getStrength());
-
-				if(player2.getLifePoints() <= 0)
-				{
-					break;
-				}
-
-				player1.setLifePoints(player1.getLifePoints() - player2.getStrength());
-
-				if(player1.getLifePoints() <= 0)
-				{
-					break;
-				}
+				break;
 			}
+		}
 
-			if( (player2.getCharacterClass().equalsIgnoreCase("Wizard") && player2.getLifePoints() <= 0) || (player1.getCharacterClass().equalsIgnoreCase("Wizard") && player1.getLifePoints() <= 0))
-			{
-				this.setLifePoints(0);
-			}else
-			{
-				x.setLifePoints(0);
-				this.setLifePoints(100);
-				//increaseStats(x);
-			}
+		if( (player2.getCharacterClass().equalsIgnoreCase("BlackSmith") && player2.getLifePoints() <= 0) || (player1.getCharacterClass().equalsIgnoreCase("BlackSmith") && player1.getLifePoints() <= 0))
+		{
+			this.setLifePoints(0);
+		}else
+		{
+			x.setLifePoints(0);
+			this.setLifePoints(100);
+			//increaseStats(x);
 		}
 	}
 
@@ -273,7 +269,7 @@ public class Wizard extends CombatCharacter
 	{
 		return " Character's Name: "  + getName()  + "\n" +
 			   " Character's Class: " + characterClass + "\n" +
-			   " Character's Level: " + level + "\n" +
+			   " Character's Level: " + level + "\n" + 
 			   " Character's Life Points: " + getLifePoints() + "\n" +
 			   " Character's Status: " + battleStatus() + "\n" +
 			   " Character's Strenght Stat: " + strength + "\n" +
@@ -281,18 +277,18 @@ public class Wizard extends CombatCharacter
 			   " Character's Charisma: " + charisma + "\n" +
 			   " Character's Speed: " + speed + "\n" +
 			   " Character's Total Experience: " + totalExperience + "\n" +
-			   " Character's Battle Tally: " + getBattlesWon();
+			   " Character's Murder Tally: " + getPeopleMurdered();
 	}
 
 	@Override
 	public boolean equals(Object obj)
 	{
-		if(!(obj instanceof Wizard))
+		if(!(obj instanceof BlackSmith))
 		{
 			return false;
 		}
 
-		Wizard x = (Wizard) obj;
+		BlackSmith x = (BlackSmith) obj;
 
 		return characterClass.equalsIgnoreCase(x.getCharacterClass())       &&
 			   getName().equalsIgnoreCase(x.getName())        				&&

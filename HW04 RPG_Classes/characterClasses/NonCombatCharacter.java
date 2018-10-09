@@ -20,15 +20,21 @@ public abstract class NonCombatCharacter extends RPGCharacter
 		return peopleMurdered;
 	}
 
-	public void increaseKillCount()
+	public void increaseBattleCount()
 	{
 		peopleMurdered++;
 	}
 
-	//public abstract void run();
-	//public abstract void walk();
-	//public abstract void stop();
-	//public abstract void talk();
-	//public abstract void fight();
-	//public abstract void quickGenerate();
+	public abstract void run();
+	public abstract void walk();
+	public abstract void stop();
+	public abstract boolean talk(RPGCharacter x);
+	public abstract void fight(RPGCharacter x);
+	public abstract void quickGenerate();
+	public abstract int getLevel();
+	public abstract int getSpeed();
+	public abstract int getDexterity();
+	public abstract int getCharisma();
+	public abstract int getStrength();
+	public abstract String getCharacterClass();
 }
