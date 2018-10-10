@@ -1,0 +1,1000 @@
+athleteID:692e9c6f-47ef-487b-bdfa-ad4d342337bc,athleteName:Jan Agus,athleteBornIn:Pennsylvania,age:35,teamName:Philadelphia Eagles,yearsOnTeam:2,salary:$5021159.87,currentlyInjured:FALSE
+athleteID:3da1762e-3a77-4d05-8c9d-0b830825a30f,athleteName:Mahala Sutcliff,athleteBornIn:Texas,age:31,teamName:Detroit Lions,yearsOnTeam:5,salary:$6181049.95,currentlyInjured:TRUE
+athleteID:85da6bad-48bd-4bd8-85bb-61970e1f53eb,athleteName:Wandie Burbage,athleteBornIn:Texas,age:25,teamName:Atlanta Falcons,yearsOnTeam:4,salary:$5622014.99,currentlyInjured:FALSE
+athleteID:03bb8185-9bed-408b-91a2-ca831f70bf42,athleteName:Barton Rawes,athleteBornIn:Texas,age:32,teamName:Chicago Bears,yearsOnTeam:2,salary:$7494420.16,currentlyInjured:TRUE
+athleteID:5b83cbf6-3bac-4c43-9a79-869936a86998,athleteName:Gan Mapam,athleteBornIn:Massachusetts,age:20,teamName:Tampa Bay Buccaneers,yearsOnTeam:6,salary:$2603663.37,currentlyInjured:FALSE
+athleteID:e9f3070f-85e8-419e-b32e-11ba52a62e70,athleteName:Dacey Rogans,athleteBornIn:Texas,age:24,teamName:New Orleans Saints,yearsOnTeam:1,salary:$5883499.87,currentlyInjured:TRUE
+athleteID:4a367fde-78e1-4186-a3fa-d53bdfd733cd,athleteName:Michel Klyn,athleteBornIn:New Jersey,age:26,teamName:Arizona Cardinals,yearsOnTeam:5,salary:$3286486.22,currentlyInjured:TRUE
+athleteID:deaad46f-d48e-4f21-984c-3165c55196b4,athleteName:Ardelle Huske,athleteBornIn:Texas,age:29,teamName:Minnesota Vikings,yearsOnTeam:1,salary:$4898607.7,currentlyInjured:TRUE
+athleteID:37a36343-eaf4-4835-8ded-16891f067944,athleteName:Bradford Huddle,athleteBornIn:Oregon,age:26,teamName:Los Angeles Chargers,yearsOnTeam:6,salary:$4553782.65,currentlyInjured:TRUE
+athleteID:458dfc2c-0fbb-4e96-85cf-8b126b429e00,athleteName:Karrah Collingdon,athleteBornIn:Alabama,age:28,teamName:Los Angeles Rams,yearsOnTeam:3,salary:$4100303.24,currentlyInjured:TRUE
+athleteID:d8910c41-9ad7-4dab-bda7-b687d6739b3a,athleteName:Dreddy Danes,athleteBornIn:Texas,age:23,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$7016653.17,currentlyInjured:TRUE
+athleteID:ca56f66e-8ee6-48e4-8303-10f05ae88f38,athleteName:Ajay Mainland,athleteBornIn:Pennsylvania,age:29,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$2466959.62,currentlyInjured:FALSE
+athleteID:adc917af-6e7c-4d5f-b286-3a635cfb39e1,athleteName:Gregoor Brahams,athleteBornIn:California,age:23,teamName:Indianapolis Colts,yearsOnTeam:1,salary:$2018134.47,currentlyInjured:FALSE
+athleteID:3ebf1c76-c1be-45e3-a1cc-f0ecaa417b6a,athleteName:Lotty Danilishin,athleteBornIn:Utah,age:26,teamName:Tampa Bay Buccaneers,yearsOnTeam:5,salary:$7150297.6,currentlyInjured:FALSE
+athleteID:b8f1a27e-e8d1-482b-9810-8c3ed0d4a68a,athleteName:Alta Vasic,athleteBornIn:Florida,age:29,teamName:Chicago Bears,yearsOnTeam:1,salary:$939257.64,currentlyInjured:TRUE
+athleteID:ef152fa4-813c-4b5f-929c-ac163ddd3a2f,athleteName:Dilly Pinnijar,athleteBornIn:Tennessee,age:22,teamName:Miami Dolphins,yearsOnTeam:1,salary:$5867394.07,currentlyInjured:TRUE
+athleteID:f5b1df5d-3057-425a-80fd-925b7683dc51,athleteName:Lucien Mathivat,athleteBornIn:California,age:34,teamName:Buffalo Bills,yearsOnTeam:4,salary:$1186436.14,currentlyInjured:TRUE
+athleteID:baccbc55-3454-49ce-a72d-b10b4f57b37e,athleteName:Andromache Turn,athleteBornIn:Illinois,age:27,teamName:New York Jets,yearsOnTeam:4,salary:$7130305.87,currentlyInjured:FALSE
+athleteID:2019e4a5-330b-4c09-befc-dc52a0b86aba,athleteName:Charlean Mulhall,athleteBornIn:Ohio,age:23,teamName:Arizona Cardinals,yearsOnTeam:1,salary:$4523996.6,currentlyInjured:FALSE
+athleteID:35cda2ad-43a7-4060-8ebf-d3dee86c685e,athleteName:Murvyn Lavens,athleteBornIn:Louisiana,age:22,teamName:Cleveland Browns,yearsOnTeam:2,salary:$4643727.7,currentlyInjured:FALSE
+athleteID:ccc64080-d20a-41bc-aaf4-a0e99150c3f9,athleteName:Lennard Abbatucci,athleteBornIn:Wisconsin,age:23,teamName:Houston Texans,yearsOnTeam:5,salary:$5839926.35,currentlyInjured:TRUE
+athleteID:8d49a256-0657-4f6e-9041-4054f2cabcc6,athleteName:Elly Petranek,athleteBornIn:Maryland,age:19,teamName:Atlanta Falcons,yearsOnTeam:3,salary:$1351144.99,currentlyInjured:FALSE
+athleteID:89b530f0-8185-4dc5-a185-eb5a70422666,athleteName:Keelby Bows,athleteBornIn:North Dakota,age:25,teamName:Oakland Raiders,yearsOnTeam:2,salary:$1931468.2,currentlyInjured:FALSE
+athleteID:9473a9ac-234d-4326-86ff-34b677a98b0a,athleteName:Sauveur Siviour,athleteBornIn:California,age:22,teamName:New Orleans Saints,yearsOnTeam:4,salary:$658238.92,currentlyInjured:TRUE
+athleteID:89a70a45-eee4-4f99-a9b4-271d8202ed1e,athleteName:Crosby Philipart,athleteBornIn:Massachusetts,age:31,teamName:Houston Texans,yearsOnTeam:1,salary:$3360484.46,currentlyInjured:FALSE
+athleteID:0803ed1d-444f-4067-966b-3ec2b03307ae,athleteName:Basilius Surgison,athleteBornIn:Georgia,age:35,teamName:Miami Dolphins,yearsOnTeam:1,salary:$1905824.76,currentlyInjured:TRUE
+athleteID:6758a6d4-da76-411c-a534-f59128259ff5,athleteName:Nilson Jeste,athleteBornIn:New York,age:30,teamName:Minnesota Vikings,yearsOnTeam:4,salary:$1033668.09,currentlyInjured:FALSE
+athleteID:6d6a4702-0033-4a84-99bf-96dcdd520667,athleteName:Bronny Simmans,athleteBornIn:California,age:25,teamName:Houston Texans,yearsOnTeam:2,salary:$6028989.43,currentlyInjured:TRUE
+athleteID:929b581a-b350-4e21-b1ca-29c8c7ad096a,athleteName:Filberte Kinneally,athleteBornIn:North Carolina,age:27,teamName:New Orleans Saints,yearsOnTeam:6,salary:$7647676.82,currentlyInjured:FALSE
+athleteID:8caabc70-1c11-410d-ac3d-d1ce3002b78d,athleteName:Hatti Millen,athleteBornIn:New Jersey,age:22,teamName:Detroit Lions,yearsOnTeam:4,salary:$2400917.28,currentlyInjured:FALSE
+athleteID:50da734d-1f62-4141-8b7d-fd6b67ad4008,athleteName:Poppy Duerden,athleteBornIn:Nevada,age:32,teamName:Los Angeles Chargers,yearsOnTeam:1,salary:$3469708.67,currentlyInjured:TRUE
+athleteID:12692edf-1f12-425f-8831-cc812af90d38,athleteName:Keelia Georgins,athleteBornIn:Wisconsin,age:20,teamName:Cincinnati Bengals,yearsOnTeam:5,salary:$2985676.4,currentlyInjured:FALSE
+athleteID:54a01299-bb75-4fb9-8e67-466aaec3a374,athleteName:Madeline Capes,athleteBornIn:District of Columbia,age:20,teamName:Seattle Seahawks,yearsOnTeam:6,salary:$4833057.38,currentlyInjured:FALSE
+athleteID:8d9a9dcf-d8ec-47ab-91c2-67accb197f36,athleteName:Rudiger Ordemann,athleteBornIn:Nevada,age:31,teamName:Miami Dolphins,yearsOnTeam:6,salary:$7102306.39,currentlyInjured:TRUE
+athleteID:0e459819-7acc-4311-b048-580bcf068bbc,athleteName:Deanne Lindenblatt,athleteBornIn:North Dakota,age:33,teamName:Chicago Bears,yearsOnTeam:2,salary:$5503017.55,currentlyInjured:TRUE
+athleteID:ed7ff6d3-8666-4e83-b404-087004abb508,athleteName:Dalis Blanden,athleteBornIn:District of Columbia,age:34,teamName:Oakland Raiders,yearsOnTeam:3,salary:$5859083.52,currentlyInjured:TRUE
+athleteID:e7d69067-d902-4c51-a04b-b966121aff96,athleteName:Lowrance Dobrovsky,athleteBornIn:New York,age:34,teamName:Detroit Lions,yearsOnTeam:6,salary:$570429.29,currentlyInjured:FALSE
+athleteID:787f0ba2-591d-4647-915d-3d13a382bf0f,athleteName:Alair Benoix,athleteBornIn:Iowa,age:19,teamName:Philadelphia Eagles,yearsOnTeam:4,salary:$5938746.36,currentlyInjured:TRUE
+athleteID:035762dd-5b0b-49c3-8443-dc5b64dcc3aa,athleteName:Selma Hargrave,athleteBornIn:California,age:34,teamName:Denver Broncos,yearsOnTeam:6,salary:$1333005.25,currentlyInjured:FALSE
+athleteID:3e01cda4-e114-412f-8600-72331ed3b60e,athleteName:Gillan Hayter,athleteBornIn:Texas,age:30,teamName:Miami Dolphins,yearsOnTeam:4,salary:$5170299.7,currentlyInjured:FALSE
+athleteID:bd6da0da-23b7-4858-996c-916688bc385d,athleteName:Aubrey Brokenbrow,athleteBornIn:Texas,age:21,teamName:New Orleans Saints,yearsOnTeam:3,salary:$7051957.14,currentlyInjured:TRUE
+athleteID:c73e5fb7-6dc2-42fb-8d1a-cb2be94aaec8,athleteName:Lulu Bedder,athleteBornIn:Virginia,age:19,teamName:Washington Redskins,yearsOnTeam:5,salary:$7094694.02,currentlyInjured:TRUE
+athleteID:d2414e1c-171f-4d51-bd6f-652a1e079de6,athleteName:Patricia Yacobsohn,athleteBornIn:Texas,age:27,teamName:Oakland Raiders,yearsOnTeam:1,salary:$5407029.53,currentlyInjured:TRUE
+athleteID:7fb186f1-6d87-42bd-96db-7f2eabcdfd50,athleteName:Johan Mammatt,athleteBornIn:South Dakota,age:24,teamName:Kansas City Chiefs,yearsOnTeam:2,salary:$3322913.01,currentlyInjured:FALSE
+athleteID:ee1f53e6-1c8b-4833-ab20-5ce5ddf9b0d6,athleteName:Itch Farthing,athleteBornIn:Illinois,age:34,teamName:Seattle Seahawks,yearsOnTeam:5,salary:$6347430.66,currentlyInjured:FALSE
+athleteID:a2190a3b-1a4d-47af-bdaf-82b5a112c710,athleteName:Pennie Longrigg,athleteBornIn:California,age:32,teamName:Denver Broncos,yearsOnTeam:2,salary:$6188339.21,currentlyInjured:TRUE
+athleteID:d1049ea9-2b13-4e41-a893-edf768ab4277,athleteName:Kirsteni Petruk,athleteBornIn:Texas,age:29,teamName:Minnesota Vikings,yearsOnTeam:4,salary:$7598995.23,currentlyInjured:TRUE
+athleteID:c9478d2d-2d7f-4aa0-8ee0-775b1eff66a3,athleteName:Alexine McGrill,athleteBornIn:Oklahoma,age:31,teamName:Baltimore Ravens,yearsOnTeam:1,salary:$7688318.72,currentlyInjured:FALSE
+athleteID:8620cbb1-6d6f-4bc4-8f8e-adcb66b53306,athleteName:Claudian Erskine,athleteBornIn:Texas,age:23,teamName:Indianapolis Colts,yearsOnTeam:3,salary:$4630886.05,currentlyInjured:TRUE
+athleteID:67160f1b-053e-49f5-920e-9ce5b90bef2b,athleteName:Alexandra Bates,athleteBornIn:Texas,age:35,teamName:Oakland Raiders,yearsOnTeam:5,salary:$4523664.7,currentlyInjured:TRUE
+athleteID:47ce981d-05cd-4522-b0ce-a81fb8591ce6,athleteName:Weylin Cockett,athleteBornIn:Kansas,age:29,teamName:Washington Redskins,yearsOnTeam:3,salary:$3607636.82,currentlyInjured:TRUE
+athleteID:fc741fed-8aba-4ecf-aa65-6e5a712e915f,athleteName:Gregorius Lovelady,athleteBornIn:New York,age:30,teamName:Houston Texans,yearsOnTeam:1,salary:$3398729.27,currentlyInjured:FALSE
+athleteID:e86a9f14-6244-4158-98a6-63f66763e919,athleteName:Elmer Joannet,athleteBornIn:Missouri,age:26,teamName:New York Jets,yearsOnTeam:5,salary:$1415010.49,currentlyInjured:TRUE
+athleteID:3ecb9866-7906-4971-bd70-b96afa5575df,athleteName:Katlin Muzzall,athleteBornIn:Oklahoma,age:26,teamName:New Orleans Saints,yearsOnTeam:6,salary:$5777350.89,currentlyInjured:FALSE
+athleteID:31e8b283-a7f9-441e-a901-754cb5430f75,athleteName:Juanita Stodart,athleteBornIn:Minnesota,age:26,teamName:Los Angeles Chargers,yearsOnTeam:4,salary:$2158059.75,currentlyInjured:FALSE
+athleteID:b77fd488-d7fc-4129-96dd-f5acd69979a4,athleteName:Alfie Crow,athleteBornIn:North Carolina,age:32,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$3572913.08,currentlyInjured:FALSE
+athleteID:38307d2e-937e-475e-8b05-fadf76b355e9,athleteName:Stacey Basek,athleteBornIn:Texas,age:30,teamName:Oakland Raiders,yearsOnTeam:4,salary:$2552164.37,currentlyInjured:TRUE
+athleteID:09c185b7-6128-498c-b642-0702a2065460,athleteName:Howard Twort,athleteBornIn:Florida,age:27,teamName:Houston Texans,yearsOnTeam:6,salary:$4301402.32,currentlyInjured:TRUE
+athleteID:f91ffba8-753f-4217-9be8-52c2ec11565d,athleteName:Murielle Scrogges,athleteBornIn:Florida,age:35,teamName:Oakland Raiders,yearsOnTeam:3,salary:$4117492.02,currentlyInjured:FALSE
+athleteID:5ef210dd-cda5-46e0-97f2-27643438392d,athleteName:Alissa Trimble,athleteBornIn:Illinois,age:30,teamName:New York Giants,yearsOnTeam:5,salary:$522369.2,currentlyInjured:FALSE
+athleteID:a1767a9d-4204-4e26-a669-7608045a24ef,athleteName:Maggy Austin,athleteBornIn:Virginia,age:25,teamName:Houston Texans,yearsOnTeam:6,salary:$7401793.7,currentlyInjured:FALSE
+athleteID:eb568393-ef44-442e-a7dd-548fbb98ce13,athleteName:Hymie Petrol,athleteBornIn:Iowa,age:28,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$3737784.65,currentlyInjured:TRUE
+athleteID:2324368d-d32b-4365-af0c-abcbf60c0634,athleteName:Jermaine Farraway,athleteBornIn:Texas,age:23,teamName:Detroit Lions,yearsOnTeam:5,salary:$5259601.64,currentlyInjured:FALSE
+athleteID:88d143ab-afeb-4229-8cf7-7433888bf2e9,athleteName:Addison Adrain,athleteBornIn:Missouri,age:23,teamName:Kansas City Chiefs,yearsOnTeam:4,salary:$3634949.88,currentlyInjured:FALSE
+athleteID:296f7ce8-3218-4939-914f-994c384d94a2,athleteName:Maryl Buckam,athleteBornIn:Colorado,age:30,teamName:New York Jets,yearsOnTeam:3,salary:$7392707.87,currentlyInjured:FALSE
+athleteID:3ef2665e-f8bc-4a3a-86d6-903db8b72544,athleteName:Axe Gilkes,athleteBornIn:Florida,age:26,teamName:Minnesota Vikings,yearsOnTeam:6,salary:$3252562.69,currentlyInjured:FALSE
+athleteID:a93e36c5-46cb-45c9-a760-13c4eed4d154,athleteName:Chrysa Welbourn,athleteBornIn:New York,age:29,teamName:Miami Dolphins,yearsOnTeam:2,salary:$5686247.89,currentlyInjured:FALSE
+athleteID:53b910d3-6ff1-41c2-91df-5eae5435bc6e,athleteName:Freda Mungane,athleteBornIn:California,age:32,teamName:Houston Texans,yearsOnTeam:2,salary:$1968706.83,currentlyInjured:TRUE
+athleteID:ed5fe5f1-4eb3-462c-b372-b4115ce88936,athleteName:Dud Newstead,athleteBornIn:New York,age:31,teamName:Oakland Raiders,yearsOnTeam:6,salary:$5586893.19,currentlyInjured:TRUE
+athleteID:c5e50869-d351-4e54-b57a-2003f3c336a1,athleteName:Mandie Songer,athleteBornIn:Kansas,age:34,teamName:Arizona Cardinals,yearsOnTeam:2,salary:$2063525.08,currentlyInjured:FALSE
+athleteID:4d8e37ec-e62d-4d62-8130-e36438df1803,athleteName:Jan Roome,athleteBornIn:Oregon,age:30,teamName:Kansas City Chiefs,yearsOnTeam:3,salary:$4331932.88,currentlyInjured:FALSE
+athleteID:25aa723d-425c-4230-8432-cc290a939325,athleteName:Doria Tevlin,athleteBornIn:Alabama,age:20,teamName:Cincinnati Bengals,yearsOnTeam:6,salary:$7654609.83,currentlyInjured:TRUE
+athleteID:9668a0e3-67e9-4a79-bc5c-2d928be7a8c4,athleteName:Adair Fagg,athleteBornIn:Washington,age:25,teamName:Los Angeles Chargers,yearsOnTeam:2,salary:$6747837.63,currentlyInjured:TRUE
+athleteID:b52e1344-ac6b-48e2-9266-4d08112c9d12,athleteName:Brinn McCambridge,athleteBornIn:North Carolina,age:33,teamName:Baltimore Ravens,yearsOnTeam:3,salary:$2752041.88,currentlyInjured:TRUE
+athleteID:6bfec7db-10df-4967-8e46-548568a0c682,athleteName:Brig Folbige,athleteBornIn:New York,age:24,teamName:Buffalo Bills,yearsOnTeam:1,salary:$4292968.84,currentlyInjured:FALSE
+athleteID:ea404eef-a0a7-4f18-a298-ec98e2675080,athleteName:Iona Rozenzweig,athleteBornIn:Texas,age:31,teamName:Tampa Bay Buccaneers,yearsOnTeam:3,salary:$3009191.92,currentlyInjured:TRUE
+athleteID:af86b410-eab4-416a-a2c1-64a57f20ad99,athleteName:Demetria Lightowlers,athleteBornIn:District of Columbia,age:33,teamName:Denver Broncos,yearsOnTeam:2,salary:$7439528.32,currentlyInjured:TRUE
+athleteID:baa05113-a91f-4610-8077-7ebb645dc16e,athleteName:Brigg Korbmaker,athleteBornIn:Maryland,age:19,teamName:Kansas City Chiefs,yearsOnTeam:5,salary:$3928049.77,currentlyInjured:FALSE
+athleteID:bae2b0bf-8ed8-403b-9402-83f7b5c6a0ad,athleteName:Lezlie Harley,athleteBornIn:Oregon,age:28,teamName:Buffalo Bills,yearsOnTeam:4,salary:$4191047.03,currentlyInjured:TRUE
+athleteID:fcc0d82c-bd24-4faf-a69b-c34eb3a954b4,athleteName:Ame Mace,athleteBornIn:Tennessee,age:28,teamName:Dallas Cowboys,yearsOnTeam:2,salary:$2442901.54,currentlyInjured:TRUE
+athleteID:60c7cf6d-47f8-4f23-ac67-903b622697fb,athleteName:Scarlet Zannuto,athleteBornIn:California,age:30,teamName:Arizona Cardinals,yearsOnTeam:5,salary:$3552623.46,currentlyInjured:FALSE
+athleteID:88ffb102-8189-4857-a764-2be39d78ee1e,athleteName:Parsifal Deason,athleteBornIn:New York,age:31,teamName:Tennessee Titans,yearsOnTeam:3,salary:$6346820.62,currentlyInjured:TRUE
+athleteID:0c87ae4e-2520-46cb-94f8-5a69eb3ce1e0,athleteName:Angelia Curragh,athleteBornIn:Alabama,age:35,teamName:Denver Broncos,yearsOnTeam:5,salary:$5762354.74,currentlyInjured:TRUE
+athleteID:4ea1e910-016a-48ae-b07c-2924229a6ad3,athleteName:Ives Kloisner,athleteBornIn:Colorado,age:27,teamName:Washington Redskins,yearsOnTeam:3,salary:$5605266.7,currentlyInjured:TRUE
+athleteID:a0514046-f891-4a5d-b60b-9b9a5d5567f6,athleteName:Saba Lukasik,athleteBornIn:Georgia,age:20,teamName:Tennessee Titans,yearsOnTeam:4,salary:$2789021.21,currentlyInjured:FALSE
+athleteID:2cb40ebd-41a8-49e3-aa4b-98736de549f7,athleteName:Dreddy Rainbow,athleteBornIn:Colorado,age:31,teamName:Kansas City Chiefs,yearsOnTeam:2,salary:$5088434.44,currentlyInjured:FALSE
+athleteID:ba53e304-44e2-4a92-a5ab-81609faaae90,athleteName:Rinaldo Pendrich,athleteBornIn:Virginia,age:23,teamName:New York Jets,yearsOnTeam:2,salary:$2122326.17,currentlyInjured:FALSE
+athleteID:b0edf788-e5b0-47b8-a352-6e3ba62ea6ee,athleteName:Nissie Risman,athleteBornIn:Texas,age:28,teamName:New Orleans Saints,yearsOnTeam:6,salary:$2979985.51,currentlyInjured:TRUE
+athleteID:c9578249-fca6-48e4-8c01-e3b7f396a80b,athleteName:Bail Jocelyn,athleteBornIn:South Carolina,age:21,teamName:Jacksonville Jaguars,yearsOnTeam:4,salary:$2719026.12,currentlyInjured:FALSE
+athleteID:0571f2e4-651c-431b-9d51-ccc0aea9b55e,athleteName:Alisander Schusterl,athleteBornIn:Texas,age:33,teamName:Oakland Raiders,yearsOnTeam:6,salary:$2980560.85,currentlyInjured:FALSE
+athleteID:b37463a4-6361-4f5a-b8df-a4dba2b78ed3,athleteName:Noel De Vile,athleteBornIn:Louisiana,age:32,teamName:Tennessee Titans,yearsOnTeam:1,salary:$3936234.21,currentlyInjured:TRUE
+athleteID:4b19e807-a9c1-45ae-9b75-8a4be39c13a3,athleteName:Emelen Cossor,athleteBornIn:Texas,age:31,teamName:Carolina Panthers,yearsOnTeam:3,salary:$640723.52,currentlyInjured:FALSE
+athleteID:7648445d-f3f6-4d50-9d28-c7fdbff6542c,athleteName:Keen Godmar,athleteBornIn:Arkansas,age:22,teamName:Detroit Lions,yearsOnTeam:4,salary:$2339683.9,currentlyInjured:FALSE
+athleteID:f05d664e-ed05-40dd-9c7b-3aeb90bc5bcc,athleteName:Brodie Chupin,athleteBornIn:Maryland,age:23,teamName:New York Giants,yearsOnTeam:3,salary:$4144060.87,currentlyInjured:TRUE
+athleteID:af1eeb9f-c4ae-4d05-85fc-607fddcd7ade,athleteName:Bella Abade,athleteBornIn:Florida,age:23,teamName:Tennessee Titans,yearsOnTeam:6,salary:$7182807.96,currentlyInjured:TRUE
+athleteID:a844e32d-ec66-4c7b-ab43-ce40755243d0,athleteName:Caesar Koubu,athleteBornIn:District of Columbia,age:33,teamName:Philadelphia Eagles,yearsOnTeam:3,salary:$6090401.73,currentlyInjured:FALSE
+athleteID:d20ebe7a-a870-456d-9665-34c275eb0ce4,athleteName:Randa Lewzey,athleteBornIn:Colorado,age:23,teamName:Tampa Bay Buccaneers,yearsOnTeam:3,salary:$6915010.8,currentlyInjured:TRUE
+athleteID:be1b28c2-587a-4c50-a356-d033711a44f0,athleteName:Chrysa Pullen,athleteBornIn:Colorado,age:28,teamName:Baltimore Ravens,yearsOnTeam:2,salary:$7596588.19,currentlyInjured:FALSE
+athleteID:4368770c-9090-4bb1-b47d-a86734f93b8e,athleteName:Milty Jecks,athleteBornIn:District of Columbia,age:21,teamName:Cincinnati Bengals,yearsOnTeam:1,salary:$2786540.64,currentlyInjured:TRUE
+athleteID:750f9235-3648-40ef-87fc-a73c548c07fb,athleteName:Lilas Najera,athleteBornIn:Virginia,age:22,teamName:Cleveland Browns,yearsOnTeam:5,salary:$2088661.07,currentlyInjured:TRUE
+athleteID:637de986-20fc-4acb-9626-9211ac851e12,athleteName:Patton Naisby,athleteBornIn:Tennessee,age:25,teamName:Tennessee Titans,yearsOnTeam:1,salary:$7759761.85,currentlyInjured:FALSE
+athleteID:24389e03-13a0-4d72-bb56-55737233805c,athleteName:Immanuel Raggles,athleteBornIn:Pennsylvania,age:27,teamName:Philadelphia Eagles,yearsOnTeam:6,salary:$3606235.1,currentlyInjured:FALSE
+athleteID:370edb94-29fd-4394-ad5a-448dbe63ef53,athleteName:Wileen Switzer,athleteBornIn:Texas,age:24,teamName:Buffalo Bills,yearsOnTeam:3,salary:$5372563.66,currentlyInjured:TRUE
+athleteID:0497d723-dcf8-4daa-afa4-d776952d3cab,athleteName:Gabriella Sieghart,athleteBornIn:Virginia,age:33,teamName:San Francisco 49ers,yearsOnTeam:2,salary:$1100451.14,currentlyInjured:TRUE
+athleteID:46f562a8-723f-4700-9cfb-b703b6a4b0b1,athleteName:Sloan Hast,athleteBornIn:Virginia,age:27,teamName:Oakland Raiders,yearsOnTeam:4,salary:$6073982.4,currentlyInjured:FALSE
+athleteID:e7b9e20a-3167-4218-903d-4db0d9518528,athleteName:Haily Hazard,athleteBornIn:Indiana,age:27,teamName:Chicago Bears,yearsOnTeam:6,salary:$729769.11,currentlyInjured:FALSE
+athleteID:55cab967-32ad-4a65-8533-1f2a629d9810,athleteName:Danica Shirrell,athleteBornIn:South Carolina,age:33,teamName:San Francisco 49ers,yearsOnTeam:2,salary:$721797.62,currentlyInjured:FALSE
+athleteID:976d51c1-9b5a-4629-888a-8815e1458181,athleteName:Nike Jecks,athleteBornIn:Texas,age:24,teamName:Seattle Seahawks,yearsOnTeam:4,salary:$7093892.69,currentlyInjured:FALSE
+athleteID:101ed4f2-d156-449b-b329-ec0e774c7ab9,athleteName:Rea Styan,athleteBornIn:Missouri,age:29,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$6074831.64,currentlyInjured:FALSE
+athleteID:da24d652-fe3e-44cc-aa28-86666ebe9798,athleteName:Morrie Dagleas,athleteBornIn:Michigan,age:24,teamName:New York Jets,yearsOnTeam:5,salary:$2607901.25,currentlyInjured:TRUE
+athleteID:18ac3803-d06e-454b-a1c9-9ad24ea9a08d,athleteName:Edmund Pund,athleteBornIn:West Virginia,age:24,teamName:Detroit Lions,yearsOnTeam:6,salary:$252606.11,currentlyInjured:TRUE
+athleteID:f1262c9c-f691-4176-942a-8e331689307b,athleteName:Merry Corkan,athleteBornIn:Texas,age:29,teamName:New York Jets,yearsOnTeam:4,salary:$5226679.67,currentlyInjured:TRUE
+athleteID:500d7f7e-debb-4e89-acb9-17c18841e699,athleteName:Dorella Heaven,athleteBornIn:Nevada,age:27,teamName:Miami Dolphins,yearsOnTeam:5,salary:$827005.39,currentlyInjured:TRUE
+athleteID:e5f745da-bbd7-4619-a3d1-38d5bc984106,athleteName:Myron Dennistoun,athleteBornIn:California,age:19,teamName:Minnesota Vikings,yearsOnTeam:5,salary:$526578.9,currentlyInjured:TRUE
+athleteID:8508155a-a4b6-4d6f-865c-91d68acc0e2f,athleteName:Burch Berrie,athleteBornIn:California,age:35,teamName:New York Jets,yearsOnTeam:1,salary:$7470305.54,currentlyInjured:TRUE
+athleteID:bf2f2067-0975-41a2-96c8-e826720fe03d,athleteName:Hakeem Eccleston,athleteBornIn:Georgia,age:34,teamName:Kansas City Chiefs,yearsOnTeam:3,salary:$928443.13,currentlyInjured:TRUE
+athleteID:f6da3f62-52ef-4858-bbf0-c4d063ce50b6,athleteName:Kahlil Melsom,athleteBornIn:Pennsylvania,age:25,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$1248633.11,currentlyInjured:TRUE
+athleteID:7b89e80c-a2d5-44b4-9c7c-274acbad66e7,athleteName:Renaud Cianni,athleteBornIn:Michigan,age:30,teamName:Arizona Cardinals,yearsOnTeam:1,salary:$3693219.59,currentlyInjured:FALSE
+athleteID:c363e7cf-974c-4cc1-9cbb-5c691c5319f9,athleteName:Cyrus Buttrey,athleteBornIn:New York,age:35,teamName:Los Angeles Chargers,yearsOnTeam:3,salary:$6412759.02,currentlyInjured:FALSE
+athleteID:9347ef57-6512-4d55-b7e1-49ed1065c50a,athleteName:Delly Blasius,athleteBornIn:Texas,age:24,teamName:Detroit Lions,yearsOnTeam:6,salary:$6730593.11,currentlyInjured:TRUE
+athleteID:b6b6c13f-7822-4aac-bcb6-dfd5b3af7982,athleteName:Harcourt Shickle,athleteBornIn:Florida,age:26,teamName:Indianapolis Colts,yearsOnTeam:4,salary:$3620709.8,currentlyInjured:TRUE
+athleteID:8bef5048-210d-40de-b318-a1d383fa66af,athleteName:Ban Valiant,athleteBornIn:California,age:21,teamName:Cincinnati Bengals,yearsOnTeam:2,salary:$3061945.65,currentlyInjured:TRUE
+athleteID:dc253fae-d4e6-44c7-bfe1-1a9cc9d4e1f8,athleteName:Arvin Folder,athleteBornIn:Texas,age:29,teamName:Jacksonville Jaguars,yearsOnTeam:5,salary:$728261.08,currentlyInjured:FALSE
+athleteID:a9afd6d7-0ae1-4650-b9a2-b238d2bec11f,athleteName:Aeriel Mollatt,athleteBornIn:North Carolina,age:30,teamName:New York Giants,yearsOnTeam:4,salary:$6271603.96,currentlyInjured:TRUE
+athleteID:7c2e90eb-6267-40a0-bf3a-ca24c259d353,athleteName:Sanderson Choak,athleteBornIn:Minnesota,age:21,teamName:Green Bay Packers,yearsOnTeam:6,salary:$6023593.37,currentlyInjured:TRUE
+athleteID:eac0ad8d-435e-4ad8-bd03-32e253728ddd,athleteName:Frank Filipic,athleteBornIn:California,age:19,teamName:Minnesota Vikings,yearsOnTeam:4,salary:$6465343.52,currentlyInjured:TRUE
+athleteID:73be909a-713e-47bf-b9bd-3bb4030303b8,athleteName:Luciana Bellows,athleteBornIn:Minnesota,age:35,teamName:Pittsburgh Steelers,yearsOnTeam:2,salary:$921121.04,currentlyInjured:TRUE
+athleteID:c649cd00-4121-494d-831a-8a8b0fb3a33d,athleteName:Sissie Decent,athleteBornIn:Florida,age:35,teamName:Tampa Bay Buccaneers,yearsOnTeam:6,salary:$7226123.26,currentlyInjured:FALSE
+athleteID:6e205c58-6ac3-4c1a-a2d1-e2479a4f3e60,athleteName:Roana Cecere,athleteBornIn:California,age:21,teamName:Cleveland Browns,yearsOnTeam:1,salary:$4802907.79,currentlyInjured:TRUE
+athleteID:dd18355d-32fe-44ab-b8c4-f88358e90133,athleteName:Gnni Morrice,athleteBornIn:Pennsylvania,age:25,teamName:San Francisco 49ers,yearsOnTeam:6,salary:$5009445.5,currentlyInjured:TRUE
+athleteID:df42d82e-d8ef-4d00-8ff3-3b75cfdec542,athleteName:Selinda Thursfield,athleteBornIn:West Virginia,age:32,teamName:Minnesota Vikings,yearsOnTeam:3,salary:$3533061.71,currentlyInjured:TRUE
+athleteID:5ac877d1-7aeb-4a14-949c-7baa1ecb2a4b,athleteName:Killian Lacky,athleteBornIn:Washington,age:26,teamName:Baltimore Ravens,yearsOnTeam:4,salary:$5287179.16,currentlyInjured:FALSE
+athleteID:ae7aeaa9-5f43-4a2b-9710-ccc1e3de2a44,athleteName:Abdul Woltman,athleteBornIn:Georgia,age:27,teamName:Cleveland Browns,yearsOnTeam:1,salary:$2398662.34,currentlyInjured:TRUE
+athleteID:61152ef3-f767-4f1f-bd9b-085877d8b172,athleteName:Ailsun Callery,athleteBornIn:Texas,age:31,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$1142914.28,currentlyInjured:TRUE
+athleteID:1d41815b-3289-436c-a5a6-f9287f69156e,athleteName:Mirilla Scough,athleteBornIn:Virginia,age:28,teamName:Atlanta Falcons,yearsOnTeam:5,salary:$3499698.65,currentlyInjured:TRUE
+athleteID:9bb98c08-276c-40cf-b07e-3f8412d1fc24,athleteName:Nikaniki Treasure,athleteBornIn:Washington,age:22,teamName:Kansas City Chiefs,yearsOnTeam:1,salary:$1441149.91,currentlyInjured:TRUE
+athleteID:5f6388e3-96c2-40a9-a590-8309a55ffebe,athleteName:Edyth Jerger,athleteBornIn:Ohio,age:27,teamName:Arizona Cardinals,yearsOnTeam:5,salary:$5125359.64,currentlyInjured:TRUE
+athleteID:34c2b8cc-4d88-49e2-868a-8b7474a1df60,athleteName:Stacy Leathes,athleteBornIn:California,age:25,teamName:Indianapolis Colts,yearsOnTeam:1,salary:$3194262.08,currentlyInjured:FALSE
+athleteID:67a20734-ef68-4900-9117-f4aae8fd3d06,athleteName:Chelsie Wandrack,athleteBornIn:Georgia,age:25,teamName:Houston Texans,yearsOnTeam:3,salary:$1428924.36,currentlyInjured:FALSE
+athleteID:7a5ccdc4-3101-4dad-a363-5ae09760def6,athleteName:Lin Luce,athleteBornIn:Texas,age:32,teamName:Arizona Cardinals,yearsOnTeam:4,salary:$3469101.72,currentlyInjured:FALSE
+athleteID:0783bf6d-bbfc-4a2b-8380-0b9b913ebe6e,athleteName:Carlye Torritti,athleteBornIn:New York,age:27,teamName:Jacksonville Jaguars,yearsOnTeam:3,salary:$4256356.44,currentlyInjured:TRUE
+athleteID:09362dad-888a-4bdd-9167-d446ce9fc2e5,athleteName:Daffi Tomik,athleteBornIn:Tennessee,age:33,teamName:Tennessee Titans,yearsOnTeam:3,salary:$7259508.96,currentlyInjured:TRUE
+athleteID:02857936-d01c-4752-9583-bfc521e3dc26,athleteName:Cleveland Proffitt,athleteBornIn:Ohio,age:26,teamName:Arizona Cardinals,yearsOnTeam:1,salary:$7226242.01,currentlyInjured:FALSE
+athleteID:f556d115-52bf-462f-9806-d21029af82bc,athleteName:Marrilee Haukey,athleteBornIn:Kansas,age:21,teamName:Miami Dolphins,yearsOnTeam:2,salary:$7865566.54,currentlyInjured:TRUE
+athleteID:cc78b109-c315-452a-9dfe-5ea699c7122b,athleteName:Bud Buddock,athleteBornIn:Minnesota,age:23,teamName:Washington Redskins,yearsOnTeam:5,salary:$5583512.16,currentlyInjured:TRUE
+athleteID:03becc55-f3c1-4074-8ce7-8a01408f13ca,athleteName:Bettina Nutter,athleteBornIn:Virginia,age:20,teamName:Oakland Raiders,yearsOnTeam:1,salary:$592523.73,currentlyInjured:TRUE
+athleteID:f9ddd4a5-0c51-4968-9b2d-9f408482e9a9,athleteName:Lennie Robardley,athleteBornIn:Florida,age:21,teamName:Cincinnati Bengals,yearsOnTeam:2,salary:$7041353.24,currentlyInjured:FALSE
+athleteID:61e1dcad-9aa7-49d2-af70-d29f0608d126,athleteName:Olive Niesegen,athleteBornIn:Florida,age:34,teamName:Carolina Panthers,yearsOnTeam:2,salary:$1125799.62,currentlyInjured:FALSE
+athleteID:7d680f64-0a60-4d01-aa4f-6d2522fd1cb4,athleteName:Cass Frammingham,athleteBornIn:Texas,age:30,teamName:Minnesota Vikings,yearsOnTeam:2,salary:$4694837,currentlyInjured:FALSE
+athleteID:9dc9325f-56e7-4978-9c1c-194366ed6cfb,athleteName:Delaney Rash,athleteBornIn:Illinois,age:22,teamName:Miami Dolphins,yearsOnTeam:1,salary:$2759868.54,currentlyInjured:TRUE
+athleteID:52d45745-ac4e-4c73-afec-8b9e2e165a52,athleteName:Garrett Wederell,athleteBornIn:Florida,age:26,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$3837390.2,currentlyInjured:FALSE
+athleteID:f7fa98a7-c18d-44f7-90f0-69b80d050c72,athleteName:Hardy Yarnton,athleteBornIn:Florida,age:25,teamName:Philadelphia Eagles,yearsOnTeam:1,salary:$561749.83,currentlyInjured:TRUE
+athleteID:a4d64613-7632-4b78-abc6-d4637a0073e5,athleteName:Berkley Killigrew,athleteBornIn:Oklahoma,age:27,teamName:Denver Broncos,yearsOnTeam:2,salary:$1639087.32,currentlyInjured:TRUE
+athleteID:f2cb9fe5-69eb-4439-9696-118a57081a54,athleteName:Flore Brudenell,athleteBornIn:California,age:28,teamName:New Orleans Saints,yearsOnTeam:3,salary:$1271944.04,currentlyInjured:FALSE
+athleteID:0e4b52e7-5ae2-47ff-ab3f-351e7623d41a,athleteName:Aloise Szymonowicz,athleteBornIn:Texas,age:34,teamName:Pittsburgh Steelers,yearsOnTeam:2,salary:$817286.85,currentlyInjured:TRUE
+athleteID:d0faee7d-4083-4a84-922b-604ca61a5afc,athleteName:Ynes Howcroft,athleteBornIn:California,age:19,teamName:Carolina Panthers,yearsOnTeam:6,salary:$7557647.33,currentlyInjured:FALSE
+athleteID:0841a93e-5dd1-4cf6-a2a2-6cb184ff8b9a,athleteName:Doris Gwioneth,athleteBornIn:Iowa,age:31,teamName:Kansas City Chiefs,yearsOnTeam:4,salary:$6973087.16,currentlyInjured:TRUE
+athleteID:6e01f95e-be99-4516-a0f6-ab66e01c1ad6,athleteName:Ernestus Voaden,athleteBornIn:District of Columbia,age:34,teamName:New York Jets,yearsOnTeam:4,salary:$6838690.48,currentlyInjured:TRUE
+athleteID:594c54cb-9a0f-45a0-8c63-55e7ecd72e03,athleteName:Celestine Hugill,athleteBornIn:Florida,age:23,teamName:Jacksonville Jaguars,yearsOnTeam:3,salary:$996437.07,currentlyInjured:TRUE
+athleteID:a690ca61-2b82-4538-ad59-33c424d92648,athleteName:Fredrika Manthroppe,athleteBornIn:Colorado,age:25,teamName:New York Jets,yearsOnTeam:1,salary:$3694761.45,currentlyInjured:FALSE
+athleteID:5c4df540-e097-4114-8d1d-172d48e81980,athleteName:Donnie McKane,athleteBornIn:Maryland,age:19,teamName:Oakland Raiders,yearsOnTeam:6,salary:$5290539.67,currentlyInjured:FALSE
+athleteID:5eff7212-602f-4b3f-b889-b55e80d654a9,athleteName:Kym Garces,athleteBornIn:Oklahoma,age:33,teamName:New York Jets,yearsOnTeam:4,salary:$3087536.52,currentlyInjured:FALSE
+athleteID:d71a4ee8-4432-4960-8cea-794e4d585651,athleteName:Willey Paridge,athleteBornIn:Missouri,age:25,teamName:Tampa Bay Buccaneers,yearsOnTeam:3,salary:$2571134.19,currentlyInjured:TRUE
+athleteID:ee056494-f486-48cd-8e25-d95efc07461c,athleteName:Kippie Elia,athleteBornIn:California,age:34,teamName:Jacksonville Jaguars,yearsOnTeam:4,salary:$5318774.04,currentlyInjured:TRUE
+athleteID:cb1f9e12-1fa9-4d5e-a4e3-be8bc2af109b,athleteName:Donielle Fanton,athleteBornIn:Texas,age:32,teamName:Dallas Cowboys,yearsOnTeam:5,salary:$642274.41,currentlyInjured:FALSE
+athleteID:fbbadc1b-a1f4-4601-935f-1d8c89b67c21,athleteName:Carlie Tonsley,athleteBornIn:Texas,age:32,teamName:Carolina Panthers,yearsOnTeam:6,salary:$722115.02,currentlyInjured:TRUE
+athleteID:29141ca9-d3c2-4705-a0a0-ec2a697adaab,athleteName:Pen Spargo,athleteBornIn:Georgia,age:31,teamName:Minnesota Vikings,yearsOnTeam:1,salary:$4602025.48,currentlyInjured:TRUE
+athleteID:a39af1ae-cd3c-410e-9fdc-5a9607a6c5d2,athleteName:Dar Reynold,athleteBornIn:Texas,age:34,teamName:Minnesota Vikings,yearsOnTeam:4,salary:$5208395.76,currentlyInjured:FALSE
+athleteID:af2a4e9f-36e9-45bd-a997-49908eb29f2b,athleteName:Eilis Blinckhorne,athleteBornIn:Kansas,age:23,teamName:Pittsburgh Steelers,yearsOnTeam:2,salary:$6739502.93,currentlyInjured:FALSE
+athleteID:fd7b82c3-174e-450e-b6b0-d719ae14e44c,athleteName:Bobine Tunnicliff,athleteBornIn:Virginia,age:31,teamName:Tampa Bay Buccaneers,yearsOnTeam:1,salary:$3664457.32,currentlyInjured:TRUE
+athleteID:db653617-c858-4963-9be9-346b6fccca8a,athleteName:Jock Clappison,athleteBornIn:North Carolina,age:29,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$7602349.42,currentlyInjured:FALSE
+athleteID:c1cac1bf-6f5d-449c-a652-dd6759f00ade,athleteName:Cleavland Keegan,athleteBornIn:Massachusetts,age:25,teamName:Oakland Raiders,yearsOnTeam:1,salary:$2889995.83,currentlyInjured:TRUE
+athleteID:99299bfd-af3f-4c24-8d4c-5521689f37ec,athleteName:Demott Wenderoth,athleteBornIn:Ohio,age:21,teamName:Buffalo Bills,yearsOnTeam:4,salary:$7093529.29,currentlyInjured:TRUE
+athleteID:b3edb1e2-fb32-4849-ac60-3a66d42ef093,athleteName:Holly Ramard,athleteBornIn:Pennsylvania,age:22,teamName:Minnesota Vikings,yearsOnTeam:6,salary:$5049452.61,currentlyInjured:TRUE
+athleteID:8c0fee88-9f82-46c1-be61-6293343e127a,athleteName:North Bulpitt,athleteBornIn:California,age:22,teamName:Atlanta Falcons,yearsOnTeam:2,salary:$5963435.88,currentlyInjured:FALSE
+athleteID:d3424fa0-5cc2-4b39-886b-17765613b815,athleteName:Shela Clinkard,athleteBornIn:Indiana,age:24,teamName:Dallas Cowboys,yearsOnTeam:1,salary:$362627.22,currentlyInjured:TRUE
+athleteID:fee82211-c86d-48d8-b314-a16dc77743d6,athleteName:Saidee Andrez,athleteBornIn:Maryland,age:30,teamName:Miami Dolphins,yearsOnTeam:2,salary:$7278277.75,currentlyInjured:TRUE
+athleteID:2f369e1e-b84b-421a-af2c-665e43773886,athleteName:Anitra Parke,athleteBornIn:District of Columbia,age:33,teamName:Los Angeles Rams,yearsOnTeam:1,salary:$4480093.24,currentlyInjured:FALSE
+athleteID:f1c618e5-7f40-45fe-91c2-818551d499c7,athleteName:Eda Taye,athleteBornIn:Oklahoma,age:19,teamName:San Francisco 49ers,yearsOnTeam:6,salary:$2056408.24,currentlyInjured:TRUE
+athleteID:5d11f45e-3c3b-4331-a5f2-f8a4b0ea3dc3,athleteName:Martguerita Kertess,athleteBornIn:Texas,age:24,teamName:Tennessee Titans,yearsOnTeam:1,salary:$6805645.28,currentlyInjured:FALSE
+athleteID:7042dccd-022f-41b2-8fc9-cf10c1ba89c3,athleteName:Jae Risman,athleteBornIn:Iowa,age:32,teamName:Indianapolis Colts,yearsOnTeam:4,salary:$6106597.7,currentlyInjured:TRUE
+athleteID:51d068c8-e34d-4491-aa50-a1420544fde6,athleteName:Maud Petrosian,athleteBornIn:California,age:28,teamName:Atlanta Falcons,yearsOnTeam:4,salary:$372291.53,currentlyInjured:TRUE
+athleteID:0087dad2-81f6-4458-88e5-d2a0d674cda4,athleteName:Cynthia Vigneron,athleteBornIn:New Hampshire,age:34,teamName:Detroit Lions,yearsOnTeam:6,salary:$2754088.32,currentlyInjured:FALSE
+athleteID:d2b1e890-b967-4035-825a-f260f9f95ecc,athleteName:Marlyn Lightoller,athleteBornIn:New York,age:21,teamName:Buffalo Bills,yearsOnTeam:4,salary:$4128837.32,currentlyInjured:FALSE
+athleteID:9caf6e1c-87e2-48fe-bce1-28bfe448ae88,athleteName:Reed Brastead,athleteBornIn:Texas,age:24,teamName:Minnesota Vikings,yearsOnTeam:6,salary:$3836575.55,currentlyInjured:TRUE
+athleteID:e6244187-891b-4d57-89e3-1c3f29c803b7,athleteName:Maribelle Lakeland,athleteBornIn:Connecticut,age:33,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$2392955.27,currentlyInjured:TRUE
+athleteID:f1c425d6-b26b-4486-9f58-86b2b56e275d,athleteName:Cirilo Murrigans,athleteBornIn:Nevada,age:25,teamName:Tennessee Titans,yearsOnTeam:6,salary:$4021782.64,currentlyInjured:TRUE
+athleteID:6a772532-c460-4262-94b1-aee88ccd1696,athleteName:Hartley Catterall,athleteBornIn:California,age:35,teamName:Cleveland Browns,yearsOnTeam:6,salary:$2698601.97,currentlyInjured:TRUE
+athleteID:e7bdc07a-c00c-4086-ac2b-6a2310db46a5,athleteName:Cordula Primo,athleteBornIn:Texas,age:23,teamName:Baltimore Ravens,yearsOnTeam:4,salary:$7897269.2,currentlyInjured:TRUE
+athleteID:ce60e938-2242-43e6-94ee-ab9921999295,athleteName:Lonee Bugdell,athleteBornIn:Arizona,age:32,teamName:Baltimore Ravens,yearsOnTeam:4,salary:$2640007.16,currentlyInjured:FALSE
+athleteID:94c9700f-1f3b-4103-8090-fa045e00e18b,athleteName:Teri Soulsby,athleteBornIn:Alabama,age:35,teamName:Buffalo Bills,yearsOnTeam:4,salary:$5745433.84,currentlyInjured:TRUE
+athleteID:8218ab22-bddd-46d5-b240-6849ac70b7a7,athleteName:Hadrian Slateford,athleteBornIn:Illinois,age:21,teamName:New York Giants,yearsOnTeam:5,salary:$2943716.04,currentlyInjured:FALSE
+athleteID:f07015f4-04c1-4063-9898-8aae1ffd9f28,athleteName:Emiline Whiffen,athleteBornIn:Massachusetts,age:20,teamName:Minnesota Vikings,yearsOnTeam:2,salary:$1286576.72,currentlyInjured:TRUE
+athleteID:485393ea-ecef-43f5-814e-ffe518fe3564,athleteName:Florenza Gunn,athleteBornIn:Pennsylvania,age:28,teamName:Tampa Bay Buccaneers,yearsOnTeam:6,salary:$6358740.76,currentlyInjured:TRUE
+athleteID:9102c02a-93b0-44ac-8949-268b33c3bf2a,athleteName:Roberta Corp,athleteBornIn:Delaware,age:22,teamName:Miami Dolphins,yearsOnTeam:1,salary:$1488695.25,currentlyInjured:TRUE
+athleteID:8ca962e5-94f0-4aec-8bb8-39c7a213f7d8,athleteName:Bambi Mc Giffin,athleteBornIn:Connecticut,age:35,teamName:Tennessee Titans,yearsOnTeam:4,salary:$1336469.49,currentlyInjured:TRUE
+athleteID:b3c7eb94-8746-4681-bdc9-6b1575a5e989,athleteName:Zacharie Beeston,athleteBornIn:Virginia,age:19,teamName:Atlanta Falcons,yearsOnTeam:6,salary:$4784800.46,currentlyInjured:FALSE
+athleteID:54a5dbf6-add7-49d0-a740-d4b3e4a02014,athleteName:Terry Pactat,athleteBornIn:West Virginia,age:23,teamName:Los Angeles Rams,yearsOnTeam:4,salary:$1792774.91,currentlyInjured:TRUE
+athleteID:311a70f8-32b9-4788-a401-86e6d20f3139,athleteName:Bartholomeus Endrizzi,athleteBornIn:Alabama,age:28,teamName:Arizona Cardinals,yearsOnTeam:5,salary:$4825080.67,currentlyInjured:TRUE
+athleteID:5fcae3cf-f8f0-40f0-b5c1-9468f31ad75c,athleteName:Martina Pickvance,athleteBornIn:Mississippi,age:30,teamName:Oakland Raiders,yearsOnTeam:3,salary:$1783535.17,currentlyInjured:TRUE
+athleteID:2f0e713e-35ad-4adc-b799-df97a79003e3,athleteName:Consuelo Pentony,athleteBornIn:Kentucky,age:29,teamName:Kansas City Chiefs,yearsOnTeam:5,salary:$965688.28,currentlyInjured:FALSE
+athleteID:5972e135-85fc-451d-ba67-850f82ea9abc,athleteName:Brett Schapiro,athleteBornIn:New York,age:19,teamName:Buffalo Bills,yearsOnTeam:5,salary:$1060050.32,currentlyInjured:TRUE
+athleteID:435beaad-bb1e-4b07-8434-8bdc8320afdd,athleteName:Lorain Ingledew,athleteBornIn:Pennsylvania,age:33,teamName:Green Bay Packers,yearsOnTeam:4,salary:$5499903.47,currentlyInjured:FALSE
+athleteID:2c8cbba5-162e-48c8-bc0d-19b66b0b8f11,athleteName:Lulita Vasilkov,athleteBornIn:Indiana,age:25,teamName:Tampa Bay Buccaneers,yearsOnTeam:2,salary:$3393025.54,currentlyInjured:FALSE
+athleteID:6f2b2efa-c774-4576-a3f8-40ec65301f8a,athleteName:Clarita Bettam,athleteBornIn:Florida,age:35,teamName:Atlanta Falcons,yearsOnTeam:3,salary:$2809056.15,currentlyInjured:FALSE
+athleteID:b3c95fca-f754-4102-a28f-f20c3062a78e,athleteName:Thorn Edel,athleteBornIn:Texas,age:24,teamName:New York Jets,yearsOnTeam:5,salary:$4015643.61,currentlyInjured:TRUE
+athleteID:98db4dce-d0bc-4a54-b075-ff03164c02af,athleteName:Larry Jeste,athleteBornIn:Texas,age:22,teamName:Cincinnati Bengals,yearsOnTeam:3,salary:$2326980.26,currentlyInjured:TRUE
+athleteID:fe0eface-b92a-4ca7-8f29-12e8891db859,athleteName:Kaitlyn Kapelhof,athleteBornIn:District of Columbia,age:27,teamName:Jacksonville Jaguars,yearsOnTeam:4,salary:$6162588.25,currentlyInjured:TRUE
+athleteID:0259b80a-237c-4c2f-bd46-7ddf05f7b0d6,athleteName:Tobiah Nutbrown,athleteBornIn:Missouri,age:27,teamName:Dallas Cowboys,yearsOnTeam:5,salary:$782895.04,currentlyInjured:FALSE
+athleteID:d051f4b9-c875-4a0b-9e1f-8879e1572f6d,athleteName:Ashlee Greber,athleteBornIn:District of Columbia,age:35,teamName:Miami Dolphins,yearsOnTeam:3,salary:$6016729.31,currentlyInjured:TRUE
+athleteID:6f79375b-8a21-4ad8-a166-732f4c0443e1,athleteName:Glynn Pring,athleteBornIn:Florida,age:24,teamName:Minnesota Vikings,yearsOnTeam:1,salary:$6157861.25,currentlyInjured:TRUE
+athleteID:31d63055-9cda-4e33-a13f-df00fc9fecbc,athleteName:Friedrick Tzar,athleteBornIn:New York,age:24,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$1810501.33,currentlyInjured:TRUE
+athleteID:4d73bdc6-ea18-432b-b3bc-c2eca6694eee,athleteName:Angy Jepson,athleteBornIn:Colorado,age:35,teamName:Detroit Lions,yearsOnTeam:4,salary:$3297474.41,currentlyInjured:TRUE
+athleteID:96afdc6f-b3ed-4d7c-a983-e879f5afa8e8,athleteName:Eula Rowbottam,athleteBornIn:Texas,age:19,teamName:Jacksonville Jaguars,yearsOnTeam:2,salary:$5769103.79,currentlyInjured:TRUE
+athleteID:7d933799-91d0-464d-8116-02ee54156a0e,athleteName:Ekaterina Erasmus,athleteBornIn:New Jersey,age:21,teamName:New York Jets,yearsOnTeam:5,salary:$1345925.65,currentlyInjured:FALSE
+athleteID:9cb7c447-9a1a-4367-aa40-d91577903b25,athleteName:Dorothea Kester,athleteBornIn:Oklahoma,age:29,teamName:Indianapolis Colts,yearsOnTeam:5,salary:$4808136.99,currentlyInjured:TRUE
+athleteID:576a7d62-5171-4a20-8ec6-71bb6af77693,athleteName:Egan Ronchetti,athleteBornIn:Ohio,age:32,teamName:Chicago Bears,yearsOnTeam:6,salary:$4791223.54,currentlyInjured:FALSE
+athleteID:71c60338-8121-42f5-a99b-08e12b01d19e,athleteName:Chiquita Doody,athleteBornIn:West Virginia,age:25,teamName:Minnesota Vikings,yearsOnTeam:6,salary:$3272788.78,currentlyInjured:TRUE
+athleteID:a84a92de-dd0d-4e64-b33a-012e3dfeca7b,athleteName:Meredeth Maybey,athleteBornIn:Florida,age:35,teamName:Miami Dolphins,yearsOnTeam:6,salary:$2358583.12,currentlyInjured:FALSE
+athleteID:a43cb012-ded4-45e2-855a-c7d44745cc96,athleteName:Gardie Chater,athleteBornIn:District of Columbia,age:31,teamName:Washington Redskins,yearsOnTeam:3,salary:$1100674.87,currentlyInjured:TRUE
+athleteID:5bf16cdb-4df9-42a5-892d-77a44d7db182,athleteName:Dav Wooffitt,athleteBornIn:Illinois,age:33,teamName:New England Patriots,yearsOnTeam:5,salary:$2158745.99,currentlyInjured:TRUE
+athleteID:bd96b9be-88c5-4c96-9122-46810649453f,athleteName:Ty Crehan,athleteBornIn:California,age:28,teamName:Indianapolis Colts,yearsOnTeam:3,salary:$7122088.21,currentlyInjured:TRUE
+athleteID:38ca349a-4966-4c46-8886-da4ace62ef04,athleteName:Odilia Dugdale,athleteBornIn:New York,age:35,teamName:Los Angeles Chargers,yearsOnTeam:5,salary:$418788.52,currentlyInjured:TRUE
+athleteID:4a97dc18-318c-41a0-ba18-d725a6053f2e,athleteName:Selie Priter,athleteBornIn:New York,age:19,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$6718954.82,currentlyInjured:TRUE
+athleteID:39135b30-ecde-4a5a-9bb0-1b7840937f48,athleteName:Jessa Lynagh,athleteBornIn:Michigan,age:32,teamName:Philadelphia Eagles,yearsOnTeam:3,salary:$7660446.51,currentlyInjured:TRUE
+athleteID:1d0688f3-199e-43c2-8566-f9231ae89d6a,athleteName:Celeste Kleinpeltz,athleteBornIn:Illinois,age:33,teamName:Denver Broncos,yearsOnTeam:2,salary:$3568038.68,currentlyInjured:FALSE
+athleteID:9fb55af2-26fb-483d-96e4-ebc37ff8cbea,athleteName:Wernher Corse,athleteBornIn:Florida,age:25,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$545514.38,currentlyInjured:FALSE
+athleteID:5d31bad2-8192-4c36-b3bd-8335fde71e73,athleteName:Perry Mahony,athleteBornIn:Tennessee,age:27,teamName:Carolina Panthers,yearsOnTeam:3,salary:$784063.97,currentlyInjured:TRUE
+athleteID:4a9e82ff-10bd-4619-bcac-4ffaf9d9933c,athleteName:Babbette Checchi,athleteBornIn:New York,age:22,teamName:Cincinnati Bengals,yearsOnTeam:2,salary:$7442185.44,currentlyInjured:TRUE
+athleteID:12a35014-677a-4119-b362-c588bc8c519c,athleteName:Pincus Shenfish,athleteBornIn:California,age:31,teamName:Buffalo Bills,yearsOnTeam:5,salary:$205583.76,currentlyInjured:TRUE
+athleteID:b1537bcc-af65-423d-b96d-5a067ef3b93e,athleteName:Ealasaid Sellek,athleteBornIn:Oregon,age:21,teamName:Houston Texans,yearsOnTeam:4,salary:$3852393.67,currentlyInjured:FALSE
+athleteID:2ea5b3bd-543e-4aa3-87df-4bb911d81a3b,athleteName:Keen Preene,athleteBornIn:Oklahoma,age:31,teamName:Oakland Raiders,yearsOnTeam:4,salary:$6963000.27,currentlyInjured:TRUE
+athleteID:0b119fdc-a7f7-49cb-b13a-7a9c9a5d58e8,athleteName:Maure Gaynsford,athleteBornIn:California,age:33,teamName:Baltimore Ravens,yearsOnTeam:2,salary:$536686.22,currentlyInjured:FALSE
+athleteID:d16d4913-d011-4f7f-88f8-8edd8f683a08,athleteName:Gilburt Thornebarrow,athleteBornIn:Texas,age:29,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$7779709.94,currentlyInjured:TRUE
+athleteID:20957abe-2f7e-4041-b637-2dd7c947844f,athleteName:Derril Hallitt,athleteBornIn:Tennessee,age:23,teamName:Cincinnati Bengals,yearsOnTeam:2,salary:$3072141.98,currentlyInjured:FALSE
+athleteID:85078098-6b7e-41fe-8012-aebe183a31de,athleteName:Shel Shobbrook,athleteBornIn:California,age:23,teamName:Cincinnati Bengals,yearsOnTeam:6,salary:$6576526.77,currentlyInjured:TRUE
+athleteID:e4c900e5-0738-42c4-9b08-619374c9771b,athleteName:Beth Quarrell,athleteBornIn:Florida,age:23,teamName:Buffalo Bills,yearsOnTeam:6,salary:$7416505.52,currentlyInjured:TRUE
+athleteID:4a89a623-4103-4054-a6dd-f1d655e2bdd1,athleteName:Lil Burgne,athleteBornIn:Nebraska,age:25,teamName:Arizona Cardinals,yearsOnTeam:3,salary:$4493756.25,currentlyInjured:FALSE
+athleteID:4092f4c5-9477-49a7-8f99-80309976e01b,athleteName:Gar Dochon,athleteBornIn:Texas,age:19,teamName:Green Bay Packers,yearsOnTeam:6,salary:$5414551.18,currentlyInjured:TRUE
+athleteID:f23f9be8-8cfc-4b4d-ad8b-e6e50c651d77,athleteName:Amalie Rene,athleteBornIn:Pennsylvania,age:32,teamName:Detroit Lions,yearsOnTeam:1,salary:$4392089.32,currentlyInjured:TRUE
+athleteID:6586712b-23f5-4897-98b5-bd690bbc2a10,athleteName:Lisetta Camilletti,athleteBornIn:New York,age:30,teamName:Green Bay Packers,yearsOnTeam:4,salary:$5603496.57,currentlyInjured:FALSE
+athleteID:437ee0d5-15b7-4958-8d7c-f07f8f74081d,athleteName:Janella McPhater,athleteBornIn:California,age:26,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$2623415.9,currentlyInjured:TRUE
+athleteID:e6b2e259-3929-4cfa-9f7f-caf7f4d77223,athleteName:Flynn Kinvig,athleteBornIn:District of Columbia,age:26,teamName:Seattle Seahawks,yearsOnTeam:2,salary:$5632608.79,currentlyInjured:FALSE
+athleteID:40530ca5-d91f-4dba-8503-c8099e000b9b,athleteName:Joyan Diss,athleteBornIn:Massachusetts,age:23,teamName:Denver Broncos,yearsOnTeam:1,salary:$3455204.67,currentlyInjured:FALSE
+athleteID:73b00a33-7549-499a-819a-26c7f2de7fc2,athleteName:Krishnah George,athleteBornIn:California,age:25,teamName:Buffalo Bills,yearsOnTeam:2,salary:$5957801.52,currentlyInjured:TRUE
+athleteID:615b97d2-d2d8-4fe4-93de-58676d3891e0,athleteName:Natividad Larkby,athleteBornIn:District of Columbia,age:33,teamName:Buffalo Bills,yearsOnTeam:1,salary:$732080.89,currentlyInjured:TRUE
+athleteID:61de136c-89ae-4943-b04a-b96e5d0bede3,athleteName:Kienan Oboy,athleteBornIn:Utah,age:28,teamName:Kansas City Chiefs,yearsOnTeam:3,salary:$3032875.44,currentlyInjured:TRUE
+athleteID:f9f61453-2042-4679-9edf-f6974c30f623,athleteName:Coral Courtman,athleteBornIn:California,age:33,teamName:Los Angeles Chargers,yearsOnTeam:6,salary:$5934860.35,currentlyInjured:FALSE
+athleteID:a4c64cb6-e969-4bef-aa66-5d0271b46a64,athleteName:Corette Wastling,athleteBornIn:North Carolina,age:24,teamName:Cincinnati Bengals,yearsOnTeam:3,salary:$2565751.1,currentlyInjured:TRUE
+athleteID:8a06be8e-d54a-4a95-97d6-7596b0c5b6ab,athleteName:Cassandra Comport,athleteBornIn:Illinois,age:20,teamName:Green Bay Packers,yearsOnTeam:2,salary:$7306012.88,currentlyInjured:TRUE
+athleteID:d06bb8d7-c368-4aa2-ac3d-016df58a2cac,athleteName:Franciskus Corp,athleteBornIn:Minnesota,age:28,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$2530823.95,currentlyInjured:TRUE
+athleteID:28c47a04-8a48-4720-8484-6a771e3f1428,athleteName:Charlot Lewsam,athleteBornIn:Nevada,age:22,teamName:New York Jets,yearsOnTeam:5,salary:$2449115.34,currentlyInjured:FALSE
+athleteID:5a0497ea-238a-469f-9872-c86051e540be,athleteName:Pattin Vivien,athleteBornIn:Ohio,age:32,teamName:Chicago Bears,yearsOnTeam:3,salary:$7290522.11,currentlyInjured:FALSE
+athleteID:d9829197-0e1e-4854-bf3e-1ca17127fe51,athleteName:Faulkner Gault,athleteBornIn:Maryland,age:21,teamName:Cleveland Browns,yearsOnTeam:1,salary:$3260767.15,currentlyInjured:TRUE
+athleteID:952a7d7c-ccf9-480d-b160-9e74464fe884,athleteName:Ellynn Trime,athleteBornIn:California,age:31,teamName:New York Giants,yearsOnTeam:5,salary:$6795009.5,currentlyInjured:TRUE
+athleteID:8afa085b-b1c7-4489-b480-9cc832a52819,athleteName:Annelise Forker,athleteBornIn:Florida,age:35,teamName:Tennessee Titans,yearsOnTeam:3,salary:$618695.73,currentlyInjured:TRUE
+athleteID:58653f7c-e563-46ac-82f7-84fcd3e7d27d,athleteName:Ofella Hrus,athleteBornIn:Pennsylvania,age:28,teamName:Seattle Seahawks,yearsOnTeam:5,salary:$6114666.85,currentlyInjured:FALSE
+athleteID:fb908be0-95a3-413e-af4e-afbdc8f959a9,athleteName:Ric MacDaid,athleteBornIn:Arizona,age:26,teamName:Seattle Seahawks,yearsOnTeam:2,salary:$926944.95,currentlyInjured:FALSE
+athleteID:2208e424-e6e1-4884-9b8d-72cd8c070868,athleteName:Georgie Dorrins,athleteBornIn:Texas,age:25,teamName:Arizona Cardinals,yearsOnTeam:2,salary:$2724382.76,currentlyInjured:TRUE
+athleteID:d27b2c59-85c2-49ab-9648-fe3539849f43,athleteName:Carmen Bannard,athleteBornIn:Massachusetts,age:34,teamName:Oakland Raiders,yearsOnTeam:4,salary:$4338908.49,currentlyInjured:TRUE
+athleteID:241919de-f510-4ab0-a694-9c2c1b17fb8f,athleteName:Rusty Wilding,athleteBornIn:District of Columbia,age:23,teamName:Miami Dolphins,yearsOnTeam:6,salary:$7135123.05,currentlyInjured:TRUE
+athleteID:f02283cb-f061-4491-aa22-6b62e7001015,athleteName:Zedekiah Goulborn,athleteBornIn:Pennsylvania,age:19,teamName:Miami Dolphins,yearsOnTeam:3,salary:$2124973.81,currentlyInjured:TRUE
+athleteID:e14292c1-6937-4fa8-b53e-d31a1d69a762,athleteName:Lezlie Sothern,athleteBornIn:Florida,age:34,teamName:Philadelphia Eagles,yearsOnTeam:6,salary:$7733956.48,currentlyInjured:FALSE
+athleteID:372b0902-93da-4cfa-9f09-e8e55054ccb8,athleteName:Shantee Launchbury,athleteBornIn:New York,age:23,teamName:Atlanta Falcons,yearsOnTeam:5,salary:$6304007.51,currentlyInjured:TRUE
+athleteID:610f2de9-23b8-4a9f-b32a-2969db6d2a70,athleteName:Sterling Antushev,athleteBornIn:North Carolina,age:28,teamName:Arizona Cardinals,yearsOnTeam:5,salary:$5256506.74,currentlyInjured:FALSE
+athleteID:37ea6cd1-ecad-4da6-9172-a6659835a2fa,athleteName:Artur Dagless,athleteBornIn:Georgia,age:25,teamName:Minnesota Vikings,yearsOnTeam:6,salary:$1906576.99,currentlyInjured:TRUE
+athleteID:7fcd34b8-6e27-4210-81ed-3ac9d47d7af2,athleteName:Francesca Sparke,athleteBornIn:Texas,age:30,teamName:Detroit Lions,yearsOnTeam:2,salary:$257568.67,currentlyInjured:TRUE
+athleteID:97b8e0bc-a41a-4d66-a8d3-69152f0f0ef9,athleteName:Abbey Hailwood,athleteBornIn:Nevada,age:33,teamName:Los Angeles Chargers,yearsOnTeam:4,salary:$1483270.95,currentlyInjured:FALSE
+athleteID:d9c9928b-f2c6-44bd-a625-083fc5de57dc,athleteName:Suzi Spencer,athleteBornIn:District of Columbia,age:22,teamName:Houston Texans,yearsOnTeam:2,salary:$3813826.68,currentlyInjured:TRUE
+athleteID:fa2f8565-1116-46d8-a467-adc98afa75a3,athleteName:Gery Chilton,athleteBornIn:Connecticut,age:27,teamName:Miami Dolphins,yearsOnTeam:6,salary:$753749.45,currentlyInjured:FALSE
+athleteID:2912b6ef-70c7-452d-a6e3-4725064fcf95,athleteName:Cherlyn Kinforth,athleteBornIn:Virginia,age:21,teamName:Detroit Lions,yearsOnTeam:4,salary:$5130455.81,currentlyInjured:FALSE
+athleteID:e55e86ef-d30f-41b3-926e-84736c3e78b8,athleteName:Husain New,athleteBornIn:Texas,age:34,teamName:Tennessee Titans,yearsOnTeam:2,salary:$4486689.53,currentlyInjured:FALSE
+athleteID:31ec98bf-86ab-4cbf-8ae1-408c86c73a7c,athleteName:Willyt Epsly,athleteBornIn:Florida,age:21,teamName:Dallas Cowboys,yearsOnTeam:4,salary:$3537253.22,currentlyInjured:FALSE
+athleteID:ee7b9228-40f3-4258-a85a-c2d0eff9156a,athleteName:Artemus Calcott,athleteBornIn:Ohio,age:21,teamName:Cleveland Browns,yearsOnTeam:2,salary:$6797102.4,currentlyInjured:FALSE
+athleteID:888d840d-8401-4570-9a4a-89be38fdf2f0,athleteName:Charlena Heifer,athleteBornIn:Delaware,age:34,teamName:Oakland Raiders,yearsOnTeam:4,salary:$2908944.92,currentlyInjured:TRUE
+athleteID:4e0d0033-1748-4d5d-b5c4-a40948761806,athleteName:Dulcea Chennells,athleteBornIn:Louisiana,age:30,teamName:Tennessee Titans,yearsOnTeam:2,salary:$3592103.62,currentlyInjured:FALSE
+athleteID:f2a9af25-5405-4222-bcfa-057567e793f6,athleteName:Sayers Wasbrough,athleteBornIn:California,age:24,teamName:New York Giants,yearsOnTeam:5,salary:$6630898.44,currentlyInjured:FALSE
+athleteID:d5b71888-3120-4ec5-9058-0f6605af1387,athleteName:Bogey Caslin,athleteBornIn:Virginia,age:29,teamName:San Francisco 49ers,yearsOnTeam:4,salary:$1144975.06,currentlyInjured:FALSE
+athleteID:86eb69b0-5bbc-4b4f-abf6-00bc70790484,athleteName:Merline Fevier,athleteBornIn:Florida,age:31,teamName:New Orleans Saints,yearsOnTeam:2,salary:$3590508.83,currentlyInjured:TRUE
+athleteID:6bbf3663-9b73-4117-96d0-228082f77517,athleteName:Iris Allman,athleteBornIn:Florida,age:30,teamName:Seattle Seahawks,yearsOnTeam:2,salary:$5035987.57,currentlyInjured:FALSE
+athleteID:50425982-4068-4f9b-ab11-dd86d6b57ec7,athleteName:Josy Anselm,athleteBornIn:California,age:30,teamName:Denver Broncos,yearsOnTeam:5,salary:$890473.91,currentlyInjured:FALSE
+athleteID:c6d41337-c6c3-4698-9c2b-d7ebd94e0ccc,athleteName:Tova Swanwick,athleteBornIn:Texas,age:23,teamName:Cleveland Browns,yearsOnTeam:4,salary:$6274715.2,currentlyInjured:TRUE
+athleteID:1a535033-4752-4db3-8feb-14466eb245ae,athleteName:Mildrid Godsafe,athleteBornIn:District of Columbia,age:32,teamName:Philadelphia Eagles,yearsOnTeam:4,salary:$7067977.21,currentlyInjured:TRUE
+athleteID:6000ae93-bc25-4fc4-8071-a99fd5c56b07,athleteName:Sharon Tear,athleteBornIn:California,age:34,teamName:Jacksonville Jaguars,yearsOnTeam:5,salary:$5799597.33,currentlyInjured:FALSE
+athleteID:ce49af79-e15f-4eb3-bec5-0edda90008f3,athleteName:Amble Stilgo,athleteBornIn:Nevada,age:33,teamName:Indianapolis Colts,yearsOnTeam:4,salary:$3176394.48,currentlyInjured:FALSE
+athleteID:604a1912-c387-4060-8a67-63646c059fd4,athleteName:Stella Lyokhin,athleteBornIn:Georgia,age:34,teamName:New England Patriots,yearsOnTeam:4,salary:$4251642.99,currentlyInjured:FALSE
+athleteID:5846b864-8af3-4443-b6fd-c515659b583f,athleteName:Celine Schwieso,athleteBornIn:Florida,age:34,teamName:Los Angeles Rams,yearsOnTeam:3,salary:$4231445.51,currentlyInjured:TRUE
+athleteID:ffcfeda0-e84f-4595-a2d4-41ba834536e0,athleteName:Lib Yorston,athleteBornIn:Alabama,age:24,teamName:Cincinnati Bengals,yearsOnTeam:5,salary:$2353544.2,currentlyInjured:TRUE
+athleteID:3a3ea64a-997b-41ab-9c81-b7929e20999e,athleteName:Rowen Weekley,athleteBornIn:Texas,age:28,teamName:Carolina Panthers,yearsOnTeam:3,salary:$3803195.75,currentlyInjured:TRUE
+athleteID:ca176174-d560-41fd-bb83-5df0b9572ae4,athleteName:Lorettalorna Webland,athleteBornIn:Hawaii,age:20,teamName:Philadelphia Eagles,yearsOnTeam:5,salary:$2600620.85,currentlyInjured:TRUE
+athleteID:dc5b155f-8afb-480b-9646-2169ff8fed2d,athleteName:Sheffie Kettlestringe,athleteBornIn:Oklahoma,age:33,teamName:New York Giants,yearsOnTeam:1,salary:$5769934.37,currentlyInjured:TRUE
+athleteID:aa6495ab-3f47-456c-a725-c7b256156779,athleteName:Malia Capes,athleteBornIn:Minnesota,age:26,teamName:Houston Texans,yearsOnTeam:4,salary:$4134018.19,currentlyInjured:FALSE
+athleteID:751ed42a-3f52-4921-94fc-78789faf6ea3,athleteName:Dannie Grunson,athleteBornIn:Michigan,age:33,teamName:Cleveland Browns,yearsOnTeam:2,salary:$4974490.4,currentlyInjured:FALSE
+athleteID:53c697b5-567e-4462-b4a5-b7f085edd734,athleteName:Corena Yven,athleteBornIn:California,age:25,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$1413045,currentlyInjured:FALSE
+athleteID:fa8f7a53-5c68-4c68-b2b5-863ba5ff8112,athleteName:Evvy Sighart,athleteBornIn:Indiana,age:21,teamName:New England Patriots,yearsOnTeam:4,salary:$2313413.71,currentlyInjured:FALSE
+athleteID:78218c01-0d17-463f-9e2c-2cdb71047344,athleteName:Audra Lochet,athleteBornIn:Missouri,age:30,teamName:Dallas Cowboys,yearsOnTeam:1,salary:$1854777.19,currentlyInjured:FALSE
+athleteID:2fedf8ef-4414-4658-b73e-0212b7445456,athleteName:Barclay Rumens,athleteBornIn:Virginia,age:19,teamName:Philadelphia Eagles,yearsOnTeam:1,salary:$5330227.15,currentlyInjured:FALSE
+athleteID:c2fb3079-b67d-4a6d-a289-f5f43ebded5b,athleteName:Suzy Crayton,athleteBornIn:California,age:35,teamName:Kansas City Chiefs,yearsOnTeam:1,salary:$7216476.15,currentlyInjured:TRUE
+athleteID:ca8960e2-db69-40ff-b2a2-db610d4dd630,athleteName:Marlee Le Maitre,athleteBornIn:Michigan,age:29,teamName:New England Patriots,yearsOnTeam:6,salary:$7419985.05,currentlyInjured:FALSE
+athleteID:052d07d4-471b-4b3a-abe1-3dcbfd6fe5a5,athleteName:Brittaney Riall,athleteBornIn:Pennsylvania,age:20,teamName:Cleveland Browns,yearsOnTeam:1,salary:$6284957.38,currentlyInjured:TRUE
+athleteID:04468398-32f6-4bc5-942a-7ae45204df92,athleteName:Lane Iron,athleteBornIn:District of Columbia,age:25,teamName:New York Giants,yearsOnTeam:1,salary:$2356488.01,currentlyInjured:FALSE
+athleteID:dbed2e23-5909-47cc-a3bb-4635e444ef72,athleteName:Giffard Loffel,athleteBornIn:Washington,age:28,teamName:Green Bay Packers,yearsOnTeam:3,salary:$1039272.95,currentlyInjured:TRUE
+athleteID:f8972e5d-5b86-4fca-91d3-da912bee1955,athleteName:Marietta Edgett,athleteBornIn:Georgia,age:25,teamName:Green Bay Packers,yearsOnTeam:4,salary:$6811331.92,currentlyInjured:FALSE
+athleteID:13869b9c-b957-4b44-83e1-e330197dc0cf,athleteName:Dorotea Martignon,athleteBornIn:Pennsylvania,age:25,teamName:Arizona Cardinals,yearsOnTeam:6,salary:$4379453.06,currentlyInjured:TRUE
+athleteID:b7b7443b-5e20-4d3e-b495-2b3fa111cc3a,athleteName:Algernon Sayle,athleteBornIn:Kansas,age:24,teamName:New England Patriots,yearsOnTeam:5,salary:$328981.19,currentlyInjured:TRUE
+athleteID:83ec515b-f368-480a-b11a-667e09ba9c5b,athleteName:Elinor Couve,athleteBornIn:Minnesota,age:34,teamName:Houston Texans,yearsOnTeam:3,salary:$1912636.45,currentlyInjured:TRUE
+athleteID:d69fd4dc-7e8f-4a47-929a-b5602aa2b683,athleteName:Meier Darker,athleteBornIn:California,age:22,teamName:Jacksonville Jaguars,yearsOnTeam:6,salary:$3855252.02,currentlyInjured:FALSE
+athleteID:69ea92e4-b48e-483e-b082-78f472c67a2f,athleteName:Malanie Cotterrill,athleteBornIn:Mississippi,age:32,teamName:Houston Texans,yearsOnTeam:1,salary:$5713348.51,currentlyInjured:TRUE
+athleteID:ae20d903-840b-45f3-b99b-81205921b54e,athleteName:Charlie Leblanc,athleteBornIn:Washington,age:25,teamName:San Francisco 49ers,yearsOnTeam:4,salary:$5858448.05,currentlyInjured:FALSE
+athleteID:bf27daa9-e199-4675-b4dc-3e6bd2885c0b,athleteName:Efren Dilnot,athleteBornIn:Tennessee,age:20,teamName:Philadelphia Eagles,yearsOnTeam:1,salary:$747678.13,currentlyInjured:FALSE
+athleteID:31ba0f96-2280-4ba3-a094-be86f65ebccf,athleteName:Jenica Berney,athleteBornIn:Virginia,age:31,teamName:Green Bay Packers,yearsOnTeam:5,salary:$583063.28,currentlyInjured:TRUE
+athleteID:97eb4184-ad42-4963-b54c-16a9e44a8272,athleteName:Alair Munt,athleteBornIn:Alabama,age:33,teamName:Jacksonville Jaguars,yearsOnTeam:6,salary:$4799287.78,currentlyInjured:FALSE
+athleteID:72fab90b-f9fa-4f9e-8ece-685ff6f1435a,athleteName:Koralle Clavering,athleteBornIn:Maryland,age:35,teamName:Indianapolis Colts,yearsOnTeam:2,salary:$568794.59,currentlyInjured:FALSE
+athleteID:e651b6cb-2469-4650-a33b-0a7a22ec547e,athleteName:Murielle MacDermot,athleteBornIn:Texas,age:26,teamName:Carolina Panthers,yearsOnTeam:5,salary:$3283984.41,currentlyInjured:FALSE
+athleteID:f70f2f8e-9a1f-459c-bc3c-4a560eed4ff3,athleteName:Beverlie Rait,athleteBornIn:Texas,age:21,teamName:Baltimore Ravens,yearsOnTeam:1,salary:$5248782.81,currentlyInjured:TRUE
+athleteID:489e8b8c-bba6-4106-93ba-2b085689bf53,athleteName:Marylou Gibbieson,athleteBornIn:Texas,age:24,teamName:Los Angeles Rams,yearsOnTeam:4,salary:$4439691.03,currentlyInjured:FALSE
+athleteID:4764a7f2-a90f-44cc-8c0c-650bf3941319,athleteName:Granthem Clout,athleteBornIn:Michigan,age:23,teamName:Atlanta Falcons,yearsOnTeam:1,salary:$6400868.2,currentlyInjured:TRUE
+athleteID:d59a8e23-8118-4110-bbc2-c55086e9ea8c,athleteName:Florie Mildenhall,athleteBornIn:California,age:34,teamName:Chicago Bears,yearsOnTeam:6,salary:$3284201.19,currentlyInjured:TRUE
+athleteID:259a4932-0320-4ee2-b5af-5c3ab3e7f77d,athleteName:Tova Nuttall,athleteBornIn:Massachusetts,age:19,teamName:Philadelphia Eagles,yearsOnTeam:3,salary:$3136324.74,currentlyInjured:TRUE
+athleteID:69df2100-9133-4183-8dbf-6b245183a463,athleteName:Eloise Enright,athleteBornIn:Washington,age:34,teamName:Buffalo Bills,yearsOnTeam:3,salary:$365205.92,currentlyInjured:TRUE
+athleteID:03653112-d9d3-408a-a8a2-2869220c8a6a,athleteName:Adriena Gwinnell,athleteBornIn:Illinois,age:34,teamName:Detroit Lions,yearsOnTeam:4,salary:$2685962.2,currentlyInjured:FALSE
+athleteID:f97b1faf-5255-4ee4-b842-2057e6eca6c2,athleteName:Danni Abbis,athleteBornIn:New Jersey,age:21,teamName:Kansas City Chiefs,yearsOnTeam:6,salary:$3215281.61,currentlyInjured:FALSE
+athleteID:f62838de-2a11-4553-a070-a38499665176,athleteName:Kirk Bartkiewicz,athleteBornIn:Florida,age:21,teamName:San Francisco 49ers,yearsOnTeam:6,salary:$2670059.41,currentlyInjured:TRUE
+athleteID:5b254ee9-40fc-4688-9c9d-91b7cb2da8cf,athleteName:Trudi Townend,athleteBornIn:Alabama,age:26,teamName:Miami Dolphins,yearsOnTeam:4,salary:$4788083.49,currentlyInjured:TRUE
+athleteID:c530cedb-ccfb-4503-959f-5cb871af150b,athleteName:Alexio Prott,athleteBornIn:Utah,age:24,teamName:Minnesota Vikings,yearsOnTeam:6,salary:$4175926.74,currentlyInjured:TRUE
+athleteID:211abeb9-718a-46ec-8126-f27d61b62f81,athleteName:Ollie Dignall,athleteBornIn:Missouri,age:31,teamName:Philadelphia Eagles,yearsOnTeam:3,salary:$1650642.38,currentlyInjured:TRUE
+athleteID:6837c119-c660-4136-9b77-85f35fa97dd0,athleteName:Siana Penwright,athleteBornIn:New York,age:34,teamName:Buffalo Bills,yearsOnTeam:5,salary:$1739702.78,currentlyInjured:FALSE
+athleteID:a71fe38c-a1af-4902-9c17-fc646ec905a5,athleteName:Janek Gontier,athleteBornIn:Texas,age:33,teamName:New York Giants,yearsOnTeam:5,salary:$3068295.94,currentlyInjured:FALSE
+athleteID:fc67722a-1ee6-4121-963a-df0f64fcf634,athleteName:Lacie Lardnar,athleteBornIn:Oklahoma,age:20,teamName:Carolina Panthers,yearsOnTeam:4,salary:$4497755.43,currentlyInjured:FALSE
+athleteID:e58d8c42-25b0-424c-922a-5d3193f3c4ae,athleteName:Ortensia Agar,athleteBornIn:Texas,age:28,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$6759712.72,currentlyInjured:FALSE
+athleteID:bc1574e3-9cad-4467-96d4-03db1ca55c3e,athleteName:Edmon Weld,athleteBornIn:Colorado,age:21,teamName:Denver Broncos,yearsOnTeam:2,salary:$2901688.75,currentlyInjured:FALSE
+athleteID:de002984-64e4-4afe-ae4d-21706e1a4bf8,athleteName:Prescott Pennazzi,athleteBornIn:District of Columbia,age:19,teamName:Atlanta Falcons,yearsOnTeam:3,salary:$733080.14,currentlyInjured:TRUE
+athleteID:70250502-a440-4d93-b5e5-8dc4228830d0,athleteName:Durward Wathen,athleteBornIn:Michigan,age:24,teamName:Detroit Lions,yearsOnTeam:4,salary:$1235513.14,currentlyInjured:TRUE
+athleteID:756881fb-bd97-4d0e-9600-4f977fd71548,athleteName:Marcy Snowman,athleteBornIn:New Jersey,age:26,teamName:New York Jets,yearsOnTeam:1,salary:$575146.93,currentlyInjured:TRUE
+athleteID:825a0922-9507-4b2b-a6fb-ffe1b3a519ef,athleteName:Nelly Cobb,athleteBornIn:Texas,age:29,teamName:Minnesota Vikings,yearsOnTeam:1,salary:$6420308.4,currentlyInjured:FALSE
+athleteID:2ac960be-fd79-437c-aef4-91b7316e8945,athleteName:Malvin Thrasher,athleteBornIn:Texas,age:33,teamName:Detroit Lions,yearsOnTeam:6,salary:$1878876.99,currentlyInjured:TRUE
+athleteID:afd23dc1-f8e5-4d89-b2fb-b4869a68b88a,athleteName:Roma Harfoot,athleteBornIn:Texas,age:27,teamName:New York Giants,yearsOnTeam:2,salary:$6311370.59,currentlyInjured:FALSE
+athleteID:6fc656a9-c462-4ab0-be07-a8773b68a87f,athleteName:Josie Batting,athleteBornIn:Wisconsin,age:25,teamName:Green Bay Packers,yearsOnTeam:5,salary:$4406984.96,currentlyInjured:FALSE
+athleteID:14abfdd2-ffdd-447f-a564-1cea37c4389b,athleteName:Maurice Goble,athleteBornIn:New Jersey,age:20,teamName:Miami Dolphins,yearsOnTeam:2,salary:$3173501.06,currentlyInjured:FALSE
+athleteID:1d8931dc-19e4-4eb1-bc7a-69a7daf45d0a,athleteName:Nertie MacAllister,athleteBornIn:Georgia,age:35,teamName:Tennessee Titans,yearsOnTeam:5,salary:$5605656.96,currentlyInjured:FALSE
+athleteID:57d38b18-7133-4a3c-bfba-ff7ce59e0d60,athleteName:Edward L'Hommee,athleteBornIn:District of Columbia,age:34,teamName:New York Jets,yearsOnTeam:5,salary:$6356188.15,currentlyInjured:TRUE
+athleteID:0f119c3e-c5fe-4efa-a179-aaa048a9af14,athleteName:Ally Bottinelli,athleteBornIn:Tennessee,age:33,teamName:Pittsburgh Steelers,yearsOnTeam:4,salary:$5537845.63,currentlyInjured:FALSE
+athleteID:5e230de4-7721-49ce-b79c-bb31d2efe9cb,athleteName:Arin Tuckwood,athleteBornIn:Pennsylvania,age:19,teamName:Tennessee Titans,yearsOnTeam:6,salary:$3926344.65,currentlyInjured:FALSE
+athleteID:5155c707-e259-4b37-bcdd-7947a2427705,athleteName:Gay Ilden,athleteBornIn:Louisiana,age:26,teamName:Oakland Raiders,yearsOnTeam:1,salary:$3021284.93,currentlyInjured:FALSE
+athleteID:1a100c83-5c07-46da-bd69-c07e506a13a0,athleteName:Idalia Ingrey,athleteBornIn:Virginia,age:32,teamName:New Orleans Saints,yearsOnTeam:6,salary:$4012262.16,currentlyInjured:TRUE
+athleteID:0b257e2c-6d80-4f7f-8e80-f53ac843d1a8,athleteName:Adiana Ivashechkin,athleteBornIn:Louisiana,age:24,teamName:Cincinnati Bengals,yearsOnTeam:3,salary:$4998597.36,currentlyInjured:FALSE
+athleteID:a8404aef-6289-441f-8b20-9e37275bf5eb,athleteName:Hymie Cowp,athleteBornIn:California,age:30,teamName:Los Angeles Rams,yearsOnTeam:5,salary:$4843439.21,currentlyInjured:TRUE
+athleteID:96d0176b-be24-460e-ad9d-ec29a3dfb486,athleteName:Bendite Gumbrell,athleteBornIn:California,age:26,teamName:Detroit Lions,yearsOnTeam:5,salary:$4825227.71,currentlyInjured:TRUE
+athleteID:82e9662b-27e9-4873-8e5c-f49beddccb07,athleteName:Ambrosio Kitchin,athleteBornIn:Washington,age:19,teamName:Seattle Seahawks,yearsOnTeam:1,salary:$3341298.91,currentlyInjured:FALSE
+athleteID:66b3e33f-ff56-4a83-8ed2-5b332f1e5ea0,athleteName:Billie Archibould,athleteBornIn:Massachusetts,age:32,teamName:Atlanta Falcons,yearsOnTeam:6,salary:$4355025.83,currentlyInjured:TRUE
+athleteID:142280ff-6710-4cc4-bc5d-818fc1ab98cb,athleteName:Starla Writer,athleteBornIn:Texas,age:29,teamName:Seattle Seahawks,yearsOnTeam:6,salary:$4952397.12,currentlyInjured:TRUE
+athleteID:cf18c409-5891-4758-bade-02c5f5acbfd4,athleteName:Gaelan Fronczak,athleteBornIn:Texas,age:25,teamName:Baltimore Ravens,yearsOnTeam:3,salary:$5194807.36,currentlyInjured:TRUE
+athleteID:573a8c0d-1686-4a6d-9120-eb661503d444,athleteName:Felic Garlinge,athleteBornIn:Virginia,age:29,teamName:Cleveland Browns,yearsOnTeam:3,salary:$3506077.8,currentlyInjured:TRUE
+athleteID:87d4172a-9f6c-4159-bafc-e3774f98f475,athleteName:Arabelle Hinners,athleteBornIn:Indiana,age:26,teamName:Cincinnati Bengals,yearsOnTeam:1,salary:$4683694.13,currentlyInjured:TRUE
+athleteID:6746d2b0-8b5e-4a0b-ba90-04d14c7b339d,athleteName:Culver Asplen,athleteBornIn:Texas,age:30,teamName:Dallas Cowboys,yearsOnTeam:1,salary:$6735117.72,currentlyInjured:TRUE
+athleteID:32b3a5a9-8e5e-49f6-8c14-b3d84ecdc1a6,athleteName:Eda Beckham,athleteBornIn:Texas,age:35,teamName:New York Giants,yearsOnTeam:3,salary:$5678407.54,currentlyInjured:FALSE
+athleteID:9d8a15ef-f1b8-4251-9031-d43d835bae15,athleteName:Erda Arthy,athleteBornIn:Texas,age:22,teamName:Green Bay Packers,yearsOnTeam:1,salary:$957353.02,currentlyInjured:FALSE
+athleteID:8e33ce83-a1e2-4eb0-b816-927c58347b53,athleteName:Selinda Walthall,athleteBornIn:Arizona,age:34,teamName:Arizona Cardinals,yearsOnTeam:2,salary:$6691781.88,currentlyInjured:FALSE
+athleteID:b3d2badb-47be-423f-bf9c-a5d7bb352a05,athleteName:Tabina Bullman,athleteBornIn:Maryland,age:34,teamName:Buffalo Bills,yearsOnTeam:2,salary:$2642991.43,currentlyInjured:FALSE
+athleteID:a276f93b-4ed7-4b11-8da5-73fab5f0f1f0,athleteName:Darbee McIlraith,athleteBornIn:Massachusetts,age:23,teamName:Buffalo Bills,yearsOnTeam:3,salary:$1423974.48,currentlyInjured:TRUE
+athleteID:c0dfd3ee-90da-435c-8b0c-d631d5c10406,athleteName:Ricardo Battersby,athleteBornIn:Colorado,age:34,teamName:Arizona Cardinals,yearsOnTeam:6,salary:$6823214.11,currentlyInjured:FALSE
+athleteID:0dfba4fa-30e0-4aab-af10-04f9d476c4b4,athleteName:Sibel Egle of Germany,athleteBornIn:California,age:26,teamName:Washington Redskins,yearsOnTeam:6,salary:$5724539.69,currentlyInjured:FALSE
+athleteID:ca9c66a9-b474-43ad-968b-225b1ce91fed,athleteName:Eloise Matsell,athleteBornIn:Massachusetts,age:19,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$1256476.59,currentlyInjured:FALSE
+athleteID:0d637f97-76e4-4d8e-a564-4773fb402b51,athleteName:Jody Carluccio,athleteBornIn:Florida,age:22,teamName:New York Giants,yearsOnTeam:2,salary:$5693834.76,currentlyInjured:TRUE
+athleteID:4f5750d0-14d3-4f0d-a9ef-ef7808af2e34,athleteName:Britt Alans,athleteBornIn:California,age:19,teamName:New Orleans Saints,yearsOnTeam:4,salary:$1562959.64,currentlyInjured:TRUE
+athleteID:66559a8e-cdf0-4255-a323-9005b7068713,athleteName:Wally Lantiff,athleteBornIn:California,age:21,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$1321754.76,currentlyInjured:TRUE
+athleteID:deb2c824-e8cc-4f14-896a-128a2a30caac,athleteName:Adolph Kiddey,athleteBornIn:California,age:34,teamName:Los Angeles Rams,yearsOnTeam:5,salary:$2292915.24,currentlyInjured:TRUE
+athleteID:cfba2b19-33d6-488f-9eb9-53b4e1ecd074,athleteName:Melisenda Duran,athleteBornIn:Tennessee,age:20,teamName:Carolina Panthers,yearsOnTeam:2,salary:$6425801.78,currentlyInjured:FALSE
+athleteID:639810c9-3a4a-4c5b-b715-2dc8e025f1bc,athleteName:Flo Somerfield,athleteBornIn:Virginia,age:25,teamName:Arizona Cardinals,yearsOnTeam:5,salary:$2008527.9,currentlyInjured:TRUE
+athleteID:a9efa9a0-6a4f-40a0-84f2-6990d26cb4e0,athleteName:Hulda Everest,athleteBornIn:Pennsylvania,age:26,teamName:Cincinnati Bengals,yearsOnTeam:3,salary:$3785106.33,currentlyInjured:TRUE
+athleteID:bbe7bc29-89bc-4998-a2dc-7c9258a09bed,athleteName:Alfredo Albany,athleteBornIn:Pennsylvania,age:24,teamName:Cleveland Browns,yearsOnTeam:1,salary:$5574240.69,currentlyInjured:FALSE
+athleteID:a5afc6d4-7a1b-4323-8177-9d10eaeff50f,athleteName:Rafe Ravenshear,athleteBornIn:Washington,age:29,teamName:Buffalo Bills,yearsOnTeam:6,salary:$4575724.73,currentlyInjured:FALSE
+athleteID:82f01b81-0a71-4251-9d8d-908ecebb2371,athleteName:Alix Alp,athleteBornIn:Texas,age:29,teamName:Buffalo Bills,yearsOnTeam:3,salary:$883467.15,currentlyInjured:TRUE
+athleteID:faa82adb-41a7-40b9-b42c-d4069f2eb2a4,athleteName:Lynelle Daltry,athleteBornIn:Alabama,age:30,teamName:Tennessee Titans,yearsOnTeam:2,salary:$4062749.32,currentlyInjured:TRUE
+athleteID:45d85089-2c80-46f4-b43e-8ffec40196b7,athleteName:Elora Sywell,athleteBornIn:Illinois,age:34,teamName:Los Angeles Rams,yearsOnTeam:5,salary:$2622986.82,currentlyInjured:TRUE
+athleteID:09e3f476-95a4-411f-88ad-5467637ec66b,athleteName:Northrup Pettigrew,athleteBornIn:Utah,age:33,teamName:Cleveland Browns,yearsOnTeam:6,salary:$2476040.71,currentlyInjured:FALSE
+athleteID:03b408e6-5e25-46c2-8fee-320062d43147,athleteName:Betsy Ordish,athleteBornIn:Connecticut,age:34,teamName:Green Bay Packers,yearsOnTeam:5,salary:$502041.64,currentlyInjured:TRUE
+athleteID:0954cdb4-5175-4de0-a0cb-ae9c2430efa0,athleteName:Elia Hoggetts,athleteBornIn:Hawaii,age:34,teamName:New York Jets,yearsOnTeam:5,salary:$3626579.22,currentlyInjured:FALSE
+athleteID:3046755f-2d1a-43a9-9fcc-3ddef15624de,athleteName:Adara McClune,athleteBornIn:Texas,age:25,teamName:Buffalo Bills,yearsOnTeam:1,salary:$6721156.23,currentlyInjured:TRUE
+athleteID:9600e7c9-b38a-4275-aa72-937fc29a7132,athleteName:Erina Klimpt,athleteBornIn:Texas,age:24,teamName:Philadelphia Eagles,yearsOnTeam:2,salary:$6015574.29,currentlyInjured:TRUE
+athleteID:f3dd5650-ff7e-4244-912f-11c9dd570ff1,athleteName:Noel McCadden,athleteBornIn:Colorado,age:27,teamName:Buffalo Bills,yearsOnTeam:5,salary:$5220750.1,currentlyInjured:FALSE
+athleteID:9fc85077-d08e-414e-85be-3e22703ce610,athleteName:Aigneis Esselin,athleteBornIn:New York,age:30,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$1375974.39,currentlyInjured:FALSE
+athleteID:8c67b014-981c-4f22-9a75-777ecee8b1f7,athleteName:Hamish Siebert,athleteBornIn:Florida,age:24,teamName:Miami Dolphins,yearsOnTeam:5,salary:$7115452.91,currentlyInjured:FALSE
+athleteID:ced7c1a5-60a3-419e-a073-62ad0131aaef,athleteName:Bonnibelle Buterton,athleteBornIn:Iowa,age:31,teamName:Seattle Seahawks,yearsOnTeam:4,salary:$1309396.01,currentlyInjured:TRUE
+athleteID:bfa5e583-0ef4-48d8-9704-b156f0546248,athleteName:Liv McKall,athleteBornIn:Missouri,age:28,teamName:San Francisco 49ers,yearsOnTeam:2,salary:$7485667.92,currentlyInjured:TRUE
+athleteID:328ce85f-ec83-4fb2-8969-6cb24a578504,athleteName:Nadya Springthorp,athleteBornIn:Oklahoma,age:22,teamName:Carolina Panthers,yearsOnTeam:1,salary:$7329698.96,currentlyInjured:FALSE
+athleteID:30a2b3e7-e2c5-4e73-bcc4-8547cf07fe1e,athleteName:Jany Cullerne,athleteBornIn:Tennessee,age:24,teamName:Washington Redskins,yearsOnTeam:2,salary:$972081.09,currentlyInjured:TRUE
+athleteID:58d5954e-6ee9-48d8-b948-67bb0f400d03,athleteName:Odie Scarfe,athleteBornIn:New York,age:30,teamName:Carolina Panthers,yearsOnTeam:5,salary:$1729376.44,currentlyInjured:TRUE
+athleteID:7bf45078-6996-4258-9c1c-54f23b7c6360,athleteName:Zelma Gurnay,athleteBornIn:California,age:25,teamName:San Francisco 49ers,yearsOnTeam:3,salary:$1212565.87,currentlyInjured:FALSE
+athleteID:c4095303-927f-4b00-baff-334ce6eebc63,athleteName:Alfie Gatchel,athleteBornIn:West Virginia,age:27,teamName:Houston Texans,yearsOnTeam:4,salary:$313596.72,currentlyInjured:FALSE
+athleteID:51937e0e-42b3-4233-8f43-0990985915a4,athleteName:Ade Edgerton,athleteBornIn:Oklahoma,age:33,teamName:Minnesota Vikings,yearsOnTeam:1,salary:$5157023.24,currentlyInjured:FALSE
+athleteID:070f7681-6b7d-47f6-9d0e-2655a010736f,athleteName:Jay Vaney,athleteBornIn:Texas,age:34,teamName:Atlanta Falcons,yearsOnTeam:5,salary:$1936196.75,currentlyInjured:FALSE
+athleteID:022676ce-99c3-4b68-96b2-029449a7a39d,athleteName:Tish Attiwill,athleteBornIn:Texas,age:28,teamName:Houston Texans,yearsOnTeam:1,salary:$1335314.11,currentlyInjured:TRUE
+athleteID:5ba4f4df-02a1-406c-970d-8200278a58ba,athleteName:Kip Durrance,athleteBornIn:Texas,age:24,teamName:Atlanta Falcons,yearsOnTeam:2,salary:$775078.83,currentlyInjured:FALSE
+athleteID:2d6e8001-5001-427d-aa4d-6e306531a1cf,athleteName:Neill Dupey,athleteBornIn:Florida,age:23,teamName:Detroit Lions,yearsOnTeam:1,salary:$1152341.8,currentlyInjured:TRUE
+athleteID:d33d571f-64e6-45ea-a81d-163e16d6af41,athleteName:Cortney Sellors,athleteBornIn:Florida,age:25,teamName:New England Patriots,yearsOnTeam:1,salary:$1814624.83,currentlyInjured:TRUE
+athleteID:2449515d-8685-4135-81d4-5848695e4e52,athleteName:Hinda Kestian,athleteBornIn:California,age:25,teamName:Buffalo Bills,yearsOnTeam:2,salary:$4362836.98,currentlyInjured:TRUE
+athleteID:dcbb6315-dc8b-4161-afa0-0da495ababf6,athleteName:Lydia Mangeon,athleteBornIn:Texas,age:24,teamName:Houston Texans,yearsOnTeam:3,salary:$465101.12,currentlyInjured:TRUE
+athleteID:d1d82748-c92e-4cb4-85aa-4e688f5a737e,athleteName:Irena Frampton,athleteBornIn:California,age:22,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$7355323.74,currentlyInjured:TRUE
+athleteID:c2ff9697-8447-4e19-983f-62f473865d7e,athleteName:Melany Tumbridge,athleteBornIn:Pennsylvania,age:20,teamName:Kansas City Chiefs,yearsOnTeam:1,salary:$7007788.63,currentlyInjured:FALSE
+athleteID:4d5e8579-f942-4fe5-b95c-a1918c7e6656,athleteName:Laurent Dymocke,athleteBornIn:Indiana,age:20,teamName:San Francisco 49ers,yearsOnTeam:4,salary:$6170159.19,currentlyInjured:FALSE
+athleteID:d183b5ac-5cd4-4a8e-abff-a6ce76344c09,athleteName:Marlene Dessent,athleteBornIn:Texas,age:20,teamName:Indianapolis Colts,yearsOnTeam:2,salary:$3681635.98,currentlyInjured:TRUE
+athleteID:34d1cb9b-5c34-4704-84c9-205a3bbbef82,athleteName:Bruno Jerdein,athleteBornIn:South Dakota,age:27,teamName:Kansas City Chiefs,yearsOnTeam:5,salary:$2770670.03,currentlyInjured:TRUE
+athleteID:6d0e5667-cd10-4d81-830c-1a921903597f,athleteName:Tabina McGillivray,athleteBornIn:Texas,age:22,teamName:Oakland Raiders,yearsOnTeam:1,salary:$6496981.8,currentlyInjured:TRUE
+athleteID:6ba96e72-d227-460c-8d29-236c9084565d,athleteName:Mead Inskipp,athleteBornIn:California,age:32,teamName:New Orleans Saints,yearsOnTeam:2,salary:$4334668.93,currentlyInjured:FALSE
+athleteID:1918b0a5-c6e2-4f08-a87c-63c439a2264d,athleteName:Bonni Bastow,athleteBornIn:Illinois,age:35,teamName:Arizona Cardinals,yearsOnTeam:3,salary:$6436794.14,currentlyInjured:FALSE
+athleteID:1f41e704-370d-4336-9b91-6436f542f3c7,athleteName:Walton Serchwell,athleteBornIn:Indiana,age:30,teamName:Denver Broncos,yearsOnTeam:2,salary:$5276134.67,currentlyInjured:FALSE
+athleteID:c7fc9d82-de78-4b03-8b9b-0904557b5eb8,athleteName:Ailyn Acton,athleteBornIn:California,age:27,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$1092275.51,currentlyInjured:FALSE
+athleteID:2f89eb12-2fc1-4075-8daa-55342fcab5fd,athleteName:Rriocard Beretta,athleteBornIn:Pennsylvania,age:26,teamName:Arizona Cardinals,yearsOnTeam:4,salary:$364671.4,currentlyInjured:TRUE
+athleteID:f589aabb-6a58-4899-821e-ca59e20dae37,athleteName:Hakim Duckerin,athleteBornIn:California,age:31,teamName:Atlanta Falcons,yearsOnTeam:6,salary:$7958818.83,currentlyInjured:FALSE
+athleteID:6286b326-aab4-4369-a34e-1487c0c34866,athleteName:Ave Hachette,athleteBornIn:Missouri,age:30,teamName:New England Patriots,yearsOnTeam:3,salary:$4618024.38,currentlyInjured:TRUE
+athleteID:8ef51839-90f8-4ed6-b047-5291520511fc,athleteName:Humbert Kesper,athleteBornIn:Texas,age:34,teamName:Dallas Cowboys,yearsOnTeam:5,salary:$6720112.96,currentlyInjured:TRUE
+athleteID:ee23dbfb-087d-4929-8af8-c45e35372548,athleteName:Fanchon De Few,athleteBornIn:Minnesota,age:26,teamName:Baltimore Ravens,yearsOnTeam:6,salary:$1583865.83,currentlyInjured:TRUE
+athleteID:8e37674d-f9f5-42c3-8151-69f49a16ad3f,athleteName:Ban Penn,athleteBornIn:Washington,age:34,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$4984892,currentlyInjured:TRUE
+athleteID:69db04d9-2c9c-430c-9eec-792970a9fb54,athleteName:Tammi Ravenscraft,athleteBornIn:District of Columbia,age:31,teamName:New York Jets,yearsOnTeam:5,salary:$3058751.63,currentlyInjured:TRUE
+athleteID:ed4b0cb6-dc77-4c07-94ac-220ae1c3ccbe,athleteName:Hannah Beards,athleteBornIn:Pennsylvania,age:27,teamName:Houston Texans,yearsOnTeam:6,salary:$7923222.3,currentlyInjured:TRUE
+athleteID:f62743e0-1ae0-417f-a4af-f454eecc11e6,athleteName:Jacinthe Dulwich,athleteBornIn:Nevada,age:20,teamName:Buffalo Bills,yearsOnTeam:5,salary:$7640336.58,currentlyInjured:FALSE
+athleteID:352d2c10-c51d-4ec4-935f-3d71d79c0fa8,athleteName:Berry Allday,athleteBornIn:Wisconsin,age:31,teamName:Chicago Bears,yearsOnTeam:3,salary:$4391195.87,currentlyInjured:TRUE
+athleteID:fb949c65-d585-42f3-a46a-486ba0979c90,athleteName:Iain Casino,athleteBornIn:California,age:29,teamName:Los Angeles Chargers,yearsOnTeam:6,salary:$6594343.67,currentlyInjured:FALSE
+athleteID:a728c6c9-f8fd-42ce-91f2-8a7582f04128,athleteName:Lemar Bennell,athleteBornIn:Missouri,age:23,teamName:Carolina Panthers,yearsOnTeam:6,salary:$979136.19,currentlyInjured:FALSE
+athleteID:ea3eb6f1-8531-4d32-a8bd-f53719d5fa0e,athleteName:Millie Flancinbaum,athleteBornIn:Texas,age:20,teamName:Los Angeles Chargers,yearsOnTeam:3,salary:$6119033.09,currentlyInjured:TRUE
+athleteID:e5cad58b-9bc6-4cd1-833b-f7addd9e2007,athleteName:Prent Melland,athleteBornIn:Texas,age:29,teamName:Tampa Bay Buccaneers,yearsOnTeam:4,salary:$4613134.03,currentlyInjured:TRUE
+athleteID:08da0d77-183d-49ea-9750-7387f45e79a6,athleteName:Karylin Towell,athleteBornIn:Michigan,age:34,teamName:Washington Redskins,yearsOnTeam:6,salary:$5848867.45,currentlyInjured:FALSE
+athleteID:9be78d31-241f-4bc3-839d-7737f11c5d26,athleteName:Hamlin Jacquest,athleteBornIn:Indiana,age:27,teamName:Cincinnati Bengals,yearsOnTeam:3,salary:$2660134.87,currentlyInjured:FALSE
+athleteID:f70ab4f8-714f-4ef0-b5ff-4fbdc6fb5a98,athleteName:Peadar McNysche,athleteBornIn:Wyoming,age:24,teamName:Pittsburgh Steelers,yearsOnTeam:3,salary:$1482927.72,currentlyInjured:FALSE
+athleteID:8261b7cc-b41a-4821-9968-bf9081c124ba,athleteName:Eduard Fairbanks,athleteBornIn:Illinois,age:33,teamName:Detroit Lions,yearsOnTeam:2,salary:$1759227.09,currentlyInjured:FALSE
+athleteID:ac1ebde5-9256-493b-93ba-cc261c273884,athleteName:Isobel St. Quentin,athleteBornIn:Indiana,age:35,teamName:Cleveland Browns,yearsOnTeam:4,salary:$1881982.67,currentlyInjured:FALSE
+athleteID:1f021006-5d1c-4f43-aca2-90d79f8b459c,athleteName:Hannis Oggers,athleteBornIn:Florida,age:34,teamName:Los Angeles Chargers,yearsOnTeam:1,salary:$6720250.05,currentlyInjured:FALSE
+athleteID:75d4d13f-1809-4514-b353-f9ff66ccfcbf,athleteName:Bobbie McAline,athleteBornIn:Tennessee,age:25,teamName:Denver Broncos,yearsOnTeam:2,salary:$4627079.36,currentlyInjured:TRUE
+athleteID:00cce58f-e270-49b9-a25d-35ae46e84fac,athleteName:Kendrick Chiswell,athleteBornIn:California,age:27,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$221677.62,currentlyInjured:TRUE
+athleteID:9d31b738-98f1-40ea-b364-c0121628b606,athleteName:Nichol Strood,athleteBornIn:Florida,age:23,teamName:Arizona Cardinals,yearsOnTeam:2,salary:$2020638.78,currentlyInjured:TRUE
+athleteID:4fcfb530-67ab-41a6-8336-03fb6b69eab7,athleteName:Eddy Yakunchikov,athleteBornIn:Alaska,age:26,teamName:Pittsburgh Steelers,yearsOnTeam:3,salary:$489154.07,currentlyInjured:TRUE
+athleteID:76061403-dcb4-43c3-8a0a-b53c34bc797f,athleteName:Marline Reinger,athleteBornIn:Oregon,age:22,teamName:Denver Broncos,yearsOnTeam:6,salary:$2419775.65,currentlyInjured:TRUE
+athleteID:345e64ed-cccf-45bf-95b5-1756f76f456d,athleteName:Padraic Keems,athleteBornIn:Pennsylvania,age:28,teamName:Oakland Raiders,yearsOnTeam:2,salary:$1467204.4,currentlyInjured:FALSE
+athleteID:943d633b-5c28-47e0-bbae-9dd731c56e26,athleteName:Ernesta Gretton,athleteBornIn:Missouri,age:27,teamName:Cincinnati Bengals,yearsOnTeam:4,salary:$1330783.58,currentlyInjured:FALSE
+athleteID:5ba80eb6-9306-4838-88f9-0405150b9880,athleteName:Flo Welburn,athleteBornIn:Florida,age:31,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$5177874.6,currentlyInjured:TRUE
+athleteID:c411d1b3-ef8b-4e4b-ad08-6b16ef5d9413,athleteName:Fred Bento,athleteBornIn:Texas,age:26,teamName:Minnesota Vikings,yearsOnTeam:5,salary:$2627230.28,currentlyInjured:TRUE
+athleteID:8d8d9423-fb02-4579-8609-92964661eb15,athleteName:Elysia Durrant,athleteBornIn:New Mexico,age:24,teamName:Oakland Raiders,yearsOnTeam:5,salary:$1585390.93,currentlyInjured:TRUE
+athleteID:549ae5fa-6114-4074-a3a2-5061991a0990,athleteName:Thorin Juett,athleteBornIn:Pennsylvania,age:31,teamName:Buffalo Bills,yearsOnTeam:3,salary:$5981158.18,currentlyInjured:FALSE
+athleteID:a2b6ee14-83b5-49ac-8263-473307ccc57d,athleteName:Leola Burress,athleteBornIn:Georgia,age:35,teamName:Cleveland Browns,yearsOnTeam:4,salary:$6874918.29,currentlyInjured:FALSE
+athleteID:7fef0509-c7b9-47c5-9edc-a3c942b1f199,athleteName:Justis Bloore,athleteBornIn:Texas,age:31,teamName:Arizona Cardinals,yearsOnTeam:6,salary:$3394378.42,currentlyInjured:FALSE
+athleteID:fedb5ae7-7210-44ee-a3c3-65e6bb04868b,athleteName:Marnie O' Quirk,athleteBornIn:South Carolina,age:30,teamName:Cleveland Browns,yearsOnTeam:3,salary:$7556423.32,currentlyInjured:FALSE
+athleteID:13d7820d-7fc0-4c78-a704-5074d4f49e7b,athleteName:Dione Guesford,athleteBornIn:California,age:19,teamName:Houston Texans,yearsOnTeam:4,salary:$4748407.6,currentlyInjured:FALSE
+athleteID:6518f5d4-c798-4a60-b98f-28127e59f519,athleteName:Coop Pilkington,athleteBornIn:Alabama,age:20,teamName:Minnesota Vikings,yearsOnTeam:4,salary:$2061160.26,currentlyInjured:TRUE
+athleteID:35c7a567-2ce6-45ba-906a-bc84aeb080db,athleteName:Brunhilde Rohfsen,athleteBornIn:Nevada,age:35,teamName:Philadelphia Eagles,yearsOnTeam:2,salary:$2903603.25,currentlyInjured:FALSE
+athleteID:57f87540-81f8-4fa0-999f-3d151a65b7f1,athleteName:Ekaterina Arnot,athleteBornIn:Kansas,age:26,teamName:San Francisco 49ers,yearsOnTeam:5,salary:$6365610.54,currentlyInjured:TRUE
+athleteID:fbfeb508-0bf9-4385-987d-101699b6544e,athleteName:Jard Rodolphe,athleteBornIn:Minnesota,age:26,teamName:Jacksonville Jaguars,yearsOnTeam:1,salary:$6289515.15,currentlyInjured:FALSE
+athleteID:725dca03-a9f3-453c-9a87-e450a30766d2,athleteName:Mab Woodnutt,athleteBornIn:Pennsylvania,age:35,teamName:Miami Dolphins,yearsOnTeam:4,salary:$3730155.85,currentlyInjured:FALSE
+athleteID:3df9fb31-b781-4b2e-813a-839b11e9c979,athleteName:Ginevra Iohananof,athleteBornIn:South Carolina,age:23,teamName:Buffalo Bills,yearsOnTeam:6,salary:$5645973.82,currentlyInjured:TRUE
+athleteID:761c7912-8319-4dfe-b639-3b82d6132029,athleteName:Sigrid Shearer,athleteBornIn:Ohio,age:28,teamName:Cleveland Browns,yearsOnTeam:1,salary:$1345392.37,currentlyInjured:FALSE
+athleteID:906dcd84-f0b7-43ef-b014-8d2d7cb2e761,athleteName:Lexy Buglar,athleteBornIn:Michigan,age:26,teamName:Houston Texans,yearsOnTeam:5,salary:$7546249.33,currentlyInjured:FALSE
+athleteID:bb9b694f-ba46-4352-9307-25c11bae7f34,athleteName:Amara Leggis,athleteBornIn:Minnesota,age:28,teamName:Chicago Bears,yearsOnTeam:6,salary:$6438330.55,currentlyInjured:TRUE
+athleteID:6c42ebbf-6f4b-4588-bdd5-860594c2ccdc,athleteName:Evania Daout,athleteBornIn:Alabama,age:22,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$464221.46,currentlyInjured:TRUE
+athleteID:b7e2b250-cff0-4513-9125-afad4d67b37f,athleteName:Michal MacBean,athleteBornIn:Delaware,age:29,teamName:New Orleans Saints,yearsOnTeam:4,salary:$2925624.38,currentlyInjured:FALSE
+athleteID:3e4aeb2a-4b81-4233-bd0e-7c9d016df739,athleteName:Darcey Tills,athleteBornIn:California,age:21,teamName:Jacksonville Jaguars,yearsOnTeam:2,salary:$5997433.12,currentlyInjured:FALSE
+athleteID:91120e2f-b20f-4984-b4d3-eef092088d6c,athleteName:Naoma Shoebottom,athleteBornIn:Texas,age:34,teamName:Carolina Panthers,yearsOnTeam:4,salary:$6135788.57,currentlyInjured:TRUE
+athleteID:ccefd87c-d81b-4302-bb56-a3576bb1f0ad,athleteName:Hedvige Rowlatt,athleteBornIn:South Carolina,age:34,teamName:Chicago Bears,yearsOnTeam:3,salary:$7307538.68,currentlyInjured:TRUE
+athleteID:6d20a644-993e-43b7-ba73-7f258e9e0028,athleteName:Kermy Domenichelli,athleteBornIn:Florida,age:29,teamName:Baltimore Ravens,yearsOnTeam:2,salary:$6964793.85,currentlyInjured:TRUE
+athleteID:d294a722-1749-45a6-8775-e22ae41cec1f,athleteName:Peterus Shingfield,athleteBornIn:Virginia,age:29,teamName:New Orleans Saints,yearsOnTeam:6,salary:$6919702.08,currentlyInjured:TRUE
+athleteID:55221567-e3aa-4b90-bdec-5accaa031038,athleteName:Karol Dudderidge,athleteBornIn:Florida,age:31,teamName:Los Angeles Chargers,yearsOnTeam:6,salary:$4210724.58,currentlyInjured:TRUE
+athleteID:068f2b0e-4230-404a-814a-7c7244bab9d7,athleteName:Bell Prettjohn,athleteBornIn:Maryland,age:25,teamName:Denver Broncos,yearsOnTeam:3,salary:$4572333.61,currentlyInjured:TRUE
+athleteID:3b6a8779-a4f6-4515-b871-16d6dbc880c3,athleteName:Thaxter Bricknell,athleteBornIn:Pennsylvania,age:30,teamName:Baltimore Ravens,yearsOnTeam:4,salary:$4940683.23,currentlyInjured:FALSE
+athleteID:24e1e294-fa2e-4bea-9b64-d040b71e6a9c,athleteName:Noll Teather,athleteBornIn:District of Columbia,age:30,teamName:Indianapolis Colts,yearsOnTeam:2,salary:$2349300.09,currentlyInjured:FALSE
+athleteID:a51b4bc8-1efa-47e9-8ab9-999c003dd95d,athleteName:Roley Guittet,athleteBornIn:Virginia,age:26,teamName:Arizona Cardinals,yearsOnTeam:4,salary:$6164364.83,currentlyInjured:TRUE
+athleteID:46dfd10d-99fe-4205-81e2-a560f2a6216a,athleteName:Pasquale Witts,athleteBornIn:Florida,age:23,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$1693306.18,currentlyInjured:FALSE
+athleteID:fe3f6197-a76e-41a3-b175-636328848a2c,athleteName:Clarette Brislawn,athleteBornIn:District of Columbia,age:24,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$3794510.99,currentlyInjured:FALSE
+athleteID:57a26e51-5bd7-45f5-8329-62a64372b6dc,athleteName:Alyosha Ladds,athleteBornIn:Virginia,age:26,teamName:Kansas City Chiefs,yearsOnTeam:6,salary:$635094.64,currentlyInjured:FALSE
+athleteID:03b3ffe5-7bad-4b35-b4ae-a3c9b4396a12,athleteName:Lilas Jans,athleteBornIn:Massachusetts,age:19,teamName:Buffalo Bills,yearsOnTeam:1,salary:$3412194.88,currentlyInjured:FALSE
+athleteID:112a2da1-c8e6-4c90-a8aa-3516cce37cd9,athleteName:Rosabella Aleavy,athleteBornIn:Maryland,age:22,teamName:New England Patriots,yearsOnTeam:4,salary:$1303747.92,currentlyInjured:FALSE
+athleteID:daa212cd-e02c-4b67-8d8d-b42ebcce0d0b,athleteName:Merlina Quinion,athleteBornIn:Texas,age:32,teamName:Indianapolis Colts,yearsOnTeam:3,salary:$727088.63,currentlyInjured:TRUE
+athleteID:ae448c93-5fe8-48d0-841c-1929e6f6ef32,athleteName:Christi Culley,athleteBornIn:Alabama,age:26,teamName:Baltimore Ravens,yearsOnTeam:4,salary:$651283.91,currentlyInjured:FALSE
+athleteID:9de4f68a-7f96-49ab-ac23-afd715d7027f,athleteName:Goldie Dubery,athleteBornIn:Pennsylvania,age:20,teamName:Indianapolis Colts,yearsOnTeam:3,salary:$2396930.05,currentlyInjured:TRUE
+athleteID:13002401-2570-40ab-a406-3bdd4aabe5a9,athleteName:Efren Sevitt,athleteBornIn:Alabama,age:28,teamName:Oakland Raiders,yearsOnTeam:2,salary:$6317280.79,currentlyInjured:FALSE
+athleteID:e1e38f29-1a57-4ae7-8af8-86b21ea8b083,athleteName:Pall Fideler,athleteBornIn:West Virginia,age:32,teamName:Chicago Bears,yearsOnTeam:4,salary:$4737318.74,currentlyInjured:TRUE
+athleteID:339b771d-553e-4fef-b9a2-ebcbc95f8878,athleteName:Silvanus Mincini,athleteBornIn:Texas,age:19,teamName:Chicago Bears,yearsOnTeam:3,salary:$2706545.14,currentlyInjured:FALSE
+athleteID:6d40defc-3923-4d5e-ab74-d9682a899690,athleteName:Scotti Woolfenden,athleteBornIn:Pennsylvania,age:22,teamName:Jacksonville Jaguars,yearsOnTeam:4,salary:$6896949.33,currentlyInjured:TRUE
+athleteID:ca03934c-38b3-4c87-9fc6-c82ffb2bef32,athleteName:Con Traynor,athleteBornIn:Kansas,age:20,teamName:Atlanta Falcons,yearsOnTeam:1,salary:$5206248.19,currentlyInjured:TRUE
+athleteID:90614c12-aa3c-4ce0-a8a4-0a691c459a42,athleteName:Shay Zuan,athleteBornIn:Texas,age:21,teamName:Tennessee Titans,yearsOnTeam:1,salary:$6382591.98,currentlyInjured:TRUE
+athleteID:addd4757-fdea-4df8-8f52-1b9a027943e5,athleteName:Sibilla Been,athleteBornIn:California,age:19,teamName:Seattle Seahawks,yearsOnTeam:6,salary:$7929897.09,currentlyInjured:TRUE
+athleteID:ab7819d8-5a3d-4452-a2c0-520d5447b2f9,athleteName:Kimberlyn Pearsey,athleteBornIn:Minnesota,age:24,teamName:Philadelphia Eagles,yearsOnTeam:3,salary:$6973172.41,currentlyInjured:FALSE
+athleteID:38aab03b-5644-478f-a5c9-c9ee400e31b1,athleteName:Evania Marians,athleteBornIn:Delaware,age:29,teamName:Detroit Lions,yearsOnTeam:3,salary:$4363774.1,currentlyInjured:TRUE
+athleteID:818c2a5e-da19-4797-9202-91560ae977d3,athleteName:Brook Maher,athleteBornIn:Florida,age:24,teamName:Chicago Bears,yearsOnTeam:3,salary:$2525306.69,currentlyInjured:FALSE
+athleteID:48181eb2-e214-402d-a389-032887bbc721,athleteName:Davide Durnan,athleteBornIn:Utah,age:21,teamName:San Francisco 49ers,yearsOnTeam:3,salary:$3040197.74,currentlyInjured:FALSE
+athleteID:ab341c6e-b7d9-4f2d-aae4-08bff5389233,athleteName:Alysa Flatman,athleteBornIn:Ohio,age:32,teamName:Detroit Lions,yearsOnTeam:1,salary:$2016898.09,currentlyInjured:FALSE
+athleteID:9b8b058a-594a-4384-9e30-309072d450e7,athleteName:Cary McGavin,athleteBornIn:Michigan,age:27,teamName:Miami Dolphins,yearsOnTeam:4,salary:$4722102.49,currentlyInjured:FALSE
+athleteID:c4355eba-0b5c-412d-9a79-63a38084451d,athleteName:Jeramey Dusting,athleteBornIn:Idaho,age:35,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$5707810.08,currentlyInjured:FALSE
+athleteID:f8834174-9325-4db7-8321-53f3c7f9d601,athleteName:Amalea Cawthron,athleteBornIn:Virginia,age:19,teamName:Los Angeles Rams,yearsOnTeam:6,salary:$6752806.84,currentlyInjured:TRUE
+athleteID:6c5fb680-69a1-4e2b-b603-299aff6070a4,athleteName:Markos Pearlman,athleteBornIn:Florida,age:30,teamName:Kansas City Chiefs,yearsOnTeam:1,salary:$3702037.16,currentlyInjured:TRUE
+athleteID:7420390d-34e7-415a-ba6e-b84404403446,athleteName:Sansone Kinghorne,athleteBornIn:Ohio,age:27,teamName:Green Bay Packers,yearsOnTeam:6,salary:$4675935.09,currentlyInjured:TRUE
+athleteID:3b26f395-1134-4344-b135-32be53915c79,athleteName:Lion Antos,athleteBornIn:Florida,age:24,teamName:Carolina Panthers,yearsOnTeam:5,salary:$6395924.67,currentlyInjured:TRUE
+athleteID:e50d173c-95ec-4e97-aa58-fb132bc35518,athleteName:Launce Andreasen,athleteBornIn:South Carolina,age:21,teamName:Dallas Cowboys,yearsOnTeam:2,salary:$5075449.95,currentlyInjured:TRUE
+athleteID:f90742c1-328a-4e93-bdb3-321503883542,athleteName:Sheena Dray,athleteBornIn:California,age:28,teamName:Detroit Lions,yearsOnTeam:6,salary:$4511395.62,currentlyInjured:TRUE
+athleteID:9eb3730d-daa9-4942-b5e6-560040cc05bb,athleteName:Jonathon Torregiani,athleteBornIn:New York,age:22,teamName:Jacksonville Jaguars,yearsOnTeam:5,salary:$6472342.63,currentlyInjured:FALSE
+athleteID:b7f4eb83-9ed4-411b-adfa-4d150c4fa83f,athleteName:Ginnie Befroy,athleteBornIn:Massachusetts,age:26,teamName:Chicago Bears,yearsOnTeam:2,salary:$4898708.89,currentlyInjured:TRUE
+athleteID:701aae24-9b1a-43e8-8a6b-fb0047a1906c,athleteName:Dorette Freckleton,athleteBornIn:Missouri,age:34,teamName:Tennessee Titans,yearsOnTeam:2,salary:$772814.03,currentlyInjured:FALSE
+athleteID:c0824c5f-76bb-4dc7-89d3-e80ecfee0ebd,athleteName:Erl Frantzeni,athleteBornIn:Utah,age:24,teamName:New York Jets,yearsOnTeam:1,salary:$554791.17,currentlyInjured:FALSE
+athleteID:496e3779-d247-4657-9764-5dbddb6d9deb,athleteName:Frederik Shipway,athleteBornIn:Virginia,age:30,teamName:Green Bay Packers,yearsOnTeam:2,salary:$378192.23,currentlyInjured:TRUE
+athleteID:1156df4b-3aca-4023-a256-593425900c14,athleteName:Magdaia Quincee,athleteBornIn:Texas,age:19,teamName:Oakland Raiders,yearsOnTeam:2,salary:$3950387.93,currentlyInjured:FALSE
+athleteID:b5445a38-93fc-42f9-be9e-d6fc98030f4b,athleteName:Thaddus Ingerfield,athleteBornIn:Texas,age:25,teamName:Los Angeles Chargers,yearsOnTeam:2,salary:$6930961.04,currentlyInjured:TRUE
+athleteID:0e68a993-e0ee-4100-bb93-57497f4a996e,athleteName:Mab Marney,athleteBornIn:Louisiana,age:31,teamName:Houston Texans,yearsOnTeam:6,salary:$2435791.27,currentlyInjured:TRUE
+athleteID:b96dc5d8-6889-4a23-af53-42b956a4055d,athleteName:Cahra Bootyman,athleteBornIn:Kansas,age:29,teamName:New York Jets,yearsOnTeam:5,salary:$625047.95,currentlyInjured:TRUE
+athleteID:5d9b4884-5ad2-42c1-9170-1ae59cc4bbce,athleteName:Carmelina Channon,athleteBornIn:Massachusetts,age:26,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$2349769.37,currentlyInjured:FALSE
+athleteID:2a94c565-9cbe-479a-ad1b-f771a49342c2,athleteName:Kevan Aldins,athleteBornIn:Nevada,age:31,teamName:New England Patriots,yearsOnTeam:1,salary:$499252.99,currentlyInjured:FALSE
+athleteID:ec43d53c-62b6-41b6-9020-7614ad65f6f3,athleteName:Evangelina Hanmore,athleteBornIn:California,age:34,teamName:Denver Broncos,yearsOnTeam:5,salary:$3494044.63,currentlyInjured:FALSE
+athleteID:d0cf8174-bca2-453c-890a-2b22cd536d8d,athleteName:Huntington Poytheras,athleteBornIn:Iowa,age:34,teamName:Carolina Panthers,yearsOnTeam:2,salary:$1496085.05,currentlyInjured:TRUE
+athleteID:92a53934-101c-42ab-b7c1-f8495230b38b,athleteName:Bibbye Vass,athleteBornIn:California,age:33,teamName:Pittsburgh Steelers,yearsOnTeam:6,salary:$4921025.4,currentlyInjured:TRUE
+athleteID:6089817b-fb36-4ecd-b3da-d827473dbac8,athleteName:Pandora Heinz,athleteBornIn:California,age:35,teamName:Oakland Raiders,yearsOnTeam:1,salary:$221981.63,currentlyInjured:TRUE
+athleteID:1b581d8e-687e-4573-a784-94283033984f,athleteName:Antonie Seakings,athleteBornIn:Missouri,age:28,teamName:Minnesota Vikings,yearsOnTeam:4,salary:$4293065.38,currentlyInjured:FALSE
+athleteID:f87a5bac-af2c-4647-82d3-ff8314f1a3f2,athleteName:Venita Bernardelli,athleteBornIn:Texas,age:24,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$3487827.11,currentlyInjured:FALSE
+athleteID:43b4e0c9-af03-44cd-9fe1-654c8993bdb4,athleteName:Klement Duligal,athleteBornIn:Illinois,age:22,teamName:Carolina Panthers,yearsOnTeam:5,salary:$2699322.56,currentlyInjured:FALSE
+athleteID:706aa32d-a115-4a08-88c7-935af8282e7a,athleteName:Wain O'Keefe,athleteBornIn:New York,age:22,teamName:Denver Broncos,yearsOnTeam:2,salary:$1153233.84,currentlyInjured:FALSE
+athleteID:37f32f9d-885e-4581-9947-9f30398a1eb7,athleteName:Ellery Cecchi,athleteBornIn:Arizona,age:34,teamName:Buffalo Bills,yearsOnTeam:2,salary:$937598.2,currentlyInjured:FALSE
+athleteID:01d06f16-bd6e-4a5c-9ac3-777ac5c0ef0e,athleteName:Harvey Maggiori,athleteBornIn:Texas,age:28,teamName:New York Giants,yearsOnTeam:2,salary:$736478.22,currentlyInjured:TRUE
+athleteID:38542cc6-97eb-4071-b1fa-b91bce1c7973,athleteName:Wilbert Adriani,athleteBornIn:North Carolina,age:19,teamName:Denver Broncos,yearsOnTeam:4,salary:$3131540.91,currentlyInjured:FALSE
+athleteID:a81e34e9-ab7a-4957-b640-b0f86972adb7,athleteName:Roy Woodland,athleteBornIn:Illinois,age:32,teamName:Los Angeles Rams,yearsOnTeam:6,salary:$3222465.27,currentlyInjured:TRUE
+athleteID:4c9d4427-e6b8-4e3f-bbfc-ca6fe805116e,athleteName:Nickie Harrigan,athleteBornIn:Florida,age:27,teamName:Chicago Bears,yearsOnTeam:3,salary:$2365246.96,currentlyInjured:TRUE
+athleteID:3a6ef581-3588-4f9c-890d-b9633e35c230,athleteName:Ardene Woolaghan,athleteBornIn:Florida,age:30,teamName:Baltimore Ravens,yearsOnTeam:2,salary:$1312145.84,currentlyInjured:TRUE
+athleteID:907b5a68-11e6-486c-b2dd-0cc0a03be9bd,athleteName:Garnet Jakoub,athleteBornIn:California,age:30,teamName:Indianapolis Colts,yearsOnTeam:3,salary:$2605755.29,currentlyInjured:FALSE
+athleteID:c2aa9ec0-79d1-4d92-ae4d-48812e2a16cf,athleteName:Bevin Joslin,athleteBornIn:Ohio,age:31,teamName:Green Bay Packers,yearsOnTeam:5,salary:$5716641.27,currentlyInjured:FALSE
+athleteID:3ff56772-da37-4e78-8995-f66448783deb,athleteName:Egan Badham,athleteBornIn:Florida,age:27,teamName:Cincinnati Bengals,yearsOnTeam:3,salary:$2238262.83,currentlyInjured:FALSE
+athleteID:c45ddfdf-8a75-4ebd-868f-3ea4c242c3c6,athleteName:Elisa Piner,athleteBornIn:Maryland,age:32,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$1950466.47,currentlyInjured:TRUE
+athleteID:96100253-d453-4611-ac74-4283d94ed710,athleteName:Steffane Fogarty,athleteBornIn:Washington,age:19,teamName:Minnesota Vikings,yearsOnTeam:5,salary:$7577745.7,currentlyInjured:FALSE
+athleteID:5327d6a7-bcce-4a5a-9bce-e9377106d78b,athleteName:Naoma Roaf,athleteBornIn:Ohio,age:24,teamName:Kansas City Chiefs,yearsOnTeam:3,salary:$7180781.35,currentlyInjured:FALSE
+athleteID:c520a483-41cd-419b-a838-a82204d31958,athleteName:Anallise Carefull,athleteBornIn:Texas,age:22,teamName:Philadelphia Eagles,yearsOnTeam:1,salary:$1899732.38,currentlyInjured:TRUE
+athleteID:e428b54b-90f0-4307-9873-0ed53ac38610,athleteName:Oren Ghilardini,athleteBornIn:North Carolina,age:26,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$3261214.27,currentlyInjured:TRUE
+athleteID:db9008b9-544c-4c38-95fb-8250dcfd10c7,athleteName:Hinda Bricksey,athleteBornIn:Texas,age:26,teamName:Minnesota Vikings,yearsOnTeam:6,salary:$4894947.14,currentlyInjured:TRUE
+athleteID:82b83ae1-58ef-4126-a2d7-4b3a465c3a2e,athleteName:Filberto Josephi,athleteBornIn:Arizona,age:19,teamName:Green Bay Packers,yearsOnTeam:2,salary:$865556.05,currentlyInjured:TRUE
+athleteID:64de0019-47ab-482a-9119-10c4530a34d6,athleteName:Yuma Marle,athleteBornIn:Georgia,age:21,teamName:Dallas Cowboys,yearsOnTeam:1,salary:$3596505.19,currentlyInjured:FALSE
+athleteID:e8c8e883-060a-43ae-9aeb-af698ff384c5,athleteName:Carmen Kalewe,athleteBornIn:Mississippi,age:35,teamName:Los Angeles Chargers,yearsOnTeam:4,salary:$7081361.13,currentlyInjured:FALSE
+athleteID:accc6c8a-1018-4f9d-9ab7-6b79360d252e,athleteName:Lanie Battabee,athleteBornIn:Florida,age:22,teamName:Carolina Panthers,yearsOnTeam:2,salary:$4679783.05,currentlyInjured:FALSE
+athleteID:348c7e30-be3b-4c04-bcc4-5c8c000dc1ed,athleteName:Aida Buttler,athleteBornIn:Indiana,age:20,teamName:Denver Broncos,yearsOnTeam:1,salary:$6970430.12,currentlyInjured:FALSE
+athleteID:1c035fb6-740f-40e6-827c-ccbe073de278,athleteName:Ruthann O'Feeney,athleteBornIn:California,age:33,teamName:Los Angeles Chargers,yearsOnTeam:1,salary:$2594000.69,currentlyInjured:FALSE
+athleteID:c494ed09-a64e-4f6e-a4bd-f2c872fe1e00,athleteName:Blondelle McDougald,athleteBornIn:Georgia,age:26,teamName:New England Patriots,yearsOnTeam:2,salary:$7721651.37,currentlyInjured:FALSE
+athleteID:5742ae77-3d5b-45e0-8e97-8080f57ae002,athleteName:Joan Siemon,athleteBornIn:Colorado,age:27,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$1514889.83,currentlyInjured:FALSE
+athleteID:8b1e725f-c719-4a8d-aad0-ffa39aff28cb,athleteName:Wernher Haster,athleteBornIn:Florida,age:20,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$1911033.18,currentlyInjured:TRUE
+athleteID:22b18e65-c368-4eec-bfa8-3428a5e40f6e,athleteName:Fabiano Valsler,athleteBornIn:California,age:19,teamName:New York Jets,yearsOnTeam:6,salary:$3473867.44,currentlyInjured:FALSE
+athleteID:41d1c018-a1c3-47cf-899f-a4a74eb268eb,athleteName:Appolonia Gusticke,athleteBornIn:Nebraska,age:31,teamName:Chicago Bears,yearsOnTeam:6,salary:$3695043.67,currentlyInjured:FALSE
+athleteID:9d969245-45e9-4aaa-8f4e-1c7fce013b58,athleteName:Laney Jacomb,athleteBornIn:New Jersey,age:29,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$467651.14,currentlyInjured:TRUE
+athleteID:c9178904-6458-49dd-8321-fd3181dd964b,athleteName:Rossie Gianasi,athleteBornIn:Pennsylvania,age:33,teamName:Tampa Bay Buccaneers,yearsOnTeam:3,salary:$1825718.41,currentlyInjured:FALSE
+athleteID:0dab7064-0cbd-4e8f-ad26-ff05de7a0d3f,athleteName:Stefan Kacheller,athleteBornIn:Florida,age:31,teamName:Houston Texans,yearsOnTeam:4,salary:$5207534.6,currentlyInjured:FALSE
+athleteID:cb76f2f7-85dd-4bd3-b709-e7b2d8d945cf,athleteName:Normie Gainsford,athleteBornIn:North Carolina,age:30,teamName:Buffalo Bills,yearsOnTeam:6,salary:$5426580.1,currentlyInjured:FALSE
+athleteID:c7cddb7a-2687-46bb-8b06-29f68dc0e558,athleteName:Caterina Splevings,athleteBornIn:Texas,age:35,teamName:New York Jets,yearsOnTeam:3,salary:$2811836.67,currentlyInjured:TRUE
+athleteID:b32d1cd2-2188-4f4d-b89d-00106400f81f,athleteName:Lazare Yakolev,athleteBornIn:Kentucky,age:25,teamName:Baltimore Ravens,yearsOnTeam:4,salary:$1932319.99,currentlyInjured:FALSE
+athleteID:cffc23fe-f8d8-4707-b629-8af0c36614a3,athleteName:Anna-diana Pepler,athleteBornIn:Texas,age:27,teamName:Denver Broncos,yearsOnTeam:1,salary:$3133170.95,currentlyInjured:FALSE
+athleteID:4312291a-defd-4dc7-a81a-34f73175e111,athleteName:Wolf Cranage,athleteBornIn:Florida,age:34,teamName:New Orleans Saints,yearsOnTeam:4,salary:$5562709.77,currentlyInjured:TRUE
+athleteID:108efd99-8d8e-4da2-90be-323914bf8500,athleteName:Casey Titford,athleteBornIn:Michigan,age:31,teamName:Seattle Seahawks,yearsOnTeam:5,salary:$415144.36,currentlyInjured:TRUE
+athleteID:997e7511-e3c5-42a0-a81e-42ac79fbff46,athleteName:Jacynth Benzing,athleteBornIn:New Jersey,age:26,teamName:San Francisco 49ers,yearsOnTeam:6,salary:$6519495.59,currentlyInjured:TRUE
+athleteID:3a376495-4904-4c68-946a-de12f5474a85,athleteName:Evaleen Slorach,athleteBornIn:Florida,age:29,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$6795131.12,currentlyInjured:FALSE
+athleteID:0c9738fe-3d7b-4e21-b308-00341ed18b6b,athleteName:Derk Campana,athleteBornIn:New York,age:32,teamName:Tampa Bay Buccaneers,yearsOnTeam:4,salary:$1119227.86,currentlyInjured:FALSE
+athleteID:d276dcb3-e0df-4f0e-91f2-75effadf43ef,athleteName:Adriana Garling,athleteBornIn:Georgia,age:26,teamName:Buffalo Bills,yearsOnTeam:3,salary:$7598577.02,currentlyInjured:TRUE
+athleteID:04d62e40-2092-490f-8865-71e63e6f1aa4,athleteName:Cedric Castillo,athleteBornIn:Pennsylvania,age:31,teamName:Washington Redskins,yearsOnTeam:3,salary:$1424641.36,currentlyInjured:TRUE
+athleteID:902db877-f396-401b-b008-526fe222cd46,athleteName:Carlynne Matthewson,athleteBornIn:Iowa,age:34,teamName:Pittsburgh Steelers,yearsOnTeam:2,salary:$2402345.03,currentlyInjured:FALSE
+athleteID:8a2c3d66-c333-4ea5-809c-ce38c4dbbdab,athleteName:Lolita Godson,athleteBornIn:Illinois,age:34,teamName:Washington Redskins,yearsOnTeam:3,salary:$7175102.95,currentlyInjured:FALSE
+athleteID:3f2c64b5-9787-4314-a7b7-d6fba33b8dd2,athleteName:Sasha Chasier,athleteBornIn:Pennsylvania,age:19,teamName:Dallas Cowboys,yearsOnTeam:4,salary:$688384.18,currentlyInjured:TRUE
+athleteID:6302eb15-f775-486a-bced-2784e75dac6d,athleteName:Pat Langran,athleteBornIn:Kansas,age:27,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$2083083.57,currentlyInjured:TRUE
+athleteID:4144509c-d162-4517-af91-d8186c1d95f3,athleteName:Bastian Goodswen,athleteBornIn:Kansas,age:22,teamName:Washington Redskins,yearsOnTeam:2,salary:$7736707.09,currentlyInjured:FALSE
+athleteID:06cabd00-52b6-4930-9fb2-6431c9640a6f,athleteName:Lian McSweeney,athleteBornIn:California,age:23,teamName:Philadelphia Eagles,yearsOnTeam:5,salary:$7416007.69,currentlyInjured:TRUE
+athleteID:8f9580de-2027-4738-8e4e-3ac381912504,athleteName:Prue Troop,athleteBornIn:Florida,age:27,teamName:Minnesota Vikings,yearsOnTeam:2,salary:$239349.4,currentlyInjured:FALSE
+athleteID:84abfdbc-3fa5-4d84-8769-4252ba83d29e,athleteName:Joell Wilcot,athleteBornIn:New York,age:23,teamName:New England Patriots,yearsOnTeam:2,salary:$3445437.01,currentlyInjured:FALSE
+athleteID:860b5e61-0a0f-4341-bec2-6c6c9c332988,athleteName:Kip Jochen,athleteBornIn:Ohio,age:20,teamName:Kansas City Chiefs,yearsOnTeam:3,salary:$7409658.78,currentlyInjured:TRUE
+athleteID:2a4976cc-f4bb-4fb3-bad7-f5b20820389b,athleteName:Ginger Fairs,athleteBornIn:Virginia,age:27,teamName:New England Patriots,yearsOnTeam:1,salary:$2796738.85,currentlyInjured:FALSE
+athleteID:1a787032-4c5d-44b4-95af-98b1283912df,athleteName:Whitby Bolgar,athleteBornIn:Illinois,age:30,teamName:Miami Dolphins,yearsOnTeam:5,salary:$2872414.28,currentlyInjured:TRUE
+athleteID:55ff2056-a951-4077-93c6-20043e1dfc56,athleteName:Aylmar Brandi,athleteBornIn:New Mexico,age:28,teamName:Tennessee Titans,yearsOnTeam:5,salary:$6192301.05,currentlyInjured:FALSE
+athleteID:fb83de65-b003-4fe2-94ca-a97ea1b8a87a,athleteName:Ivory Siddaley,athleteBornIn:Indiana,age:30,teamName:Cleveland Browns,yearsOnTeam:5,salary:$3451796.14,currentlyInjured:TRUE
+athleteID:fbee246f-6575-480a-b7f5-81160892f533,athleteName:Sean Burnyate,athleteBornIn:New York,age:34,teamName:Carolina Panthers,yearsOnTeam:4,salary:$602549.01,currentlyInjured:TRUE
+athleteID:b44699b0-c270-43af-a342-2008acaba63f,athleteName:Deb Sidon,athleteBornIn:Virginia,age:28,teamName:Detroit Lions,yearsOnTeam:4,salary:$5524851.56,currentlyInjured:TRUE
+athleteID:d177252f-fabd-423b-b894-cf39a6d5a06e,athleteName:Walden Leworthy,athleteBornIn:Georgia,age:27,teamName:Houston Texans,yearsOnTeam:5,salary:$625849.07,currentlyInjured:FALSE
+athleteID:a98c693d-5c93-4bfa-a135-47521986599e,athleteName:Mandie Tankard,athleteBornIn:Virginia,age:23,teamName:Buffalo Bills,yearsOnTeam:5,salary:$6638100.44,currentlyInjured:FALSE
+athleteID:779bcb91-4227-4a6d-94c4-a74009bbf06e,athleteName:Sabine Ruppert,athleteBornIn:Ohio,age:34,teamName:Kansas City Chiefs,yearsOnTeam:6,salary:$7710824.14,currentlyInjured:FALSE
+athleteID:813f8695-0093-406e-82a1-19524e61dab8,athleteName:Tanney Klaesson,athleteBornIn:Florida,age:23,teamName:New York Giants,yearsOnTeam:4,salary:$426731.46,currentlyInjured:FALSE
+athleteID:92fa2540-09a2-4f3f-873b-eca70b6a3ae5,athleteName:Emmanuel Duckhouse,athleteBornIn:New Mexico,age:26,teamName:Chicago Bears,yearsOnTeam:5,salary:$4222475.44,currentlyInjured:FALSE
+athleteID:e72b54d8-afcc-49d6-8d28-239d72a10003,athleteName:Brandy Tomasicchio,athleteBornIn:Ohio,age:23,teamName:Los Angeles Chargers,yearsOnTeam:6,salary:$6468973.89,currentlyInjured:FALSE
+athleteID:29728a1e-e76b-4416-9405-32179d42300e,athleteName:Reeva Joseph,athleteBornIn:Texas,age:24,teamName:San Francisco 49ers,yearsOnTeam:3,salary:$6319012.66,currentlyInjured:FALSE
+athleteID:8f341395-a968-4b6b-afd3-947078ae7373,athleteName:Jessalyn Hinsch,athleteBornIn:Ohio,age:28,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$5738213.49,currentlyInjured:FALSE
+athleteID:46c1d099-dd16-41f1-829d-325dcbd0f17e,athleteName:Rollie Kilban,athleteBornIn:Ohio,age:33,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$3682690.6,currentlyInjured:TRUE
+athleteID:73fa07bd-734e-4e25-9eee-2a5b00e55b0f,athleteName:Georgeanne Hammerman,athleteBornIn:New York,age:21,teamName:Oakland Raiders,yearsOnTeam:1,salary:$5674844.73,currentlyInjured:TRUE
+athleteID:ad87de4d-96d7-4a60-86fc-3814f41a80b5,athleteName:Kaitlyn Isacke,athleteBornIn:California,age:22,teamName:Chicago Bears,yearsOnTeam:6,salary:$6369272.4,currentlyInjured:TRUE
+athleteID:0cdd510e-5be1-4d6a-bebb-8d701fab7762,athleteName:Consuelo Dowson,athleteBornIn:Texas,age:21,teamName:Buffalo Bills,yearsOnTeam:3,salary:$6946509.15,currentlyInjured:FALSE
+athleteID:83286d1e-6ac7-4f9f-9624-0e580e03cc90,athleteName:Rurik Boothroyd,athleteBornIn:Florida,age:30,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$6951865.46,currentlyInjured:TRUE
+athleteID:15311a50-f4ed-425f-9df2-f1c574a6e1ae,athleteName:Vasilis Simoneschi,athleteBornIn:California,age:27,teamName:New Orleans Saints,yearsOnTeam:5,salary:$7115482.31,currentlyInjured:TRUE
+athleteID:ecf59479-98f0-4886-ab24-d55c620f60c2,athleteName:Hoyt Pughsley,athleteBornIn:New Mexico,age:33,teamName:Minnesota Vikings,yearsOnTeam:5,salary:$2951321.44,currentlyInjured:FALSE
+athleteID:51d5f467-7333-4cc8-8d43-08491e35408b,athleteName:Nefen Housen,athleteBornIn:Texas,age:35,teamName:Baltimore Ravens,yearsOnTeam:1,salary:$4623263.58,currentlyInjured:TRUE
+athleteID:33a4b153-d9bb-49c5-8ab0-5910c6a880fd,athleteName:Friedrick Haugeh,athleteBornIn:North Carolina,age:20,teamName:Cleveland Browns,yearsOnTeam:5,salary:$5570534.6,currentlyInjured:FALSE
+athleteID:e00323b1-4d26-490a-91ff-e2245490bdd7,athleteName:Yoshiko Crabbe,athleteBornIn:New York,age:19,teamName:Oakland Raiders,yearsOnTeam:1,salary:$4370082.94,currentlyInjured:TRUE
+athleteID:ee32f1ad-4a12-4d0f-a819-beeff26b0d45,athleteName:Myrtice Pilmore,athleteBornIn:California,age:30,teamName:New Orleans Saints,yearsOnTeam:3,salary:$1516506.17,currentlyInjured:TRUE
+athleteID:d212f098-6947-4c28-aa8f-ac9c39bdebc6,athleteName:Darbie Siddeley,athleteBornIn:Illinois,age:30,teamName:Houston Texans,yearsOnTeam:2,salary:$7007566.27,currentlyInjured:FALSE
+athleteID:0aa54953-1f1a-4146-9788-3e365a4d26a6,athleteName:Rabi Raffan,athleteBornIn:Texas,age:30,teamName:Arizona Cardinals,yearsOnTeam:6,salary:$2920229.2,currentlyInjured:FALSE
+athleteID:f48cd491-7ecd-42cf-a501-cab16658496b,athleteName:Lauretta Belk,athleteBornIn:California,age:20,teamName:New York Jets,yearsOnTeam:4,salary:$5481266.24,currentlyInjured:FALSE
+athleteID:fe70a133-fc18-4c74-93f1-2fccfad10ba2,athleteName:Appolonia Biddlestone,athleteBornIn:Michigan,age:24,teamName:Houston Texans,yearsOnTeam:4,salary:$3109080.09,currentlyInjured:FALSE
+athleteID:34998e08-1f5a-4c17-a71b-ea4416328a54,athleteName:Danette Kamall,athleteBornIn:New York,age:35,teamName:San Francisco 49ers,yearsOnTeam:5,salary:$309113.24,currentlyInjured:FALSE
+athleteID:5e272ac7-0f5d-4094-9db4-926751a50a10,athleteName:Tomkin Glasspool,athleteBornIn:California,age:27,teamName:Seattle Seahawks,yearsOnTeam:5,salary:$5564461.98,currentlyInjured:FALSE
+athleteID:b3f4c45e-785a-4dcb-a1e0-c10aa7c05cd7,athleteName:Leigh Scurrah,athleteBornIn:Washington,age:21,teamName:Kansas City Chiefs,yearsOnTeam:3,salary:$1377285.45,currentlyInjured:FALSE
+athleteID:879ceca2-d88c-4224-9153-3e62563e29a6,athleteName:Harriott Lauritzen,athleteBornIn:Nebraska,age:31,teamName:San Francisco 49ers,yearsOnTeam:1,salary:$3184647.34,currentlyInjured:TRUE
+athleteID:dc3f1689-eb3f-4662-b3cd-bdd6cc902e2b,athleteName:Vivian Havile,athleteBornIn:Florida,age:30,teamName:Buffalo Bills,yearsOnTeam:3,salary:$1004958.87,currentlyInjured:FALSE
+athleteID:84f9c579-c2ee-4c4e-850f-fe690926a357,athleteName:Pepita Bodiam,athleteBornIn:California,age:23,teamName:Philadelphia Eagles,yearsOnTeam:3,salary:$4999078.18,currentlyInjured:FALSE
+athleteID:7dfe62b4-f6d0-4577-8c7a-4379bcdc7de0,athleteName:Josey Hambrick,athleteBornIn:Florida,age:31,teamName:Baltimore Ravens,yearsOnTeam:6,salary:$5470922.16,currentlyInjured:TRUE
+athleteID:087a1fc9-4ebd-4bb5-a637-cc1526cf3aec,athleteName:Nevsa Quimby,athleteBornIn:Texas,age:34,teamName:Atlanta Falcons,yearsOnTeam:1,salary:$2285375.48,currentlyInjured:FALSE
+athleteID:c48c12b3-1297-48a9-b5ba-bd897e0cd819,athleteName:Bartie Bate,athleteBornIn:Colorado,age:34,teamName:Philadelphia Eagles,yearsOnTeam:6,salary:$3959790.77,currentlyInjured:TRUE
+athleteID:3e57a080-2731-45ee-95e4-9e126e1bdc89,athleteName:Fredrick Jadczak,athleteBornIn:Arizona,age:24,teamName:Washington Redskins,yearsOnTeam:1,salary:$2863933.92,currentlyInjured:FALSE
+athleteID:4e6b837e-c1e5-4296-a814-d0685cd1caab,athleteName:Cornelius Kubyszek,athleteBornIn:District of Columbia,age:19,teamName:Los Angeles Chargers,yearsOnTeam:6,salary:$4838003.03,currentlyInjured:TRUE
+athleteID:271f5839-7493-4817-ae74-570433ca1078,athleteName:Wit Adran,athleteBornIn:Indiana,age:31,teamName:Oakland Raiders,yearsOnTeam:1,salary:$5823504.23,currentlyInjured:TRUE
+athleteID:93c9617d-ee09-43fb-8d04-d672d5bf6108,athleteName:Gunther Craythorn,athleteBornIn:Texas,age:28,teamName:Buffalo Bills,yearsOnTeam:2,salary:$1620476.24,currentlyInjured:FALSE
+athleteID:e8f1065f-bd3c-4e50-9a84-64168ccbfa98,athleteName:Garret Whimp,athleteBornIn:Florida,age:25,teamName:New York Giants,yearsOnTeam:5,salary:$6937435.36,currentlyInjured:FALSE
+athleteID:d0bc2c1e-3246-4901-b5a8-998eb3fc5b24,athleteName:Willabella Sugarman,athleteBornIn:Kansas,age:22,teamName:Kansas City Chiefs,yearsOnTeam:2,salary:$6572410.05,currentlyInjured:FALSE
+athleteID:285382c5-abe8-4a43-837f-34810778ec6c,athleteName:Flin Muirhead,athleteBornIn:Iowa,age:31,teamName:Los Angeles Rams,yearsOnTeam:4,salary:$7860052.1,currentlyInjured:TRUE
+athleteID:996fff71-c90b-4963-a5ac-aa0209671c7f,athleteName:Goldie Greader,athleteBornIn:Virginia,age:19,teamName:Los Angeles Rams,yearsOnTeam:5,salary:$6729110.54,currentlyInjured:TRUE
+athleteID:7679cfe1-1692-4eb6-9f69-0c516d89b9a5,athleteName:Barnett Abrahmson,athleteBornIn:Washington,age:27,teamName:Arizona Cardinals,yearsOnTeam:2,salary:$1213241.06,currentlyInjured:FALSE
+athleteID:540a81f0-6276-4161-ab2f-c4d5fc6e9ad7,athleteName:Baxie O' Neligan,athleteBornIn:Ohio,age:23,teamName:Los Angeles Rams,yearsOnTeam:1,salary:$2473319.86,currentlyInjured:FALSE
+athleteID:29ff903b-9234-4fe8-8146-e419dd7b8c3b,athleteName:Nettie Petraitis,athleteBornIn:North Carolina,age:24,teamName:Tampa Bay Buccaneers,yearsOnTeam:1,salary:$5599671.08,currentlyInjured:FALSE
+athleteID:19cdda66-59f3-4860-b4ae-094787a6d480,athleteName:Spike Pilling,athleteBornIn:Texas,age:25,teamName:Denver Broncos,yearsOnTeam:4,salary:$1692543.36,currentlyInjured:TRUE
+athleteID:1124358d-992b-4634-9bef-0dda026349bd,athleteName:Travers Saunderson,athleteBornIn:Missouri,age:30,teamName:Washington Redskins,yearsOnTeam:4,salary:$5425807.66,currentlyInjured:FALSE
+athleteID:b2d853cb-e91c-4035-a2da-d2b4e7e8e365,athleteName:Delbert Wildgoose,athleteBornIn:District of Columbia,age:19,teamName:Philadelphia Eagles,yearsOnTeam:6,salary:$3681955.45,currentlyInjured:TRUE
+athleteID:1c97f613-f21e-42d1-8c89-89179366c9d1,athleteName:Atlante Thickpenny,athleteBornIn:Minnesota,age:32,teamName:Buffalo Bills,yearsOnTeam:6,salary:$2154057.28,currentlyInjured:TRUE
+athleteID:9e55eb6d-15e3-4674-b03b-2b63192103d0,athleteName:Sherilyn Pickston,athleteBornIn:Oklahoma,age:20,teamName:New York Giants,yearsOnTeam:2,salary:$1782489.29,currentlyInjured:TRUE
+athleteID:3fbd77e8-fc1c-41d1-9987-bd7a9e3f7460,athleteName:Warden Gallamore,athleteBornIn:Wisconsin,age:30,teamName:Miami Dolphins,yearsOnTeam:3,salary:$3553333.49,currentlyInjured:FALSE
+athleteID:75f1f6c0-30f8-4ddd-94c2-82cf479547e3,athleteName:Latrina Gaul,athleteBornIn:Colorado,age:31,teamName:Denver Broncos,yearsOnTeam:1,salary:$2371777.41,currentlyInjured:FALSE
+athleteID:2c237a5d-5edd-4de1-b77b-acbd9d87f54f,athleteName:Paulita Rose,athleteBornIn:Florida,age:26,teamName:San Francisco 49ers,yearsOnTeam:1,salary:$497021.98,currentlyInjured:FALSE
+athleteID:82d4357a-a732-4723-8ee1-643df2ad2292,athleteName:Jerry Minelli,athleteBornIn:Iowa,age:26,teamName:San Francisco 49ers,yearsOnTeam:6,salary:$2250466.9,currentlyInjured:TRUE
+athleteID:5962982a-15dc-4554-bc3c-0cdb6267a6ef,athleteName:Leonard Gwilym,athleteBornIn:Minnesota,age:35,teamName:Atlanta Falcons,yearsOnTeam:6,salary:$446165.48,currentlyInjured:TRUE
+athleteID:6b92be03-573e-4c1b-9f42-bd2d9706dffd,athleteName:Querida Dutteridge,athleteBornIn:California,age:31,teamName:New York Giants,yearsOnTeam:5,salary:$6599388.36,currentlyInjured:TRUE
+athleteID:58da222a-3fce-46f8-aced-b5b3f9009bbc,athleteName:Rudolfo Goodwin,athleteBornIn:Maryland,age:34,teamName:Cleveland Browns,yearsOnTeam:6,salary:$7638846.22,currentlyInjured:TRUE
+athleteID:e498ca43-c966-46e7-b28f-1080db2358af,athleteName:Marissa Tubbs,athleteBornIn:Connecticut,age:19,teamName:Tampa Bay Buccaneers,yearsOnTeam:1,salary:$1335749.11,currentlyInjured:FALSE
+athleteID:2f67128c-5879-4988-9996-dc0ac261a2a4,athleteName:Preston Desaur,athleteBornIn:California,age:33,teamName:Cleveland Browns,yearsOnTeam:1,salary:$4637706.1,currentlyInjured:FALSE
+athleteID:ce9849c4-9773-46b0-bcd7-f7359e7370ee,athleteName:Wittie Sarchwell,athleteBornIn:Kentucky,age:31,teamName:Philadelphia Eagles,yearsOnTeam:5,salary:$4347643.98,currentlyInjured:FALSE
+athleteID:d8d108e8-f97c-4978-b424-3c26e3ff6686,athleteName:Sergei Garling,athleteBornIn:Wisconsin,age:33,teamName:Arizona Cardinals,yearsOnTeam:5,salary:$3035970.22,currentlyInjured:FALSE
+athleteID:a11bcc56-017b-4677-9ff3-9e1f819ba5c3,athleteName:Alfie Cundict,athleteBornIn:Michigan,age:29,teamName:Tennessee Titans,yearsOnTeam:4,salary:$4759836.2,currentlyInjured:TRUE
+athleteID:91d95a8a-e95e-4431-8896-ab743c78c91d,athleteName:Creight Button,athleteBornIn:New York,age:30,teamName:Oakland Raiders,yearsOnTeam:5,salary:$1720852.51,currentlyInjured:TRUE
+athleteID:d8a67335-5a5d-4ea7-b76f-b2115f8b0a78,athleteName:Ilysa Guitton,athleteBornIn:California,age:30,teamName:Dallas Cowboys,yearsOnTeam:4,salary:$7473099.02,currentlyInjured:FALSE
+athleteID:26646b8f-3ccf-46ea-b905-1ed3da9f53f7,athleteName:Jameson Silbert,athleteBornIn:North Carolina,age:28,teamName:Arizona Cardinals,yearsOnTeam:3,salary:$4723315.56,currentlyInjured:TRUE
+athleteID:d4ac22d4-c7b2-4f2b-bf50-6d4a601a8616,athleteName:Albie Smethurst,athleteBornIn:Pennsylvania,age:35,teamName:Minnesota Vikings,yearsOnTeam:3,salary:$2579031.62,currentlyInjured:TRUE
+athleteID:8415d061-7fcb-4ff9-b81c-5a8c9c84065e,athleteName:Ilene Sheerin,athleteBornIn:Virginia,age:34,teamName:Arizona Cardinals,yearsOnTeam:6,salary:$571388.88,currentlyInjured:FALSE
+athleteID:ec45094a-6ded-4895-a092-aad7f870f89e,athleteName:Charisse Slorach,athleteBornIn:Florida,age:23,teamName:New England Patriots,yearsOnTeam:6,salary:$849248.52,currentlyInjured:FALSE
+athleteID:a99ab19a-2a61-49f6-ba14-169819f4b178,athleteName:Carie Ilyin,athleteBornIn:Michigan,age:32,teamName:New York Jets,yearsOnTeam:4,salary:$7048932.13,currentlyInjured:FALSE
+athleteID:db727d5e-173f-4098-9fc7-db356b123a19,athleteName:Fawn Ungerer,athleteBornIn:Texas,age:28,teamName:Cincinnati Bengals,yearsOnTeam:3,salary:$4366618.27,currentlyInjured:TRUE
+athleteID:6e88bd9f-b13d-4246-bb15-504b47f603d4,athleteName:Dennis Ridgedell,athleteBornIn:Nevada,age:25,teamName:Carolina Panthers,yearsOnTeam:1,salary:$494512.25,currentlyInjured:TRUE
+athleteID:51bbe603-8cd2-43c0-9f26-a94f1e4eb815,athleteName:Darnall M'Chirrie,athleteBornIn:Illinois,age:25,teamName:Arizona Cardinals,yearsOnTeam:4,salary:$5856079.81,currentlyInjured:TRUE
+athleteID:60197923-4189-47da-9429-ccbe8cd02d63,athleteName:Loralie Mahaddie,athleteBornIn:Connecticut,age:24,teamName:Kansas City Chiefs,yearsOnTeam:5,salary:$7514944.56,currentlyInjured:FALSE
+athleteID:7234605b-b1cc-4c2e-b87f-033852a6f2ee,athleteName:Leda Bourcq,athleteBornIn:California,age:24,teamName:Philadelphia Eagles,yearsOnTeam:2,salary:$221739.34,currentlyInjured:TRUE
+athleteID:a455ec8f-a4d9-42ce-a0a7-012663dbd01c,athleteName:Pauly Pantlin,athleteBornIn:New York,age:31,teamName:Buffalo Bills,yearsOnTeam:4,salary:$5875710.69,currentlyInjured:FALSE
+athleteID:9b775a0c-9656-426f-9d34-2fc3787020a5,athleteName:Jerrie Wims,athleteBornIn:Texas,age:34,teamName:Tennessee Titans,yearsOnTeam:5,salary:$7950457.57,currentlyInjured:FALSE
+athleteID:c165e4bc-d6fa-40f8-bcd2-132498addff1,athleteName:Allyson Mateja,athleteBornIn:Texas,age:27,teamName:Cleveland Browns,yearsOnTeam:3,salary:$943421.66,currentlyInjured:TRUE
+athleteID:96185618-72df-4c26-b930-c91f93a18312,athleteName:Levey Battin,athleteBornIn:Nevada,age:26,teamName:Washington Redskins,yearsOnTeam:5,salary:$6054022.98,currentlyInjured:FALSE
+athleteID:df5b6cd8-cd97-421f-8350-ed6567c2f7a6,athleteName:Dwain Harms,athleteBornIn:Indiana,age:22,teamName:Buffalo Bills,yearsOnTeam:6,salary:$858736.9,currentlyInjured:TRUE
+athleteID:047ddc22-526e-472d-bb6d-7bf439e55b38,athleteName:Kathye Guinness,athleteBornIn:Washington,age:22,teamName:Baltimore Ravens,yearsOnTeam:1,salary:$1602126.49,currentlyInjured:FALSE
+athleteID:b2e00000-e04c-4b6c-a5da-17f0be03babc,athleteName:Rebecka Corwood,athleteBornIn:Texas,age:33,teamName:Washington Redskins,yearsOnTeam:5,salary:$7696317.66,currentlyInjured:TRUE
+athleteID:ee8ec370-b395-45d5-b4ef-638b74737448,athleteName:Amble Patullo,athleteBornIn:North Carolina,age:32,teamName:Tennessee Titans,yearsOnTeam:1,salary:$7562711.48,currentlyInjured:TRUE
+athleteID:8e91c167-0809-41d2-bf6d-e2356dc03c80,athleteName:Drucill Harburtson,athleteBornIn:Florida,age:19,teamName:Kansas City Chiefs,yearsOnTeam:6,salary:$4228036.02,currentlyInjured:FALSE
+athleteID:5d972fdb-afaf-4de9-9136-e08e31a1f5cb,athleteName:Ashlee Willicott,athleteBornIn:Texas,age:30,teamName:Los Angeles Rams,yearsOnTeam:2,salary:$4723113.82,currentlyInjured:TRUE
+athleteID:ef7219e6-7e92-474b-908b-342a5df0ce0d,athleteName:Halie Boal,athleteBornIn:Arkansas,age:21,teamName:Dallas Cowboys,yearsOnTeam:2,salary:$769945.97,currentlyInjured:FALSE
+athleteID:b09fd1be-46a0-4bcd-bb23-86f2c59b1ccc,athleteName:Claretta Darinton,athleteBornIn:Florida,age:29,teamName:Cincinnati Bengals,yearsOnTeam:4,salary:$5361619.06,currentlyInjured:FALSE
+athleteID:7344c860-23d4-44a1-ac65-23fb280b7832,athleteName:Merrili Ancketill,athleteBornIn:New York,age:32,teamName:Indianapolis Colts,yearsOnTeam:5,salary:$1578098.13,currentlyInjured:TRUE
+athleteID:e99d9a4e-bf69-4545-8937-07608f389d23,athleteName:Jennifer Durrell,athleteBornIn:West Virginia,age:30,teamName:Oakland Raiders,yearsOnTeam:3,salary:$2971941.64,currentlyInjured:TRUE
+athleteID:270c4ef9-c458-4afb-a230-3b4dafbc9862,athleteName:Erhard Gouinlock,athleteBornIn:Louisiana,age:26,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$2590867.43,currentlyInjured:FALSE
+athleteID:9f486401-48e2-4099-b607-3c332cb5d670,athleteName:Karlen Samarth,athleteBornIn:North Carolina,age:35,teamName:New York Jets,yearsOnTeam:2,salary:$812162.92,currentlyInjured:FALSE
+athleteID:ca05b240-167b-4514-9ddd-d5475be7faaa,athleteName:Sanderson Terbrug,athleteBornIn:Louisiana,age:19,teamName:Los Angeles Chargers,yearsOnTeam:4,salary:$6766109.71,currentlyInjured:FALSE
+athleteID:759aa65f-f488-4893-8f24-016fffa24ef6,athleteName:Temp Arnatt,athleteBornIn:California,age:30,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$5068562.37,currentlyInjured:FALSE
+athleteID:761d9e6a-5c36-4a4c-94a7-30907a1402bf,athleteName:Bernice Yapp,athleteBornIn:Texas,age:25,teamName:Minnesota Vikings,yearsOnTeam:5,salary:$2204361.7,currentlyInjured:TRUE
+athleteID:b368575e-27b4-48da-890e-f7550cd7f020,athleteName:Torey Kretschmer,athleteBornIn:Connecticut,age:32,teamName:Philadelphia Eagles,yearsOnTeam:3,salary:$5765118.02,currentlyInjured:TRUE
+athleteID:c5efecc9-e01a-4213-89bd-3ad8643fb8de,athleteName:Essy Lampet,athleteBornIn:Texas,age:35,teamName:Dallas Cowboys,yearsOnTeam:6,salary:$5505519.08,currentlyInjured:TRUE
+athleteID:97f3d6c2-daa2-42d7-9f0f-ca6244f0f698,athleteName:Rawley Schops,athleteBornIn:Wisconsin,age:22,teamName:Kansas City Chiefs,yearsOnTeam:1,salary:$2526117.09,currentlyInjured:FALSE
+athleteID:74e106c6-09e2-483f-9bc2-6475fb12f68e,athleteName:Denis Bordone,athleteBornIn:Mississippi,age:31,teamName:Los Angeles Chargers,yearsOnTeam:4,salary:$5885233.4,currentlyInjured:FALSE
+athleteID:f712b411-0da5-4d0d-aa88-e6ab330345f0,athleteName:Winifred Keirle,athleteBornIn:Georgia,age:30,teamName:Houston Texans,yearsOnTeam:2,salary:$4723728.17,currentlyInjured:TRUE
+athleteID:36a3c8b1-0662-4807-bec1-d59628f05bb7,athleteName:Gibby Sodeau,athleteBornIn:New York,age:21,teamName:Tampa Bay Buccaneers,yearsOnTeam:2,salary:$4500734.96,currentlyInjured:FALSE
+athleteID:46647863-5482-4ca2-9b91-1087f563dfbc,athleteName:Tremaine Pudden,athleteBornIn:Georgia,age:34,teamName:Buffalo Bills,yearsOnTeam:1,salary:$5704947.97,currentlyInjured:FALSE
+athleteID:17f91142-12af-48d3-9b68-a9ca1628758d,athleteName:Kriste Pietzker,athleteBornIn:Tennessee,age:25,teamName:Denver Broncos,yearsOnTeam:2,salary:$5619804.06,currentlyInjured:TRUE
+athleteID:1632aa71-90de-407f-a95b-261265c8fc31,athleteName:Dari Kenaway,athleteBornIn:Ohio,age:33,teamName:Los Angeles Rams,yearsOnTeam:1,salary:$2167346.78,currentlyInjured:FALSE
+athleteID:1b2bf3e7-e566-44fd-8b25-8dae0ed98d2d,athleteName:Meade De Mico,athleteBornIn:Pennsylvania,age:31,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$5862880.03,currentlyInjured:TRUE
+athleteID:87736f32-a3e8-49b6-8133-c5f03a77d23c,athleteName:Abby Cadwell,athleteBornIn:New York,age:19,teamName:Kansas City Chiefs,yearsOnTeam:4,salary:$3234923.9,currentlyInjured:FALSE
+athleteID:0a933528-529a-4b39-8422-7d0c1ceba084,athleteName:Christie Linsey,athleteBornIn:Illinois,age:24,teamName:Washington Redskins,yearsOnTeam:1,salary:$6166979.95,currentlyInjured:FALSE
+athleteID:8770f8e9-8e3d-4e0e-a048-391383c0dd57,athleteName:Keith Glasman,athleteBornIn:Maryland,age:26,teamName:Philadelphia Eagles,yearsOnTeam:6,salary:$3024830.18,currentlyInjured:FALSE
+athleteID:28b4076a-cf23-4f2d-8030-527495989f82,athleteName:Raquela Diboll,athleteBornIn:Georgia,age:28,teamName:Indianapolis Colts,yearsOnTeam:6,salary:$4619762.71,currentlyInjured:TRUE
+athleteID:787d383c-a60d-4ca6-a511-c57a1d830df8,athleteName:Neron Aslott,athleteBornIn:Mississippi,age:25,teamName:Los Angeles Rams,yearsOnTeam:4,salary:$6679084.02,currentlyInjured:TRUE
+athleteID:429622c1-bedf-4fc1-b6a2-e95f494a7732,athleteName:Doroteya Tothe,athleteBornIn:Oregon,age:25,teamName:Pittsburgh Steelers,yearsOnTeam:4,salary:$3745678.73,currentlyInjured:FALSE
+athleteID:2199f19d-1fef-468d-907b-e4a4c05c41d0,athleteName:Vickie Swindles,athleteBornIn:Texas,age:31,teamName:Cincinnati Bengals,yearsOnTeam:2,salary:$7458476.92,currentlyInjured:FALSE
+athleteID:d72604c4-f1c1-405e-994c-56e8de1b38f5,athleteName:Paolina Aaron,athleteBornIn:Utah,age:23,teamName:Baltimore Ravens,yearsOnTeam:2,salary:$1183184.14,currentlyInjured:FALSE
+athleteID:db7110db-98b5-45f7-a754-868b0cf46ea3,athleteName:Milly Houlden,athleteBornIn:Georgia,age:28,teamName:Oakland Raiders,yearsOnTeam:1,salary:$3692462.18,currentlyInjured:FALSE
+athleteID:59c4dc3c-a0a2-4db5-870f-10df7a932bae,athleteName:Coriss Boldock,athleteBornIn:Texas,age:23,teamName:Pittsburgh Steelers,yearsOnTeam:6,salary:$6487932.07,currentlyInjured:TRUE
+athleteID:e59825b7-ac6d-48e1-80cf-bdf4746e0951,athleteName:Britteny Akred,athleteBornIn:Massachusetts,age:24,teamName:Detroit Lions,yearsOnTeam:3,salary:$2554725.38,currentlyInjured:TRUE
+athleteID:1059ad04-d818-4dc9-9a10-f35e3a42b1d3,athleteName:Elga McKelvey,athleteBornIn:New Jersey,age:23,teamName:Kansas City Chiefs,yearsOnTeam:2,salary:$4736032.5,currentlyInjured:FALSE
+athleteID:475eb174-5a7d-4d9f-8b80-9a54593001b1,athleteName:Sammie Frewer,athleteBornIn:Pennsylvania,age:32,teamName:Oakland Raiders,yearsOnTeam:1,salary:$2634030.8,currentlyInjured:TRUE
+athleteID:2d5c3f41-6b91-40fe-80ed-a2647ec593ee,athleteName:Farris McWilliam,athleteBornIn:California,age:35,teamName:Buffalo Bills,yearsOnTeam:5,salary:$5772708.97,currentlyInjured:TRUE
+athleteID:ecabbb97-2654-4d17-b68c-f043bdf0e2a0,athleteName:Amery Glen,athleteBornIn:Georgia,age:25,teamName:Jacksonville Jaguars,yearsOnTeam:6,salary:$7747469.94,currentlyInjured:FALSE
+athleteID:48db6dee-5a38-43f0-80c2-64c7062019e0,athleteName:Elvin Streets,athleteBornIn:California,age:32,teamName:Oakland Raiders,yearsOnTeam:3,salary:$1095264.06,currentlyInjured:TRUE
+athleteID:4f01da78-f4f5-46d0-af97-e3db3993b58d,athleteName:Nicolina Tuma,athleteBornIn:Texas,age:32,teamName:Minnesota Vikings,yearsOnTeam:5,salary:$3167250.95,currentlyInjured:FALSE
+athleteID:c74299ad-c055-4496-85ed-7dc020ca423e,athleteName:Corri Pedden,athleteBornIn:Illinois,age:21,teamName:Indianapolis Colts,yearsOnTeam:1,salary:$6736740.48,currentlyInjured:TRUE
+athleteID:cfc5bdb1-30d9-4b6b-9520-1e2095dd30c6,athleteName:Gerrilee Dytham,athleteBornIn:District of Columbia,age:25,teamName:Miami Dolphins,yearsOnTeam:4,salary:$784920.91,currentlyInjured:FALSE
+athleteID:6d99c288-5b8f-4d96-a3b9-b9ee863d9cd2,athleteName:Bartholemy Charteris,athleteBornIn:Delaware,age:27,teamName:Washington Redskins,yearsOnTeam:5,salary:$6237000.63,currentlyInjured:TRUE
+athleteID:9fbc3518-a834-41fe-9316-4cb61595c7c4,athleteName:Micheil Linay,athleteBornIn:Kentucky,age:32,teamName:New York Jets,yearsOnTeam:4,salary:$3153899.91,currentlyInjured:FALSE
+athleteID:84d968e0-f3da-4cfd-a9ba-bfc8c47a3564,athleteName:Mandel Beavan,athleteBornIn:New Hampshire,age:30,teamName:Detroit Lions,yearsOnTeam:2,salary:$7975978.35,currentlyInjured:TRUE
+athleteID:5059710a-9db6-41e3-bfc3-784574983c1f,athleteName:Missie Oakwood,athleteBornIn:Florida,age:29,teamName:Jacksonville Jaguars,yearsOnTeam:3,salary:$3136129.2,currentlyInjured:FALSE
+athleteID:1c0ca444-475e-42a3-9c47-afa641763225,athleteName:Ketty Tapsfield,athleteBornIn:Missouri,age:35,teamName:New England Patriots,yearsOnTeam:3,salary:$1790560.94,currentlyInjured:TRUE
+athleteID:1842d61d-b8c2-4a3a-a559-1579ebab49f7,athleteName:Maggi Pethick,athleteBornIn:Pennsylvania,age:22,teamName:New England Patriots,yearsOnTeam:3,salary:$3076614.42,currentlyInjured:FALSE
+athleteID:9bebcd08-4c72-4ba1-9035-56f5acac5384,athleteName:Elden Squibb,athleteBornIn:Kansas,age:34,teamName:Los Angeles Rams,yearsOnTeam:1,salary:$5287542.04,currentlyInjured:TRUE
+athleteID:84cebc87-da04-47b9-8f1f-aa5dd13fdd03,athleteName:Rhodie Choudhury,athleteBornIn:Indiana,age:30,teamName:Cleveland Browns,yearsOnTeam:4,salary:$6593335.45,currentlyInjured:FALSE
+athleteID:4d50d150-5cef-4fd4-9e19-c958035f9779,athleteName:Emalia Ciciura,athleteBornIn:Ohio,age:33,teamName:Miami Dolphins,yearsOnTeam:2,salary:$1597745.81,currentlyInjured:TRUE
+athleteID:f789e897-051d-4902-a452-029781eb08e1,athleteName:Kippie Andrivel,athleteBornIn:Rhode Island,age:25,teamName:Pittsburgh Steelers,yearsOnTeam:6,salary:$771818.97,currentlyInjured:FALSE
+athleteID:d32267d7-c946-481d-affa-acd3dfd8b81d,athleteName:Dar Sarl,athleteBornIn:Florida,age:35,teamName:Houston Texans,yearsOnTeam:3,salary:$1324899.45,currentlyInjured:FALSE
+athleteID:9139f428-0717-406a-b380-ba3b51536922,athleteName:Pauly Baguley,athleteBornIn:North Carolina,age:19,teamName:Green Bay Packers,yearsOnTeam:1,salary:$2283631.8,currentlyInjured:FALSE
+athleteID:552e50a2-42f3-4adf-afde-90607c8b18d2,athleteName:Janeva Bromilow,athleteBornIn:Nevada,age:28,teamName:Jacksonville Jaguars,yearsOnTeam:1,salary:$1655166.21,currentlyInjured:TRUE
+athleteID:21fdba3c-0fa2-4750-a34e-1dfa8cb680c4,athleteName:Marcello Riveles,athleteBornIn:New Jersey,age:20,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$3523035.51,currentlyInjured:TRUE
+athleteID:38d9ad30-b4fd-4bc0-9a27-c7dd7d8d3b60,athleteName:Nata Ragg,athleteBornIn:California,age:24,teamName:Buffalo Bills,yearsOnTeam:3,salary:$668782.18,currentlyInjured:FALSE
+athleteID:3f4ce956-6a8e-42c5-99ca-9420bfdb9890,athleteName:Raimundo Ackroyd,athleteBornIn:Virginia,age:30,teamName:Buffalo Bills,yearsOnTeam:4,salary:$2279282.23,currentlyInjured:FALSE
+athleteID:8895e0d1-53ef-4ad6-a482-7ef85ab6dedf,athleteName:Consalve Whisson,athleteBornIn:Washington,age:34,teamName:Indianapolis Colts,yearsOnTeam:4,salary:$873953.46,currentlyInjured:FALSE
+athleteID:57119a65-d9e4-4de5-8f59-4f0fd9809311,athleteName:Joanna Pau,athleteBornIn:Oklahoma,age:32,teamName:Buffalo Bills,yearsOnTeam:5,salary:$7680899.3,currentlyInjured:TRUE
+athleteID:5303f8e5-d606-4a26-ab52-9fcd1eae9c43,athleteName:Sheppard O'Crevy,athleteBornIn:California,age:19,teamName:Baltimore Ravens,yearsOnTeam:3,salary:$7213571.57,currentlyInjured:TRUE
+athleteID:56872cbe-5e5f-4e1b-9457-6cd5bd0299e5,athleteName:Tori Vallery,athleteBornIn:Texas,age:31,teamName:San Francisco 49ers,yearsOnTeam:4,salary:$6903367.91,currentlyInjured:FALSE
+athleteID:65d9f7a2-9ec8-469f-8572-b929d5ddcb1f,athleteName:Maxim Mayhead,athleteBornIn:Florida,age:19,teamName:Atlanta Falcons,yearsOnTeam:5,salary:$2545121.73,currentlyInjured:FALSE
+athleteID:55c38a32-1742-48a9-9566-e2befa7e0ab9,athleteName:Kaja Duffell,athleteBornIn:Tennessee,age:32,teamName:Buffalo Bills,yearsOnTeam:6,salary:$2416345.73,currentlyInjured:FALSE
+athleteID:ff6f397d-bfbd-470b-b20d-dc995a328d6a,athleteName:Ginger Iwanicki,athleteBornIn:Alaska,age:29,teamName:Tennessee Titans,yearsOnTeam:4,salary:$7136787.36,currentlyInjured:TRUE
+athleteID:0e67ec87-7dfa-41f9-9023-3d2de8aeff90,athleteName:Dalenna Dunford,athleteBornIn:New York,age:33,teamName:Oakland Raiders,yearsOnTeam:6,salary:$2344294.28,currentlyInjured:TRUE
+athleteID:431a6a64-ba11-4ae1-8c9c-89225326f0de,athleteName:Kennedy Haswall,athleteBornIn:Florida,age:34,teamName:Jacksonville Jaguars,yearsOnTeam:2,salary:$4726669.45,currentlyInjured:TRUE
+athleteID:fd2522ba-9767-4c69-9617-2b55a58d5f68,athleteName:Jenica Durrett,athleteBornIn:Iowa,age:20,teamName:Kansas City Chiefs,yearsOnTeam:1,salary:$2141138.45,currentlyInjured:TRUE
+athleteID:5dfbd1b2-6c54-4c70-bbb0-eb04f6ce55de,athleteName:Esmaria Rainy,athleteBornIn:North Dakota,age:20,teamName:Chicago Bears,yearsOnTeam:6,salary:$4607122.93,currentlyInjured:FALSE
+athleteID:9111da08-3f8c-4c5c-842f-a60f6cc15996,athleteName:Jacinda Morgen,athleteBornIn:Utah,age:26,teamName:Miami Dolphins,yearsOnTeam:4,salary:$5353515.59,currentlyInjured:TRUE
+athleteID:3e4fed80-41e2-45ea-b43f-596eb2ca9318,athleteName:Anna Stable,athleteBornIn:New Jersey,age:30,teamName:Tampa Bay Buccaneers,yearsOnTeam:4,salary:$230226.63,currentlyInjured:FALSE
+athleteID:acfd3eb2-4140-4c52-a64c-643389d91a97,athleteName:Moina Colliford,athleteBornIn:Tennessee,age:23,teamName:New England Patriots,yearsOnTeam:2,salary:$6823742.4,currentlyInjured:TRUE
+athleteID:5d174b1c-c527-4d60-b7ab-c7dc4ddf87cf,athleteName:Edmon Chilton,athleteBornIn:Georgia,age:23,teamName:Minnesota Vikings,yearsOnTeam:3,salary:$1094949.24,currentlyInjured:TRUE
+athleteID:1307f0d5-cda4-4a71-840f-c92a3814d008,athleteName:Adaline Midner,athleteBornIn:Georgia,age:24,teamName:Houston Texans,yearsOnTeam:1,salary:$5895012.2,currentlyInjured:TRUE
+athleteID:432bfabc-15c5-4df6-88b6-e9d8030c1131,athleteName:Fairlie Dewicke,athleteBornIn:Texas,age:19,teamName:Washington Redskins,yearsOnTeam:1,salary:$4089005.36,currentlyInjured:TRUE
+athleteID:290b1663-b12b-4f24-99df-664cbf745939,athleteName:Rikki Haug,athleteBornIn:District of Columbia,age:25,teamName:Cleveland Browns,yearsOnTeam:3,salary:$3794118.78,currentlyInjured:TRUE
+athleteID:e4d6a72f-e6ba-433c-a9dc-07900d3713b4,athleteName:Mal Give,athleteBornIn:California,age:28,teamName:Jacksonville Jaguars,yearsOnTeam:4,salary:$859326.5,currentlyInjured:FALSE
+athleteID:ea51db73-779a-435a-924b-cdce9831b100,athleteName:Blake Blow,athleteBornIn:Texas,age:19,teamName:Los Angeles Chargers,yearsOnTeam:5,salary:$3377074.1,currentlyInjured:TRUE
+athleteID:03d79b6a-a52f-4e66-8e3a-6782ce13187c,athleteName:Kimberley Randalson,athleteBornIn:California,age:27,teamName:Minnesota Vikings,yearsOnTeam:3,salary:$6529571.43,currentlyInjured:TRUE
+athleteID:28a96d3d-9d12-44f4-aae5-f86cc194a16c,athleteName:Justinn Norcliffe,athleteBornIn:Texas,age:30,teamName:Cleveland Browns,yearsOnTeam:3,salary:$2052500.64,currentlyInjured:FALSE
+athleteID:5d5fea8e-31a8-415d-b174-ce14e045ba18,athleteName:Noelani Eplett,athleteBornIn:California,age:19,teamName:Seattle Seahawks,yearsOnTeam:6,salary:$7997052.47,currentlyInjured:FALSE
+athleteID:ec4458f1-ca2a-4411-94d1-d6c193a36d4f,athleteName:Laurice Jaspar,athleteBornIn:North Carolina,age:31,teamName:Cincinnati Bengals,yearsOnTeam:3,salary:$4805762.95,currentlyInjured:FALSE
+athleteID:7c71be52-f412-47e6-af57-0ab7dc60f08b,athleteName:Gertrudis Buller,athleteBornIn:California,age:29,teamName:New York Jets,yearsOnTeam:3,salary:$3473098.51,currentlyInjured:TRUE
+athleteID:aac1377d-8b44-4f06-a960-03b3b8b323af,athleteName:Brigitte Abriani,athleteBornIn:Texas,age:35,teamName:Washington Redskins,yearsOnTeam:1,salary:$3560253.67,currentlyInjured:FALSE
+athleteID:a35b1cf7-5796-469f-8550-2b782fa59107,athleteName:Romain Brigginshaw,athleteBornIn:Illinois,age:34,teamName:Kansas City Chiefs,yearsOnTeam:2,salary:$7579116.47,currentlyInjured:FALSE
+athleteID:9910cf8d-d81d-4b08-98f1-d1e56bb8d9de,athleteName:Christel Wigfall,athleteBornIn:Arkansas,age:29,teamName:New York Jets,yearsOnTeam:4,salary:$343214.76,currentlyInjured:FALSE
+athleteID:7f2bfb13-561f-418d-9a22-63e311289061,athleteName:Phylys Wabersinke,athleteBornIn:Texas,age:28,teamName:Arizona Cardinals,yearsOnTeam:1,salary:$2569991.96,currentlyInjured:TRUE
+athleteID:49eed88d-cb60-4e15-9c41-49732203ef50,athleteName:Brigid Darko,athleteBornIn:Missouri,age:27,teamName:Carolina Panthers,yearsOnTeam:3,salary:$1408138.46,currentlyInjured:TRUE
+athleteID:8c853366-efe8-4c1f-a86f-9208a0707548,athleteName:Leyla Darbon,athleteBornIn:Illinois,age:20,teamName:Houston Texans,yearsOnTeam:4,salary:$4538263.2,currentlyInjured:FALSE
+athleteID:3d1f3da9-369c-454b-ae9e-6d624cb7c4ec,athleteName:Orelie Di Bartolomeo,athleteBornIn:Florida,age:32,teamName:Dallas Cowboys,yearsOnTeam:1,salary:$851412.66,currentlyInjured:TRUE
+athleteID:fb2fc6ef-f790-40e9-92e3-c1415d600dbf,athleteName:Pren Olivi,athleteBornIn:District of Columbia,age:30,teamName:New York Jets,yearsOnTeam:1,salary:$3839983.28,currentlyInjured:FALSE
+athleteID:b9964a17-6265-43d3-9caa-ab474d11faac,athleteName:Adella McLeish,athleteBornIn:District of Columbia,age:35,teamName:Minnesota Vikings,yearsOnTeam:2,salary:$2624336.45,currentlyInjured:TRUE
+athleteID:17a7fa4b-f320-4463-a9e6-f8de6dc2aded,athleteName:Wrennie Marfe,athleteBornIn:Florida,age:33,teamName:Arizona Cardinals,yearsOnTeam:2,salary:$1536028.9,currentlyInjured:FALSE
+athleteID:a2dc8db2-b04d-4f42-8d77-634d8d4eb494,athleteName:Eugenie Jakeman,athleteBornIn:Nevada,age:23,teamName:New Orleans Saints,yearsOnTeam:4,salary:$1227116.16,currentlyInjured:FALSE
+athleteID:36ca33f2-5b63-47e3-977c-e86299e04895,athleteName:Kerrie Quarmby,athleteBornIn:Oklahoma,age:35,teamName:Chicago Bears,yearsOnTeam:3,salary:$6296282.27,currentlyInjured:FALSE
+athleteID:83b297cd-ccf3-4b65-8fd1-34e46776457e,athleteName:Gaylord Causley,athleteBornIn:Virginia,age:31,teamName:Cincinnati Bengals,yearsOnTeam:4,salary:$2099554.9,currentlyInjured:TRUE
+athleteID:f1f2bbaf-2985-409e-92ab-a65fc93b3b1c,athleteName:Patsy Rielly,athleteBornIn:Texas,age:25,teamName:Buffalo Bills,yearsOnTeam:3,salary:$4944605.57,currentlyInjured:TRUE
+athleteID:542a5d78-4f63-4091-a1ba-5d07f2879381,athleteName:Marlo Trevance,athleteBornIn:California,age:23,teamName:New Orleans Saints,yearsOnTeam:6,salary:$2231381.79,currentlyInjured:FALSE
+athleteID:e51e6e75-70ac-45cc-a7be-fa035bd4ce3a,athleteName:Phip Skillicorn,athleteBornIn:Tennessee,age:19,teamName:Green Bay Packers,yearsOnTeam:1,salary:$4793745.14,currentlyInjured:TRUE
+athleteID:4de0f765-7cbe-4cdb-b544-1283a423a86e,athleteName:Alix Pegram,athleteBornIn:Pennsylvania,age:28,teamName:Los Angeles Chargers,yearsOnTeam:4,salary:$4240399.5,currentlyInjured:FALSE
+athleteID:813f67bf-36a1-46ae-9e0f-039d3d9d9e5d,athleteName:Herminia Cavaney,athleteBornIn:Pennsylvania,age:22,teamName:Seattle Seahawks,yearsOnTeam:2,salary:$6465965.5,currentlyInjured:TRUE
+athleteID:a85472cb-9718-481b-bd32-31df7decf2fd,athleteName:Osbourn Winckles,athleteBornIn:Minnesota,age:30,teamName:Green Bay Packers,yearsOnTeam:4,salary:$3532270.09,currentlyInjured:TRUE
+athleteID:a1e525e4-ded1-4cf2-9daa-97cbde7d3978,athleteName:Onfroi Lowrance,athleteBornIn:Nebraska,age:30,teamName:Atlanta Falcons,yearsOnTeam:5,salary:$3611327.05,currentlyInjured:TRUE
+athleteID:6a023481-63b9-4586-9f33-60454d2f98d7,athleteName:Renaldo Cuerdale,athleteBornIn:Nebraska,age:19,teamName:Tennessee Titans,yearsOnTeam:3,salary:$2630508.82,currentlyInjured:TRUE
+athleteID:8e8ebe10-d8fe-4b14-82d3-ea3961b6e35a,athleteName:Jsandye Bencher,athleteBornIn:District of Columbia,age:33,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$7773181.6,currentlyInjured:TRUE
+athleteID:f2610567-1cd8-4efd-a032-450ab9d32560,athleteName:Carson Klejna,athleteBornIn:Indiana,age:27,teamName:Tennessee Titans,yearsOnTeam:6,salary:$1058550.35,currentlyInjured:FALSE
+athleteID:66da9c6d-0dfa-425c-b225-27ff8000a778,athleteName:Branden Poxon,athleteBornIn:Arizona,age:25,teamName:Denver Broncos,yearsOnTeam:5,salary:$2026537.22,currentlyInjured:TRUE
+athleteID:a4d1d3fc-a6bd-48ce-814b-6f168cf624fa,athleteName:Carmelle O'Dowling,athleteBornIn:Florida,age:32,teamName:Carolina Panthers,yearsOnTeam:5,salary:$7723895.16,currentlyInjured:TRUE
+athleteID:5c88c6eb-bafb-459c-8c8e-369d4bb08b97,athleteName:Web Dodson,athleteBornIn:Georgia,age:21,teamName:Minnesota Vikings,yearsOnTeam:6,salary:$7200096.59,currentlyInjured:TRUE
+athleteID:7f6d7b36-d18b-4592-a33c-3ff1cd3b6f34,athleteName:Arley Parslow,athleteBornIn:Iowa,age:27,teamName:Washington Redskins,yearsOnTeam:3,salary:$5878173.93,currentlyInjured:FALSE
+athleteID:2401fafd-a152-42a6-85c7-d44964e01c92,athleteName:Samara Statersfield,athleteBornIn:Arizona,age:27,teamName:Green Bay Packers,yearsOnTeam:6,salary:$692986.83,currentlyInjured:TRUE
+athleteID:9dfc15c3-d5a9-4eda-a697-80b4370d62f6,athleteName:Marybelle Lovelace,athleteBornIn:Nebraska,age:21,teamName:San Francisco 49ers,yearsOnTeam:2,salary:$2679721.67,currentlyInjured:TRUE
+athleteID:8c38fb3e-a063-4eb7-912a-9c3b8fa67104,athleteName:Heywood Jolland,athleteBornIn:California,age:27,teamName:Washington Redskins,yearsOnTeam:3,salary:$688808.17,currentlyInjured:FALSE
+athleteID:23a7c0b2-8a12-432d-b9a9-f62af478f8a0,athleteName:Carolee Lang,athleteBornIn:Massachusetts,age:25,teamName:New England Patriots,yearsOnTeam:1,salary:$7018738.97,currentlyInjured:FALSE
+athleteID:31a94627-ae74-46fa-9c16-a6506c73e801,athleteName:Bernette Minihane,athleteBornIn:New Jersey,age:22,teamName:Indianapolis Colts,yearsOnTeam:2,salary:$6476470.77,currentlyInjured:TRUE
+athleteID:29c06150-cdcd-4f09-a2e0-e2ae6db29589,athleteName:Abraham Casswell,athleteBornIn:Texas,age:26,teamName:Jacksonville Jaguars,yearsOnTeam:2,salary:$4656792.91,currentlyInjured:TRUE
+athleteID:ac25a243-3830-4623-8317-9be798f8aeb4,athleteName:Gifford Tomasutti,athleteBornIn:Colorado,age:30,teamName:Carolina Panthers,yearsOnTeam:5,salary:$5978078.36,currentlyInjured:TRUE
+athleteID:b5a8b1b2-ac0b-417c-9ff3-195a9db26dc6,athleteName:Teresa Dobney,athleteBornIn:Texas,age:33,teamName:Philadelphia Eagles,yearsOnTeam:4,salary:$5610103.4,currentlyInjured:FALSE
+athleteID:67a1f87d-563c-4893-af38-3593041f74a1,athleteName:Dukie Fitzsimon,athleteBornIn:Massachusetts,age:21,teamName:Los Angeles Chargers,yearsOnTeam:5,salary:$4119197.24,currentlyInjured:TRUE
+athleteID:3790f7c3-12ee-46cd-9af4-bcbb3dd02bdc,athleteName:Bess Blewitt,athleteBornIn:Texas,age:21,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$1714154.78,currentlyInjured:FALSE
+athleteID:7d2af216-86bf-4885-9fee-048a9a3513c6,athleteName:Valencia Americi,athleteBornIn:Florida,age:21,teamName:Dallas Cowboys,yearsOnTeam:5,salary:$5688192.86,currentlyInjured:FALSE
+athleteID:4bd36bf0-694c-48db-afdb-95cff4a55ec0,athleteName:Britt Whitmore,athleteBornIn:Iowa,age:22,teamName:Philadelphia Eagles,yearsOnTeam:2,salary:$6601530.91,currentlyInjured:FALSE
+athleteID:2804dc80-6da6-4da3-aa34-12ac71091ac7,athleteName:Arie Blackall,athleteBornIn:Pennsylvania,age:26,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$4293615.36,currentlyInjured:TRUE
+athleteID:3d5f02ea-743f-40db-8816-db714da3eab4,athleteName:Merill Ledford,athleteBornIn:Connecticut,age:35,teamName:Baltimore Ravens,yearsOnTeam:3,salary:$954975.12,currentlyInjured:TRUE
+athleteID:a6149f72-941f-41d2-ada2-f21d68be9937,athleteName:Cami Jenkins,athleteBornIn:Florida,age:27,teamName:San Francisco 49ers,yearsOnTeam:3,salary:$7114326.08,currentlyInjured:FALSE
+athleteID:32112ca2-0b0f-49f4-9f62-55bb14da05b5,athleteName:Ford Shadwick,athleteBornIn:Pennsylvania,age:21,teamName:Atlanta Falcons,yearsOnTeam:4,salary:$424703.51,currentlyInjured:FALSE
+athleteID:4af638a8-3350-42a7-b8e9-9993ac89596f,athleteName:Den Pallatina,athleteBornIn:California,age:25,teamName:Dallas Cowboys,yearsOnTeam:1,salary:$1057139.48,currentlyInjured:FALSE
+athleteID:cfeeb779-7bd1-4b8c-946c-93323dfe964b,athleteName:Dieter Panyer,athleteBornIn:New York,age:29,teamName:New England Patriots,yearsOnTeam:4,salary:$1074890.91,currentlyInjured:FALSE
+athleteID:7298e90a-b951-4604-82cb-b6b1e5b0fb47,athleteName:Glori Camerello,athleteBornIn:Maryland,age:19,teamName:Seattle Seahawks,yearsOnTeam:5,salary:$1529275.85,currentlyInjured:TRUE
+athleteID:1d6db503-f9bc-4819-b362-88fa0469cc03,athleteName:Judith Caney,athleteBornIn:Pennsylvania,age:25,teamName:Pittsburgh Steelers,yearsOnTeam:3,salary:$6360961.31,currentlyInjured:FALSE
+athleteID:95d8039b-047a-45e2-9c88-c44474ff4d05,athleteName:Pennie Demann,athleteBornIn:District of Columbia,age:31,teamName:New England Patriots,yearsOnTeam:6,salary:$2512906.31,currentlyInjured:TRUE
+athleteID:97e025ae-dfaa-4cb5-a818-c3a28590febf,athleteName:Kenn Briscam,athleteBornIn:Pennsylvania,age:30,teamName:Oakland Raiders,yearsOnTeam:4,salary:$6576237.82,currentlyInjured:FALSE
+athleteID:200f58e7-33d4-43a3-b2bf-118b7a2758c2,athleteName:Web Needham,athleteBornIn:New Mexico,age:27,teamName:Carolina Panthers,yearsOnTeam:5,salary:$3320544.88,currentlyInjured:FALSE
+athleteID:22288166-9d35-4b59-a64e-1e78f15f872b,athleteName:Zaria Jumeau,athleteBornIn:Ohio,age:29,teamName:Minnesota Vikings,yearsOnTeam:2,salary:$4532145.95,currentlyInjured:TRUE
+athleteID:1b266ab3-a96d-4e90-8d04-b5be8c2850ef,athleteName:Mella Soal,athleteBornIn:Oklahoma,age:31,teamName:Cincinnati Bengals,yearsOnTeam:2,salary:$2913868.86,currentlyInjured:FALSE
+athleteID:7745df5b-3ec4-4abe-93a2-cc7a95852a73,athleteName:Carine Treverton,athleteBornIn:Florida,age:35,teamName:New England Patriots,yearsOnTeam:3,salary:$6266500.75,currentlyInjured:FALSE
+athleteID:ebde73f4-17d0-423f-a875-1391ece4ee66,athleteName:Normand Hensmans,athleteBornIn:Michigan,age:34,teamName:Detroit Lions,yearsOnTeam:1,salary:$4425256.77,currentlyInjured:FALSE
+athleteID:85da6bad-48bd-4bd8-85bb-61970e1f53eb,athleteName:Kimbell Durbridge,athleteBornIn:California,age:23,teamName:San Francisco 49ers,yearsOnTeam:4,salary:$411674.96,currentlyInjured:FALSE
+athleteID:ecdf9e6b-d5e2-4428-b44a-5c2f4d5dea35,athleteName:Hashim Dehn,athleteBornIn:Florida,age:27,teamName:Denver Broncos,yearsOnTeam:4,salary:$6041519.74,currentlyInjured:FALSE
+athleteID:004e9368-34d0-42b6-ac91-122f8444a976,athleteName:Biddie Laphorn,athleteBornIn:Illinois,age:24,teamName:Buffalo Bills,yearsOnTeam:3,salary:$2477239.23,currentlyInjured:TRUE
+athleteID:54f44f90-d6fb-4025-bfd8-cb00707c8840,athleteName:Pauline Jeandon,athleteBornIn:District of Columbia,age:33,teamName:San Francisco 49ers,yearsOnTeam:5,salary:$5774386.75,currentlyInjured:TRUE
+athleteID:854721c5-cd6e-4985-a8a6-4b84142029d3,athleteName:Fern Ashcroft,athleteBornIn:Colorado,age:26,teamName:Houston Texans,yearsOnTeam:2,salary:$4464882.39,currentlyInjured:TRUE
+athleteID:da87f3b3-e9c9-4f21-a1a5-d58ca2ecb5e9,athleteName:Cinda Lowle,athleteBornIn:New York,age:33,teamName:Tennessee Titans,yearsOnTeam:6,salary:$5126923.76,currentlyInjured:FALSE
+athleteID:66032331-8b5b-4c4e-adc6-6a32f8e1032e,athleteName:Philis Sharpin,athleteBornIn:Texas,age:25,teamName:New York Jets,yearsOnTeam:1,salary:$1673574.66,currentlyInjured:FALSE
+athleteID:7e04d7a7-c36a-491f-8502-5d6a5ceea842,athleteName:Melba Wilstead,athleteBornIn:New York,age:25,teamName:Los Angeles Chargers,yearsOnTeam:1,salary:$1398086.17,currentlyInjured:FALSE
+athleteID:18ef2ec3-4968-4f95-b300-dd787a5d195a,athleteName:Dotti Warmisham,athleteBornIn:California,age:31,teamName:Tennessee Titans,yearsOnTeam:2,salary:$4977061.28,currentlyInjured:FALSE
+athleteID:db2d33e9-6389-4d76-8985-4eac0adcbfcf,athleteName:Sascha Brumpton,athleteBornIn:Texas,age:28,teamName:Philadelphia Eagles,yearsOnTeam:1,salary:$5217963.49,currentlyInjured:FALSE
+athleteID:281f73b9-1505-47f1-8c4d-fad1b3d62762,athleteName:Shari Antonomoli,athleteBornIn:Rhode Island,age:30,teamName:Chicago Bears,yearsOnTeam:3,salary:$3752170.12,currentlyInjured:FALSE
+athleteID:9487ca12-6dbd-478c-91a0-eb31b1d9b1bf,athleteName:Marylynne Dursley,athleteBornIn:California,age:25,teamName:Indianapolis Colts,yearsOnTeam:3,salary:$981411.46,currentlyInjured:FALSE
+athleteID:82f4c382-7f11-435f-9687-42d57dea73b6,athleteName:Trula Flute,athleteBornIn:Texas,age:27,teamName:Seattle Seahawks,yearsOnTeam:4,salary:$4957621.4,currentlyInjured:TRUE
+athleteID:33861ac0-02a8-4dbe-b520-c8c83e29b0ad,athleteName:Rayshell Nuzzti,athleteBornIn:Texas,age:26,teamName:Arizona Cardinals,yearsOnTeam:6,salary:$6614669.57,currentlyInjured:FALSE
+athleteID:6af50e9d-6085-449e-bf23-c634db18a66b,athleteName:Arney Rubroe,athleteBornIn:Oklahoma,age:32,teamName:Los Angeles Rams,yearsOnTeam:4,salary:$457833,currentlyInjured:FALSE
+athleteID:b9e58328-3ce8-4783-99cd-81e67aed0f5e,athleteName:Phillipp Morritt,athleteBornIn:Florida,age:25,teamName:Cleveland Browns,yearsOnTeam:3,salary:$1052436.38,currentlyInjured:TRUE
+athleteID:6b99e9db-1f47-4a4c-b1e7-8385100a3612,athleteName:Fabien Gainforth,athleteBornIn:South Dakota,age:35,teamName:New Orleans Saints,yearsOnTeam:2,salary:$3165923.63,currentlyInjured:FALSE
+athleteID:d31a1560-95d1-4e2c-af17-c36de82238d4,athleteName:Stafani Glanester,athleteBornIn:Texas,age:34,teamName:Pittsburgh Steelers,yearsOnTeam:2,salary:$1949328.69,currentlyInjured:TRUE
+athleteID:5eb69e3a-65a9-48f2-8afe-eca2e11f945e,athleteName:Yuri Constantine,athleteBornIn:Florida,age:34,teamName:Philadelphia Eagles,yearsOnTeam:6,salary:$6504746.81,currentlyInjured:TRUE
+athleteID:1c31ae46-7d93-49d8-a7d8-9563ebbf0448,athleteName:Malynda McGeouch,athleteBornIn:California,age:31,teamName:Green Bay Packers,yearsOnTeam:2,salary:$3615462.78,currentlyInjured:FALSE
+athleteID:50047622-3d5e-460e-9528-e1c5e4f50fcb,athleteName:Aksel Egar,athleteBornIn:Florida,age:32,teamName:Cincinnati Bengals,yearsOnTeam:2,salary:$6244190.24,currentlyInjured:FALSE
+athleteID:f3ae4ff8-70ee-49a2-b593-e8e7935cf38d,athleteName:Tymon Giggs,athleteBornIn:Nebraska,age:31,teamName:New England Patriots,yearsOnTeam:4,salary:$679338,currentlyInjured:TRUE
+athleteID:33404713-abee-4e64-9a8a-8869afaa91d4,athleteName:Lyman Lynnitt,athleteBornIn:California,age:26,teamName:Oakland Raiders,yearsOnTeam:4,salary:$5792287.33,currentlyInjured:FALSE
+athleteID:da5ff839-6913-475e-a916-0508911bdf84,athleteName:Filia Cleeve,athleteBornIn:Kentucky,age:19,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$4866088.01,currentlyInjured:TRUE
+athleteID:0dff81b0-bdf0-4800-867e-5f5332fbbfa6,athleteName:Rozamond Igoe,athleteBornIn:District of Columbia,age:26,teamName:Washington Redskins,yearsOnTeam:5,salary:$1573171.45,currentlyInjured:TRUE
+athleteID:74502bfa-44db-4de2-baeb-d339de44468d,athleteName:Cary Polkinghorne,athleteBornIn:California,age:19,teamName:Tampa Bay Buccaneers,yearsOnTeam:4,salary:$7706971.51,currentlyInjured:TRUE
+athleteID:1740af7d-ded0-4b9d-8ba4-0830ca95f379,athleteName:Cozmo Cosham,athleteBornIn:Illinois,age:25,teamName:Arizona Cardinals,yearsOnTeam:4,salary:$3953611.39,currentlyInjured:FALSE
+athleteID:be862cae-5b8d-4a62-9f59-f2544135fa46,athleteName:Tulley House,athleteBornIn:Illinois,age:19,teamName:Denver Broncos,yearsOnTeam:4,salary:$6727957.53,currentlyInjured:FALSE
+athleteID:3bbedd37-d259-421f-bb33-6760752e9203,athleteName:Sharona Selway,athleteBornIn:Ohio,age:24,teamName:Minnesota Vikings,yearsOnTeam:2,salary:$2473214.66,currentlyInjured:FALSE
+athleteID:4d49250a-1750-4bc6-8601-bc241c81ff4e,athleteName:Aloise Tuddall,athleteBornIn:District of Columbia,age:34,teamName:Cleveland Browns,yearsOnTeam:3,salary:$375160.15,currentlyInjured:TRUE
+athleteID:eeade4d2-ebed-4919-acf4-3c9118a7ca9c,athleteName:Yard Tustin,athleteBornIn:North Carolina,age:32,teamName:Cincinnati Bengals,yearsOnTeam:6,salary:$6384630.83,currentlyInjured:TRUE
+athleteID:9782c50e-e667-4243-b8d1-9b40d273820f,athleteName:Prudence Bischop,athleteBornIn:North Carolina,age:20,teamName:Arizona Cardinals,yearsOnTeam:2,salary:$984531.44,currentlyInjured:TRUE
+athleteID:4ad04a53-fbfb-4a66-a409-c748c3d2ea8c,athleteName:Liza Hulse,athleteBornIn:Connecticut,age:31,teamName:New York Giants,yearsOnTeam:5,salary:$5356963.24,currentlyInjured:TRUE
+athleteID:1d713017-3fe4-4c16-85bd-9677469ee018,athleteName:Odele Tomanek,athleteBornIn:New Jersey,age:24,teamName:Green Bay Packers,yearsOnTeam:2,salary:$2899829.97,currentlyInjured:TRUE
+athleteID:9af35458-0683-4673-ab30-91fca049c3d4,athleteName:Orbadiah Milnthorpe,athleteBornIn:California,age:32,teamName:Cincinnati Bengals,yearsOnTeam:6,salary:$2422062.38,currentlyInjured:FALSE
+athleteID:d190aca8-29d7-49ba-9e38-47de81d716c7,athleteName:Waldo Lebel,athleteBornIn:Minnesota,age:19,teamName:Denver Broncos,yearsOnTeam:5,salary:$502347.25,currentlyInjured:TRUE
+athleteID:c0895582-0e7b-455d-91cb-ac9f30eb7a4c,athleteName:Friederike Caze,athleteBornIn:Florida,age:27,teamName:Pittsburgh Steelers,yearsOnTeam:2,salary:$7832876.02,currentlyInjured:TRUE
+athleteID:79f231e3-eb0c-4c62-a479-89ef79a03133,athleteName:Gregorius Aldcorne,athleteBornIn:Florida,age:31,teamName:Carolina Panthers,yearsOnTeam:5,salary:$4241517.47,currentlyInjured:TRUE
+athleteID:5d3f95f9-dfa7-4f37-b836-540d7196b6f0,athleteName:Jeanna Aherne,athleteBornIn:California,age:30,teamName:Jacksonville Jaguars,yearsOnTeam:3,salary:$3705986.7,currentlyInjured:TRUE
+athleteID:6bffa09b-9b09-42fe-9703-07f20664ae20,athleteName:Nickolaus Chevalier,athleteBornIn:Minnesota,age:34,teamName:Miami Dolphins,yearsOnTeam:6,salary:$1416896.1,currentlyInjured:FALSE
+athleteID:9d9fd9a2-35e9-4c9b-a10e-2a670ac2a51d,athleteName:Amara Maiklem,athleteBornIn:New York,age:30,teamName:Carolina Panthers,yearsOnTeam:5,salary:$4111166.71,currentlyInjured:TRUE
+athleteID:face8b9d-4aa4-4d5b-9eed-6c516cd73943,athleteName:Dorice Esland,athleteBornIn:New York,age:27,teamName:Carolina Panthers,yearsOnTeam:5,salary:$2550059.87,currentlyInjured:TRUE
+athleteID:abd44acc-6ce8-4514-ab47-586f96cc03b7,athleteName:Mariele Dooler,athleteBornIn:Nebraska,age:26,teamName:Carolina Panthers,yearsOnTeam:2,salary:$934132.37,currentlyInjured:TRUE
+athleteID:6d91a2dd-705d-46e4-8d68-ca2058dd3552,athleteName:Yvor Meehan,athleteBornIn:Washington,age:24,teamName:Cleveland Browns,yearsOnTeam:2,salary:$7135884.66,currentlyInjured:FALSE
+athleteID:09ac3931-7e52-46d0-ba10-ea578445cedb,athleteName:Filippo Smails,athleteBornIn:Utah,age:32,teamName:Cincinnati Bengals,yearsOnTeam:5,salary:$6357778.82,currentlyInjured:TRUE
+athleteID:956afcd8-ea4b-4753-beb1-5f030a05b449,athleteName:Ira Ronca,athleteBornIn:Pennsylvania,age:21,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$1252530,currentlyInjured:FALSE
+athleteID:a6432a38-7e1e-43ed-ab4d-74ec233d09f1,athleteName:Marty Vince,athleteBornIn:Minnesota,age:32,teamName:Houston Texans,yearsOnTeam:3,salary:$804055.96,currentlyInjured:TRUE
+athleteID:a8995e6e-bd12-4bad-a070-005780a7fd38,athleteName:Ennis Elvey,athleteBornIn:Michigan,age:34,teamName:New York Giants,yearsOnTeam:6,salary:$557196.92,currentlyInjured:TRUE
+athleteID:e050515a-e680-4ee1-8642-2aa41fb66d25,athleteName:Nelia Chopy,athleteBornIn:New York,age:32,teamName:Atlanta Falcons,yearsOnTeam:1,salary:$5942843.27,currentlyInjured:FALSE
+athleteID:32a2731f-48e1-4957-854c-479e06ed6742,athleteName:Isobel Tompkins,athleteBornIn:Minnesota,age:19,teamName:Minnesota Vikings,yearsOnTeam:2,salary:$897310.62,currentlyInjured:FALSE
+athleteID:1efe77c0-8783-4151-a77e-9f3a06c05828,athleteName:Ram Priestman,athleteBornIn:Illinois,age:25,teamName:Indianapolis Colts,yearsOnTeam:5,salary:$5347354.79,currentlyInjured:FALSE
+athleteID:802e5389-0812-4bdc-9891-c918ce0ece50,athleteName:Clementius Siely,athleteBornIn:Tennessee,age:33,teamName:Chicago Bears,yearsOnTeam:5,salary:$4362770.17,currentlyInjured:TRUE
+athleteID:4ceb04ce-fe03-44a4-a051-6eb02541f68c,athleteName:Geno Saltsberg,athleteBornIn:Georgia,age:35,teamName:Atlanta Falcons,yearsOnTeam:2,salary:$2696688.22,currentlyInjured:TRUE
+athleteID:2c4aee3f-ee99-4a8f-af0c-55520c3ec911,athleteName:Danila Forsey,athleteBornIn:Ohio,age:32,teamName:New Orleans Saints,yearsOnTeam:1,salary:$1295981.16,currentlyInjured:TRUE
+athleteID:86fa4ac4-933e-45e4-9c54-ad7c687bc652,athleteName:Pooh Meiningen,athleteBornIn:California,age:31,teamName:Detroit Lions,yearsOnTeam:1,salary:$3862318.87,currentlyInjured:TRUE
+athleteID:01c92195-0a84-4287-b0e6-b2cbaff71370,athleteName:Clary Minkin,athleteBornIn:Pennsylvania,age:33,teamName:Tampa Bay Buccaneers,yearsOnTeam:6,salary:$3529122.59,currentlyInjured:TRUE
+athleteID:af3765b6-747a-4ce9-9650-e187834e14cd,athleteName:Jeromy Elson,athleteBornIn:Nevada,age:34,teamName:Tennessee Titans,yearsOnTeam:5,salary:$6998272.91,currentlyInjured:TRUE
+athleteID:6eeffe5b-77f4-4db4-8fb1-c949d9e62334,athleteName:Lula Peinke,athleteBornIn:New York,age:32,teamName:Chicago Bears,yearsOnTeam:6,salary:$7022451.58,currentlyInjured:TRUE
+athleteID:9b2e651c-d731-4b98-b470-60bd5fd132ba,athleteName:Aurel Valintine,athleteBornIn:Ohio,age:31,teamName:New Orleans Saints,yearsOnTeam:3,salary:$7364847.11,currentlyInjured:FALSE
+athleteID:042fb509-6817-4f72-a160-73f0184b8ac3,athleteName:Tann Barnby,athleteBornIn:New Jersey,age:32,teamName:Minnesota Vikings,yearsOnTeam:4,salary:$4451927.1,currentlyInjured:TRUE
+athleteID:f46ab475-a821-4eb4-919e-7e1745ec2b30,athleteName:Bartram Aronstam,athleteBornIn:New York,age:34,teamName:Green Bay Packers,yearsOnTeam:1,salary:$5936466.32,currentlyInjured:FALSE
+athleteID:b4c33b42-5d62-46ef-a836-25f06b211466,athleteName:Werner Conti,athleteBornIn:Oregon,age:31,teamName:Tampa Bay Buccaneers,yearsOnTeam:3,salary:$1410074.59,currentlyInjured:FALSE
+athleteID:75b046e9-2cd8-4815-9a05-7e8345045159,athleteName:Arvy Caherny,athleteBornIn:Indiana,age:30,teamName:Chicago Bears,yearsOnTeam:5,salary:$1253120.58,currentlyInjured:TRUE
+athleteID:607563dc-b348-4cf9-b765-8bfcf9bf136e,athleteName:Hollie Reid,athleteBornIn:Washington,age:19,teamName:Green Bay Packers,yearsOnTeam:4,salary:$6765466.92,currentlyInjured:FALSE
+athleteID:75e87c55-75ba-4c17-8185-bd59c441020d,athleteName:Anna-diane Sturney,athleteBornIn:South Carolina,age:26,teamName:Denver Broncos,yearsOnTeam:4,salary:$2825898.99,currentlyInjured:FALSE
+athleteID:5485a00f-e801-442c-9745-225d07ebe41e,athleteName:Chery Danne,athleteBornIn:Montana,age:27,teamName:San Francisco 49ers,yearsOnTeam:4,salary:$1227877.89,currentlyInjured:TRUE
+athleteID:9c78ef45-6f39-48d7-bc6f-68971c7bfbc2,athleteName:Gisela Szwandt,athleteBornIn:Hawaii,age:29,teamName:Chicago Bears,yearsOnTeam:1,salary:$1717492.76,currentlyInjured:TRUE
+athleteID:30af7b4d-33a7-437b-88c9-6ba018f38aa2,athleteName:Petronilla Geggus,athleteBornIn:Texas,age:26,teamName:Carolina Panthers,yearsOnTeam:6,salary:$6755547.91,currentlyInjured:TRUE
+athleteID:7fde0455-ebdd-4630-90c0-c0567ea17118,athleteName:Micky Blanckley,athleteBornIn:Georgia,age:31,teamName:New England Patriots,yearsOnTeam:3,salary:$7320148.06,currentlyInjured:TRUE
+athleteID:edb56263-9225-4b38-b2f8-deb6280d825a,athleteName:Bailie Djekovic,athleteBornIn:Missouri,age:20,teamName:New Orleans Saints,yearsOnTeam:2,salary:$5434916.38,currentlyInjured:FALSE
+athleteID:3e50de2d-2cce-4b9d-b47a-80f95220cf8a,athleteName:Marin Leggon,athleteBornIn:Florida,age:35,teamName:Arizona Cardinals,yearsOnTeam:1,salary:$6778237.26,currentlyInjured:TRUE
+athleteID:b3d99361-66b3-4e77-b791-9a00db9f1dcc,athleteName:Kally Jakuszewski,athleteBornIn:District of Columbia,age:23,teamName:Baltimore Ravens,yearsOnTeam:2,salary:$7471472.68,currentlyInjured:FALSE
+athleteID:c93ba714-a316-4089-bd9d-fda449262f88,athleteName:Jeanette Theze,athleteBornIn:Illinois,age:28,teamName:Jacksonville Jaguars,yearsOnTeam:6,salary:$7088182.9,currentlyInjured:TRUE
+athleteID:27bfe60c-d0df-4aef-b812-cb300a291166,athleteName:Jeno Kleinhausen,athleteBornIn:Alabama,age:31,teamName:Pittsburgh Steelers,yearsOnTeam:6,salary:$1153442.65,currentlyInjured:TRUE
+athleteID:16dbe4c1-e7c4-46f1-8532-ffa93c698d9a,athleteName:Dniren Bree,athleteBornIn:New York,age:20,teamName:Carolina Panthers,yearsOnTeam:2,salary:$6519962.19,currentlyInjured:FALSE
+athleteID:b5c93b8c-cddb-414e-acbc-ec185fa0fe0b,athleteName:Grissel Jerrams,athleteBornIn:Nevada,age:33,teamName:Oakland Raiders,yearsOnTeam:1,salary:$6556744.11,currentlyInjured:TRUE
+athleteID:366f79ac-f4db-42f5-9c3b-4264f44b7c2a,athleteName:Myrtle Odlin,athleteBornIn:Tennessee,age:22,teamName:Minnesota Vikings,yearsOnTeam:5,salary:$2697130.76,currentlyInjured:FALSE
+athleteID:031b3e3a-2c7a-4473-b3a4-860a3b690bfe,athleteName:Florella McGaughie,athleteBornIn:New York,age:28,teamName:Minnesota Vikings,yearsOnTeam:3,salary:$4274259.06,currentlyInjured:FALSE
+athleteID:5d004150-a613-4577-9571-dad76f0e4856,athleteName:Shauna Skates,athleteBornIn:Florida,age:33,teamName:Cincinnati Bengals,yearsOnTeam:2,salary:$4853910.25,currentlyInjured:FALSE
+athleteID:334ac23e-4bd4-4197-8fce-043428f71e94,athleteName:Jamesy Fforde,athleteBornIn:California,age:20,teamName:Philadelphia Eagles,yearsOnTeam:1,salary:$7145158.27,currentlyInjured:TRUE
+athleteID:3588725b-237d-452d-bd73-09c1dbebcbbc,athleteName:Christiano Hancke,athleteBornIn:Georgia,age:23,teamName:Minnesota Vikings,yearsOnTeam:5,salary:$2562540.49,currentlyInjured:FALSE
+athleteID:700831ae-18b8-4716-97c4-c00ea2f638b7,athleteName:Eleni Cottesford,athleteBornIn:California,age:21,teamName:Dallas Cowboys,yearsOnTeam:5,salary:$5917974.54,currentlyInjured:FALSE
+athleteID:fa48189d-493f-4b24-8107-85188b9cfb27,athleteName:Rosalinda Panniers,athleteBornIn:Tennessee,age:25,teamName:Los Angeles Chargers,yearsOnTeam:5,salary:$3192276.69,currentlyInjured:FALSE
+athleteID:b5a9e225-1633-4c00-8904-18f698489cd8,athleteName:Ruthanne Fullagar,athleteBornIn:Ohio,age:19,teamName:Philadelphia Eagles,yearsOnTeam:2,salary:$5188923.28,currentlyInjured:TRUE
+athleteID:b69b9c90-9d26-47c8-998b-67f0345800c9,athleteName:Enid Cayser,athleteBornIn:Texas,age:20,teamName:Indianapolis Colts,yearsOnTeam:1,salary:$5462859.64,currentlyInjured:TRUE
+athleteID:11fa898c-4c0f-49cf-9171-39a288a0129e,athleteName:Jorey Pumphrey,athleteBornIn:Missouri,age:25,teamName:Los Angeles Rams,yearsOnTeam:5,salary:$5307882.97,currentlyInjured:FALSE
+athleteID:d045d11b-7437-4d9a-82c7-962406c4c8fd,athleteName:Danya Baggally,athleteBornIn:Texas,age:25,teamName:Tampa Bay Buccaneers,yearsOnTeam:3,salary:$3737472.35,currentlyInjured:TRUE
+athleteID:09e296a1-d067-415e-849e-606834ffe285,athleteName:Moe Hendrix,athleteBornIn:Colorado,age:26,teamName:Baltimore Ravens,yearsOnTeam:4,salary:$2207124.25,currentlyInjured:FALSE
+athleteID:9dc2209d-bf40-4fb9-83ba-70212db5db41,athleteName:Venita O'Longain,athleteBornIn:South Carolina,age:21,teamName:Green Bay Packers,yearsOnTeam:5,salary:$293285.45,currentlyInjured:FALSE
+athleteID:5fde73e5-c561-4bd6-ae44-2ff472a6301f,athleteName:Nan Hartland,athleteBornIn:Illinois,age:22,teamName:Carolina Panthers,yearsOnTeam:3,salary:$4070644.46,currentlyInjured:TRUE
+athleteID:8f7c5633-6f34-4657-97c5-8eab0493b3a0,athleteName:Gilbertina Golden of Ireland,athleteBornIn:Virginia,age:27,teamName:Pittsburgh Steelers,yearsOnTeam:6,salary:$4285390.97,currentlyInjured:TRUE
+athleteID:a8a3d11e-048f-41f3-b120-edb37204df7b,athleteName:Ema MacGragh,athleteBornIn:Michigan,age:32,teamName:New York Giants,yearsOnTeam:2,salary:$2009794.24,currentlyInjured:FALSE
+athleteID:4a48fc25-0337-47b7-ae0a-0462bd8aa61b,athleteName:Thomasine Hellard,athleteBornIn:Tennessee,age:21,teamName:Arizona Cardinals,yearsOnTeam:4,salary:$4749683.65,currentlyInjured:FALSE
+athleteID:3c8732ec-1946-4321-8b00-0233ca1ece11,athleteName:Shandee Karpol,athleteBornIn:New York,age:23,teamName:Green Bay Packers,yearsOnTeam:5,salary:$1533149.84,currentlyInjured:FALSE
+athleteID:0f6a7346-5e38-45ff-8575-a9076a24b0da,athleteName:Cass O' Ronan,athleteBornIn:Texas,age:33,teamName:Los Angeles Rams,yearsOnTeam:3,salary:$5007256.2,currentlyInjured:FALSE
+athleteID:199eb362-d72e-4a39-b741-476f020f1bc8,athleteName:Bobby McGiff,athleteBornIn:District of Columbia,age:19,teamName:Carolina Panthers,yearsOnTeam:3,salary:$7320108.91,currentlyInjured:TRUE
+athleteID:712f5ed3-8761-4afa-a69c-ef03b9505cbd,athleteName:Josie Paris,athleteBornIn:Georgia,age:34,teamName:Cincinnati Bengals,yearsOnTeam:1,salary:$5953341.37,currentlyInjured:TRUE
+athleteID:5a734519-cea7-4c92-b46e-aef12bb5f7f2,athleteName:Arlyn Tassaker,athleteBornIn:Virginia,age:30,teamName:New York Jets,yearsOnTeam:5,salary:$5958101.8,currentlyInjured:FALSE
+athleteID:ef5ab5cd-660f-4f2f-9677-8d14693bcb87,athleteName:Lancelot Petegree,athleteBornIn:Pennsylvania,age:34,teamName:Tampa Bay Buccaneers,yearsOnTeam:3,salary:$3692875.54,currentlyInjured:FALSE
+athleteID:8055d7c5-d7ec-4c49-9568-dea2034105d3,athleteName:Hieronymus Lindsey,athleteBornIn:South Dakota,age:23,teamName:Detroit Lions,yearsOnTeam:6,salary:$5014533.09,currentlyInjured:TRUE
+athleteID:2035b799-21ed-45e6-9633-2c739ba8aaeb,athleteName:Rafaello Wear,athleteBornIn:California,age:22,teamName:Tennessee Titans,yearsOnTeam:3,salary:$5101480.2,currentlyInjured:TRUE
+athleteID:6f465dc0-1e38-4de9-b8df-0b1e313f3244,athleteName:Karol Yewdale,athleteBornIn:Oklahoma,age:31,teamName:San Francisco 49ers,yearsOnTeam:4,salary:$5988945.79,currentlyInjured:TRUE
+athleteID:0f9fb793-77d0-41bc-b331-6fa0e417016a,athleteName:Patric Conti,athleteBornIn:Florida,age:31,teamName:Jacksonville Jaguars,yearsOnTeam:3,salary:$1689641.24,currentlyInjured:FALSE
+athleteID:89c603d2-d527-45b5-9c93-303eacfe29ae,athleteName:Hagen Vernalls,athleteBornIn:Kentucky,age:28,teamName:Los Angeles Chargers,yearsOnTeam:6,salary:$2428452.14,currentlyInjured:FALSE
+athleteID:6c2f8105-d740-4ffe-99e9-b5f27f204452,athleteName:Avis Shoard,athleteBornIn:Virginia,age:19,teamName:Cincinnati Bengals,yearsOnTeam:5,salary:$7764372.93,currentlyInjured:TRUE
+athleteID:c37fcdc9-0b7c-45cc-90ce-385a41850ae6,athleteName:Garwin Mirrlees,athleteBornIn:Illinois,age:22,teamName:San Francisco 49ers,yearsOnTeam:3,salary:$5433181.16,currentlyInjured:FALSE
+athleteID:0fdda474-6b6f-4cb9-8f36-7ad1036e0267,athleteName:Shelley Tatlock,athleteBornIn:Georgia,age:23,teamName:Philadelphia Eagles,yearsOnTeam:1,salary:$3944889.09,currentlyInjured:TRUE
+athleteID:6342624e-81b1-45cc-ba73-35acd2e25e1e,athleteName:Ogdan Komorowski,athleteBornIn:Tennessee,age:22,teamName:San Francisco 49ers,yearsOnTeam:3,salary:$3510503.05,currentlyInjured:FALSE
+athleteID:640033fa-7786-4221-a25d-c6b1b720f4e2,athleteName:Creigh Matic,athleteBornIn:New Jersey,age:23,teamName:Denver Broncos,yearsOnTeam:6,salary:$4996236.92,currentlyInjured:FALSE
+athleteID:642233bd-08ab-40ec-91c5-7568011ae178,athleteName:Emmey Adelberg,athleteBornIn:Louisiana,age:27,teamName:Miami Dolphins,yearsOnTeam:6,salary:$6533890.86,currentlyInjured:FALSE
+athleteID:adea3990-4e5f-4380-9f74-ab0ec149b0c9,athleteName:Hayley Arrigo,athleteBornIn:Texas,age:20,teamName:Green Bay Packers,yearsOnTeam:1,salary:$4852744.95,currentlyInjured:FALSE
+athleteID:f4f36490-2ce5-49f3-a1e6-f8fdb40987bf,athleteName:Crysta Rieger,athleteBornIn:Tennessee,age:27,teamName:Philadelphia Eagles,yearsOnTeam:3,salary:$6732971.22,currentlyInjured:TRUE
+athleteID:abe8cebd-c0dd-4c32-a8d7-fdcc42b0e8e0,athleteName:Helsa Spadollini,athleteBornIn:Minnesota,age:33,teamName:Cleveland Browns,yearsOnTeam:6,salary:$6722117.44,currentlyInjured:TRUE
+athleteID:444e9b82-cd4a-427d-b36c-d8a4a4d125a2,athleteName:Cello Jobbing,athleteBornIn:Florida,age:25,teamName:Miami Dolphins,yearsOnTeam:1,salary:$468371.16,currentlyInjured:TRUE
+athleteID:cfaa6bcc-11c1-4409-9a56-f30978e53856,athleteName:Katusha MacGeffen,athleteBornIn:Texas,age:28,teamName:Jacksonville Jaguars,yearsOnTeam:3,salary:$3738954.82,currentlyInjured:TRUE
+athleteID:6c63d8c9-664e-4f30-a223-efb25af5106d,athleteName:Ford Corneljes,athleteBornIn:California,age:29,teamName:Atlanta Falcons,yearsOnTeam:5,salary:$6653951.99,currentlyInjured:TRUE
+athleteID:2a79af51-6c7d-43ed-b1c9-f2e726525a8f,athleteName:Billi House,athleteBornIn:California,age:33,teamName:Atlanta Falcons,yearsOnTeam:5,salary:$4275877.15,currentlyInjured:FALSE
+athleteID:adc63cb1-38af-46b1-8de2-6ac6cdc638c2,athleteName:Dari Bichener,athleteBornIn:Virginia,age:25,teamName:Oakland Raiders,yearsOnTeam:3,salary:$6622777.4,currentlyInjured:FALSE
+athleteID:e169fbb4-4323-42d1-95af-b0bac93f0d28,athleteName:Marietta Pulman,athleteBornIn:Georgia,age:23,teamName:Baltimore Ravens,yearsOnTeam:3,salary:$6089120.24,currentlyInjured:FALSE
+athleteID:70dd58f3-211d-411b-9a76-b9adee5d1c5e,athleteName:Florentia Bruckman,athleteBornIn:Texas,age:31,teamName:Buffalo Bills,yearsOnTeam:4,salary:$5351192.91,currentlyInjured:TRUE
+athleteID:dd1a8619-3147-4963-8ffe-001964477e10,athleteName:Tatiana Dobkin,athleteBornIn:California,age:20,teamName:New York Giants,yearsOnTeam:5,salary:$5333314.52,currentlyInjured:TRUE
+athleteID:31ae0f13-e113-4382-abd1-9a89b09d1a2b,athleteName:Leesa Mozzini,athleteBornIn:California,age:31,teamName:Houston Texans,yearsOnTeam:1,salary:$4615115.2,currentlyInjured:TRUE
+athleteID:9b707393-891f-481d-9545-3c54cd0a1b53,athleteName:Connie Dubois,athleteBornIn:Delaware,age:34,teamName:Cleveland Browns,yearsOnTeam:3,salary:$635940,currentlyInjured:TRUE
+athleteID:7ad94a22-c898-4fe3-943d-7420ce87f808,athleteName:Shep Cordet,athleteBornIn:Florida,age:25,teamName:Carolina Panthers,yearsOnTeam:4,salary:$4942165.71,currentlyInjured:TRUE
+athleteID:3d986c3e-388b-4726-9d9a-32682982f246,athleteName:Cathrine Joss,athleteBornIn:Minnesota,age:23,teamName:New York Giants,yearsOnTeam:4,salary:$6103892.23,currentlyInjured:FALSE
+athleteID:a7724d73-efab-4dba-83f3-2627b73144e7,athleteName:Ruddy Bock,athleteBornIn:Texas,age:31,teamName:Buffalo Bills,yearsOnTeam:2,salary:$3455062.4,currentlyInjured:TRUE
+athleteID:c55b9b17-320c-46a5-bc5c-c49e02fad83d,athleteName:Scotti Pettiford,athleteBornIn:Massachusetts,age:29,teamName:Pittsburgh Steelers,yearsOnTeam:4,salary:$1796515.6,currentlyInjured:FALSE
+athleteID:832e890b-9d9e-49ed-9cbf-9eb634ad49d8,athleteName:Merrile Padson,athleteBornIn:West Virginia,age:35,teamName:Buffalo Bills,yearsOnTeam:1,salary:$5739286.32,currentlyInjured:FALSE
+athleteID:76de59a3-b024-4c22-91b5-dd65ee4acf21,athleteName:Cinda Seedman,athleteBornIn:Pennsylvania,age:20,teamName:Cleveland Browns,yearsOnTeam:6,salary:$3977329.33,currentlyInjured:TRUE
+athleteID:9560a337-0212-48ab-9077-1ec4c4bb808f,athleteName:Elliot Simon,athleteBornIn:New York,age:25,teamName:Indianapolis Colts,yearsOnTeam:5,salary:$5385817.63,currentlyInjured:TRUE
+athleteID:4cc8d427-58bf-498a-ab67-cf01f93075ed,athleteName:Casandra O'Heffernan,athleteBornIn:Florida,age:20,teamName:Detroit Lions,yearsOnTeam:2,salary:$2755992.38,currentlyInjured:FALSE
+athleteID:fbade653-255f-47d6-b001-3e6b0d5cba2a,athleteName:Kevina Ligertwood,athleteBornIn:Georgia,age:26,teamName:San Francisco 49ers,yearsOnTeam:4,salary:$6299030.81,currentlyInjured:FALSE
+athleteID:a4635206-777b-4eb0-beea-ec5529e9fc43,athleteName:Austina Wallage,athleteBornIn:Massachusetts,age:26,teamName:Philadelphia Eagles,yearsOnTeam:1,salary:$7796856.77,currentlyInjured:TRUE
+athleteID:abbbb596-60df-4f6c-903f-b556b7a2b6f9,athleteName:Nady Havis,athleteBornIn:California,age:35,teamName:Cincinnati Bengals,yearsOnTeam:1,salary:$6126502.67,currentlyInjured:TRUE
+athleteID:c1a920e8-4c2e-4350-b034-83e67e5fb698,athleteName:Trina Lumley,athleteBornIn:Wisconsin,age:30,teamName:Baltimore Ravens,yearsOnTeam:2,salary:$3555325.39,currentlyInjured:FALSE
+athleteID:2ef5e851-ff2e-4e09-80a7-e55379baf81c,athleteName:Wheeler Harrowell,athleteBornIn:Florida,age:32,teamName:Oakland Raiders,yearsOnTeam:1,salary:$5360319.42,currentlyInjured:FALSE
+athleteID:dd38b419-6e3d-4bcd-a3b6-4ac24d302faf,athleteName:Angelia Paule,athleteBornIn:California,age:29,teamName:Los Angeles Rams,yearsOnTeam:1,salary:$3337129.58,currentlyInjured:FALSE
+athleteID:2c42fd7e-e326-402a-8206-e8346f7995d8,athleteName:Alexia Kuhne,athleteBornIn:South Carolina,age:20,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$6778280.93,currentlyInjured:FALSE
+athleteID:925301be-a602-4e85-b023-6dc730fb7909,athleteName:Bobbee Bleiman,athleteBornIn:Utah,age:29,teamName:Oakland Raiders,yearsOnTeam:2,salary:$7721291.72,currentlyInjured:FALSE
+athleteID:9cf5366a-13d2-464d-96ab-4dbf6be1062e,athleteName:Maryrose Hedaux,athleteBornIn:Louisiana,age:29,teamName:Philadelphia Eagles,yearsOnTeam:4,salary:$5629146.72,currentlyInjured:FALSE
+athleteID:9ba754ee-991d-48cf-a66d-6ffb905b5f1a,athleteName:Leonard D'Alessio,athleteBornIn:Maryland,age:32,teamName:New England Patriots,yearsOnTeam:4,salary:$5635895.33,currentlyInjured:TRUE
+athleteID:ec45bce9-bb82-4130-a564-de394716f70f,athleteName:Gennifer Crimpe,athleteBornIn:California,age:22,teamName:Buffalo Bills,yearsOnTeam:3,salary:$2488459.48,currentlyInjured:TRUE
+athleteID:2849e286-3223-4a76-8148-ff7f919aa769,athleteName:Saleem Pennicott,athleteBornIn:Texas,age:30,teamName:Baltimore Ravens,yearsOnTeam:2,salary:$2634903.13,currentlyInjured:FALSE
+athleteID:2bb31552-998b-461d-aa62-88c45b4e6e87,athleteName:Dom Custy,athleteBornIn:Florida,age:34,teamName:Carolina Panthers,yearsOnTeam:5,salary:$2082445.63,currentlyInjured:TRUE
+athleteID:628e1b4e-5263-4f4f-bea0-45696825b509,athleteName:Patricio Gilffillan,athleteBornIn:Missouri,age:32,teamName:Washington Redskins,yearsOnTeam:4,salary:$3528188.08,currentlyInjured:TRUE
+athleteID:79190360-495e-41ef-bac4-e028483c78cc,athleteName:Harwilll Birchenhead,athleteBornIn:Pennsylvania,age:23,teamName:New York Giants,yearsOnTeam:3,salary:$1574588.47,currentlyInjured:FALSE
+athleteID:5ef2161b-13a8-485e-9765-006f3365accc,athleteName:Henriette Heathcote,athleteBornIn:Washington,age:29,teamName:Indianapolis Colts,yearsOnTeam:1,salary:$5746099.13,currentlyInjured:TRUE
+athleteID:a66b93d5-65f3-4616-9a3c-86d5d3964794,athleteName:Geri Bloxholm,athleteBornIn:Nebraska,age:28,teamName:New York Giants,yearsOnTeam:5,salary:$7221882.76,currentlyInjured:FALSE
+athleteID:b0e2613c-475d-4bf1-86e3-ab3faafe647a,athleteName:Berk Drakers,athleteBornIn:Ohio,age:21,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$2164520.26,currentlyInjured:FALSE
+athleteID:19f9ddf8-a50a-49b7-98e2-51ec7ff6f77f,athleteName:Merle Lakenton,athleteBornIn:Florida,age:31,teamName:Houston Texans,yearsOnTeam:3,salary:$5343260.19,currentlyInjured:FALSE
+athleteID:e3e2a4b2-5ad0-4c33-9b1b-380ff4377dda,athleteName:Neddy Yokley,athleteBornIn:Louisiana,age:28,teamName:Detroit Lions,yearsOnTeam:2,salary:$2060790.04,currentlyInjured:TRUE
+athleteID:453adfc1-9a7e-4da5-ae88-d018916256f1,athleteName:Udell Wycliff,athleteBornIn:California,age:27,teamName:Tampa Bay Buccaneers,yearsOnTeam:2,salary:$2794044.17,currentlyInjured:FALSE
+athleteID:1d517cae-215f-4c8c-8cdf-458ebad5ed14,athleteName:Jedediah Lescop,athleteBornIn:Florida,age:32,teamName:Green Bay Packers,yearsOnTeam:2,salary:$2401305.05,currentlyInjured:TRUE
+athleteID:5c576acb-e710-4d9d-b877-066f793710d9,athleteName:Buiron Boam,athleteBornIn:Texas,age:29,teamName:Detroit Lions,yearsOnTeam:4,salary:$2378718.9,currentlyInjured:FALSE
+athleteID:5e059525-d4c6-4c07-8859-b0a55a5ded1e,athleteName:Niki Colliar,athleteBornIn:Indiana,age:33,teamName:Seattle Seahawks,yearsOnTeam:6,salary:$588593.09,currentlyInjured:TRUE
+athleteID:78206e91-f1d5-409a-abc5-0870ac7fceec,athleteName:Elke Kornyakov,athleteBornIn:Florida,age:30,teamName:Baltimore Ravens,yearsOnTeam:5,salary:$1734538.08,currentlyInjured:TRUE
+athleteID:d79627d6-463f-492c-97cf-1271263f4930,athleteName:Roarke Cotterel,athleteBornIn:California,age:33,teamName:Minnesota Vikings,yearsOnTeam:2,salary:$2805899.47,currentlyInjured:FALSE
+athleteID:6bde55a1-d742-4e05-87a5-8c48bc5a7931,athleteName:Shandee Boshers,athleteBornIn:Florida,age:22,teamName:Buffalo Bills,yearsOnTeam:5,salary:$4315076.12,currentlyInjured:TRUE
+athleteID:27513b35-798d-4faf-a3ae-90ace4789b6c,athleteName:Onfroi Mindenhall,athleteBornIn:Washington,age:19,teamName:New Orleans Saints,yearsOnTeam:1,salary:$3734122.27,currentlyInjured:FALSE
+athleteID:788ab46e-46d9-4896-ac9f-e278cc9d80d9,athleteName:Eldridge Spleving,athleteBornIn:Texas,age:23,teamName:Los Angeles Rams,yearsOnTeam:5,salary:$2345008.98,currentlyInjured:TRUE
+athleteID:24f6b207-6c86-4ff5-8d6b-5872180c53b1,athleteName:Diarmid Seathwright,athleteBornIn:New York,age:30,teamName:Dallas Cowboys,yearsOnTeam:4,salary:$3896174.17,currentlyInjured:FALSE
+athleteID:e1cb2e79-89d0-4a4c-907e-b0c6836a6461,athleteName:Gayelord Rustich,athleteBornIn:North Carolina,age:30,teamName:Tampa Bay Buccaneers,yearsOnTeam:2,salary:$745063.7,currentlyInjured:TRUE
+athleteID:cbcf5293-01e6-4955-bb44-592d48ba0eb7,athleteName:Dierdre Jeannon,athleteBornIn:Texas,age:27,teamName:Atlanta Falcons,yearsOnTeam:2,salary:$1289269.51,currentlyInjured:FALSE
+athleteID:b8faf6ba-dad3-4003-8a55-369050b3966a,athleteName:Marten Jacobowits,athleteBornIn:Maryland,age:19,teamName:San Francisco 49ers,yearsOnTeam:1,salary:$6586029.63,currentlyInjured:FALSE
+athleteID:371c89fd-f0f6-47c3-9ef1-e5fc289567e2,athleteName:Zacharia Faux,athleteBornIn:District of Columbia,age:23,teamName:Indianapolis Colts,yearsOnTeam:5,salary:$5977175.76,currentlyInjured:FALSE
+athleteID:10dcae89-18bc-4269-a7bd-e8c6c2d0e5e1,athleteName:Torry O'Codihie,athleteBornIn:New York,age:28,teamName:Pittsburgh Steelers,yearsOnTeam:1,salary:$646538.67,currentlyInjured:FALSE
+athleteID:21bd5dcb-64a2-4d9b-a746-64459a7b6adb,athleteName:Lydie Pentycost,athleteBornIn:Pennsylvania,age:19,teamName:Buffalo Bills,yearsOnTeam:3,salary:$4774117.05,currentlyInjured:FALSE
+athleteID:222452dc-4136-4660-a834-ce54e4e29989,athleteName:Moishe Sclater,athleteBornIn:South Dakota,age:33,teamName:New Orleans Saints,yearsOnTeam:5,salary:$6429490.43,currentlyInjured:FALSE
+athleteID:ae2f3088-cb7d-42b9-ad79-e2a55b990599,athleteName:Giorgia Anstead,athleteBornIn:Washington,age:30,teamName:Dallas Cowboys,yearsOnTeam:2,salary:$531199.77,currentlyInjured:TRUE
+athleteID:00a143f8-48fe-45d4-a2fb-50184b4cea0b,athleteName:Gilda Lethlay,athleteBornIn:California,age:32,teamName:Kansas City Chiefs,yearsOnTeam:5,salary:$4356227.93,currentlyInjured:TRUE
+athleteID:0736bc34-31f4-4bbd-993c-cdc1c948959e,athleteName:Salome Raunds,athleteBornIn:California,age:35,teamName:Miami Dolphins,yearsOnTeam:2,salary:$4992450.77,currentlyInjured:TRUE
+athleteID:dd6424d8-10f9-4236-87fc-06a2962a0e75,athleteName:Virgilio Peggrem,athleteBornIn:Georgia,age:28,teamName:Tennessee Titans,yearsOnTeam:1,salary:$393510.88,currentlyInjured:FALSE
+athleteID:40472f20-2fd1-46cb-a4e8-1c84639a27eb,athleteName:Saxe Troni,athleteBornIn:West Virginia,age:22,teamName:Oakland Raiders,yearsOnTeam:1,salary:$6670189.56,currentlyInjured:FALSE
+athleteID:9b17c089-f0a9-4785-b2b7-04ed9701897a,athleteName:Orton Proffer,athleteBornIn:Oklahoma,age:28,teamName:Arizona Cardinals,yearsOnTeam:5,salary:$1528141.17,currentlyInjured:FALSE
+athleteID:1d0717f2-82a9-4a9a-910e-20a64947c99b,athleteName:Dall De Hailes,athleteBornIn:Nevada,age:28,teamName:Los Angeles Chargers,yearsOnTeam:4,salary:$6738998.47,currentlyInjured:TRUE
+athleteID:5a97040d-2b5c-49d1-a372-1de0af142a69,athleteName:Vaughan Ormond,athleteBornIn:Nevada,age:25,teamName:Houston Texans,yearsOnTeam:2,salary:$4043110.98,currentlyInjured:TRUE
+athleteID:8f753e1e-c7fd-4175-bd90-8890b2e55838,athleteName:Teressa Downs,athleteBornIn:Colorado,age:31,teamName:Jacksonville Jaguars,yearsOnTeam:1,salary:$5000679.14,currentlyInjured:TRUE
+athleteID:508be338-5418-4972-a822-d0fdb75b7e03,athleteName:Edee Libbe,athleteBornIn:Kansas,age:26,teamName:Detroit Lions,yearsOnTeam:4,salary:$2625232.52,currentlyInjured:TRUE
+athleteID:508be338-5418-4972-a822-d0fdb75b7e03,athleteName:Emilee Tapsell,athleteBornIn:Missouri,age:28,teamName:Washington Redskins,yearsOnTeam:2,salary:$4760939.68,currentlyInjured:FALSE
+athleteID:cc27c4d7-dc98-46c4-b23b-1a25ca0c24cc,athleteName:Wrennie Boast,athleteBornIn:Washington,age:21,teamName:Detroit Lions,yearsOnTeam:1,salary:$5315970.39,currentlyInjured:TRUE
+athleteID:5dfe980a-82ab-4aea-9ba6-5d3c81d800ff,athleteName:Corly Mattheus,athleteBornIn:Indiana,age:34,teamName:Green Bay Packers,yearsOnTeam:6,salary:$2948363.7,currentlyInjured:FALSE
+athleteID:90dd07ad-8c51-4453-b314-a7daca3effcb,athleteName:Sisely McCerery,athleteBornIn:Connecticut,age:32,teamName:Carolina Panthers,yearsOnTeam:1,salary:$4646818.72,currentlyInjured:TRUE
+athleteID:60a22948-0252-4824-8a95-9c1f13be1515,athleteName:Alysia Hobell,athleteBornIn:Missouri,age:31,teamName:Baltimore Ravens,yearsOnTeam:4,salary:$5865733.83,currentlyInjured:TRUE
+athleteID:0b4c2922-c3c7-42a7-9137-5cc4de7283cf,athleteName:Sandye Puddephatt,athleteBornIn:Rhode Island,age:23,teamName:Cleveland Browns,yearsOnTeam:2,salary:$3077783.6,currentlyInjured:TRUE
+athleteID:a428d56b-c8fc-40f6-ae67-1fdc4f59278d,athleteName:Farly Fraczek,athleteBornIn:Georgia,age:35,teamName:Dallas Cowboys,yearsOnTeam:1,salary:$2937010.73,currentlyInjured:TRUE
+athleteID:6a4c66ac-992c-4d0b-aaf9-c51f878be15f,athleteName:Rutter Kynvin,athleteBornIn:Washington,age:27,teamName:Los Angeles Chargers,yearsOnTeam:5,salary:$4397196.2,currentlyInjured:FALSE
+athleteID:81dc414c-4844-4f53-bee1-c0e6b506972a,athleteName:Ingeborg Gauler,athleteBornIn:Texas,age:32,teamName:Arizona Cardinals,yearsOnTeam:6,salary:$6543206.56,currentlyInjured:FALSE
+athleteID:1099c776-dbb1-42e6-a2b1-072c79f68a1b,athleteName:Cull Inger,athleteBornIn:New York,age:20,teamName:Carolina Panthers,yearsOnTeam:6,salary:$3207236.51,currentlyInjured:FALSE
+athleteID:37d40e50-bc48-4457-ac9f-4eb78ee68f7c,athleteName:Bancroft Gitthouse,athleteBornIn:District of Columbia,age:21,teamName:Tampa Bay Buccaneers,yearsOnTeam:5,salary:$4208806.24,currentlyInjured:TRUE
+athleteID:816ba551-2f13-4b8d-955f-59a1988e12e1,athleteName:Teriann Siccombe,athleteBornIn:California,age:26,teamName:Washington Redskins,yearsOnTeam:6,salary:$3460114.03,currentlyInjured:FALSE
+athleteID:3c897cfd-0017-461e-963b-4f73ea51b42e,athleteName:Prince Antrobus,athleteBornIn:California,age:21,teamName:Pittsburgh Steelers,yearsOnTeam:4,salary:$1326655.19,currentlyInjured:TRUE
+athleteID:a0591912-74a6-4070-a2a2-8801239df77b,athleteName:Bree Birdis,athleteBornIn:Georgia,age:32,teamName:Atlanta Falcons,yearsOnTeam:1,salary:$7402457.43,currentlyInjured:TRUE
+athleteID:068904f0-d217-40f7-98c2-b1d5b6c62a73,athleteName:Burk Brychan,athleteBornIn:California,age:34,teamName:Miami Dolphins,yearsOnTeam:4,salary:$884722.06,currentlyInjured:TRUE
+athleteID:5d2da134-dacb-410e-a739-0306b78276e7,athleteName:Jamie Rising,athleteBornIn:California,age:25,teamName:San Francisco 49ers,yearsOnTeam:3,salary:$5846306.17,currentlyInjured:TRUE
+athleteID:d00b3c29-27c3-42dc-9f3e-8f66b2eebee0,athleteName:Charlena Crippell,athleteBornIn:Iowa,age:29,teamName:Chicago Bears,yearsOnTeam:1,salary:$4030620.77,currentlyInjured:TRUE
+athleteID:e7f9a924-804e-45a6-affa-34ef62835736,athleteName:Madelon Woodcock,athleteBornIn:Delaware,age:32,teamName:Indianapolis Colts,yearsOnTeam:1,salary:$2406033.63,currentlyInjured:FALSE
+athleteID:67a1f87d-563c-4893-af38-3593041f74a1,athleteName:Edeline Kassman,athleteBornIn:Washington,age:32,teamName:Oakland Raiders,yearsOnTeam:3,salary:$2662943.91,currentlyInjured:TRUE
+athleteID:cc47b7fe-078f-4276-b65a-1272f8c825a2,athleteName:Melisa Van Der Vlies,athleteBornIn:Kansas,age:22,teamName:Detroit Lions,yearsOnTeam:5,salary:$6306742.99,currentlyInjured:FALSE
+athleteID:f9d4bc38-f26c-4c46-8cbf-32a4ca9aa704,athleteName:Anastasia Fawltey,athleteBornIn:Minnesota,age:31,teamName:Indianapolis Colts,yearsOnTeam:2,salary:$7594849.51,currentlyInjured:TRUE
+athleteID:b0e7c4f1-1dc1-4f43-a899-0f4574c47be3,athleteName:Darrick Southward,athleteBornIn:Ohio,age:22,teamName:Seattle Seahawks,yearsOnTeam:3,salary:$1397922.63,currentlyInjured:TRUE
+athleteID:fb11dc2e-765a-4efd-9a8f-ab8b062bdc18,athleteName:Ailene Carvell,athleteBornIn:Pennsylvania,age:32,teamName:Pittsburgh Steelers,yearsOnTeam:3,salary:$6755903.48,currentlyInjured:FALSE
+athleteID:4baeb13a-c888-4c9b-a85f-d2cac213d38f,athleteName:Griselda Legon,athleteBornIn:Pennsylvania,age:28,teamName:Jacksonville Jaguars,yearsOnTeam:3,salary:$2433562.12,currentlyInjured:TRUE
+athleteID:7be97b88-b51e-43a0-a904-8514d12d0bf1,athleteName:Roberto Bernadzki,athleteBornIn:Indiana,age:22,teamName:New York Giants,yearsOnTeam:6,salary:$6260546.55,currentlyInjured:TRUE
+athleteID:90d9f057-dadd-4d5a-851c-b336eb8ca55f,athleteName:Amil Cheater,athleteBornIn:Colorado,age:33,teamName:Kansas City Chiefs,yearsOnTeam:3,salary:$2377951.59,currentlyInjured:TRUE
+athleteID:7e17ad85-dd8f-4025-b21b-41d133cf8663,athleteName:Randolph Bakhrushkin,athleteBornIn:New Mexico,age:30,teamName:Dallas Cowboys,yearsOnTeam:2,salary:$7743321.2,currentlyInjured:FALSE
+athleteID:7f624c66-b960-4854-8264-95e2bf500e4e,athleteName:Darryl Courtes,athleteBornIn:Kentucky,age:26,teamName:New England Patriots,yearsOnTeam:5,salary:$4943230.74,currentlyInjured:TRUE
+athleteID:9a99a763-f947-4fdb-93b1-281352da5db7,athleteName:Marji Belcham,athleteBornIn:Alabama,age:20,teamName:Buffalo Bills,yearsOnTeam:5,salary:$2454133.51,currentlyInjured:TRUE
+athleteID:99c09580-e854-4fb0-9125-0758f6b32d93,athleteName:Riannon Zylberdik,athleteBornIn:California,age:34,teamName:Pittsburgh Steelers,yearsOnTeam:3,salary:$6335031.74,currentlyInjured:TRUE
+athleteID:04927331-7386-4c29-9759-97d481a29caf,athleteName:Laverna Buffin,athleteBornIn:Texas,age:31,teamName:Houston Texans,yearsOnTeam:4,salary:$4095805.12,currentlyInjured:FALSE
+athleteID:3f356c3a-7574-47c8-97bb-cd2313e0287d,athleteName:Clarance Arnopp,athleteBornIn:Arkansas,age:32,teamName:Tampa Bay Buccaneers,yearsOnTeam:6,salary:$5251691.58,currentlyInjured:FALSE
+athleteID:8aa990be-61d4-4c91-bf4a-6fcc7167a481,athleteName:Wenona Burton,athleteBornIn:Missouri,age:27,teamName:Denver Broncos,yearsOnTeam:2,salary:$7506756.27,currentlyInjured:FALSE
+athleteID:703a10c9-6fa1-4bcb-ac41-7dac17333fe9,athleteName:Buddy Vibert,athleteBornIn:Colorado,age:24,teamName:Detroit Lions,yearsOnTeam:5,salary:$5592663.2,currentlyInjured:TRUE
+athleteID:d5e657b4-14fc-42f2-ad40-70d65f088912,athleteName:Bertie Chess,athleteBornIn:Florida,age:26,teamName:Baltimore Ravens,yearsOnTeam:3,salary:$3554337.81,currentlyInjured:TRUE
+athleteID:9144ba25-6b26-4339-b1d6-d99e90a0c7c2,athleteName:Demetris Gronaller,athleteBornIn:California,age:21,teamName:Indianapolis Colts,yearsOnTeam:1,salary:$5534452.92,currentlyInjured:TRUE
+athleteID:91747fd2-898b-437e-9e67-c710e1923d5a,athleteName:Loria Quelch,athleteBornIn:Kentucky,age:29,teamName:Houston Texans,yearsOnTeam:5,salary:$1404676.63,currentlyInjured:FALSE
+athleteID:4840ccbd-9ef8-4293-85bd-e573efed364c,athleteName:Danie Bethune,athleteBornIn:Alabama,age:25,teamName:Pittsburgh Steelers,yearsOnTeam:5,salary:$3080369.41,currentlyInjured:TRUE
+athleteID:5f8f1c25-7fa0-4402-b9d0-38723c5f9a77,athleteName:Madelin Storms,athleteBornIn:Texas,age:24,teamName:Dallas Cowboys,yearsOnTeam:3,salary:$1984529.37,currentlyInjured:FALSE
+athleteID:91b19527-9f64-4f54-b26d-5dc1a3b17812,athleteName:Wainwright Baumann,athleteBornIn:California,age:22,teamName:Seattle Seahawks,yearsOnTeam:5,salary:$3887004.39,currentlyInjured:FALSE
+athleteID:6234dbb9-d557-4ff4-ae12-a7370bc9e9cc,athleteName:Eunice Postill,athleteBornIn:Massachusetts,age:23,teamName:Baltimore Ravens,yearsOnTeam:1,salary:$4320497.98,currentlyInjured:TRUE
