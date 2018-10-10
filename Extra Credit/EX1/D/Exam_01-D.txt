@@ -1,0 +1,1000 @@
+recordId:f5550667-c11b-4128-944a-61e3c08aef31~animal:Monkey, red howler~owner:Ange Leavens~title:Rev~countryAnimalLives:China~ownerPaid:$3266.9
+recordId:c9aa630b-9c78-4c41-af00-1d03b52f9f95~animal:Savannah deer (unidentified)~owner:Desiree Dady~title:Rev~countryAnimalLives:China~ownerPaid:$3729.01
+recordId:3e3d04ff-ed10-4475-93f4-800505e5f1d9~animal:Coqui francolin~owner:Hillyer Wallis~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$3047.86
+recordId:de40a1c9-a756-4162-8fb8-c3bf921c88a5~animal:Owl, white-browed~owner:Dottie Hellmer~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$1825.7
+recordId:2eefce01-27b9-4c70-af1c-c41ddf6f06ff~animal:Weaver, white-browed sparrow~owner:Janith Schrei~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$4400.02
+recordId:8d0c9e68-1316-4a64-9cc0-4360dcde934e~animal:Chestnut weaver~owner:Mathe Conring~title:Ms~countryAnimalLives:Guatemala~ownerPaid:$4753.98
+recordId:72ff680b-193e-42b6-94d8-8ac60ed04ad4~animal:Bear, polar~owner:Lonnie Briars~title:Dr~countryAnimalLives:Honduras~ownerPaid:$2957.92
+recordId:544c92d3-7f41-4189-a61c-18318703463d~animal:Wallaby, euro~owner:Ellswerth Alvarado~title:Honorable~countryAnimalLives:Cyprus~ownerPaid:$1151.47
+recordId:11731ff2-39a0-4728-a4e9-192076d90cc8~animal:Honey badger~owner:Doe Hastings~title:Dr~countryAnimalLives:Sweden~ownerPaid:$1368.21
+recordId:330b41be-4de7-40b6-8a84-e21400e0ce6a~animal:Neotropic cormorant~owner:Palm Rengger~title:Honorable~countryAnimalLives:China~ownerPaid:$1117.24
+recordId:e00a4f02-dce8-4d06-bb4b-bdfc7650b7f6~animal:Cook's tree boa~owner:Redd Pol~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$3060.18
+recordId:c34900ea-781e-4e0f-a20b-d5e4de187642~animal:Gull, silver~owner:Karlen Wilds~title:Mr~countryAnimalLives:France~ownerPaid:$1730.62
+recordId:18d414e0-a16d-4587-85af-3e0f505b14a3~animal:Fowl, helmeted guinea~owner:Ainslee Kemster~title:Ms~countryAnimalLives:Lithuania~ownerPaid:$4269.1
+recordId:a9b3085f-f081-4601-aa1b-453eb978ac96~animal:Kingfisher, pied~owner:Lev Lintott~title:Rev~countryAnimalLives:China~ownerPaid:$3146.72
+recordId:9be7d351-b559-408a-8da0-f1c0ffad01d6~animal:Frilled lizard~owner:Nola Chartres~title:Dr~countryAnimalLives:Chile~ownerPaid:$2877.94
+recordId:b37b2a32-cb07-467c-9cc3-7849796296e2~animal:Uinta ground squirrel~owner:Daphna Ransome~title:Mrs~countryAnimalLives:Canada~ownerPaid:$4077.45
+recordId:386d0ca4-83a2-4768-9f2d-f19dc8ca268d~animal:Ferret, black-footed~owner:Nicko Egginson~title:Honorable~countryAnimalLives:Russia~ownerPaid:$882.93
+recordId:cfe83691-7d62-4b4b-9878-89fb800cf240~animal:North American beaver~owner:Ester Braunter~title:Mrs~countryAnimalLives:Serbia~ownerPaid:$2961.5
+recordId:5da2d37f-752f-4a94-90e1-bb77073b0111~animal:Macaque, bonnet~owner:Cal Farrall~title:Dr~countryAnimalLives:Brazil~ownerPaid:$3065.09
+recordId:8652bce3-8bd7-4441-90ae-86bc0442ebeb~animal:Two-banded monitor~owner:Pauli Chrispin~title:Mrs~countryAnimalLives:China~ownerPaid:$3011.07
+recordId:31f8104e-64e6-4d6e-b372-3779ba3a20bb~animal:Long-billed cockatoo~owner:Alaine Aiston~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$3350.74
+recordId:870997d0-9710-41d0-8909-e204f6382bf7~animal:Gecko (unidentified)~owner:Kynthia Crates~title:Ms~countryAnimalLives:Ireland~ownerPaid:$3595.82
+recordId:1887e08d-f5e2-465b-8e2a-2451fea46099~animal:Fox, bat-eared~owner:Tommie Hartington~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$3294.41
+recordId:98f4031a-b568-4657-a277-38d5047bb191~animal:Flamingo, chilean~owner:Lora Barlow~title:Rev~countryAnimalLives:China~ownerPaid:$1647.08
+recordId:75544488-4747-4d2c-bd60-12ac71c4c68a~animal:American badger~owner:Andi Danbye~title:Mr~countryAnimalLives:Brazil~ownerPaid:$2685.17
+recordId:d7b446fa-502c-4775-95ea-322da9c9c53e~animal:Weaver, lesser masked~owner:Toni Rispen~title:Mrs~countryAnimalLives:China~ownerPaid:$3614.49
+recordId:82106ad0-1dc5-42eb-97dc-d2327d22d42a~animal:Grey heron~owner:Tommy Heliot~title:Mrs~countryAnimalLives:Tunisia~ownerPaid:$4187.81
+recordId:f56f3180-cabb-46c7-9765-ecf3d102a09e~animal:Egret, great~owner:Mead Ferrulli~title:Rev~countryAnimalLives:Russia~ownerPaid:$3413.94
+recordId:00b7cdee-148a-47e0-b8cd-1783c7da3a3a~animal:Capuchin, black-capped~owner:Cherilynn Mirrlees~title:Mrs~countryAnimalLives:Colombia~ownerPaid:$4290.18
+recordId:33da7a7f-921e-4e61-a360-16671e549e01~animal:Phalarope, northern~owner:Eba Durrad~title:Ms~countryAnimalLives:Portugal~ownerPaid:$3978.56
+recordId:f209cccc-4f44-4b4b-94df-a4681254b23b~animal:Common wolf~owner:Adda Terbeek~title:Mrs~countryAnimalLives:China~ownerPaid:$2957.01
+recordId:ee2c1a39-47bd-4729-bf62-e1777b58603d~animal:African jacana~owner:Pancho Paoli~title:Dr~countryAnimalLives:Niger~ownerPaid:$1527.92
+recordId:cbed4d48-a87e-4b24-91d5-c1f381d5d5ba~animal:Savanna baboon~owner:Estella Billington~title:Dr~countryAnimalLives:France~ownerPaid:$4997.85
+recordId:0d74e9c5-6f1f-4358-9419-5dbc239a753a~animal:Goanna lizard~owner:Fedora Isack~title:Dr~countryAnimalLives:Peru~ownerPaid:$1020.93
+recordId:6719707c-7276-4103-b9d7-f43f90b2b4d1~animal:Pelican, australian~owner:Graham Orrill~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$2922.64
+recordId:7a0d4511-de21-457e-ab0b-cd9dda0dbd14~animal:Buffalo, african~owner:Christophorus Edgerly~title:Honorable~countryAnimalLives:Chad~ownerPaid:$4113.25
+recordId:4ae03805-8869-47ef-acda-68934bde86a8~animal:Violet-eared waxbill~owner:Alejandra Duncan~title:Rev~countryAnimalLives:Philippines~ownerPaid:$4363.05
+recordId:26dd3dcd-d67c-43c1-83b9-e2327f231960~animal:Common wolf~owner:Elmore Dossett~title:Honorable~countryAnimalLives:China~ownerPaid:$4038.43
+recordId:efb4062c-3dd6-428a-a4f3-bc21d1445184~animal:Armadillo, seven-banded~owner:Venita Jordeson~title:Ms~countryAnimalLives:Japan~ownerPaid:$1656.9
+recordId:e50153e7-6bc1-4c59-aef7-8f38b7daeff5~animal:Helmeted guinea fowl~owner:Maggie Quinnelly~title:Dr~countryAnimalLives:United States~ownerPaid:$3873.67
+recordId:beaa1c0c-de92-4ea2-a33f-3aef86382451~animal:Fox, asian red~owner:Deloris Tinkler~title:Rev~countryAnimalLives:Portugal~ownerPaid:$3527.59
+recordId:b974746f-1c82-40f2-935c-39d0675b78c3~animal:Polar bear~owner:Ariel Peltzer~title:Rev~countryAnimalLives:Ukraine~ownerPaid:$4071.81
+recordId:7b14f575-f547-442b-88d4-89758d5b56d7~animal:Coyote~owner:Shepperd Heugh~title:Dr~countryAnimalLives:Philippines~ownerPaid:$3554.5
+recordId:47e7da12-16e7-4c08-a7e0-2a6e252cb908~animal:Bustard, stanley~owner:Kent Morillas~title:Ms~countryAnimalLives:France~ownerPaid:$1631.92
+recordId:8847c561-83d9-4781-b0e3-ec6ec6a11e91~animal:Ringtail~owner:Thatcher Jaray~title:Mrs~countryAnimalLives:Sweden~ownerPaid:$3136.33
+recordId:649c3626-6216-46c4-a635-87b140df268a~animal:Downy woodpecker~owner:Banky Rennocks~title:Mrs~countryAnimalLives:Cuba~ownerPaid:$2117.02
+recordId:e2432eeb-5302-4c0e-bc5d-4d03218ba989~animal:Blacksmith plover~owner:Cory Ulrik~title:Rev~countryAnimalLives:Russia~ownerPaid:$1708.03
+recordId:1151c3a5-a87c-477b-ab1a-e987633eae62~animal:White rhinoceros~owner:Katha Clunie~title:Honorable~countryAnimalLives:Croatia~ownerPaid:$1761.04
+recordId:11fb68b2-b63f-4d2c-b7e7-2ceba1bd476f~animal:Squirrel, golden-mantled ground~owner:Sheeree Jiroutka~title:Mr~countryAnimalLives:Sweden~ownerPaid:$855.93
+recordId:8606489e-03bf-46ad-8ae3-44dc4aa55064~animal:Yellow-rumped siskin~owner:Eilis Dulinty~title:Rev~countryAnimalLives:Poland~ownerPaid:$3337.83
+recordId:2563ff13-da14-4e7f-b85f-c3ade5ef11ab~animal:Worm snake (unidentified)~owner:Ruperto Joly~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$3817.81
+recordId:ba29b65d-b9aa-4441-a160-af1f6337cac5~animal:Porcupine, african~owner:Gilberto Voules~title:Mr~countryAnimalLives:Colombia~ownerPaid:$3581.41
+recordId:c35e01a1-9182-4ad6-9d06-1ea0e929193c~animal:Flamingo, roseat~owner:Brit Arboin~title:Mrs~countryAnimalLives:Thailand~ownerPaid:$3957.04
+recordId:ad02784a-9dc3-45d6-a7ea-4f0b4e04e6c3~animal:Rhea, gray~owner:Benoite Beasant~title:Mrs~countryAnimalLives:Honduras~ownerPaid:$4073.69
+recordId:ae82d4e7-afda-44b2-ae16-4e097a059e16~animal:Swan, black~owner:Analise Renshall~title:Mrs~countryAnimalLives:North Korea~ownerPaid:$2714.49
+recordId:066b4c97-3a84-4e5f-abe4-7dc4326af874~animal:Secretary bird~owner:Ruby Puttock~title:Mr~countryAnimalLives:Albania~ownerPaid:$1107.33
+recordId:6033aee2-f473-49d7-9586-8db08ef62c45~animal:White-tailed jackrabbit~owner:Moll Gonnin~title:Mrs~countryAnimalLives:Ireland~ownerPaid:$3446.05
+recordId:30b78380-001a-4d5f-baec-95dc63435ff9~animal:Kingfisher, white-throated~owner:Vinita Munden~title:Mrs~countryAnimalLives:Ukraine~ownerPaid:$3758.44
+recordId:5754d753-26c3-446e-abff-076960500e6f~animal:Tawny frogmouth~owner:Arvy McFadyen~title:Rev~countryAnimalLives:Poland~ownerPaid:$616.16
+recordId:bb03def3-f738-4fca-bf31-5ad051dbf610~animal:Common brushtail possum~owner:Shandie Killelea~title:Honorable~countryAnimalLives:Monaco~ownerPaid:$635.84
+recordId:e90e0aaa-0844-4054-97af-8b46c5430074~animal:Sacred ibis~owner:Helge Hamber~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$2550.2
+recordId:de57c7c2-61ef-4e12-a6fe-7767634b44bc~animal:Dingo~owner:Tammie Carden~title:Mr~countryAnimalLives:Nigeria~ownerPaid:$4856.84
+recordId:a72bba9a-1937-44e6-8106-e20327f322af~animal:Magistrate black colobus~owner:Emmye Gotfrey~title:Honorable~countryAnimalLives:Tanzania~ownerPaid:$3848.63
+recordId:5b5cea03-6f19-4f31-82a8-9bd55a5db521~animal:House crow~owner:Alida Vasnetsov~title:Mr~countryAnimalLives:China~ownerPaid:$4281.05
+recordId:80dc701e-50a2-445a-8edb-a585243003d9~animal:Gemsbok~owner:Courtney Kingdom~title:Dr~countryAnimalLives:Afghanistan~ownerPaid:$3397.65
+recordId:fc7d5b70-4c9a-4528-bd74-b578ab12309f~animal:Sparrow, house~owner:Jasmine Dominelli~title:Dr~countryAnimalLives:Ghana~ownerPaid:$1408.55
+recordId:e3473949-d234-4aca-b22c-833f2fbcc85f~animal:Savannah deer (unidentified)~owner:Joyann Calway~title:Rev~countryAnimalLives:Russia~ownerPaid:$1962.96
+recordId:967807a8-456b-4225-87b5-468ff38ebf6b~animal:Brown hyena~owner:Brigit Kopfen~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$875.15
+recordId:71a8ca10-e518-43f4-831f-8971208147d8~animal:Swallow (unidentified)~owner:Wayland Furbank~title:Ms~countryAnimalLives:Poland~ownerPaid:$2371.54
+recordId:f6faee40-54f1-4715-895e-9ab8f20ffb6d~animal:Glossy ibis~owner:Giacobo Zecchinii~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$3308.96
+recordId:233f3314-7ae5-49fa-968d-57084a3756a3~animal:Crane, brolga~owner:Geraldine Dell Casa~title:Ms~countryAnimalLives:Mexico~ownerPaid:$1397.77
+recordId:12a99a3c-661a-40e7-a94d-6daae2e2595b~animal:Goldeneye, common~owner:Boycey Drysdall~title:Rev~countryAnimalLives:China~ownerPaid:$4308.39
+recordId:8aab7a81-898b-4232-8362-d02ecb21e9d1~animal:Hartebeest, coke's~owner:Waring Screwton~title:Rev~countryAnimalLives:Kazakhstan~ownerPaid:$4112.81
+recordId:46fd8ee7-71eb-432b-87ee-f4ffa9c5adba~animal:Tsessebe~owner:Parker Pursehouse~title:Dr~countryAnimalLives:Philippines~ownerPaid:$2361.47
+recordId:654b0aaa-a186-4a39-beea-dbad9a874112~animal:Lapwing, southern~owner:Whitaker Elwell~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$1097.64
+recordId:423ec3cf-a6b7-4cb0-9191-4f0e82d86295~animal:Capybara~owner:Phillip Graves~title:Mr~countryAnimalLives:Poland~ownerPaid:$584.19
+recordId:40658f07-ed58-42dc-8f07-b81db3e395cc~animal:Marmot, yellow-bellied~owner:Noll Carding~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$4131.68
+recordId:608ceeb3-a551-4dd5-8107-77d9d5d29c6f~animal:Red lava crab~owner:Jacinda Headey~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$1612.6
+recordId:090e5c94-3706-404e-a746-094f3dddd9b1~animal:Grey mouse lemur~owner:Fredi Carlucci~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$1518.25
+recordId:1d719cf3-a0c6-47f6-9a8b-87dbb2881239~animal:Red-billed hornbill~owner:Faulkner Costelow~title:Mrs~countryAnimalLives:Vietnam~ownerPaid:$2655.75
+recordId:f6317068-44fc-4071-9bd9-cb5d45a1cede~animal:Antelope, roan~owner:Cristabel Cassells~title:Dr~countryAnimalLives:China~ownerPaid:$1435.08
+recordId:430f5a3a-c638-441c-9ea3-c208063b0c90~animal:Mandras tree shrew~owner:Rourke Grimley~title:Dr~countryAnimalLives:Poland~ownerPaid:$3134.79
+recordId:664809d8-403e-498e-9c9a-2178179b5577~animal:Eurasian beaver~owner:Idell Prangley~title:Ms~countryAnimalLives:Russia~ownerPaid:$2493.73
+recordId:0f286b91-2fc8-4a23-815d-8bb8286dfec8~animal:White-fronted capuchin~owner:Ollie Pynner~title:Mr~countryAnimalLives:Russia~ownerPaid:$3609.44
+recordId:5bfee85a-e63b-46ec-8632-9e70d18f1dda~animal:Sage grouse~owner:Mirabelle Bythway~title:Rev~countryAnimalLives:China~ownerPaid:$4559.65
+recordId:f5214de6-5cd9-429f-b726-8153bcda8379~animal:Wallaby, whip-tailed~owner:Selig Kennsley~title:Ms~countryAnimalLives:Kuwait~ownerPaid:$4279.49
+recordId:f80a1fe0-e94c-4547-a212-96bd5575777a~animal:Collared peccary~owner:Ina Mattson~title:Honorable~countryAnimalLives:Luxembourg~ownerPaid:$3120.63
+recordId:6f94a374-159e-42cb-bbfa-0c95702713d9~animal:Starling, red-shouldered glossy~owner:Whitby Bernardini~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$3655.36
+recordId:c5a86f53-1db4-4670-9489-8bcbd34dbfb1~animal:Booby, masked~owner:Leela Inglefield~title:Ms~countryAnimalLives:China~ownerPaid:$3523.02
+recordId:ff447ce4-419d-4b58-99ff-7e98c0bdebba~animal:American buffalo~owner:Latisha Minghetti~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4368.79
+recordId:83a66d25-8e85-4d2a-99d3-a50df9a0a4dd~animal:Tarantula~owner:Emiline Jeppensen~title:Mr~countryAnimalLives:Armenia~ownerPaid:$714.56
+recordId:1e78b401-59b6-4316-ae16-a5e68fdebad4~animal:Hippopotamus~owner:Clayborne Scotting~title:Ms~countryAnimalLives:Brazil~ownerPaid:$1139.85
+recordId:1b5aa948-11b7-42e1-94b0-66a0c0ed7a71~animal:Flamingo, roseat~owner:Baxy Brophy~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$3992.71
+recordId:de64d1a9-c0a8-433d-8caa-ff27d7ef0304~animal:Racer, blue~owner:Nikola Tudhope~title:Dr~countryAnimalLives:China~ownerPaid:$4789.78
+recordId:8579f8d0-4a82-4f2c-94aa-89a5e90a861a~animal:Hornbill, southern ground~owner:Elfrida Findon~title:Rev~countryAnimalLives:Brazil~ownerPaid:$4429.55
+recordId:aaf0f73b-7d1b-4a9f-9c22-991f9e5efd5f~animal:Little blue penguin~owner:Alia Lacer~title:Ms~countryAnimalLives:Philippines~ownerPaid:$4827.68
+recordId:552d553e-4361-4cb4-bcf6-5afa5132400d~animal:Squirrel, malabar~owner:Roland McLelland~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$3174.16
+recordId:8fa7da26-3b19-4474-bda9-26a419bba22a~animal:Sheep, american bighorn~owner:Leland Oldershaw~title:Ms~countryAnimalLives:China~ownerPaid:$2022.31
+recordId:0aad4943-713e-4f36-8bb7-45b7dc37a9e2~animal:Vulture, white-headed~owner:Guenna Mumbeson~title:Mrs~countryAnimalLives:China~ownerPaid:$3041.52
+recordId:a23ad961-9f82-4c69-92c5-e97590e3ac27~animal:Fox, asian red~owner:Candace Kopke~title:Mrs~countryAnimalLives:Croatia~ownerPaid:$2965.09
+recordId:ec863b8a-7a6a-4078-93a5-fe6f067354d6~animal:Crow, house~owner:Philippe Newgrosh~title:Mr~countryAnimalLives:Canada~ownerPaid:$1642.1
+recordId:3fece0cd-ec02-4e06-8aa0-2508e7535243~animal:Long-tailed spotted cat~owner:Marsiella Bultitude~title:Rev~countryAnimalLives:Serbia~ownerPaid:$3841.69
+recordId:12fdbbd0-e618-4857-9373-21ea6171e5c2~animal:Red-shouldered glossy starling~owner:Dre Walcher~title:Ms~countryAnimalLives:Chad~ownerPaid:$4763.17
+recordId:d382b8b4-74a1-4689-87bb-8a93c78ec569~animal:Waxbill, black-cheeked~owner:Margie Rawsthorne~title:Ms~countryAnimalLives:China~ownerPaid:$3458.19
+recordId:67ee1993-608a-466c-bc9c-225ad95c1c1f~animal:Albatross, waved~owner:Trstram Yoodall~title:Ms~countryAnimalLives:China~ownerPaid:$784.55
+recordId:829b35a9-0b82-4ae5-8638-44e6cd31b898~animal:Python, carpet~owner:Cassie Janos~title:Mr~countryAnimalLives:Mexico~ownerPaid:$2126.44
+recordId:bed2d366-a5f8-4bfb-ab1e-a32e3bac027f~animal:Constrictor, eastern boa~owner:Reggy McNevin~title:Mr~countryAnimalLives:China~ownerPaid:$1412.77
+recordId:606d851d-9d16-45f1-b02e-de04fb771249~animal:White-mantled colobus~owner:Johnna Bradburne~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$4228.51
+recordId:fa8899fc-854b-4027-ab3f-1c36ba95802e~animal:Francolin, coqui~owner:Sidnee Haslock(e)~title:Mrs~countryAnimalLives:Japan~ownerPaid:$2978.03
+recordId:5a29c132-1609-4baf-84c5-54f39b3b4ae8~animal:Dove, galapagos~owner:Ludwig Woffinden~title:Honorable~countryAnimalLives:Ukraine~ownerPaid:$3275.39
+recordId:0211248c-9a8c-4a8a-9f7b-c99d66478748~animal:Bee-eater (unidentified)~owner:Gabbie Bradshaw~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$3446.05
+recordId:0da1cb19-a9d3-48a4-8d9f-30e57bb302d5~animal:Pelican, eastern white~owner:Bryn Haggleton~title:Ms~countryAnimalLives:Cameroon~ownerPaid:$4863.19
+recordId:04f2fe93-f1d3-430a-9d31-5cfc61cc10e1~animal:Francolin, coqui~owner:Linnea Adamiec~title:Mrs~countryAnimalLives:Spain~ownerPaid:$688.33
+recordId:c5c26391-7232-4d4c-a77e-8a22a5ba0c91~animal:Paca~owner:Farra Blazic~title:Dr~countryAnimalLives:Bosnia and Herzegovina~ownerPaid:$1188.55
+recordId:c70ad9e8-5d8c-489b-8d7a-a659bcdba992~animal:Mynah, common~owner:Elias Smees~title:Ms~countryAnimalLives:China~ownerPaid:$4716.02
+recordId:ec5a322f-1c1e-4c1b-aa7e-cd879e05d739~animal:Japanese macaque~owner:Giuditta Dedham~title:Ms~countryAnimalLives:Luxembourg~ownerPaid:$3163.01
+recordId:da30ea25-ed21-4d03-b29b-a10e9b7a8438~animal:Waxbill, violet-eared~owner:Seana McCrackem~title:Rev~countryAnimalLives:Finland~ownerPaid:$3852.88
+recordId:1c572b84-582e-425c-8de4-521a47ea2eac~animal:Cape wild cat~owner:Lynea Leitche~title:Ms~countryAnimalLives:Russia~ownerPaid:$4733.03
+recordId:24e7fc19-95cc-4df0-8034-dac15b0ef4f7~animal:Sockeye salmon~owner:Kania Weiner~title:Dr~countryAnimalLives:Japan~ownerPaid:$4829.83
+recordId:430e3007-e839-4618-9b1c-379ceb49a934~animal:Monkey, bleeding heart~owner:Ailey Getley~title:Ms~countryAnimalLives:Egypt~ownerPaid:$1030.6
+recordId:db0d13b4-ff01-4fb4-8ae2-ed6b449dcc64~animal:Tinamou, elegant crested~owner:Isis Aldridge~title:Rev~countryAnimalLives:Canada~ownerPaid:$3210
+recordId:a188d7d2-7354-4ad6-aa1a-22057b0bf205~animal:Coqui partridge~owner:Monty Worsnap~title:Ms~countryAnimalLives:Peru~ownerPaid:$2980.72
+recordId:a14fa019-8686-4f2a-8cb7-7dddb8c2c626~animal:White-rumped vulture~owner:Mikaela Follett~title:Rev~countryAnimalLives:China~ownerPaid:$3591.37
+recordId:21c15851-d4c1-4cf4-a7c3-b2f18c3ddc0c~animal:Kaffir cat~owner:Jasmine Lipp~title:Rev~countryAnimalLives:Yemen~ownerPaid:$544.96
+recordId:5de52e78-aaa9-4fb0-a332-12fce492619f~animal:Slender loris~owner:Bibi Ghidelli~title:Rev~countryAnimalLives:Haiti~ownerPaid:$2717.66
+recordId:6b65185b-7b87-4e65-92a4-fefdc43768c4~animal:Toucan, red-billed~owner:Eyde Jobb~title:Mr~countryAnimalLives:Mexico~ownerPaid:$2263.43
+recordId:09b1cede-4af5-4243-9b62-888f4d39857f~animal:Pelican, great white~owner:Selina Bleeze~title:Honorable~countryAnimalLives:Venezuela~ownerPaid:$1967.17
+recordId:5023d6c2-4c97-4742-993c-82cdafe51b5c~animal:Giraffe~owner:Shayla Mellem~title:Dr~countryAnimalLives:Ivory Coast~ownerPaid:$2384.34
+recordId:0275f492-8205-4e38-9275-e28bb8800a32~animal:Skink, african~owner:Anna-diane Molson~title:Ms~countryAnimalLives:Philippines~ownerPaid:$3799.59
+recordId:21a2f14e-a186-4003-bcd7-a7f8320ec4b9~animal:Seal, southern elephant~owner:Jamal Hardington~title:Honorable~countryAnimalLives:Bolivia~ownerPaid:$3339.62
+recordId:d29ea0b4-de0a-40aa-a706-71290f591e71~animal:Violet-eared waxbill~owner:Julianna Plesing~title:Mr~countryAnimalLives:Panama~ownerPaid:$2366.3
+recordId:9552bbec-6051-453b-aef9-cb6bb52cae04~animal:Duck, blue~owner:Gavin Haensel~title:Rev~countryAnimalLives:Comoros~ownerPaid:$4504.81
+recordId:889acd61-0ce2-4da3-8901-e1fcb00edae7~animal:Pie, rufous tree~owner:Lindy Espinas~title:Mrs~countryAnimalLives:Dominican Republic~ownerPaid:$4580.1
+recordId:1891d70c-8992-42e2-bdff-5263d4658c99~animal:Crane, stanley~owner:Sheila Banbrook~title:Rev~countryAnimalLives:Guatemala~ownerPaid:$3329.2
+recordId:1b22f77c-456d-4747-aa27-0aef72a55926~animal:Possum, ring-tailed~owner:Coletta Trelevan~title:Dr~countryAnimalLives:Philippines~ownerPaid:$4209.28
+recordId:e80c9011-650d-47d8-80a7-0048b1574bdb~animal:Bustard, denham's~owner:Vernor Kleinstern~title:Rev~countryAnimalLives:Germany~ownerPaid:$4978.76
+recordId:bef7121b-8c0f-4463-bbbc-2bef20612844~animal:Cardinal, black-throated~owner:Boyd Haryngton~title:Mrs~countryAnimalLives:Kiribati~ownerPaid:$4722.42
+recordId:d5b24c92-7793-48bd-90d2-d51092348f07~animal:Colobus, black and white~owner:Brigham Lidster~title:Mr~countryAnimalLives:Ethiopia~ownerPaid:$2654.96
+recordId:0c8954bf-4bcc-4871-9631-3e6e13b0a88d~animal:Madagascar fruit bat~owner:Jemimah McGray~title:Mr~countryAnimalLives:Colombia~ownerPaid:$986.74
+recordId:ee02db5b-e412-44ea-b573-70c6ab66a576~animal:Pelican, australian~owner:Sharai Fetherston~title:Rev~countryAnimalLives:China~ownerPaid:$1683.22
+recordId:8369094a-70f1-465e-a3be-67a207a9c276~animal:Common duiker~owner:Hayyim Woodham~title:Ms~countryAnimalLives:Brazil~ownerPaid:$3067.27
+recordId:673836ea-b0f4-4f0e-9846-c2bbf87924ef~animal:Racer, blue~owner:Sigfrid Peniello~title:Rev~countryAnimalLives:China~ownerPaid:$1531.9
+recordId:97e19252-8da9-4bb4-a238-3fdb82c94f50~animal:Gull, swallow-tail~owner:Morgen Darey~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$645.23
+recordId:dc3d7ef4-2556-4bcc-9736-8e031c18d0c6~animal:Beaver, american~owner:Leonidas O'Currigan~title:Honorable~countryAnimalLives:Greece~ownerPaid:$2414.32
+recordId:0b83d890-e645-4456-b914-db60c836e09e~animal:Stork, white~owner:Terrie Odby~title:Honorable~countryAnimalLives:Ukraine~ownerPaid:$1596.74
+recordId:6a943053-a9fa-4f20-8326-e1874dbd0370~animal:Lion, south american sea~owner:Jose Wordington~title:Ms~countryAnimalLives:Venezuela~ownerPaid:$4109.47
+recordId:3cd4b7b6-1ff6-4e79-97e3-dc74c807da4e~animal:Praying mantis (unidentified)~owner:Lynea Townrow~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4863.95
+recordId:a59ac69d-b623-4d2b-9f23-8a33567bf2a2~animal:Snake, carpet~owner:Aloin Tranfield~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$2029.84
+recordId:22972a06-242b-461c-9555-00afa9519360~animal:Oryx, beisa~owner:Vivianna Bodleigh~title:Ms~countryAnimalLives:Somalia~ownerPaid:$1998.21
+recordId:e9f7e8ed-41b4-4b6a-a6f4-b74f9655b2da~animal:Opossum, american virginia~owner:Jourdain Pearn~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$2810.08
+recordId:4cfe5e75-8073-4479-8deb-20bfb0bbebd0~animal:Yellow-billed stork~owner:Claiborne Clissett~title:Mr~countryAnimalLives:Iran~ownerPaid:$1729.68
+recordId:f360d631-5593-4f47-a815-d6392879b205~animal:American marten~owner:Shaylynn Clace~title:Mr~countryAnimalLives:Republic of the Congo~ownerPaid:$2543.08
+recordId:97179b80-2621-4c9b-bfd0-d8030a0860d2~animal:Eastern fox squirrel~owner:Nonnah Stapele~title:Mrs~countryAnimalLives:Lithuania~ownerPaid:$3937.26
+recordId:d00dae25-a461-4e3a-9a0d-d207c430a1b3~animal:Snake, western patch-nosed~owner:Quinlan Lartice~title:Mr~countryAnimalLives:South Korea~ownerPaid:$1668.14
+recordId:359e788c-2a27-4dc6-9172-28aea1100f99~animal:Eagle, bateleur~owner:Andy Harle~title:Mrs~countryAnimalLives:Tajikistan~ownerPaid:$4580.56
+recordId:bacd3a15-7c2f-40d4-b8bd-30a443c8fe3b~animal:King cormorant~owner:Goddard Bernardinelli~title:Mr~countryAnimalLives:Comoros~ownerPaid:$689.69
+recordId:9ff5330c-c39f-4a2a-b95a-f77b45dae065~animal:Pale white-eye~owner:Nickola Milnes~title:Rev~countryAnimalLives:China~ownerPaid:$3197.01
+recordId:9f05e42d-6c3c-4607-963b-7e9c4de1feda~animal:Arctic hare~owner:Emalia Adriaan~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$1911.71
+recordId:8c426aeb-1fa1-4418-81d2-5b57ab63b9b7~animal:Vulture, white-rumped~owner:Kerri Andreas~title:Honorable~countryAnimalLives:Russia~ownerPaid:$1331.9
+recordId:4d2ebb49-894c-454a-8f67-2bd70ea10850~animal:Magistrate black colobus~owner:Andris Dougary~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$3316.81
+recordId:5e5a1ac4-0492-4f2d-8709-f7838053181e~animal:White-cheeked pintail~owner:Trish Sudlow~title:Mrs~countryAnimalLives:China~ownerPaid:$1959.43
+recordId:7319c390-439c-42df-a84b-7f5867ec8a9b~animal:Ground legaan~owner:Witty Longfield~title:Ms~countryAnimalLives:Philippines~ownerPaid:$1875.25
+recordId:a94aa414-2b9f-4fe4-a98f-8edd62b84cb4~animal:American buffalo~owner:Rutger Pancoust~title:Rev~countryAnimalLives:China~ownerPaid:$845.51
+recordId:2c7c52a7-78a2-4c8a-9997-7e39f4c1a508~animal:American marten~owner:Row Bowld~title:Honorable~countryAnimalLives:Argentina~ownerPaid:$1542.83
+recordId:c71f2da2-2808-4358-b792-a2a0d6051820~animal:Blue-faced booby~owner:Georas Louch~title:Honorable~countryAnimalLives:Egypt~ownerPaid:$1798.81
+recordId:33d5f12a-06fe-45f2-b3c8-ca5252664f41~animal:Flamingo, chilean~owner:Fran Jelks~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$3324.36
+recordId:346dab38-23db-4c19-b61d-5c85622e988d~animal:Crab (unidentified)~owner:Brod Quince~title:Rev~countryAnimalLives:Philippines~ownerPaid:$1508.08
+recordId:6571b15e-e1a8-4fcb-ac45-6d4b640eb087~animal:Green heron~owner:Zenia Obispo~title:Rev~countryAnimalLives:Mexico~ownerPaid:$1636.26
+recordId:83a3427e-a16f-4eee-a956-36b16f1f57ec~animal:Macaw, green-winged~owner:Eleen Powers~title:Mrs~countryAnimalLives:Brazil~ownerPaid:$1090.4
+recordId:b96ac4fc-8675-4617-b2ab-baa83d391e7d~animal:Hoopoe, eurasian~owner:Janene Rudeforth~title:Dr~countryAnimalLives:Philippines~ownerPaid:$2742.51
+recordId:42dba15b-567a-4b90-b21e-5c20e42dbf2b~animal:Macaw, blue and yellow~owner:Brooke Webster~title:Mrs~countryAnimalLives:China~ownerPaid:$2541.78
+recordId:3dbfad31-5305-40fe-970e-e171615b8fc0~animal:Thomson's gazelle~owner:Kissie Hudless~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$2224.24
+recordId:2f9e3219-49a1-4116-9664-c7d76e4d8f87~animal:Guanaco~owner:Pietro Dicke~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$789.95
+recordId:f513faa3-737b-4eba-8802-e7af88d70466~animal:Puku~owner:Hayyim Razoux~title:Honorable~countryAnimalLives:Netherlands~ownerPaid:$1519.01
+recordId:afeab8e9-67a5-48b3-a4f6-87ff600d2166~animal:Fowl, helmeted guinea~owner:Alethea Jessopp~title:Mr~countryAnimalLives:Nigeria~ownerPaid:$3951.05
+recordId:a7e7141a-95f1-4d52-8ac8-a0b916de92a1~animal:White-nosed coatimundi~owner:Lee Esome~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$4950.14
+recordId:836ea3cf-d711-46a6-a167-728a3a01a4ab~animal:Red phalarope~owner:Darby Abbess~title:Rev~countryAnimalLives:Hungary~ownerPaid:$4797.06
+recordId:6e0f39c7-b403-480b-b9b8-99b4082c48ee~animal:Lion, mountain~owner:Nathalie Braden~title:Ms~countryAnimalLives:Slovenia~ownerPaid:$2539.01
+recordId:a67e7c82-afc1-4730-afbd-3ed47a2b59a7~animal:Greylag goose~owner:Marsiella Bunworth~title:Honorable~countryAnimalLives:China~ownerPaid:$4924.35
+recordId:4dab9669-6573-4e8a-bed0-9405df35d7e6~animal:Pale white-eye~owner:Dita Edinboro~title:Ms~countryAnimalLives:Honduras~ownerPaid:$1670.55
+recordId:dc091a79-450d-4624-8415-a521a65a4dba~animal:Galapagos sea lion~owner:Augustine Exell~title:Rev~countryAnimalLives:Russia~ownerPaid:$2262.5
+recordId:30ab1eb7-b7b5-48c4-a893-9d7d2e67c77a~animal:Parrot, hawk-headed~owner:Rennie Dankov~title:Mrs~countryAnimalLives:Finland~ownerPaid:$4239.01
+recordId:f6dc788e-12d8-4661-8879-d31c1b0fab39~animal:Butterfly, tropical buckeye~owner:Rayna Janowski~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$1650.06
+recordId:2de44875-fee3-478f-814a-04d5afc9b31d~animal:Beaver, north american~owner:Kimberley Saller~title:Mrs~countryAnimalLives:Japan~ownerPaid:$3523.42
+recordId:1e92dcac-d3dd-4000-bb9b-b2093fae3de8~animal:Long-tailed spotted cat~owner:Rudolph Cupper~title:Dr~countryAnimalLives:Montenegro~ownerPaid:$3683.99
+recordId:2919190f-c7f0-408b-aa53-6077e4382824~animal:Waterbuck, common~owner:Jerri Entissle~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$567.74
+recordId:28efada5-1b76-43cb-a842-180b1d2025d2~animal:Heron, giant~owner:Roberto Parkyn~title:Mrs~countryAnimalLives:China~ownerPaid:$2858.44
+recordId:25db9019-19a7-45a7-9f66-65572758912d~animal:Pied butcher bird~owner:Lira Teggart~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$722.37
+recordId:dbfcc0fd-2914-4754-b097-a9a0385f9640~animal:Savanna baboon~owner:Ichabod Schlagtmans~title:Ms~countryAnimalLives:Ghana~ownerPaid:$4870.6
+recordId:56e1dcf6-f2e0-41bf-b308-6b5acbca9700~animal:Topi~owner:Lindie Sallinger~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$4600.33
+recordId:ef39ce55-06ab-43cf-b2b7-d3d91000df20~animal:Stork, black-necked~owner:Ettie Fasse~title:Mr~countryAnimalLives:China~ownerPaid:$998.03
+recordId:dd808111-16f9-4149-a6d7-c2845cbbc60a~animal:Grenadier, purple~owner:Alvira Coule~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$1108.65
+recordId:13a5d4a6-4bb3-4bdf-bd83-1b36a01dac84~animal:Common dolphin~owner:Tyson Lipgens~title:Dr~countryAnimalLives:Russia~ownerPaid:$2735.37
+recordId:5cae8b04-5251-4e1f-a742-2db6ee12a548~animal:Hippopotamus~owner:Lydie Klehyn~title:Mr~countryAnimalLives:China~ownerPaid:$1564.17
+recordId:57f22ec4-e5ac-45ed-b744-9584e7c1d291~animal:Kingfisher, malachite~owner:Ameline Gilbard~title:Rev~countryAnimalLives:China~ownerPaid:$3897.87
+recordId:821c5647-b8bf-4dc6-8ab7-6aba1306d1f3~animal:Gecko, barking~owner:Isabel Cromb~title:Ms~countryAnimalLives:Greece~ownerPaid:$3775.34
+recordId:d152e99a-d418-44ad-b95b-501293832bda~animal:Harbor seal~owner:Rickie Leith~title:Dr~countryAnimalLives:Czech Republic~ownerPaid:$2403.8
+recordId:3bb5d308-013a-4f71-acb1-86efcf04a8e9~animal:Four-horned antelope~owner:Janene Dight~title:Mrs~countryAnimalLives:Venezuela~ownerPaid:$2880.61
+recordId:d284da99-fb34-4957-98c3-b8293ae15f7e~animal:Kalahari scrub robin~owner:Elaine Boays~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$2318.66
+recordId:c48e5c36-f66c-4ead-89bd-0500332462e1~animal:Seal, common~owner:Loraine Aronstein~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$809.46
+recordId:77dddc93-18d5-461d-8498-0c0f8e5b61c3~animal:Black-necked stork~owner:Arnuad Elsmor~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$4524.49
+recordId:cf421cfe-17fc-4c3f-a23e-87f5e2e8a040~animal:Ibex~owner:Hewe Devin~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$2524.41
+recordId:ebf5ba21-c991-4b84-8ebd-71cc924ce648~animal:Common turkey~owner:Westleigh Fudge~title:Mr~countryAnimalLives:China~ownerPaid:$3189.35
+recordId:4918fe5f-61d1-48f1-afb4-c1d2a9561888~animal:Antelope, roan~owner:Shepherd Shilston~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$1256.22
+recordId:fc739afe-edd5-4f91-b99d-73ffa74b4030~animal:Kangaroo, western grey~owner:Edsel Montilla~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$2702.84
+recordId:fa51bfb0-35d5-4ff5-9f1c-60c89a82a357~animal:Ring-tailed coatimundi~owner:Adorne Norgan~title:Rev~countryAnimalLives:Colombia~ownerPaid:$797.57
+recordId:13497bf9-f2fe-48ae-82f3-1ed9fa205dd2~animal:Swallow-tail gull~owner:Janka Pordal~title:Mr~countryAnimalLives:Philippines~ownerPaid:$2167.59
+recordId:a7a8f12d-2404-45c9-897f-20aa8f300745~animal:Eagle, bateleur~owner:Dorena Able~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4851.91
+recordId:f71caec5-c3ed-4ac6-9ee0-581af567245c~animal:Sloth bear~owner:Kalinda Golthorpp~title:Mrs~countryAnimalLives:Thailand~ownerPaid:$806.75
+recordId:0ed8c50b-534f-4fc7-9552-a83f970c1885~animal:Jackrabbit, white-tailed~owner:Arnold Gammon~title:Rev~countryAnimalLives:Greece~ownerPaid:$1016.35
+recordId:288e8bf1-4c48-4f39-9e6b-224e2a7ebec3~animal:Squirrel, thirteen-lined~owner:Alick Trillow~title:Dr~countryAnimalLives:Poland~ownerPaid:$1656.67
+recordId:b9293771-ac8c-4284-956d-3d6be2bc25da~animal:Blue-footed booby~owner:Marve Wilkenson~title:Mrs~countryAnimalLives:Croatia~ownerPaid:$4852.52
+recordId:b0f1fdf0-9d50-4a49-a35b-f0237d0d2ed8~animal:African wild cat~owner:Tuesday Yewdale~title:Honorable~countryAnimalLives:United States~ownerPaid:$1771.08
+recordId:79bb2ee1-adfd-4693-b49f-835b86b2c9f4~animal:Parrot, hawk-headed~owner:Tamiko Brimm~title:Mr~countryAnimalLives:Kenya~ownerPaid:$3040.58
+recordId:af995fe8-7747-4217-a168-0b0d1a263d3a~animal:Colobus, black and white~owner:Muhammad Wanless~title:Ms~countryAnimalLives:China~ownerPaid:$2521.14
+recordId:6d19ff1c-5d0a-4d4b-a42e-517c10531b06~animal:Jaeger, long-tailed~owner:Janeczka Hail~title:Ms~countryAnimalLives:Philippines~ownerPaid:$788.26
+recordId:eaee9ebf-9e17-41f7-b995-f461fd754a23~animal:Squirrel, richardson's ground~owner:Annabela Jobbings~title:Mr~countryAnimalLives:China~ownerPaid:$4915.66
+recordId:42100366-5a21-4648-b59b-23ba07441c1f~animal:Cape clawless otter~owner:Mirella Gossage~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$4600.94
+recordId:7ee37a65-0015-4752-9dba-0e9cb2d2b8d2~animal:Blackbird, red-winged~owner:Ruddy Lindblom~title:Ms~countryAnimalLives:Malaysia~ownerPaid:$2725.06
+recordId:71539a41-2b24-415f-87ea-8e6648ae5877~animal:Chital~owner:Chaddie Mitie~title:Mr~countryAnimalLives:China~ownerPaid:$3185.34
+recordId:2be6e1dc-323f-4355-ba8a-bd757a33916a~animal:Snake, buttermilk~owner:Odilia Kordovani~title:Dr~countryAnimalLives:Pakistan~ownerPaid:$1531.14
+recordId:11c35b90-8f6e-4639-9ad6-8c9f3e7c238a~animal:Common melba finch~owner:Floyd Stainton~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$1937.06
+recordId:aead2758-15e0-4d70-85f9-dc869c971a25~animal:Grey heron~owner:Dore Carlson~title:Honorable~countryAnimalLives:China~ownerPaid:$4745.12
+recordId:82df7f28-18a7-49c6-b58b-7d036431090d~animal:Cook's tree boa~owner:Anselma Rounsivall~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$859.64
+recordId:b844c182-9b2a-44c6-a9e3-f68c55097455~animal:Toucan, red-billed~owner:Shanta Antoniewski~title:Mrs~countryAnimalLives:Poland~ownerPaid:$687.13
+recordId:00726ca6-cd8e-46d1-aa92-1bdba8285f7c~animal:Elephant, african~owner:Clem Gieraths~title:Dr~countryAnimalLives:Armenia~ownerPaid:$1417.7
+recordId:865f9f2c-7ad7-4e9b-8397-243f42f32a05~animal:Oribi~owner:Loni Ferrick~title:Dr~countryAnimalLives:France~ownerPaid:$4737.13
+recordId:ddbfc734-b5b0-4d43-9c83-de5d934a393f~animal:Wolf, timber~owner:Bryna Hockell~title:Ms~countryAnimalLives:Kazakhstan~ownerPaid:$4429.89
+recordId:e861ca50-54ed-4881-9512-381218eb21cc~animal:Hawk, red-tailed~owner:Jeanie Danovich~title:Rev~countryAnimalLives:France~ownerPaid:$1572.72
+recordId:6f1557dd-e9ac-4a31-93af-a10eb7069ea7~animal:Red-billed buffalo weaver~owner:Lenard Peile~title:Honorable~countryAnimalLives:Russia~ownerPaid:$3828.97
+recordId:b27d323d-c784-4c5e-b864-5c5be3835ec3~animal:Stork, openbill~owner:Courtnay Mattevi~title:Ms~countryAnimalLives:Philippines~ownerPaid:$507.03
+recordId:2d0a05fd-a45e-4206-aa9f-221ef6943564~animal:Ocelot~owner:Veriee Starrs~title:Honorable~countryAnimalLives:China~ownerPaid:$2703.18
+recordId:1e9a5409-43ae-4df7-9fba-26f6fd12678b~animal:Pelican, australian~owner:Isabel Bridgewood~title:Ms~countryAnimalLives:Poland~ownerPaid:$1151.02
+recordId:48a24bbb-a434-4d11-a821-013ee6cdfd4c~animal:Malachite kingfisher~owner:Blinni Lohrensen~title:Dr~countryAnimalLives:Egypt~ownerPaid:$2209.31
+recordId:4b6b0b4d-664f-4387-8388-9ad6fde14501~animal:Lapwing (unidentified)~owner:Dexter Fettes~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$2804.29
+recordId:71c817f2-171b-4fdb-ab74-a5cb6aa58281~animal:Common zebra~owner:Chrysa Courcey~title:Honorable~countryAnimalLives:China~ownerPaid:$3936.77
+recordId:b545b8f1-561d-4fc0-a182-ab75c123ad8a~animal:Wood pigeon~owner:Marc Bernardotte~title:Mr~countryAnimalLives:Brazil~ownerPaid:$2933.29
+recordId:a98967f5-06f6-44cc-b6eb-efd37d0adb9a~animal:Horned lark~owner:Lilas Ould~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$946.42
+recordId:f3a3e39f-ab6a-44e6-b8ae-3633172a74f0~animal:Giant girdled lizard~owner:Mose Barkhouse~title:Honorable~countryAnimalLives:Greece~ownerPaid:$1440.14
+recordId:9da5bd46-01f6-4e02-9946-505700308e03~animal:White-necked raven~owner:Xymenes Willoughway~title:Dr~countryAnimalLives:Madagascar~ownerPaid:$1660.76
+recordId:0f672e3c-53c7-49a3-8b2c-f1afa9aebaef~animal:Superb starling~owner:Kaine Flewitt~title:Honorable~countryAnimalLives:Hungary~ownerPaid:$4658.86
+recordId:cbd99937-576e-48ef-a20a-1da8ac71e724~animal:Starling, superb~owner:Ian Ploughwright~title:Ms~countryAnimalLives:Russia~ownerPaid:$1063.13
+recordId:68f81ed6-e655-4103-8da6-fc8666c7928d~animal:Goldeneye, barrows~owner:Richardo Rudledge~title:Rev~countryAnimalLives:Kazakhstan~ownerPaid:$1529.14
+recordId:d09eb454-4cb6-40fb-936c-28f76320b4fe~animal:Gull, pacific~owner:Guillermo Jakubovics~title:Mrs~countryAnimalLives:Nigeria~ownerPaid:$3229.67
+recordId:85ba492f-8ab8-45b4-aa37-c07c86fc09a8~animal:Eagle, long-crested hawk~owner:Belvia Lannon~title:Mrs~countryAnimalLives:United States~ownerPaid:$4250.58
+recordId:75a9624b-f84d-4fb6-a511-cd0a64a5ee8b~animal:Moorhen, purple~owner:Germana Senett~title:Mr~countryAnimalLives:China~ownerPaid:$2503.31
+recordId:19ac3339-ec0d-48a4-8b9c-f9ebb3fb3c25~animal:Fat-tailed dunnart~owner:Delia Gautrey~title:Mrs~countryAnimalLives:China~ownerPaid:$4938.89
+recordId:c5861476-761f-4cdf-a421-168f8e2fd9b7~animal:Phalarope, grey~owner:Hamlin Glasscott~title:Dr~countryAnimalLives:Mexico~ownerPaid:$1979.72
+recordId:d71fccf7-341e-4087-bbc8-2a0e561aeeb3~animal:Beisa oryx~owner:Frankie Zealey~title:Mrs~countryAnimalLives:Albania~ownerPaid:$1808.14
+recordId:f619328b-8037-4aca-ac46-3dac449d4abd~animal:Screamer, crested~owner:Indira Loftie~title:Honorable~countryAnimalLives:Nigeria~ownerPaid:$2248.19
+recordId:44f8f6e9-3bcf-4238-be6d-d39ebfa7a2bc~animal:Tree porcupine~owner:Kizzee Vyvyan~title:Ms~countryAnimalLives:United States~ownerPaid:$4487.97
+recordId:c26866a9-f292-492b-a499-4ceca626abf0~animal:Tortoise, desert~owner:Amitie Brelsford~title:Ms~countryAnimalLives:Egypt~ownerPaid:$594.67
+recordId:038c9551-a558-44bb-8ac3-ce38a78ee815~animal:Beaver, north american~owner:Cary Kondratowicz~title:Honorable~countryAnimalLives:China~ownerPaid:$2999.14
+recordId:851761eb-b534-4e03-97b2-5ba30886d0a2~animal:Blackish oystercatcher~owner:Sada Laneham~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$4543.08
+recordId:bccd4ea9-c4c4-493f-9215-214d68fdb42f~animal:American woodcock~owner:Griselda Mesnard~title:Mr~countryAnimalLives:Switzerland~ownerPaid:$2233.68
+recordId:61c3bc17-cd98-4d14-a545-8b2255aa8fa5~animal:Stork, greater adjutant~owner:Ailene Scogin~title:Mr~countryAnimalLives:Mauritius~ownerPaid:$3137.77
+recordId:3e16d378-5732-4656-9919-7cb6c2fe843d~animal:Yellow-rumped siskin~owner:Jourdan Ebbs~title:Mrs~countryAnimalLives:China~ownerPaid:$3371.37
+recordId:62a0df99-d1e7-428a-b91d-e10be7bbca70~animal:Beaver, north american~owner:Godwin Atmore~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$4169.43
+recordId:0e96a9ed-f680-4866-8db6-5349a7c08db1~animal:Owl, white-browed~owner:Abram Maden~title:Honorable~countryAnimalLives:Japan~ownerPaid:$3386.2
+recordId:85ff65a7-a08c-4b45-9dae-3e5f8db302c4~animal:Wallaby, dama~owner:Jacques Seviour~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$1177.21
+recordId:7924736d-d3d5-4285-a7b3-0e7935021d24~animal:Bee-eater, nubian~owner:Gabbie Robertucci~title:Mrs~countryAnimalLives:France~ownerPaid:$1639.56
+recordId:89729f82-3d60-4d4a-8d4b-fb098ac5892b~animal:Openbill stork~owner:Elayne Cotman~title:Rev~countryAnimalLives:Jamaica~ownerPaid:$2170.17
+recordId:d4686dda-171d-4b30-9baf-c7efa8e72335~animal:Malagasy ground boa~owner:Hersch Cubbon~title:Ms~countryAnimalLives:Cuba~ownerPaid:$3035.68
+recordId:5768e3da-8deb-4a85-ac90-68cbd16d33ca~animal:Black-capped chickadee~owner:Juanita Alyukin~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$1346.89
+recordId:677253bf-d5f6-4f97-9ce0-ff7436bf911d~animal:Greater flamingo~owner:Zachariah Antczak~title:Honorable~countryAnimalLives:Armenia~ownerPaid:$4837.08
+recordId:bf64fa80-432a-4433-a093-c93254b81c4b~animal:Hawk-eagle, crowned~owner:Bruce O'Dee~title:Honorable~countryAnimalLives:Nigeria~ownerPaid:$4131.01
+recordId:dc9e06d0-1baa-448d-9f0d-3ffd309551a5~animal:Cheetah~owner:Bertha Oleszkiewicz~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4113.32
+recordId:94032b03-5f2d-4213-9978-fdaded5155fd~animal:African pied wagtail~owner:Darline Chaudron~title:Mr~countryAnimalLives:United States~ownerPaid:$4958.33
+recordId:5a7cb26b-acd6-4e04-bb5f-d3eb2302ce66~animal:Blue-tongued lizard~owner:Willyt Toppes~title:Rev~countryAnimalLives:Mali~ownerPaid:$589.5
+recordId:2d0e067c-d1bb-469e-b70d-f0ad3782a73e~animal:Ring-tailed gecko~owner:Leigh Sparshatt~title:Honorable~countryAnimalLives:Luxembourg~ownerPaid:$1756.56
+recordId:6e27c958-c92e-427a-9605-fe4b47f6dc2f~animal:Grey fox~owner:Gerianne Village~title:Rev~countryAnimalLives:Greece~ownerPaid:$1959.99
+recordId:c631e27b-8d16-4a1f-9079-eec5028a34ff~animal:Viper, egyptian~owner:Fletch Wasiela~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$2689.02
+recordId:4ef930b2-fdce-46e1-a884-8f5fc8356592~animal:Skunk, striped~owner:Reese Tinton~title:Honorable~countryAnimalLives:Serbia~ownerPaid:$2941.04
+recordId:8ac492a4-4db6-4720-804d-85e711913842~animal:Water monitor~owner:Udell Dulany~title:Honorable~countryAnimalLives:South Africa~ownerPaid:$1500.93
+recordId:25afe93a-afce-4b09-baac-3212b9fba5fc~animal:Pigeon, wood~owner:Job Whitman~title:Mr~countryAnimalLives:Lesotho~ownerPaid:$4958.33
+recordId:beb3edd0-ed16-4523-a280-94caa36e8cbc~animal:Cobra, cape~owner:Kaitlyn Guille~title:Ms~countryAnimalLives:Portugal~ownerPaid:$1764.12
+recordId:ceb293ff-44b7-4607-a954-b34ac86809ab~animal:North American river otter~owner:Mame Smellie~title:Ms~countryAnimalLives:Argentina~ownerPaid:$4596.52
+recordId:530a99b1-17ec-49a2-be39-7d93a900331d~animal:Crested bunting~owner:Ax Peinton~title:Honorable~countryAnimalLives:China~ownerPaid:$3291.09
+recordId:016cbeaa-69da-487f-834e-f3bdfea9981b~animal:Cat, long-tailed spotted~owner:Scarlett Hazlegrove~title:Mrs~countryAnimalLives:United States~ownerPaid:$3445.14
+recordId:986ce3b9-d63c-43db-b9db-1d2a8d9eac63~animal:Mule deer~owner:Lamont Maestrini~title:Ms~countryAnimalLives:Poland~ownerPaid:$3328.39
+recordId:28828f13-c689-488b-8884-a1f04b75b54c~animal:Eurasian beaver~owner:Salomi Pautot~title:Rev~countryAnimalLives:Philippines~ownerPaid:$2036.03
+recordId:f1807437-03a9-46fa-baf5-605b2630f34e~animal:Wild boar~owner:Cory Corrao~title:Honorable~countryAnimalLives:Malaysia~ownerPaid:$1568.23
+recordId:f8e634ea-28aa-4a28-bba8-bb9dc8e5aad1~animal:Pied crow~owner:Jo-ann Bergstram~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$2838.7
+recordId:86ca1c7f-3ed2-4afb-b23b-6fcd136ceca5~animal:Argalis~owner:Brittney Utridge~title:Dr~countryAnimalLives:Iran~ownerPaid:$644.33
+recordId:85df9415-d7ce-4bb2-b3a1-995c14286b4d~animal:Sportive lemur~owner:Hadrian Scoates~title:Dr~countryAnimalLives:China~ownerPaid:$1060.82
+recordId:220c4933-110c-4b9d-ad39-8043452f527f~animal:Mouflon~owner:Lalo Chaney~title:Honorable~countryAnimalLives:Uganda~ownerPaid:$1379.87
+recordId:ab0c7743-0eec-415a-ab6a-10c27d62724d~animal:Tern, white-winged black~owner:Lorna Portigall~title:Mrs~countryAnimalLives:Russia~ownerPaid:$2757.39
+recordId:2297b3cb-2a70-419e-a22e-34768115e2a5~animal:Barbet, black-collared~owner:Nat Rutherforth~title:Ms~countryAnimalLives:China~ownerPaid:$1394.7
+recordId:0747dc82-d4a7-47f8-b14b-4715b239a0e3~animal:Stork, white-necked~owner:Stavro Freshwater~title:Dr~countryAnimalLives:United States~ownerPaid:$4439.62
+recordId:353a43c3-6912-48ee-a015-c168dd0450fe~animal:Turtle, long-necked~owner:Gualterio Fairfull~title:Honorable~countryAnimalLives:Argentina~ownerPaid:$3039.34
+recordId:3be81a3a-f1dd-4c21-b63b-70a0d3fb644c~animal:Lesser mouse lemur~owner:Roana Gerren~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$3698.99
+recordId:06fbbe0c-08a2-4f0e-bd61-1a7eefcbd5ef~animal:Tarantula~owner:Kelila De Leek~title:Honorable~countryAnimalLives:Czech Republic~ownerPaid:$2440.45
+recordId:d7a5b841-97dd-4b21-ad45-c02fc0755a59~animal:Dik, kirk's dik~owner:Jacquie Clyde~title:Mrs~countryAnimalLives:Thailand~ownerPaid:$1770.12
+recordId:bd95e4ae-9b3f-4a39-acd4-b5dfd5936f77~animal:Mockingbird, galapagos~owner:Carolus Hendrickx~title:Rev~countryAnimalLives:Palestinian Territory~ownerPaid:$2328.82
+recordId:1995bdc0-a487-4cd0-8eff-d71817484d30~animal:Common seal~owner:Karine Thelwll~title:Honorable~countryAnimalLives:Netherlands~ownerPaid:$4349.98
+recordId:9a9477a6-6796-4149-a830-ec3435b9f007~animal:Blesbok~owner:Bendick Windridge~title:Ms~countryAnimalLives:Portugal~ownerPaid:$2052.13
+recordId:c919510f-bbed-483f-8ace-f16a3406e2d8~animal:Wallaby, river~owner:Rutter Janowicz~title:Honorable~countryAnimalLives:Belarus~ownerPaid:$2656.65
+recordId:fd3c672c-3e05-48cb-a10d-3c9bffd753f4~animal:Campo flicker~owner:Vickie Keighly~title:Mrs~countryAnimalLives:Brazil~ownerPaid:$4095.72
+recordId:0822e166-4303-492d-9813-29d8cf50d6b7~animal:Barbet, levaillant's~owner:Kym Copelli~title:Honorable~countryAnimalLives:China~ownerPaid:$2978.6
+recordId:cc2738db-2930-4797-aa43-8de457b11838~animal:Monkey, bleeding heart~owner:Alyson Menhenitt~title:Rev~countryAnimalLives:Mexico~ownerPaid:$2611.77
+recordId:60354988-2ee5-4a35-98d1-7b01ff0bce0c~animal:Rat, arboral spiny~owner:Chlo Blackham~title:Ms~countryAnimalLives:China~ownerPaid:$2489.21
+recordId:36e483d4-1d7e-4be5-b725-f490df79dfe9~animal:Wagtail, african pied~owner:Abby Barsam~title:Dr~countryAnimalLives:Bulgaria~ownerPaid:$1643.74
+recordId:86bf9aa0-7c0e-43f9-91ce-d000c6d959f7~animal:Brocket, red~owner:Stern Lorenz~title:Mr~countryAnimalLives:Honduras~ownerPaid:$2524.61
+recordId:f08a6d92-7158-4367-93b0-e776ac0b292c~animal:White-necked stork~owner:Christal Kubalek~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$3165.67
+recordId:acae4d8d-6325-4d7e-84e8-925cd3ae0cad~animal:Duck, mountain~owner:Polly Catlow~title:Ms~countryAnimalLives:Serbia~ownerPaid:$552.61
+recordId:a701934b-fbe3-4ed7-8f86-ae61ffe088ee~animal:Gazelle, grant's~owner:Wilden Comsty~title:Ms~countryAnimalLives:Vietnam~ownerPaid:$4954.62
+recordId:07ebc450-4df7-4ca8-9304-6281e62f4238~animal:Short-beaked echidna~owner:Mikaela Sewards~title:Ms~countryAnimalLives:Sweden~ownerPaid:$2094.23
+recordId:7b7e0be5-05c7-44b0-808c-05f308bce9bd~animal:Weaver, red-billed buffalo~owner:Conrad Karlolczak~title:Rev~countryAnimalLives:China~ownerPaid:$2427.96
+recordId:a47bb8e1-d2aa-41c1-8ab3-e4a4f7d715be~animal:Saddle-billed stork~owner:Josee Ingman~title:Dr~countryAnimalLives:Afghanistan~ownerPaid:$2055.49
+recordId:20eed87b-6d8d-4757-83a7-ed164218e4ef~animal:Eastern fox squirrel~owner:Naomi Cathesyed~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$744.33
+recordId:d6e97868-60ea-40b2-93f1-ee4e721aea03~animal:Comb duck~owner:Will Dawidowitz~title:Ms~countryAnimalLives:Ireland~ownerPaid:$2371.84
+recordId:8417760f-c96f-461b-8004-fa00ce50c37d~animal:Wallaroo, common~owner:Laird Debrick~title:Mrs~countryAnimalLives:China~ownerPaid:$1641.44
+recordId:2def633d-87cb-4090-b711-70f822e9f69c~animal:Blue fox~owner:Ardella Lathom~title:Honorable~countryAnimalLives:Mexico~ownerPaid:$3730.42
+recordId:acc88ac3-e1d6-430c-bf07-5be1eb6a0814~animal:Eagle, pallas's fish~owner:Stefa Keogh~title:Rev~countryAnimalLives:Portugal~ownerPaid:$3561.33
+recordId:3e59ef17-a176-452a-936d-b40393a83023~animal:Australian masked owl~owner:Roland Talkington~title:Dr~countryAnimalLives:Japan~ownerPaid:$3752.08
+recordId:0c1cdb52-8d8c-433f-8bd3-4615cfd3b110~animal:Southern sea lion~owner:Aldrich Vaugham~title:Mrs~countryAnimalLives:Brazil~ownerPaid:$4844.93
+recordId:b0a17a88-e365-4d6b-9b0e-baa447ccec3e~animal:Cheetah~owner:Cybill Ruprich~title:Rev~countryAnimalLives:Cameroon~ownerPaid:$835.65
+recordId:28434a07-0d85-411f-b4a8-36958ae626ed~animal:Long-nosed bandicoot~owner:Eldredge Veillard~title:Dr~countryAnimalLives:Morocco~ownerPaid:$2603.56
+recordId:bbc4e7d8-a14c-426e-87fe-20f471806abb~animal:Puffin, horned~owner:Letitia Delicate~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$3798.51
+recordId:ab57f4ac-6242-4051-931d-458aaafdd969~animal:Moose~owner:Dame Cormack~title:Ms~countryAnimalLives:Malaysia~ownerPaid:$3519.31
+recordId:bda1c8b9-3d59-46ab-94fe-944c8a86710e~animal:Brush-tailed bettong~owner:Haley Leile~title:Dr~countryAnimalLives:Italy~ownerPaid:$4007.03
+recordId:be9e329a-e560-4923-ac9b-ac8b008465fe~animal:White-throated kingfisher~owner:Shandee Samson~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$4203.14
+recordId:e9d87958-09f0-4abe-b275-96ad6c2e1dc1~animal:Squirrel, smith's bush~owner:Claybourne Wixey~title:Rev~countryAnimalLives:Russia~ownerPaid:$4830.12
+recordId:3077b7b0-a3c6-472c-82ab-0c9cf8525115~animal:Blue-faced booby~owner:Lyn Prestage~title:Rev~countryAnimalLives:China~ownerPaid:$2355.42
+recordId:f9c4ad64-568e-47c6-b078-af13cffaa7f4~animal:Peccary, white-lipped~owner:Emelina Eykel~title:Rev~countryAnimalLives:Greece~ownerPaid:$2699.9
+recordId:6d6b9ea0-297d-4076-b0ee-bb85b9c8b163~animal:Turkey, common~owner:Georgiana Rachuig~title:Mrs~countryAnimalLives:Iran~ownerPaid:$2315.74
+recordId:cda21bfa-4788-4116-a38c-e0f83d7c45aa~animal:Timber wolf~owner:Hana Boriston~title:Mrs~countryAnimalLives:China~ownerPaid:$3648.33
+recordId:23b7433a-57e6-4de9-910d-23a0c7da9539~animal:Sacred ibis~owner:Libbi Galbraith~title:Mrs~countryAnimalLives:Philippines~ownerPaid:$3259.27
+recordId:1f239c10-975e-4b62-af2f-c865d3dbced6~animal:Helmeted guinea fowl~owner:Calvin Boyle~title:Ms~countryAnimalLives:Philippines~ownerPaid:$4156.04
+recordId:87a1aee6-e7c5-4159-b721-4bf85999db3c~animal:Red-legged pademelon~owner:Jamison Langabeer~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$1996.24
+recordId:27600652-19f0-4a52-aa93-6d1ec0e5364b~animal:Lechwe, kafue flats~owner:Rasla Hansen~title:Dr~countryAnimalLives:Portugal~ownerPaid:$678.89
+recordId:b1aeb6ea-a55b-44c1-a65b-2aaa04735a5a~animal:Yak~owner:Tedi Goldstraw~title:Mrs~countryAnimalLives:Philippines~ownerPaid:$1947.32
+recordId:6f4e6954-91f4-4008-9fb5-0333e75b7797~animal:Grouse, greater sage~owner:Pate Dubble~title:Dr~countryAnimalLives:United States~ownerPaid:$4928.44
+recordId:e7e1b67d-0033-430d-a2d6-f12d1219b817~animal:Brush-tailed rat kangaroo~owner:Marybeth Kirvell~title:Mrs~countryAnimalLives:Malta~ownerPaid:$2708.94
+recordId:5e6cc063-8717-4984-bc2c-d8e072b64832~animal:Common melba finch~owner:Viviene Attac~title:Mr~countryAnimalLives:China~ownerPaid:$968.14
+recordId:9e4ab90b-d1d4-4df1-96e4-95eb15c34567~animal:Phascogale, red-tailed~owner:Jsandye Girardin~title:Dr~countryAnimalLives:Philippines~ownerPaid:$3766.8
+recordId:74643435-fe17-497d-8061-371902523a33~animal:Tern, royal~owner:Nevile Rois~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$3054.56
+recordId:d8ae371f-b86a-44c6-b758-5af9a723dd9c~animal:Plover, blacksmith~owner:Tallia Schultz~title:Ms~countryAnimalLives:Czech Republic~ownerPaid:$2680.6
+recordId:1ae6a5b7-776d-4470-a633-88cbcb4daf05~animal:Blue-tongued lizard~owner:Pall Sherrock~title:Mr~countryAnimalLives:Belarus~ownerPaid:$4704.25
+recordId:5b47bd35-57ae-403d-bdb0-7b6aa4e28e00~animal:Goat, mountain~owner:Olympia Fancott~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$1540.73
+recordId:9f962871-a2bc-4788-b830-8d2b2f8de96d~animal:Goldeneye, barrows~owner:Roderich Goldstraw~title:Rev~countryAnimalLives:Argentina~ownerPaid:$2744.8
+recordId:6d869752-976a-4546-a7d4-bb83f8fbbcf6~animal:Blue-tongued skink~owner:Luciano Maseyk~title:Dr~countryAnimalLives:United States~ownerPaid:$875.65
+recordId:d27dfbb4-384f-4fd5-8544-6ce6a9da316a~animal:Black-crowned crane~owner:Brigid Tolemache~title:Dr~countryAnimalLives:Brazil~ownerPaid:$1407.82
+recordId:60225cba-62e3-4024-a9a0-be1e641dd7d4~animal:Kongoni~owner:Chrysler Edwardes~title:Honorable~countryAnimalLives:China~ownerPaid:$4550.46
+recordId:c951203e-36a4-4006-a146-875335a60248~animal:Brolga crane~owner:Welby Coie~title:Honorable~countryAnimalLives:China~ownerPaid:$3989.5
+recordId:84569c61-3dd2-464e-a618-0634c34e308d~animal:Agouti~owner:Mendy Fowells~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4976.99
+recordId:3b547142-1c18-479b-a532-b1e750a9fae7~animal:Southern elephant seal~owner:Sanderson Lobb~title:Dr~countryAnimalLives:Brazil~ownerPaid:$2357.34
+recordId:c708a059-4f9c-4462-b2f7-d3bed046329b~animal:Arctic ground squirrel~owner:Bruis Jeaffreson~title:Mr~countryAnimalLives:Japan~ownerPaid:$1665.96
+recordId:cfcd58b8-70b7-44ed-8402-f25ef1958958~animal:Stick insect~owner:Aurelie Gratrex~title:Mr~countryAnimalLives:Slovenia~ownerPaid:$4326.55
+recordId:556762fb-29e4-4be5-a9ec-ebf4f6e93b18~animal:Starling, superb~owner:Evie O'Fearguise~title:Ms~countryAnimalLives:Serbia~ownerPaid:$1819.76
+recordId:ac4b35ab-4787-4262-8724-0e7ef202bcb5~animal:Arboral spiny rat~owner:Wally Bezley~title:Mr~countryAnimalLives:Tunisia~ownerPaid:$678.24
+recordId:96bb168e-1ff4-4d43-8657-9268b7020043~animal:Mourning collared dove~owner:Beilul Pendrid~title:Rev~countryAnimalLives:Mauritius~ownerPaid:$3459.28
+recordId:fd58bdce-bc57-4e52-a7ba-d19d06459ee7~animal:Capybara~owner:Harper Rainford~title:Rev~countryAnimalLives:Russia~ownerPaid:$2755.36
+recordId:380e5070-964e-4853-8fed-0b768a91a291~animal:Flying fox (unidentified)~owner:Karalee Mapstone~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$1203.99
+recordId:6b0ca791-d06e-4030-a6f1-a64095cdf0f6~animal:Elephant, african~owner:Ivar Eschalotte~title:Dr~countryAnimalLives:Malaysia~ownerPaid:$2143.76
+recordId:95a71efc-544f-42e9-b5a5-538b1741e2bf~animal:Hyena, striped~owner:Daniela Chatin~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$670.75
+recordId:e3997af9-adea-4cfc-aaf7-28d937b4719e~animal:Bleu, blue-breasted cordon~owner:Latia Crumpe~title:Rev~countryAnimalLives:Costa Rica~ownerPaid:$2392.05
+recordId:2ac6a26b-7812-459c-80b2-d312fc61c14e~animal:Mexican beaded lizard~owner:Kimberly Torvey~title:Rev~countryAnimalLives:Gambia~ownerPaid:$4205.68
+recordId:ae261331-7627-46bd-bf91-3533d835a1b7~animal:King vulture~owner:Franni Bobasch~title:Mr~countryAnimalLives:Japan~ownerPaid:$977.57
+recordId:8e4273df-6eda-4431-af44-24e999249841~animal:Indian jackal~owner:Hiram Sexti~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$2955.77
+recordId:33da6f78-c2fc-4921-91db-6a8a985637d2~animal:Eastern fox squirrel~owner:Terri Matthewes~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$2258.61
+recordId:e55ae446-174f-4213-b121-592988596330~animal:Fox, crab-eating~owner:Hayyim Adney~title:Mr~countryAnimalLives:Morocco~ownerPaid:$1780.96
+recordId:9aac4a13-c11f-470f-a9b5-fde65c28b770~animal:Cape fox~owner:Laura Davidovici~title:Dr~countryAnimalLives:China~ownerPaid:$1708.66
+recordId:ef7ddd3a-d9f8-442d-898b-2665fa7c2491~animal:Flamingo, roseat~owner:Giustino Yarr~title:Rev~countryAnimalLives:Israel~ownerPaid:$2438.01
+recordId:6029d2ed-12a9-4fa2-abcd-ae82628875b9~animal:Bengal vulture~owner:Carlee Kopta~title:Ms~countryAnimalLives:Poland~ownerPaid:$4028.74
+recordId:d705d684-9271-47fc-ade7-752ca0de3c8b~animal:Rhea, gray~owner:Olenka Figgess~title:Mr~countryAnimalLives:Mexico~ownerPaid:$1682.93
+recordId:6e807dd9-b54d-4a5e-8b94-3e9eb78d38b2~animal:Kori bustard~owner:Orin Gooly~title:Dr~countryAnimalLives:China~ownerPaid:$2750.31
+recordId:d43ba197-8488-44a6-9f86-28a525e4ea03~animal:Tern, white-winged~owner:Eadie Idell~title:Mr~countryAnimalLives:Portugal~ownerPaid:$4807.71
+recordId:b46c9d0b-92b4-4510-93f8-651bd1bbba27~animal:Oribi~owner:Kelsey Poundsford~title:Mrs~countryAnimalLives:China~ownerPaid:$3512.54
+recordId:2b418c08-dfab-4101-84d6-f654d1e331dd~animal:Skua, long-tailed~owner:Hayes Redbourn~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$4554.56
+recordId:f293fb19-0257-4735-9ae2-7800ceb29020~animal:Colobus, black and white~owner:Merrily Goodboddy~title:Dr~countryAnimalLives:China~ownerPaid:$1304.1
+recordId:7fb2330a-09f0-4b45-92ed-d9afbd7a8b86~animal:Turkey, common~owner:Elvyn Polglase~title:Mr~countryAnimalLives:Russia~ownerPaid:$4266.74
+recordId:479a2755-d8ad-4dba-9e27-1aaa575a8c25~animal:Lion, australian sea~owner:Carmella Wingeat~title:Mr~countryAnimalLives:China~ownerPaid:$3656.62
+recordId:dc9f8e42-6e2e-4725-b2da-d45294d842f3~animal:Tortoise, indian star~owner:Daren Yarnley~title:Mrs~countryAnimalLives:China~ownerPaid:$1682.87
+recordId:ca36bd56-a3a9-4ae1-b8f4-31f6cdc7e18f~animal:Toucan, white-throated~owner:Joletta Fuzzens~title:Mr~countryAnimalLives:Russia~ownerPaid:$4459.72
+recordId:0f2dec47-e244-4820-80f3-ff47c50f8698~animal:Langur, common~owner:Claudius Cohen~title:Honorable~countryAnimalLives:United States~ownerPaid:$675.83
+recordId:126fd8a7-d18d-4f80-9b23-9a0a73652dce~animal:Two-toed tree sloth~owner:Beitris Knotte~title:Dr~countryAnimalLives:Canada~ownerPaid:$4819.68
+recordId:da0ce7b7-3026-454b-943b-5a6543634e11~animal:Oryx, fringe-eared~owner:Barbi Izon~title:Honorable~countryAnimalLives:Russia~ownerPaid:$753.09
+recordId:2611d1d3-fbe0-43e4-88c4-530f2c6df6f7~animal:Southern right whale~owner:Stormi Shovell~title:Rev~countryAnimalLives:Malawi~ownerPaid:$3720.27
+recordId:da7c7d91-c6bb-4074-a853-f72ebb9bdac0~animal:Deer, spotted~owner:Tracie Wakeford~title:Mr~countryAnimalLives:Czech Republic~ownerPaid:$4420.92
+recordId:26679382-b2f4-4087-a4a1-0138a36e8dd9~animal:Elephant, african~owner:Lynnett Aingell~title:Rev~countryAnimalLives:China~ownerPaid:$2930.09
+recordId:7ce3f289-f3cf-4271-a769-0baa5c5fc511~animal:Red-winged blackbird~owner:Bernie Hanselmann~title:Honorable~countryAnimalLives:China~ownerPaid:$3577.49
+recordId:48ac85fe-5b3b-437d-bb42-175dbf9ad2d4~animal:Wambenger, red-tailed~owner:Carol Bratley~title:Mrs~countryAnimalLives:Brazil~ownerPaid:$535.53
+recordId:51cdf6cd-6174-49d8-a280-6523c11e8f39~animal:Rhesus monkey~owner:Baillie Forlonge~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$3383.28
+recordId:4d7fb6dc-67cc-4067-8873-42e3564ac141~animal:Gambel's quail~owner:Janos Tourry~title:Dr~countryAnimalLives:China~ownerPaid:$3086.96
+recordId:9b775604-771e-427a-b013-6fd4b98b8feb~animal:Skink, african~owner:Evonne Obispo~title:Dr~countryAnimalLives:Sweden~ownerPaid:$1770.11
+recordId:8f48772e-93af-4dbc-9e50-0f61cd7c7379~animal:Chameleon (unidentified)~owner:Eula Nazair~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4762.45
+recordId:13b4d4d7-b2a8-492c-88c1-f8b89a6fa510~animal:Waved albatross~owner:Emmy Gerald~title:Mrs~countryAnimalLives:Armenia~ownerPaid:$4731.69
+recordId:85057d75-98a3-4729-bc82-999f471569c4~animal:Duck, blue~owner:Ashley Patroni~title:Honorable~countryAnimalLives:China~ownerPaid:$1715.75
+recordId:ab286b5f-4c31-4243-a7ec-22bde43634a1~animal:Vulture, griffon~owner:Rubetta Dooly~title:Mr~countryAnimalLives:China~ownerPaid:$4202.4
+recordId:53c073db-e939-4ebe-b523-db109a5bb10a~animal:Snake, tiger~owner:Megan Couves~title:Rev~countryAnimalLives:Egypt~ownerPaid:$3425.28
+recordId:5213274c-e6d5-4c71-947d-1d50be7fd377~animal:Fairy penguin~owner:Staford Orrow~title:Rev~countryAnimalLives:Morocco~ownerPaid:$4961.5
+recordId:41d0b00b-2734-4fe9-9553-15f91e90e959~animal:Grey heron~owner:Kelsi Stanbra~title:Honorable~countryAnimalLives:Pakistan~ownerPaid:$869.49
+recordId:3af4fbf7-dc63-4143-b611-47a160f7682e~animal:Desert spiny lizard~owner:Sibeal Ebenezer~title:Honorable~countryAnimalLives:Paraguay~ownerPaid:$2988.85
+recordId:58f3a123-3b85-47cd-ac73-b310864c01d0~animal:Wolf, mexican~owner:Josselyn Bielby~title:Mr~countryAnimalLives:Nigeria~ownerPaid:$1419.45
+recordId:3c0dce84-7e7a-4dd6-978d-d2efa778e096~animal:Crowned eagle~owner:Jemmie Pace~title:Rev~countryAnimalLives:China~ownerPaid:$4102.25
+recordId:edd3fb3f-37f9-4b9e-ac7f-765899ecfd2a~animal:Macaw, green-winged~owner:Claude Royle~title:Dr~countryAnimalLives:Senegal~ownerPaid:$1273.51
+recordId:0c6fa857-6562-4bf1-aa74-8979f152d29d~animal:Yellow-crowned night heron~owner:Alberto Legonidec~title:Rev~countryAnimalLives:China~ownerPaid:$4628.37
+recordId:5251b9ca-964a-42ce-afd5-fac278c81e67~animal:African porcupine~owner:Reinaldo Kernoghan~title:Ms~countryAnimalLives:China~ownerPaid:$2878.54
+recordId:eee27746-a995-4f8b-b514-c24f0ac1a6e3~animal:Springbok~owner:Dalton Enos~title:Mrs~countryAnimalLives:Peru~ownerPaid:$1513.45
+recordId:70052aab-5c95-495f-aede-8d2ca3aff623~animal:Stork, black-necked~owner:Joby Prescote~title:Dr~countryAnimalLives:Estonia~ownerPaid:$4495.48
+recordId:109b7644-a238-42ac-806f-638722ef05e3~animal:Magellanic penguin~owner:Morgen Gregine~title:Rev~countryAnimalLives:Ireland~ownerPaid:$1219.63
+recordId:ef1931cd-b565-416a-8270-6c3a5828762d~animal:Kangaroo, jungle~owner:Valera Abell~title:Mr~countryAnimalLives:China~ownerPaid:$630.37
+recordId:25051f20-8f4d-4b00-8ae4-6b29643e87a1~animal:Leadbeateri's ground hornbill~owner:Mitch Filpi~title:Honorable~countryAnimalLives:Guatemala~ownerPaid:$4181.1
+recordId:b69e0d13-12a9-45f4-a91f-fa1500fc6293~animal:Goose, andean~owner:Timothea Bertl~title:Ms~countryAnimalLives:Latvia~ownerPaid:$1963.51
+recordId:c5dd2036-5bc3-479f-b5e8-fb7b857a832d~animal:Australian pelican~owner:Sigfrid Zavattero~title:Rev~countryAnimalLives:Philippines~ownerPaid:$3796.3
+recordId:c97493ce-da3a-49fc-919e-2e430ed82d6f~animal:Asian lion~owner:Cele Burthom~title:Dr~countryAnimalLives:Nigeria~ownerPaid:$613.75
+recordId:14fb3a2e-609e-4bbd-8a2c-c43f6987475a~animal:Bustard, denham's~owner:Aleen Ligerton~title:Rev~countryAnimalLives:Japan~ownerPaid:$4004.68
+recordId:09fedd17-bdbd-4ac3-8688-fa897355e5ad~animal:Field flicker~owner:Chase Perrelli~title:Rev~countryAnimalLives:Brazil~ownerPaid:$3535.78
+recordId:16a50194-7c5f-4d47-a699-49d6349ca583~animal:Asian red fox~owner:Janey Arckoll~title:Honorable~countryAnimalLives:Poland~ownerPaid:$3824.05
+recordId:7c3ff9be-f6db-4db5-a870-a44643eb3283~animal:Weaver, red-billed buffalo~owner:Willem Burwin~title:Rev~countryAnimalLives:Ukraine~ownerPaid:$2222.47
+recordId:7c7a3ba3-643b-42d8-a714-8c7be8530785~animal:Beaver, european~owner:Tova Backes~title:Ms~countryAnimalLives:Russia~ownerPaid:$3072.09
+recordId:ad4503ee-65cb-4307-9d8a-9facd0b0045a~animal:Mandras tree shrew~owner:Ermanno Iannuzzi~title:Ms~countryAnimalLives:Poland~ownerPaid:$4102
+recordId:ca56d51b-f62f-4f5e-9031-13ca1acfeeb4~animal:Bandicoot, southern brown~owner:Frederigo Nawton~title:Rev~countryAnimalLives:Saint Kitts and Nevis~ownerPaid:$2875.24
+recordId:445f5a96-e5b9-4485-8aee-4e51fbf6a991~animal:Lesser flamingo~owner:Wyatan Suthren~title:Dr~countryAnimalLives:Zambia~ownerPaid:$4854.77
+recordId:eda01582-04ff-481b-be92-64f391bc37dd~animal:Australian spiny anteater~owner:Jerrilee Antoniades~title:Ms~countryAnimalLives:China~ownerPaid:$4973.73
+recordId:49b88ffc-897c-4f20-9914-69d25c91b1f4~animal:Otter, cape clawless~owner:Nelly Nare~title:Ms~countryAnimalLives:China~ownerPaid:$4164.96
+recordId:8ddbf080-dc6c-4ab6-989c-d01469039299~animal:Grenadier, common~owner:Em Midson~title:Mr~countryAnimalLives:Japan~ownerPaid:$1656.59
+recordId:afcb4a2b-e9d9-4388-9245-d0317a0d6d41~animal:Stork, yellow-billed~owner:Evvy Hardway~title:Ms~countryAnimalLives:Colombia~ownerPaid:$3159.37
+recordId:eec7154f-ff48-4555-aaeb-c574c953bffb~animal:Yellow-necked spurfowl~owner:Annadiana Verrills~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$2908.53
+recordId:9971730c-c27b-4711-bd9d-1ee5367d897b~animal:Coke's hartebeest~owner:Chantal Loakes~title:Dr~countryAnimalLives:China~ownerPaid:$2853.86
+recordId:497330d3-1054-4444-99a9-9a24dc52487c~animal:Heron, green-backed~owner:Daron Sciusscietto~title:Rev~countryAnimalLives:Costa Rica~ownerPaid:$4227.22
+recordId:c3fd4783-e571-457c-a33c-cfc7ac726fd6~animal:Denham's bustard~owner:Jackie Theuff~title:Honorable~countryAnimalLives:Croatia~ownerPaid:$3551.85
+recordId:ed183631-ad5d-4ec5-b1a0-7800792afb10~animal:Thirteen-lined squirrel~owner:Rutter MacMarcuis~title:Mrs~countryAnimalLives:Ukraine~ownerPaid:$673.02
+recordId:380ecd41-facc-47f0-aa86-c21c2f4a1b69~animal:Defassa waterbuck~owner:Brande Gatheral~title:Honorable~countryAnimalLives:Albania~ownerPaid:$3929.47
+recordId:57193ae4-d528-4d62-8415-8c112832cf5e~animal:Waxbill, black-cheeked~owner:Isidoro Danniell~title:Dr~countryAnimalLives:China~ownerPaid:$3553.3
+recordId:9b92e663-2bea-4ca6-8e83-7ea1c77f87c2~animal:Lechwe, kafue flats~owner:Ted Kurth~title:Ms~countryAnimalLives:Panama~ownerPaid:$2474.55
+recordId:1550b7ed-13bd-4c77-a1ce-1e41298d58f1~animal:Roan antelope~owner:Rose Cammoile~title:Mrs~countryAnimalLives:Philippines~ownerPaid:$4467.74
+recordId:69c6c78c-3765-4749-a9ad-56c12bf52235~animal:Cormorant, neotropic~owner:Kettie Di Baudi~title:Mrs~countryAnimalLives:Tunisia~ownerPaid:$4609.61
+recordId:df9a8dc7-2156-40e3-88c6-430d5eba7abd~animal:Black-tailed tree creeper~owner:Sheilakathryn Filip~title:Mrs~countryAnimalLives:Japan~ownerPaid:$871.26
+recordId:7efe9b9a-e87b-4fb6-817f-e186a248e9fa~animal:Racer snake~owner:Lyndsey Giacometti~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$4938.82
+recordId:acfa7244-4bd0-4812-94a7-d7cb0088db66~animal:Grouse, greater sage~owner:Lilly Hurdedge~title:Ms~countryAnimalLives:Brazil~ownerPaid:$2188.68
+recordId:18e8a3a0-0603-4641-8c86-b47da0ec7e69~animal:Goose, canada~owner:Aldous Galway~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$977.42
+recordId:515565e0-6524-4c69-8d6d-2ce81fd501bb~animal:Constrictor, eastern boa~owner:Devin Zanazzi~title:Honorable~countryAnimalLives:Armenia~ownerPaid:$3001.84
+recordId:d5100a8c-49a9-4885-b5a9-44b8cd27f087~animal:Cormorant, flightless~owner:Kitty Drake~title:Dr~countryAnimalLives:Chile~ownerPaid:$1110.87
+recordId:df3593c1-1360-4f3a-a346-cc843f39f47d~animal:Bee-eater, nubian~owner:Silas Hamner~title:Mrs~countryAnimalLives:Belarus~ownerPaid:$1016.2
+recordId:4d014a8c-1456-45ae-bd74-720c8f8dee89~animal:Buffalo, american~owner:Almeda Wetherhead~title:Rev~countryAnimalLives:Bahamas~ownerPaid:$3878.01
+recordId:bbc32967-835d-480c-916d-5745e5fb5df3~animal:African ground squirrel (unidentified)~owner:Powell Marrill~title:Mr~countryAnimalLives:Colombia~ownerPaid:$3217.12
+recordId:6a8b02b5-7904-4342-a71c-89b279ea1a7e~animal:Civet cat~owner:Shayna Honsch~title:Rev~countryAnimalLives:Croatia~ownerPaid:$2468.45
+recordId:ea11c499-5243-45de-8e88-0c6de47fdb9e~animal:Sable antelope~owner:Genovera Justice~title:Honorable~countryAnimalLives:France~ownerPaid:$3517.93
+recordId:32761f19-6e83-451e-b684-3835a602de0f~animal:Greylag goose~owner:Hubert Linner~title:Rev~countryAnimalLives:China~ownerPaid:$566.02
+recordId:e265f346-98f3-490b-b53e-07c888fb4948~animal:Golden-mantled ground squirrel~owner:Katy Goldsbury~title:Ms~countryAnimalLives:Greece~ownerPaid:$4273.14
+recordId:44a31adc-514d-4936-8480-b79d5d2581fe~animal:Carpet python~owner:Gwynne Joint~title:Ms~countryAnimalLives:Afghanistan~ownerPaid:$4603.62
+recordId:0cde4ec0-6fb3-4d39-9c66-97b9cbb85b21~animal:Armadillo, giant~owner:Danielle Swan~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$3553.11
+recordId:3c4722c0-f5e4-4c17-b475-2e0b567e26c9~animal:Frog (unidentified)~owner:Darin Culshew~title:Rev~countryAnimalLives:Brazil~ownerPaid:$3514.03
+recordId:503c6c97-f9f1-41d9-9940-47f62a9f55ff~animal:Polar bear~owner:Hermann Annott~title:Ms~countryAnimalLives:South Sudan~ownerPaid:$1942.68
+recordId:005949ce-b30a-4191-8cc5-b579bae4a183~animal:Gelada baboon~owner:Toby Lutty~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$1969.99
+recordId:6323d801-86de-4e5a-ab0a-543bd46e76dc~animal:Beaver, american~owner:Laurie Symmers~title:Rev~countryAnimalLives:Russia~ownerPaid:$4008.86
+recordId:f17c7967-1f32-4984-a1c0-446b82e513c4~animal:Colobus, magistrate black~owner:Victoir Slocom~title:Mrs~countryAnimalLives:China~ownerPaid:$1214.44
+recordId:c2dfcf56-9c88-4828-a04b-575cafd7eb03~animal:Hummingbird (unidentified)~owner:Emili Adamczewski~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$4251.89
+recordId:becaa98c-a8a3-46dc-b3a4-fd6e77e0d99a~animal:Crane, sandhill~owner:Birk Prandoni~title:Ms~countryAnimalLives:Thailand~ownerPaid:$562.55
+recordId:b2c6d6bf-ccee-4d3a-bd30-7a0174af82a5~animal:Large cormorant~owner:Shea Cosins~title:Honorable~countryAnimalLives:Canada~ownerPaid:$965.63
+recordId:478d9464-e39f-4602-8b9d-799785e45963~animal:Mongoose, eastern dwarf~owner:Wayne Visco~title:Mr~countryAnimalLives:Mauritania~ownerPaid:$1190.78
+recordId:bf99685d-3f73-420b-9472-b83537d9f53b~animal:Red-billed hornbill~owner:Nickolai Cansfield~title:Ms~countryAnimalLives:Greece~ownerPaid:$1703.49
+recordId:43ae291b-f301-4868-80bd-414bc786c0f2~animal:Downy woodpecker~owner:Ardyth Casterton~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$3253.39
+recordId:d86ee949-190a-4624-b8d4-2322e8f00451~animal:Goldeneye, common~owner:Konstance Layzell~title:Honorable~countryAnimalLives:Japan~ownerPaid:$601.5
+recordId:e426a247-5305-4e83-b68a-78e8ca8c2c09~animal:Golden jackal~owner:Chanda Anning~title:Mrs~countryAnimalLives:China~ownerPaid:$778.6
+recordId:13a62e86-88b7-4a7b-a981-21084aa71c0e~animal:Trumpeter, dark-winged~owner:Theodor Giacobo~title:Honorable~countryAnimalLives:Poland~ownerPaid:$2652.62
+recordId:2cdbb4fa-3721-466c-a631-a41eeabbc7aa~animal:Green-winged macaw~owner:Clyve Ferrotti~title:Mr~countryAnimalLives:France~ownerPaid:$1431.03
+recordId:c476c287-30e8-47c9-b4e4-7ca26225104b~animal:Golden brush-tailed possum~owner:Vince Splain~title:Rev~countryAnimalLives:Spain~ownerPaid:$2663.97
+recordId:ed02d5db-8804-44f2-a2c0-9e0aa2f77589~animal:Red-cheeked cordon bleu~owner:Aurie Leamy~title:Ms~countryAnimalLives:Sweden~ownerPaid:$4934.9
+recordId:a3151187-3801-42ec-804d-cefa322bdbdd~animal:Royal tern~owner:Ciel Tabram~title:Mr~countryAnimalLives:China~ownerPaid:$2722.89
+recordId:9e61f57d-01ef-4bc4-9945-c6846e237da9~animal:Kangaroo, eastern grey~owner:Shara McCree~title:Rev~countryAnimalLives:China~ownerPaid:$2128.72
+recordId:9f2e55d7-a71c-4e38-81bb-9b1c93f134c8~animal:Eagle, crowned~owner:Cristine Blacket~title:Mr~countryAnimalLives:Honduras~ownerPaid:$1102.79
+recordId:fdf6db3f-5236-4eee-92ca-589a0ff22bae~animal:Capuchin, black-capped~owner:Zachery Mohun~title:Rev~countryAnimalLives:China~ownerPaid:$4765.46
+recordId:a8a01f29-bbfb-46d5-9daf-da997ac8c5bf~animal:Fork-tailed drongo~owner:Lorine Cornthwaite~title:Mrs~countryAnimalLives:Philippines~ownerPaid:$4223.58
+recordId:c444ca64-94ff-4985-aefd-c957c04b33b1~animal:Echidna, short-beaked~owner:Romola Broun~title:Mrs~countryAnimalLives:New Zealand~ownerPaid:$2664.45
+recordId:027f2393-3b73-4913-8d5b-f8eb75871103~animal:Cat, cape wild~owner:Alena Branthwaite~title:Mrs~countryAnimalLives:Peru~ownerPaid:$2846.52
+recordId:6952c460-01c4-45ec-beda-617fe26b1b08~animal:Sloth, two-toed~owner:Joyce Sellens~title:Rev~countryAnimalLives:Russia~ownerPaid:$1032.63
+recordId:3ed59e41-f954-4343-9b88-d8b53a6ed2f7~animal:South American puma~owner:Gaye Weddeburn - Scrimgeour~title:Mr~countryAnimalLives:Japan~ownerPaid:$917.6
+recordId:7e22902d-64f3-4a44-a7db-c5e2cfe2b425~animal:Racer, blue~owner:Joane Iskov~title:Mr~countryAnimalLives:Russia~ownerPaid:$1072.25
+recordId:9888c984-5f7a-4169-949a-021e535f051e~animal:Javan gold-spotted mongoose~owner:Warren Mowat~title:Mr~countryAnimalLives:United States~ownerPaid:$3782.56
+recordId:2f7c4d9d-d510-475c-bafc-2f28a1f7d74f~animal:Quoll, spotted-tailed~owner:Tracee Bosdet~title:Ms~countryAnimalLives:Afghanistan~ownerPaid:$4863.52
+recordId:efcb43bc-7241-4a1b-b88e-a0eb65e74cb6~animal:Goldeneye, common~owner:Cristie Wildber~title:Ms~countryAnimalLives:China~ownerPaid:$503.17
+recordId:c3b682e4-99a7-4e8a-bdef-c77ca4e7521f~animal:Squirrel, richardson's ground~owner:Annabelle Yeoland~title:Mr~countryAnimalLives:Philippines~ownerPaid:$3582.51
+recordId:b291276a-3edf-4bee-b9ca-9e9dd063865c~animal:Mongoose, yellow~owner:Marty Sheehan~title:Dr~countryAnimalLives:China~ownerPaid:$1211.56
+recordId:2570efc8-5cf3-46b8-995e-48244fe35815~animal:Black-tailed deer~owner:Stillmann Cuncliffe~title:Dr~countryAnimalLives:Tanzania~ownerPaid:$1637.05
+recordId:b7b707cd-b614-4750-8b41-2be4bd24a49d~animal:Malabar squirrel~owner:Barde Celiz~title:Mrs~countryAnimalLives:China~ownerPaid:$2253.25
+recordId:40616956-02e0-4f08-9644-a4f2d4894349~animal:Chital~owner:Fran Brumwell~title:Ms~countryAnimalLives:Brazil~ownerPaid:$709.34
+recordId:99879417-ef92-4a81-af88-9a3c371229fe~animal:Stork, woolly-necked~owner:Amil Caldero~title:Dr~countryAnimalLives:Argentina~ownerPaid:$4931.03
+recordId:6f88b54d-ba40-4fc5-b492-321d43306fbc~animal:Antelope ground squirrel~owner:Odo Hebburn~title:Mrs~countryAnimalLives:France~ownerPaid:$2907.92
+recordId:ceddcd76-ebc5-492d-8e67-c24baf9ea56c~animal:Cape raven~owner:Gale Baelde~title:Honorable~countryAnimalLives:Russia~ownerPaid:$968.12
+recordId:54b8555e-63ec-4b66-9ec4-6592cbd5c00d~animal:Urial~owner:Kellyann Bristo~title:Honorable~countryAnimalLives:Italy~ownerPaid:$2214.2
+recordId:8aed197a-1a51-45e0-9328-d3b32cf16f6c~animal:African lynx~owner:Sansone Devanney~title:Ms~countryAnimalLives:Brazil~ownerPaid:$4931.87
+recordId:e9a522b4-7ad3-45b7-a4a8-f3caa3a72ec1~animal:White-throated robin~owner:Valery Nobles~title:Dr~countryAnimalLives:France~ownerPaid:$1187.72
+recordId:ed08f17a-1344-48e5-8ef7-64e6e2cab9aa~animal:American marten~owner:Kyla Genese~title:Honorable~countryAnimalLives:China~ownerPaid:$2090.86
+recordId:a4494ed5-4ccf-4bdc-b416-95d1262f1d99~animal:Cat, miner's~owner:Wolfie Courcey~title:Rev~countryAnimalLives:Kenya~ownerPaid:$2567.12
+recordId:d296ad83-2ead-45da-89ca-c46be9ae8084~animal:Spotted hyena~owner:Steward Dering~title:Ms~countryAnimalLives:Russia~ownerPaid:$3347.58
+recordId:7c5f4526-9bde-4afc-9af8-e8e2a2f46c89~animal:Clark's nutcracker~owner:Amberly Settle~title:Dr~countryAnimalLives:Philippines~ownerPaid:$1143.3
+recordId:f6fa3d98-40b8-4c99-8769-44bf6e3eee56~animal:White-fronted capuchin~owner:Allyson Beardow~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$2379.34
+recordId:f102d0f6-f4e0-43b7-a186-92e9af6e65c4~animal:Crane, stanley~owner:Graehme Caughan~title:Honorable~countryAnimalLives:Russia~ownerPaid:$4470.2
+recordId:f7d0ec55-cb3c-4a86-92f1-bf57e1a69101~animal:Green-backed heron~owner:Joly Barroux~title:Dr~countryAnimalLives:China~ownerPaid:$4837.27
+recordId:b05306da-1fa8-4e9b-819e-3b2eacb8a6d4~animal:Cape raven~owner:Fedora Novak~title:Mrs~countryAnimalLives:United States~ownerPaid:$4821.37
+recordId:c089ad9b-375c-4a71-8960-1d2e3333f71b~animal:Mexican beaded lizard~owner:Trumaine Isaksson~title:Mr~countryAnimalLives:Russia~ownerPaid:$3473.83
+recordId:0821459d-9098-4973-b769-2985cc631528~animal:Mexican boa~owner:Ellerey Chipps~title:Ms~countryAnimalLives:China~ownerPaid:$1621.26
+recordId:e1a14d45-1dfd-4c53-a2e1-bd49116240ea~animal:Madagascar hawk owl~owner:Katerina Rugg~title:Ms~countryAnimalLives:Luxembourg~ownerPaid:$3317.64
+recordId:ba7d55d4-839e-4761-98be-126753a05815~animal:Porcupine, indian~owner:Red Trighton~title:Dr~countryAnimalLives:Ukraine~ownerPaid:$2559.6
+recordId:a28dc7ea-6e3c-4930-80af-6f9c8c8f7c60~animal:Kori bustard~owner:Hildegaard Faulconbridge~title:Ms~countryAnimalLives:China~ownerPaid:$1985.14
+recordId:a90e167e-abbd-4680-9b15-751a3d9fee6c~animal:Ibex~owner:Matelda Giraudo~title:Mrs~countryAnimalLives:China~ownerPaid:$1252.17
+recordId:16034bde-4534-4132-8a97-3183d6ec6efe~animal:Arctic fox~owner:Kippie Myatt~title:Mr~countryAnimalLives:China~ownerPaid:$1311.28
+recordId:74b25538-6936-44ca-9c61-241d281a9436~animal:Partridge, coqui~owner:Thomasa Ibbs~title:Rev~countryAnimalLives:Latvia~ownerPaid:$3828.24
+recordId:76db1a76-9196-48fd-afe2-64f8257d32c5~animal:Cape raven~owner:Fraze Bairstow~title:Honorable~countryAnimalLives:China~ownerPaid:$3197.09
+recordId:69c4f866-7ea3-40f6-8069-7f6862a102c4~animal:Squirrel, nelson ground~owner:Nicki Bee~title:Ms~countryAnimalLives:Dominican Republic~ownerPaid:$3199.94
+recordId:9c7ab6d3-0822-4919-ad63-042dadef82bd~animal:African snake (unidentified)~owner:Herta De Mitri~title:Mr~countryAnimalLives:China~ownerPaid:$1964.99
+recordId:5bf28823-82cd-40e1-b74c-d5aa7d292538~animal:Meerkat, red~owner:Leopold Bamber~title:Rev~countryAnimalLives:Russia~ownerPaid:$1237
+recordId:2a73be93-c7b8-41ab-babe-023dd8d077be~animal:Serval~owner:Tersina Shoobridge~title:Mr~countryAnimalLives:Brazil~ownerPaid:$822.48
+recordId:f12996ab-111b-4df4-b939-6ef5394308ce~animal:Ring-tailed gecko~owner:Beckie Biagioni~title:Honorable~countryAnimalLives:Yemen~ownerPaid:$2483.71
+recordId:a4da2927-fed7-46f7-b8af-424b7240972f~animal:Heron, little~owner:Dell Swepson~title:Rev~countryAnimalLives:Syria~ownerPaid:$2600.28
+recordId:8c072d82-c960-44ed-8e2f-1cdd15e233ad~animal:Rat, desert kangaroo~owner:Robinia Niesegen~title:Mrs~countryAnimalLives:China~ownerPaid:$3143.25
+recordId:11f4753a-fffd-4891-9e93-444cde66d341~animal:Dragon, netted rock~owner:Boy Toy~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$4299.06
+recordId:46e32d93-0092-44a4-ba7c-236229bfa565~animal:Cormorant, large~owner:Andreas Eburah~title:Rev~countryAnimalLives:Argentina~ownerPaid:$2337.76
+recordId:a05be18c-0804-45d5-857c-83f27534ce98~animal:Indian peacock~owner:Virgil Shark~title:Ms~countryAnimalLives:Philippines~ownerPaid:$4976.59
+recordId:6df98254-0660-4c45-9c6b-d57a6c7d43be~animal:Tyrant flycatcher~owner:Donovan O'Scanlon~title:Mrs~countryAnimalLives:Philippines~ownerPaid:$3958.84
+recordId:33de1694-716e-480a-b3cc-71e0387386a3~animal:Grey lourie~owner:Sharlene Cheel~title:Mr~countryAnimalLives:China~ownerPaid:$4124.06
+recordId:5113d9c3-aa20-4db8-8f09-9acc71f4ddc9~animal:Lemur, brown~owner:Norrie Amberson~title:Mrs~countryAnimalLives:China~ownerPaid:$3294.85
+recordId:bf4e1e15-76f4-4332-83b6-155e0441c653~animal:Robin, white-throated~owner:Row Noton~title:Mr~countryAnimalLives:Serbia~ownerPaid:$2944.96
+recordId:33dd7406-0540-47c9-a29f-d92666f3cc67~animal:Heron, yellow-crowned night~owner:Gwenny Szymanski~title:Rev~countryAnimalLives:Russia~ownerPaid:$4566.24
+recordId:ce085537-0d0e-4f2d-b7c0-967976d7093d~animal:Genoveva~owner:Ronica Stegel~title:Mrs~countryAnimalLives:Poland~ownerPaid:$3502.07
+recordId:ae84c78e-b83c-4d3f-a9cc-677ea983256a~animal:Skua, long-tailed~owner:Clemmie Aburrow~title:Dr~countryAnimalLives:Brazil~ownerPaid:$1311
+recordId:e09825be-9f69-4799-b564-ee25177c3c28~animal:Frogmouth, tawny~owner:Far Ridgley~title:Mr~countryAnimalLives:China~ownerPaid:$3584.29
+recordId:e48e0e11-8a67-46e8-8070-40968707bcb7~animal:Lizard, frilled~owner:Sissy Scadden~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$1762.31
+recordId:5cdfadeb-f899-4449-826d-920e8c72f3de~animal:Echidna, short-beaked~owner:Gladi Rushmer~title:Rev~countryAnimalLives:China~ownerPaid:$714.97
+recordId:6469cbb2-8270-45f8-bf15-ea4ff6c81d89~animal:Turtle, eastern box~owner:Geoffrey Jephcott~title:Ms~countryAnimalLives:China~ownerPaid:$1417.55
+recordId:9acf7566-2ca0-468c-a517-99aefe53c44d~animal:Flamingo, roseat~owner:Rafaello Agglio~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$4953.66
+recordId:aa748d6b-9b3e-41f5-9d7d-8d117861105c~animal:Puffin, horned~owner:Rolfe Andrivot~title:Mr~countryAnimalLives:China~ownerPaid:$3915.09
+recordId:86a4be28-3169-468e-8334-df22f49b948b~animal:Deer, black-tailed~owner:Gertrudis Lattie~title:Mr~countryAnimalLives:Portugal~ownerPaid:$1941.53
+recordId:02bbb1cd-7165-4805-900e-490213105257~animal:Heron, black-crowned night~owner:Orelee Randall~title:Mrs~countryAnimalLives:Chile~ownerPaid:$1978.08
+recordId:25929fc3-430f-4830-926e-1baf0872f1d7~animal:Duiker, gray~owner:Olvan Prestidge~title:Ms~countryAnimalLives:United States~ownerPaid:$4144.11
+recordId:a166ca3c-adb0-4601-9b7a-bb5212dfc03d~animal:Curve-billed thrasher~owner:Sidoney MacInnes~title:Ms~countryAnimalLives:Russia~ownerPaid:$4753.26
+recordId:b0981fb5-2dc1-4107-b172-034301a50629~animal:Bat, little brown~owner:Querida Wick~title:Dr~countryAnimalLives:China~ownerPaid:$628.15
+recordId:a610f7d1-268b-4452-a390-660c2f6078e4~animal:Black-faced kangaroo~owner:Rosanne Maddox~title:Mrs~countryAnimalLives:France~ownerPaid:$2921.85
+recordId:751509f7-b5dd-4c73-985e-04299665e858~animal:Mississippi alligator~owner:Nate Zambon~title:Ms~countryAnimalLives:China~ownerPaid:$4189.86
+recordId:444d55a4-3278-4bfd-bd04-18cf019c263e~animal:Owl, white-browed~owner:Alick Leicester~title:Dr~countryAnimalLives:Mexico~ownerPaid:$1967.21
+recordId:7a939870-e09b-4fe5-8e54-e5caf4642072~animal:Vicuna~owner:Penrod Echalier~title:Honorable~countryAnimalLives:Peru~ownerPaid:$2707.84
+recordId:4f627ffa-0a7b-4238-91ed-4607bf819fd6~animal:Gecko, tokay~owner:Vilma Daughtry~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$908.26
+recordId:a618181c-228d-4eb3-8ae2-84ce2c89e381~animal:Zebra, plains~owner:Deanne Rivallant~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$3368.15
+recordId:603d6a8f-fa4c-4928-a94f-6bacf52531e8~animal:Goldeneye, common~owner:Malva Portman~title:Ms~countryAnimalLives:Lithuania~ownerPaid:$4292.6
+recordId:8737c9ec-ef71-4ac9-9a09-f112448994d3~animal:Capuchin, white-fronted~owner:Jeniffer Knowlden~title:Honorable~countryAnimalLives:Germany~ownerPaid:$4809.31
+recordId:0452156c-7f35-4185-87ab-ed7874a5afd7~animal:Sloth, two-toed tree~owner:Paco Paolone~title:Mr~countryAnimalLives:China~ownerPaid:$2238.87
+recordId:3f2d3af8-30ba-4c34-a24d-658666d22b93~animal:Dusky rattlesnake~owner:Florry Sarsfield~title:Mrs~countryAnimalLives:United States~ownerPaid:$3833.38
+recordId:e1f2211d-6ffe-4c09-ba42-c100bfe0165e~animal:Red-winged blackbird~owner:Annabal Rodinger~title:Honorable~countryAnimalLives:Poland~ownerPaid:$2798.78
+recordId:e3397fd8-dc67-40f0-ac56-4cee73126658~animal:Southern sea lion~owner:Merrily Lewcock~title:Honorable~countryAnimalLives:Nigeria~ownerPaid:$1122.75
+recordId:85788709-5c23-4bc8-a776-3509c3af4128~animal:Emerald-spotted wood dove~owner:Alexine Setterthwait~title:Honorable~countryAnimalLives:Czech Republic~ownerPaid:$3272.28
+recordId:218fb2f5-1d62-40f8-92ca-c2d8c518d535~animal:Silver-backed fox~owner:Sherlock McDade~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4057.71
+recordId:5d952c46-8bc9-43de-ae90-f683b1d8de5c~animal:Pelican, australian~owner:Boot Clemenza~title:Mr~countryAnimalLives:Philippines~ownerPaid:$1466.91
+recordId:123cc0d6-a1db-4148-9f44-729c0210fd9f~animal:Badger, honey~owner:Giraud Mulrooney~title:Dr~countryAnimalLives:China~ownerPaid:$3991.87
+recordId:af41e6e6-6356-4a84-aa6a-363dcbfc5183~animal:Kangaroo, red~owner:Bartram Thridgould~title:Mrs~countryAnimalLives:Slovenia~ownerPaid:$1183.54
+recordId:248bf57b-bfb2-4f47-938a-f792270756c7~animal:Eland, common~owner:Robert Lyburn~title:Rev~countryAnimalLives:Brazil~ownerPaid:$2673.55
+recordId:2a0e8236-03eb-4279-8cc7-8642f63b375c~animal:Raccoon, crab-eating~owner:Gibbie Jaukovic~title:Honorable~countryAnimalLives:Nigeria~ownerPaid:$1367.66
+recordId:df4624f2-2979-4992-a2b9-b1e6d46e3028~animal:Butterfly, canadian tiger swallowtail~owner:Corabel McGlashan~title:Mr~countryAnimalLives:Spain~ownerPaid:$510.3
+recordId:a6661831-59de-488c-ba65-65687e2cd3c4~animal:Heron, goliath~owner:Simone Rennie~title:Mrs~countryAnimalLives:Russia~ownerPaid:$2148.28
+recordId:80790678-bac7-4559-b57b-42aea7546c6c~animal:Goose, cape barren~owner:Camille Smallthwaite~title:Honorable~countryAnimalLives:Colombia~ownerPaid:$4644.48
+recordId:02f1950c-93b2-48a3-9591-84bacf76e0ca~animal:Paca~owner:Malorie Thame~title:Rev~countryAnimalLives:Colombia~ownerPaid:$846.57
+recordId:4b5b694f-1b3a-4305-9950-e7516d4f9196~animal:Dog, african wild~owner:Lacee Green~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$3387.49
+recordId:39c4ef83-b0b1-4685-ab56-6351718fb5c0~animal:Sheathbill, snowy~owner:Justen Beatens~title:Ms~countryAnimalLives:Palestinian Territory~ownerPaid:$2834.84
+recordId:94827359-d811-4f49-996a-241183948e43~animal:Agama lizard (unidentified)~owner:Sabra Villar~title:Dr~countryAnimalLives:Philippines~ownerPaid:$4183.97
+recordId:fadc51bb-b84d-49fc-a05c-4673a2abbcfa~animal:Squirrel, grey-footed~owner:Patrizia Bealton~title:Mr~countryAnimalLives:Russia~ownerPaid:$3900.66
+recordId:42811264-cf54-4180-a707-be470c059bf2~animal:Badger, american~owner:Sandro Fenwick~title:Ms~countryAnimalLives:China~ownerPaid:$3366.29
+recordId:e8711245-d7e9-47c1-a4e9-b06c76b6f12f~animal:Fisher~owner:Wilmar Canet~title:Ms~countryAnimalLives:China~ownerPaid:$3408.33
+recordId:8a6d7384-60a1-4b1f-92e7-c4a3dfcf6098~animal:Cormorant, great~owner:Lynett Hargreaves~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$4945.15
+recordId:b075a5bb-6327-4ab2-8fb0-27650041cdff~animal:Striped skunk~owner:Kippie Feavyour~title:Dr~countryAnimalLives:Afghanistan~ownerPaid:$2078.09
+recordId:50ce0e7b-a27a-4ce2-a0bb-0c5b1816ea26~animal:Heron, giant~owner:Carlynn Ashmore~title:Mrs~countryAnimalLives:China~ownerPaid:$4912.58
+recordId:4846775b-e2e8-49fc-b76b-0f9456bb6035~animal:Common seal~owner:Dana Kitchingman~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$2534.11
+recordId:2a972cc7-d563-4131-8dda-23f9e5caaf79~animal:Flycatcher, tyrant~owner:Arline Pesak~title:Rev~countryAnimalLives:Kenya~ownerPaid:$2486.86
+recordId:3d32d988-8089-42b5-8aa6-e646a0f77491~animal:Meerkat~owner:Jeff Gough~title:Honorable~countryAnimalLives:China~ownerPaid:$4994.93
+recordId:323b3132-f94f-4308-8353-d184113534fc~animal:Cormorant, king~owner:Alric Furlong~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$754.73
+recordId:22574397-cd4d-48fa-803d-0b4c06ce193b~animal:Dragon, netted rock~owner:Shelden McAlpine~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$2593.21
+recordId:917df189-2bfb-47f2-8231-bafd6302f449~animal:Dik, kirk's dik~owner:Milena Kubas~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4063.89
+recordId:e9974fc8-62b0-43c4-8aba-26e231ded15d~animal:Common zorro~owner:Fabio Jolliff~title:Mrs~countryAnimalLives:Russia~ownerPaid:$2211.59
+recordId:f7ad4472-46a1-4f9f-ab36-f2aab10b7eb8~animal:Stork, black-necked~owner:Coraline Beddin~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$4062.87
+recordId:f05a7c8a-ce83-42b6-a2f1-c800ff7a2dc0~animal:Brown capuchin~owner:Raul Cornelisse~title:Mrs~countryAnimalLives:Argentina~ownerPaid:$3742.13
+recordId:bd64f5ad-3c40-4f6f-8e7e-9570211e8cb9~animal:Brolga crane~owner:Markos Clemes~title:Ms~countryAnimalLives:Brazil~ownerPaid:$3835.8
+recordId:839b5c03-9d29-4c42-96b5-b0dc8daaad05~animal:Malabar squirrel~owner:Curr Evelyn~title:Mrs~countryAnimalLives:Cuba~ownerPaid:$2200.18
+recordId:2ca872f3-afd8-4c74-b8e9-979cd5e7e29d~animal:Laughing kookaburra~owner:Abagail Rundle~title:Mr~countryAnimalLives:Mexico~ownerPaid:$4207.51
+recordId:1c741409-bd69-433d-aa76-ebe6638ef942~animal:Wolf, mexican~owner:Almeta Espley~title:Honorable~countryAnimalLives:China~ownerPaid:$2681.55
+recordId:86d3c62a-c2db-4853-9010-7ccb8a04ef5f~animal:Boubou, southern~owner:Darci Rundle~title:Ms~countryAnimalLives:Benin~ownerPaid:$3151.03
+recordId:a1e37421-5ca7-489f-a6f8-de1553df0f3d~animal:Iguana, marine~owner:Sharron Brimilcome~title:Mr~countryAnimalLives:Philippines~ownerPaid:$1573.87
+recordId:b81ea875-c22f-4e2a-b799-5f41a770e204~animal:Roseate cockatoo~owner:Diarmid Caldroni~title:Mrs~countryAnimalLives:Malta~ownerPaid:$2446.35
+recordId:36e787e5-9854-4aaa-a84a-e347360ee97d~animal:Striped skunk~owner:Meg Wolfindale~title:Honorable~countryAnimalLives:China~ownerPaid:$2901.4
+recordId:430ec876-a63c-4eca-844c-4dce85273781~animal:Violet-eared waxbill~owner:Joane Titterell~title:Mr~countryAnimalLives:Poland~ownerPaid:$1612.72
+recordId:6fc55163-be24-4634-bf23-362121762123~animal:Dolphin, bottle-nose~owner:Herby Darree~title:Mr~countryAnimalLives:Russia~ownerPaid:$2491.49
+recordId:8fafba86-85de-4fe3-9576-44c8d413a931~animal:Olive baboon~owner:Gaelan Nore~title:Ms~countryAnimalLives:China~ownerPaid:$1694.88
+recordId:58283650-39a3-41b9-8ecc-0898510625e5~animal:Gray heron~owner:Herc Jales~title:Ms~countryAnimalLives:Sweden~ownerPaid:$3771.01
+recordId:4a33018b-37b8-40c4-8618-4f3cb7475836~animal:Antelope, four-horned~owner:Cornie Wrankling~title:Mrs~countryAnimalLives:Russia~ownerPaid:$4238.55
+recordId:1ddb48f6-0f5f-4e4e-b59a-0940acbac463~animal:Kori bustard~owner:Andrey McKimmey~title:Ms~countryAnimalLives:Ukraine~ownerPaid:$2711.09
+recordId:d793c101-0261-41cd-90ae-5ebea7c5521a~animal:Swainson's francolin~owner:Stearn Spurret~title:Ms~countryAnimalLives:Uganda~ownerPaid:$1724.56
+recordId:22d92d37-a361-4c3b-bff5-702050e95446~animal:Gila monster~owner:Josephina Form~title:Rev~countryAnimalLives:China~ownerPaid:$4286.9
+recordId:dac85607-adb7-497b-ad2b-22ecd30e2e9c~animal:Rattlesnake, dusky~owner:Bevon Janak~title:Mrs~countryAnimalLives:Mexico~ownerPaid:$1253.06
+recordId:a5b22e83-a130-4647-9cbb-895178880698~animal:Squirrel, pine~owner:Clywd Brahm~title:Honorable~countryAnimalLives:Peru~ownerPaid:$4850.05
+recordId:9377ceb5-77e4-4bba-819f-0b7e2a535e7d~animal:Wallaby, dama~owner:Sib Fenby~title:Honorable~countryAnimalLives:Bulgaria~ownerPaid:$823.81
+recordId:75c31ab6-a34b-4655-8059-74c3d8b2d3b9~animal:Black-capped capuchin~owner:Dara Gasperi~title:Mr~countryAnimalLives:Panama~ownerPaid:$4404.5
+recordId:7774fecb-bc4a-4f31-879a-d3bcb952a295~animal:Python (unidentified)~owner:Gabriel Kowalik~title:Rev~countryAnimalLives:Philippines~ownerPaid:$695.18
+recordId:42234b24-50e0-4927-9700-029600c744a6~animal:Eagle, african fish~owner:Edouard Ferrarin~title:Mr~countryAnimalLives:Brazil~ownerPaid:$4410.25
+recordId:6ec34585-1baf-4040-b0fd-6105964a32c2~animal:Tiger~owner:Durward Currer~title:Mrs~countryAnimalLives:Russia~ownerPaid:$3072.07
+recordId:1b02722f-0c2e-4d71-bf37-fb5f8e050e0f~animal:Bleu, red-cheeked cordon~owner:Alaster Leworthy~title:Mr~countryAnimalLives:Czech Republic~ownerPaid:$1871.38
+recordId:bb3f49b5-5b04-48a0-a59c-269d1cb69d94~animal:Bird, bare-faced go away~owner:Melosa McIsaac~title:Honorable~countryAnimalLives:China~ownerPaid:$978.71
+recordId:b3acbfcd-7c85-4dc5-b6aa-5b5efecaa6e3~animal:Goose, cereopsis~owner:Grove Ivanshintsev~title:Ms~countryAnimalLives:Greece~ownerPaid:$4490.71
+recordId:4e4d0ec0-1d04-4b53-869c-a7af430b71e1~animal:Tiger~owner:Rosemaria Dalman~title:Mr~countryAnimalLives:Czech Republic~ownerPaid:$2458.71
+recordId:8aac0cf4-d530-4fed-a856-ff5f80e89da2~animal:Asian elephant~owner:Andrew Ferrick~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$4380.87
+recordId:a842b805-771d-4976-ad4a-e716222f3d74~animal:Sarus crane~owner:Obediah Verson~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$1446.7
+recordId:696600a8-0a23-449e-a250-27c4967785ef~animal:Raven, cape~owner:Kayle Grills~title:Mr~countryAnimalLives:United States~ownerPaid:$2628.16
+recordId:8abacf0a-a966-4908-a553-c0f38af8c0aa~animal:Vine snake (unidentified)~owner:Loren Lorimer~title:Mrs~countryAnimalLives:China~ownerPaid:$3660.8
+recordId:34d50432-b808-4d4d-b2cc-2b86ff869f60~animal:Common rhea~owner:Lennard Galbreath~title:Mrs~countryAnimalLives:Mayotte~ownerPaid:$4976.46
+recordId:818fc560-831f-413c-984e-0a0376acefc2~animal:Ring-necked pheasant~owner:Delcine Hambidge~title:Mr~countryAnimalLives:China~ownerPaid:$579.94
+recordId:920e3262-795d-4973-ad21-0007ca83f783~animal:Lizard, blue-tongued~owner:Arabel Viccars~title:Honorable~countryAnimalLives:Haiti~ownerPaid:$3933.69
+recordId:965dce59-b27a-4d70-9f58-e27080320f87~animal:Eastern white pelican~owner:Ailee Sansom~title:Ms~countryAnimalLives:China~ownerPaid:$2417.7
+recordId:602a99ad-f192-4799-8632-293617744583~animal:Laughing dove~owner:Rance Smerdon~title:Mr~countryAnimalLives:Croatia~ownerPaid:$4663
+recordId:6afdc4c6-08ca-46d0-b8e0-3a41a417f926~animal:Uinta ground squirrel~owner:Robinett Doul~title:Ms~countryAnimalLives:Latvia~ownerPaid:$3608.39
+recordId:580d975d-4957-4234-a9f8-f492bfd1df70~animal:Catfish, blue~owner:Guglielma Prosek~title:Rev~countryAnimalLives:Russia~ownerPaid:$1280.79
+recordId:96325cfc-ead3-479a-9fca-77ffdd90db29~animal:Dragon, komodo~owner:Augustin Jeness~title:Mr~countryAnimalLives:China~ownerPaid:$2984.07
+recordId:5a5a597c-d29e-44f9-b1d7-0fb9938ade24~animal:Albatross, galapagos~owner:Nicki Pogson~title:Mr~countryAnimalLives:Sweden~ownerPaid:$2717.68
+recordId:b85f9dcb-4268-4ca9-b2b2-3138e67ba570~animal:Curlew, black~owner:Bernetta Agglione~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$3684.98
+recordId:20565f97-118d-47bb-8e41-87f143881dd2~animal:Dragon, netted rock~owner:Lucia Kester~title:Honorable~countryAnimalLives:China~ownerPaid:$987.67
+recordId:441086e3-94af-4b91-9ed2-12945f0e64ba~animal:Oryx, beisa~owner:Ellis Glayzer~title:Rev~countryAnimalLives:Philippines~ownerPaid:$4356.69
+recordId:11a457ef-862c-44c1-8ff2-233f79706044~animal:Ringtail, common~owner:Kessia Pashen~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$4488.56
+recordId:7f924fef-a037-4189-bcda-2da868fb5c2b~animal:Tinamou, elegant crested~owner:Prescott McIlenna~title:Mr~countryAnimalLives:China~ownerPaid:$1735.71
+recordId:f94f2cb2-9176-4df0-9efa-7df27ce7bedf~animal:Crowned hawk-eagle~owner:Esdras Extence~title:Mrs~countryAnimalLives:China~ownerPaid:$3570.76
+recordId:dfe60eb0-51db-4ffb-a742-c8d2a7b5d4cc~animal:Trotter, lily~owner:Orsa Pietesch~title:Mrs~countryAnimalLives:United States~ownerPaid:$4311.15
+recordId:6c34f5ed-237b-4818-9ace-5a683cebf569~animal:Stork, saddle-billed~owner:Caroljean Feirn~title:Mr~countryAnimalLives:Honduras~ownerPaid:$3195.73
+recordId:cd27b5a4-cf81-4f5c-9f39-fd5daa982422~animal:Saddle-billed stork~owner:Vidovic Kausche~title:Mrs~countryAnimalLives:China~ownerPaid:$2113.77
+recordId:c7430ac8-25f2-415a-959d-75f0b447f77d~animal:Black-throated butcher bird~owner:Pip Donisthorpe~title:Ms~countryAnimalLives:Nigeria~ownerPaid:$4941.06
+recordId:bbbe02d6-85e6-40cf-8b8a-891266ddde31~animal:Rabbit, eastern cottontail~owner:Lettie Clacson~title:Rev~countryAnimalLives:Taiwan~ownerPaid:$2378.66
+recordId:ae491195-9d59-4fe4-ace8-e554a40d9552~animal:Jaguar~owner:Pollyanna Danigel~title:Dr~countryAnimalLives:Russia~ownerPaid:$3412.98
+recordId:e40e0ac8-6dc3-44b5-86bb-c6ae066a0c5b~animal:Striated heron~owner:Cyb Uman~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$2818.37
+recordId:81f2e832-b3bf-4e0c-870b-9e957ca61385~animal:Tern, arctic~owner:Wenda Kenson~title:Mr~countryAnimalLives:Peru~ownerPaid:$4844.27
+recordId:41818101-be49-4632-b503-f477ef739035~animal:Common zebra~owner:Lucian Liepins~title:Honorable~countryAnimalLives:Poland~ownerPaid:$1139.47
+recordId:b35c6b07-5cb8-42fd-bb2e-1fdcc332e4a2~animal:Pied kingfisher~owner:Danella Duffield~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$4605.15
+recordId:8fc637bb-d723-4ec8-9de6-82e14de6f641~animal:African lynx~owner:Fidelio McCoughan~title:Ms~countryAnimalLives:Russia~ownerPaid:$4586.76
+recordId:46285d6e-1e26-43a6-bf16-6a45b78071fd~animal:Yellow-crowned night heron~owner:Ripley Koeppke~title:Ms~countryAnimalLives:France~ownerPaid:$2927.92
+recordId:c00a257e-433a-4e66-8f9c-ab19673565b5~animal:Fox, asian red~owner:Rosina Blucher~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$951.08
+recordId:35b631df-0871-4f0c-a2da-8ce29a848253~animal:Mourning collared dove~owner:Nap Moss~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$3061.77
+recordId:6dd03567-7d1a-4ecf-8caa-e3369ee7729b~animal:Dragon, ornate rock~owner:Morganica Flaxon~title:Rev~countryAnimalLives:Argentina~ownerPaid:$1598.03
+recordId:6d9524fb-aece-4704-9743-0c09f61bf904~animal:Sheep, red~owner:Christel Gennerich~title:Mrs~countryAnimalLives:China~ownerPaid:$4026.1
+recordId:57d3c53c-5fd0-40b9-a2b3-3c44d6082cc3~animal:Whip-tailed wallaby~owner:Ardis Gadie~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$4015.32
+recordId:32b06b9c-96f4-4ff3-a12d-f3d475652dab~animal:Vulture, griffon~owner:Atlanta Cannavan~title:Rev~countryAnimalLives:China~ownerPaid:$1692.25
+recordId:fc6881db-fb80-472d-9d96-b231cbd09eeb~animal:Turtle (unidentified)~owner:Jarred Ritchley~title:Dr~countryAnimalLives:Russia~ownerPaid:$1039.28
+recordId:ca6315c3-7deb-4fc2-b317-96e1be7dd237~animal:Bonnet macaque~owner:Raimundo Commin~title:Honorable~countryAnimalLives:Thailand~ownerPaid:$2167.08
+recordId:23b5e5f2-7e7e-47ca-b771-cf0bee993b49~animal:Kongoni~owner:Delinda Bonnette~title:Rev~countryAnimalLives:Croatia~ownerPaid:$3359.96
+recordId:2e309fdf-6317-46cc-9a12-2b94a5736f8a~animal:Lemur, grey mouse~owner:Nance Caws~title:Mr~countryAnimalLives:Kosovo~ownerPaid:$3503.11
+recordId:57f9dce8-1351-403b-b7f0-bfdfbf3ffb7a~animal:Eastern boa constrictor~owner:Ted Merdew~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$4312.33
+recordId:2a8b4db8-ec46-463a-9901-57b7c2cf9d41~animal:Phalarope, red~owner:Paulita Trevaskus~title:Rev~countryAnimalLives:China~ownerPaid:$3234.08
+recordId:cbbf5e59-ff15-47f4-8680-6e85513f7da6~animal:Mountain goat~owner:Nadine Roswarn~title:Mr~countryAnimalLives:China~ownerPaid:$2934.88
+recordId:e4f3b551-8674-4936-a108-c80138708342~animal:Bee-eater, carmine~owner:Henry Marder~title:Mr~countryAnimalLives:Brazil~ownerPaid:$2237.82
+recordId:f31ef7db-5d0c-46b2-b212-f3813fc670f7~animal:Lemur, ring-tailed~owner:Teddie Wanklin~title:Ms~countryAnimalLives:Canada~ownerPaid:$4847.24
+recordId:1c26962e-f778-4e47-b79f-134b1ff8bb41~animal:Marine iguana~owner:Hayward Kynson~title:Mr~countryAnimalLives:Cuba~ownerPaid:$3606.11
+recordId:8152f0ec-af80-4d72-ae3d-6a3ec535aa5e~animal:Magpie, australian~owner:Elle Foltin~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$2883.72
+recordId:ec7ced84-7b52-4e1d-97c7-af1207db25ba~animal:Vulture, turkey~owner:Riccardo Leverette~title:Dr~countryAnimalLives:Czech Republic~ownerPaid:$2303.75
+recordId:fcb17dc6-7cf8-4d98-94bd-a79acbd602bb~animal:Eurasian beaver~owner:Lindsy Kleinstub~title:Ms~countryAnimalLives:China~ownerPaid:$923.41
+recordId:dc38e98b-2d61-4bc2-b159-3e89db6232af~animal:Spoonbill, european~owner:Franny Moden~title:Rev~countryAnimalLives:Czech Republic~ownerPaid:$4788.11
+recordId:3f62e831-992c-447e-9aed-f3b441096784~animal:Knob-nosed goose~owner:Rochester Poser~title:Ms~countryAnimalLives:Hungary~ownerPaid:$1500.96
+recordId:fad3aa3b-448d-4b6d-8d16-aa7a6288ecc4~animal:Arctic fox~owner:Michaeline Hinckley~title:Mr~countryAnimalLives:China~ownerPaid:$2868.77
+recordId:0a5428dd-8169-4060-beb2-ffff32847d24~animal:Grouse, sage~owner:Carlina Edgeworth~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$2490.34
+recordId:6ebf65bc-060d-414c-b901-0dfc849cbf41~animal:Mouse, four-striped grass~owner:Sidonnie Varns~title:Rev~countryAnimalLives:Norway~ownerPaid:$2374.64
+recordId:219bdcb8-14d8-432f-8df9-6708d902d1bb~animal:Tapir, brazilian~owner:Wolfy Snodden~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$3204.24
+recordId:a1666b3e-0b5f-4832-acd6-c82b5f998fe1~animal:Marabou stork~owner:Roselle Gait~title:Mr~countryAnimalLives:China~ownerPaid:$4340.66
+recordId:b9d7972c-8b75-421e-9e68-4fad9cd0c353~animal:Cape white-eye~owner:Sloane Ellerton~title:Mrs~countryAnimalLives:Poland~ownerPaid:$3390.58
+recordId:4b81cf17-2cec-41e4-a601-797c5e7e7a8a~animal:Wallaby, agile~owner:Lovell Simoneton~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$2324.32
+recordId:09f63b4e-4b97-4a1b-9d07-f4c89347edcc~animal:Penguin, little blue~owner:Thorny Ligertwood~title:Mr~countryAnimalLives:Poland~ownerPaid:$2775.99
+recordId:0d474d54-007e-4c8e-990a-71349283900b~animal:Antechinus, brown~owner:Horatia Gullivan~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$828.35
+recordId:b7583f25-cfad-4b11-adf3-44139051e971~animal:Baboon, savanna~owner:Dierdre Byles~title:Mrs~countryAnimalLives:United Kingdom~ownerPaid:$748.16
+recordId:68470dbe-e9f5-437c-9d17-9edb3bd06c3f~animal:Hyena, brown~owner:Benedick Cuttle~title:Rev~countryAnimalLives:Brazil~ownerPaid:$3745.93
+recordId:47bb9a8d-a460-4399-bd8a-950b5f4cca58~animal:Jungle kangaroo~owner:Leonanie Whithorn~title:Ms~countryAnimalLives:United States~ownerPaid:$2222.69
+recordId:f03d6e98-9a7f-4883-8e6e-158ae8f448d7~animal:Brocket, red~owner:Guilbert Breese~title:Mrs~countryAnimalLives:Thailand~ownerPaid:$3675.54
+recordId:b4b042c0-df56-4718-ba83-eb9179bcb380~animal:Spider, wolf~owner:Eugenius Dreinan~title:Ms~countryAnimalLives:China~ownerPaid:$3444.52
+recordId:251669eb-b56d-46d8-9cc7-0faa99aaf5d0~animal:Silver gull~owner:Ella Offner~title:Rev~countryAnimalLives:Mexico~ownerPaid:$4938.05
+recordId:91d370b6-b7a4-4610-ab4a-592df6cc1877~animal:Blue wildebeest~owner:Courtenay Dahill~title:Honorable~countryAnimalLives:Argentina~ownerPaid:$1281.75
+recordId:ea41a2fc-9551-44f8-8928-862bf8efbdc0~animal:Common goldeneye~owner:Trula Aggis~title:Rev~countryAnimalLives:Poland~ownerPaid:$2565.84
+recordId:c7dfd74d-e580-4c49-b8ea-e54800b551ef~animal:Gnu, brindled~owner:Tammie O'Kerin~title:Honorable~countryAnimalLives:Peru~ownerPaid:$4062.48
+recordId:42b52466-67af-445a-abb6-3b8610036090~animal:Savannah deer (unidentified)~owner:Morgen Hayen~title:Honorable~countryAnimalLives:Ukraine~ownerPaid:$1842.97
+recordId:706bb16f-54c2-4c83-b582-fd5b5b37a17a~animal:Dove, ring~owner:Anselma Martijn~title:Rev~countryAnimalLives:Russia~ownerPaid:$4286.4
+recordId:f7506ed2-a196-4229-bf75-9d555b0cf754~animal:Rufous-collared sparrow~owner:Vernen Wharby~title:Ms~countryAnimalLives:Tanzania~ownerPaid:$2750.17
+recordId:12d8db5d-7aa0-4057-9b53-556bf2c723a5~animal:Gray langur~owner:Zsazsa Bramsom~title:Rev~countryAnimalLives:South Africa~ownerPaid:$2408.8
+recordId:9e565b84-fc4e-4d05-97b4-43d677d3c924~animal:Viper, egyptian~owner:Celeste Lewknor~title:Mr~countryAnimalLives:Ukraine~ownerPaid:$4320.76
+recordId:5c0fd2d8-b169-44fa-b5c7-590fdf4117f5~animal:Blue-faced booby~owner:Dionysus Olivo~title:Ms~countryAnimalLives:China~ownerPaid:$3438.38
+recordId:c8b612dd-fab0-42d2-8e1e-555331495cac~animal:Tenrec, tailless~owner:Dominick Danshin~title:Dr~countryAnimalLives:Brazil~ownerPaid:$2562.93
+recordId:7a7529ee-7c7e-4747-84eb-5be294b8247c~animal:Weaver, chestnut~owner:Genevra Cantillion~title:Ms~countryAnimalLives:Morocco~ownerPaid:$2432.58
+recordId:d0f10d3b-a873-40d5-98e2-7b862f79a30d~animal:Sidewinder~owner:Obed Sargerson~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$3096.86
+recordId:11e8c810-f5f2-4fb6-a467-892dfa8f5510~animal:Bear, black~owner:Konstance Swancock~title:Ms~countryAnimalLives:United States~ownerPaid:$2746.03
+recordId:af8556d3-7f4d-4699-86eb-26c7f5a6a956~animal:Swallow-tail gull~owner:Florence Chazerand~title:Rev~countryAnimalLives:Tunisia~ownerPaid:$3577.69
+recordId:f4780a00-fb1a-4c86-bb7b-25467d59d538~animal:Horned rattlesnake~owner:Chelsy Braitling~title:Honorable~countryAnimalLives:Albania~ownerPaid:$4342.62
+recordId:d1be7a63-a521-42a1-9767-1fc146e53382~animal:Civet, small-toothed palm~owner:Gabrielle Tills~title:Mr~countryAnimalLives:Greece~ownerPaid:$937.88
+recordId:d0153b90-0ef5-491a-ab54-38e936f7347a~animal:Black rhinoceros~owner:Ax Casin~title:Dr~countryAnimalLives:China~ownerPaid:$1110
+recordId:9d5d65e5-f52d-41cf-abea-87bd5b1bf585~animal:Paradoxure~owner:Kiel Abbots~title:Dr~countryAnimalLives:France~ownerPaid:$676.51
+recordId:14cd140b-4536-47f3-93a4-92a1a179138a~animal:Bee-eater, nubian~owner:Joscelin Ryle~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4880.51
+recordId:a3bca97a-1185-49ff-9fbb-aa0e24da1baf~animal:Indian tree pie~owner:Tabina Roseblade~title:Mrs~countryAnimalLives:China~ownerPaid:$4590.78
+recordId:34fdb297-0d53-40ac-b965-a20b8c588880~animal:Great kiskadee~owner:Gabriellia Ruppelin~title:Honorable~countryAnimalLives:China~ownerPaid:$4683.55
+recordId:4ce13776-1d8b-479d-9c9b-8de9989d4019~animal:Zorro, azara's~owner:Brien Goodricke~title:Ms~countryAnimalLives:Comoros~ownerPaid:$4565.31
+recordId:834fea77-33e1-4c9d-8b4f-bd41265d4f49~animal:Oriental white-backed vulture~owner:Kristos Gladdish~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$4299.62
+recordId:e75a58ab-332f-4ab1-8f83-1b912bd79870~animal:Columbian rainbow boa~owner:Lou Finessy~title:Dr~countryAnimalLives:Ethiopia~ownerPaid:$823.65
+recordId:d2701acd-823e-4c54-8927-97774759b7b1~animal:Marshbird, brown and yellow~owner:Seymour Gerren~title:Rev~countryAnimalLives:China~ownerPaid:$3755.62
+recordId:9cc918d6-fdd2-4688-8b85-c18089a7d43c~animal:Pygmy possum~owner:Joly Anand~title:Ms~countryAnimalLives:Greece~ownerPaid:$4700.95
+recordId:d3426b9c-bc49-45a3-8412-10e0c9a230f3~animal:Eastern diamondback rattlesnake~owner:Philipa Laven~title:Honorable~countryAnimalLives:China~ownerPaid:$3149.17
+recordId:5c4a6394-1486-4f94-b37c-d55e37374b24~animal:Cormorant, large~owner:Beatrisa Waring~title:Rev~countryAnimalLives:China~ownerPaid:$1053.56
+recordId:606a5e20-1688-4a53-bd9e-2c3c6ce59724~animal:Hartebeest, coke's~owner:Alain Menzies~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$3653.42
+recordId:d4c7983e-5ea9-4751-b7be-45476a624791~animal:Southern ground hornbill~owner:Agnese Woolvin~title:Mr~countryAnimalLives:Yemen~ownerPaid:$925.24
+recordId:3ac8d0fc-80b9-4e0b-910a-fe15ad42d130~animal:Deer, swamp~owner:Marylinda Mongenot~title:Mrs~countryAnimalLives:Croatia~ownerPaid:$616.81
+recordId:a6d8705f-5e12-4199-b40f-2c95bf46c38f~animal:Common mynah~owner:Teddie Mungin~title:Honorable~countryAnimalLives:Ethiopia~ownerPaid:$1166.04
+recordId:cd30e9ac-c1fe-4f1d-a767-38b3e26abb6e~animal:Sloth, two-toed~owner:Homerus Jardein~title:Rev~countryAnimalLives:Philippines~ownerPaid:$2867.26
+recordId:298a5bf0-0c24-4d90-8adb-880d060ee3ac~animal:American crow~owner:Travis Please~title:Mr~countryAnimalLives:Brazil~ownerPaid:$4265.41
+recordId:606f5fc3-e2e0-49fa-9df0-0a79f5ec21a4~animal:Phalarope, red-necked~owner:Brock Fairbank~title:Rev~countryAnimalLives:Costa Rica~ownerPaid:$771.58
+recordId:d744498b-1a70-461a-ab74-7b5e210e9f76~animal:Eagle owl (unidentified)~owner:Teodora Osmant~title:Mr~countryAnimalLives:Russia~ownerPaid:$2933.71
+recordId:14e48ff7-74bf-4e6a-a95d-ffc20c994b8a~animal:American black bear~owner:Ty Janc~title:Ms~countryAnimalLives:Nigeria~ownerPaid:$542.68
+recordId:cf24336a-25af-4beb-955c-62f020affac9~animal:Rattlesnake, horned~owner:Karisa Lohmeyer~title:Dr~countryAnimalLives:Russia~ownerPaid:$4639.14
+recordId:912b2e16-2062-4b30-80d6-b968de68b525~animal:European beaver~owner:Evelyn Sandey~title:Dr~countryAnimalLives:Russia~ownerPaid:$4164.51
+recordId:2ce0b420-fa06-4edb-ac2a-1cf9cad37d6e~animal:Darwin ground finch (unidentified)~owner:Roby Forge~title:Dr~countryAnimalLives:China~ownerPaid:$1687.53
+recordId:14917e3c-b10c-4d69-aa52-00675a73904b~animal:Giant otter~owner:Shane Rivilis~title:Ms~countryAnimalLives:Cameroon~ownerPaid:$2192.31
+recordId:c8faa9cf-a28a-42de-ae9e-5b2acbac77ab~animal:Hippopotamus~owner:Deana Wannell~title:Mr~countryAnimalLives:Uganda~ownerPaid:$4332.55
+recordId:e4e79269-d96b-4093-9752-4d97a8b508e9~animal:Guanaco~owner:Cherrita Sperrett~title:Mrs~countryAnimalLives:Poland~ownerPaid:$2786.83
+recordId:15acd8cc-14e6-4251-9388-6d79b4168f27~animal:Skunk, western spotted~owner:Shannon O' Flaherty~title:Dr~countryAnimalLives:Bosnia and Herzegovina~ownerPaid:$1885.16
+recordId:2622f156-5035-46b2-8b58-4e0bfdfe1214~animal:Pelican, brown~owner:Wain Dodle~title:Mrs~countryAnimalLives:China~ownerPaid:$2371.47
+recordId:283084be-6169-4b9a-aca9-f44170cfa530~animal:White-necked stork~owner:Shawnee Mannin~title:Dr~countryAnimalLives:Russia~ownerPaid:$4306.21
+recordId:e150ca3b-44f4-4cc5-874e-ee79999726ea~animal:Crane, wattled~owner:Raf Grigorkin~title:Mr~countryAnimalLives:Palestinian Territory~ownerPaid:$4576.3
+recordId:5fcf90cb-eee0-4ebb-a0f8-301ba422d611~animal:White rhinoceros~owner:Garvy Tolputt~title:Mr~countryAnimalLives:Brazil~ownerPaid:$4534.34
+recordId:d21c1029-d826-4546-bbf5-25e0c69166ab~animal:Antechinus, brown~owner:Nani Langabeer~title:Honorable~countryAnimalLives:Russia~ownerPaid:$4460.06
+recordId:fb5109c6-6e8d-43bb-9170-c35e286d7410~animal:Mandras tree shrew~owner:Ezmeralda Wabe~title:Ms~countryAnimalLives:Russia~ownerPaid:$837.74
+recordId:05f0d5a0-5514-4dde-96bf-0e2582273e45~animal:Wildebeest, blue~owner:Jobina Jeenes~title:Rev~countryAnimalLives:Russia~ownerPaid:$1549.13
+recordId:fc509717-c2b1-419d-9f2c-591771adca81~animal:Ground monitor (unidentified)~owner:Saudra Copcott~title:Rev~countryAnimalLives:Russia~ownerPaid:$2893.19
+recordId:7d5e760f-4711-4c50-8997-b4710f1c34d6~animal:Legaan, ground~owner:Cordelia Manis~title:Ms~countryAnimalLives:Philippines~ownerPaid:$3855.17
+recordId:0cbd4167-d4bc-45ae-9fa1-08a474a6096b~animal:Buffalo, wild water~owner:Maynord Durgan~title:Honorable~countryAnimalLives:Bolivia~ownerPaid:$1363.69
+recordId:e71e0e16-801c-4c72-a288-b6ad1101e39b~animal:Ringtail~owner:Blanca Norcliff~title:Mr~countryAnimalLives:Ivory Coast~ownerPaid:$1857.22
+recordId:c8b00272-68b1-43de-b6e0-7088633d0f77~animal:Wild water buffalo~owner:Jeffrey Eldin~title:Rev~countryAnimalLives:Bosnia and Herzegovina~ownerPaid:$1565.62
+recordId:3bb03ed0-3dcb-4a8b-9732-113858046a42~animal:Emerald-spotted wood dove~owner:Stacia Proffer~title:Mr~countryAnimalLives:United States~ownerPaid:$3040.4
+recordId:3adf84b8-ea57-47f6-be8c-4b0daa75912e~animal:Black bear~owner:Cecilio Niblock~title:Ms~countryAnimalLives:Poland~ownerPaid:$1148.62
+recordId:8c5ae9d0-9947-488a-ba3b-951d3d762cd3~animal:Phalarope, grey~owner:Alberik Bernardeau~title:Mrs~countryAnimalLives:Thailand~ownerPaid:$1531.36
+recordId:f1bfc4ed-adcc-4193-9cb6-859e090ea3b6~animal:Little blue penguin~owner:Kissiah Haggarth~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$4073.02
+recordId:53dc2e86-20a3-46c1-bced-3ecda79865c5~animal:Vulture, white-headed~owner:Alf Stitwell~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$1734.78
+recordId:e5b1f37f-98a9-4a4c-be45-041f4ef8def3~animal:Jackal, indian~owner:Trefor Le Fevre~title:Dr~countryAnimalLives:Colombia~ownerPaid:$2126.56
+recordId:925b1c77-81ae-4c7a-949e-70f2bdcd5fb3~animal:Red-billed tropic bird~owner:Chicky Radmer~title:Rev~countryAnimalLives:Russia~ownerPaid:$4463.72
+recordId:df9abb61-ad9f-4ede-a36b-2bd547d6921c~animal:Hyrax~owner:Gav Rockcliffe~title:Mrs~countryAnimalLives:China~ownerPaid:$4399.02
+recordId:fb2d805b-47c4-4c84-8c7e-d222b16858f3~animal:Bleu, red-cheeked cordon~owner:Robinet Windrass~title:Ms~countryAnimalLives:Guatemala~ownerPaid:$2051.71
+recordId:0cb6eea2-352e-4151-9527-a74f26369eec~animal:Oribi~owner:Hanni Kendell~title:Rev~countryAnimalLives:China~ownerPaid:$1272.68
+recordId:2ba91932-dada-48b1-b098-81d0cf02115b~animal:Worm snake (unidentified)~owner:Pearla Rennie~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$1075.8
+recordId:cc88eed2-f6e8-43e4-aa8e-814ae757ee00~animal:Black-capped chickadee~owner:Desiri Guirardin~title:Mr~countryAnimalLives:Panama~ownerPaid:$2816.56
+recordId:b26f646d-88ef-42fc-87d1-4ebd609aacbc~animal:Wallaroo, common~owner:Dotty Forrestor~title:Dr~countryAnimalLives:Philippines~ownerPaid:$1377.38
+recordId:65e9e008-c7c8-4900-8d7f-480154ff73aa~animal:White-throated monitor~owner:Gustave Stonham~title:Ms~countryAnimalLives:Israel~ownerPaid:$4384.75
+recordId:79991ba1-b501-4af6-9184-4188a18a97d7~animal:Richardson's ground squirrel~owner:Cliff Forrestill~title:Honorable~countryAnimalLives:Kenya~ownerPaid:$1221.69
+recordId:5e5ebdd6-6594-4156-b484-3796bc5ac7ba~animal:Trumpeter swan~owner:Tarrance Leverington~title:Mrs~countryAnimalLives:China~ownerPaid:$1234.18
+recordId:9f61e0cb-902a-42bb-b0c4-ade8932c9086~animal:Cat, civet~owner:Fan Duff~title:Mr~countryAnimalLives:Japan~ownerPaid:$4817.15
+recordId:cc000ae5-f1cc-4eb2-9c05-b4d3962d279d~animal:Plover, three-banded~owner:Dale Halworth~title:Ms~countryAnimalLives:Portugal~ownerPaid:$3795.87
+recordId:a698c148-51b9-4be9-b677-79db74e847f4~animal:Turtle (unidentified)~owner:Ruby Roscow~title:Dr~countryAnimalLives:Belarus~ownerPaid:$4227.68
+recordId:9fd27f3f-c0e1-425f-84d8-578c149503d1~animal:Common zebra~owner:Hephzibah Wileman~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$3305.55
+recordId:ba7a1aeb-2214-4c3c-943b-c34ae9594b21~animal:Cat, ringtail~owner:Tully Prosek~title:Mrs~countryAnimalLives:Canada~ownerPaid:$2366.09
+recordId:71aeb4ce-144c-4686-a9e1-73b318f541de~animal:Agama lizard (unidentified)~owner:Julie Meritt~title:Mrs~countryAnimalLives:China~ownerPaid:$3869.56
+recordId:9f0e7b8b-07a1-48e1-b329-16988415051a~animal:Eastern fox squirrel~owner:Shannon Pascow~title:Honorable~countryAnimalLives:China~ownerPaid:$2154.28
+recordId:06c1405b-e744-4eff-823b-db879aebe9a6~animal:Eastern white pelican~owner:Gal Lapsley~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$3996.95
+recordId:67cab780-a095-4c07-9e51-5bd9108ea912~animal:Eastern grey kangaroo~owner:Gan Samuels~title:Mrs~countryAnimalLives:Palestinian Territory~ownerPaid:$682.02
+recordId:28c6954c-9797-486e-ad60-ee7951dee44e~animal:Crane, sandhill~owner:Trip Brownstein~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$3256.87
+recordId:ea3d742e-5b6e-4cb2-b0b4-caee5a6a95eb~animal:Raccoon, common~owner:Pepi Trimble~title:Mr~countryAnimalLives:Colombia~ownerPaid:$3494.53
+recordId:230162cf-9ad7-47d1-96ef-964ba60294f6~animal:Turkey, common~owner:Constantine Richens~title:Rev~countryAnimalLives:Mongolia~ownerPaid:$2477.86
+recordId:35e9d8f3-80a4-41ec-a23d-4b55bbd71b85~animal:Asian elephant~owner:Clio Kenewel~title:Honorable~countryAnimalLives:Hungary~ownerPaid:$710.36
+recordId:2a8b9e71-c11f-469f-80e8-7e10a6a9dfe0~animal:Ring-tailed coatimundi~owner:Euphemia Stammler~title:Ms~countryAnimalLives:Tanzania~ownerPaid:$3304.51
+recordId:0f23d6f6-160b-47f6-9d7e-35d91a278ad3~animal:Boat-billed heron~owner:Bryn Boutell~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$1526.97
+recordId:6f7eea78-cbbf-47a2-96d1-809f5581a3a2~animal:Lion, south american sea~owner:Karole Goldthorpe~title:Mr~countryAnimalLives:Czech Republic~ownerPaid:$3916.22
+recordId:0d1712b6-2124-448c-904a-869b418d256b~animal:Polecat, african~owner:Ryan Leftley~title:Mrs~countryAnimalLives:Mongolia~ownerPaid:$4839.81
+recordId:fe1f9a8c-7081-4314-a423-23bb87a36e9d~animal:Striped dolphin~owner:Zebulon Poundesford~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$630.12
+recordId:58d75b78-9a6c-4f43-91c4-9a6e45800736~animal:Magellanic penguin~owner:Sib Myles~title:Honorable~countryAnimalLives:Uruguay~ownerPaid:$3130.57
+recordId:22744ddd-95de-42cf-901f-962c420b8185~animal:Western palm tanager (unidentified)~owner:Augustina Witherop~title:Honorable~countryAnimalLives:China~ownerPaid:$4245.43
+recordId:0ffc2209-65e0-4fae-aa27-48137fc8ec4e~animal:Barasingha deer~owner:Atlanta MacManus~title:Mrs~countryAnimalLives:Saint Vincent and the Grenadines~ownerPaid:$4416.29
+recordId:008b41c7-32be-48f7-848c-530c204bed6d~animal:Stanley bustard~owner:Rodger Cockett~title:Honorable~countryAnimalLives:China~ownerPaid:$1292.38
+recordId:33d6532c-b03e-477a-adf4-611f7db018d2~animal:Sacred ibis~owner:Aurthur Learoyde~title:Honorable~countryAnimalLives:Sweden~ownerPaid:$4059.57
+recordId:5ee4d387-2b11-40af-8591-bef22844dedf~animal:Squirrel, indian giant~owner:Karolina Chatband~title:Honorable~countryAnimalLives:United States~ownerPaid:$4003.09
+recordId:3c2cbf61-96a1-4481-80d9-c5a4866ce363~animal:Horned rattlesnake~owner:Rochell Caddell~title:Honorable~countryAnimalLives:South Africa~ownerPaid:$2596.33
+recordId:87d8e1ab-5e5c-48bd-90c4-d0b8ca90208b~animal:Otter, giant~owner:Catherin Bottleson~title:Mrs~countryAnimalLives:Finland~ownerPaid:$3957.01
+recordId:f0d74aec-6dd9-4be8-b7b9-8875e90e5bf9~animal:Mexican beaded lizard~owner:Gibbie Dunbavin~title:Dr~countryAnimalLives:China~ownerPaid:$3555.26
+recordId:bd1e2726-a0d9-4e1a-b988-f09e57470dae~animal:Egret, great~owner:Amye Lesley~title:Rev~countryAnimalLives:Macedonia~ownerPaid:$2080.37
+recordId:084770d4-db34-4107-8919-6a8988a6f85f~animal:Moorhen, purple~owner:Raychel Gilbert~title:Ms~countryAnimalLives:Brazil~ownerPaid:$581.31
+recordId:49aff712-9b1a-40e3-8990-4bde05b9654b~animal:Gorilla, western lowland~owner:Lindi Vurley~title:Dr~countryAnimalLives:China~ownerPaid:$2910.38
+recordId:7ddd07a8-0ae9-410b-85c8-a0edbe9cd6e7~animal:Pie, rufous tree~owner:Lexi McLice~title:Mrs~countryAnimalLives:Philippines~ownerPaid:$1166.08
+recordId:f41ee88f-cee8-494f-9295-107edabf34a8~animal:Brocket, red~owner:Felike Hansbury~title:Mr~countryAnimalLives:Russia~ownerPaid:$1225.58
+recordId:f4b1cc13-dce9-4287-b18d-c5ad4a3d13ab~animal:Paca~owner:Brett Goodfellowe~title:Mrs~countryAnimalLives:Uruguay~ownerPaid:$2314.91
+recordId:e345ad92-58db-45d8-9007-c596c52e17a3~animal:Zorro, azara's~owner:Cristy Spada~title:Mrs~countryAnimalLives:Venezuela~ownerPaid:$1185.8
+recordId:ed624466-184c-4ea7-b7aa-3382ae991603~animal:American racer~owner:Mandi Antham~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$3807.55
+recordId:375757dd-7e77-4c3c-bef0-dfb941491563~animal:Gecko, ring-tailed~owner:Hatti Edsell~title:Mr~countryAnimalLives:Vietnam~ownerPaid:$1685.23
+recordId:4c76cf2c-8d18-4167-a19e-9667d1d17b3b~animal:Bleu, blue-breasted cordon~owner:Etienne Jandl~title:Honorable~countryAnimalLives:United States~ownerPaid:$4422.36
+recordId:105eb944-ee20-49a1-8557-a22379d8c544~animal:Swallow-tail gull~owner:Elene Dennis~title:Mr~countryAnimalLives:Czech Republic~ownerPaid:$2203.87
+recordId:8ee377ee-94dd-43c6-ab3f-44da67514c7b~animal:Indian leopard~owner:Kristoforo Martinuzzi~title:Honorable~countryAnimalLives:China~ownerPaid:$1420.47
+recordId:c2386160-670b-4761-bb71-c9a895a1633f~animal:Screamer, crested~owner:Loren Shervil~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$3697.56
+recordId:239af0ca-ce3e-4fcb-bbf1-9ca6f650ac34~animal:Wattled crane~owner:Amabelle Swetman~title:Mr~countryAnimalLives:Greece~ownerPaid:$2705.47
+recordId:2ac96196-d1bc-497b-81a5-57ab30a9ace8~animal:Black-throated cardinal~owner:Kettie Lyddyard~title:Rev~countryAnimalLives:Brazil~ownerPaid:$1857.89
+recordId:0f3631a3-d6d9-4fa7-8af4-063c75361a0d~animal:Nine-banded armadillo~owner:Yasmin Pude~title:Dr~countryAnimalLives:Czech Republic~ownerPaid:$4825.84
+recordId:0eb76679-610a-424e-b0e1-c6efaf181f99~animal:Dove, laughing~owner:Cosimo Gannon~title:Ms~countryAnimalLives:Japan~ownerPaid:$1838.15
+recordId:ec7eb7c7-4a49-4ae5-9012-c86ec6e4aeaa~animal:Sidewinder~owner:Torrey Abbs~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$1062.89
+recordId:2a61b86a-fd4f-4519-92ac-b9e59b60286d~animal:Pelican, australian~owner:Larisa Lohrensen~title:Mr~countryAnimalLives:Japan~ownerPaid:$932.74
+recordId:1ee38a14-1043-4f17-a2b0-c638c6426add~animal:Asian lion~owner:Maia Brockett~title:Rev~countryAnimalLives:France~ownerPaid:$1041.55
+recordId:cb8f7ef4-c471-4c31-ba8d-58828c4ba6a1~animal:Crab-eating raccoon~owner:Erv Lindback~title:Mrs~countryAnimalLives:Malta~ownerPaid:$3359.84
+recordId:30ce42f7-87dd-44ee-9aff-b651830e5902~animal:Phascogale, brush-tailed~owner:Jephthah Peperell~title:Ms~countryAnimalLives:China~ownerPaid:$3191.06
+recordId:1781c0fb-f909-41ef-924f-15c69edf8e54~animal:Mynah, indian~owner:Marj Dyett~title:Mrs~countryAnimalLives:Brazil~ownerPaid:$4821.16
+recordId:0aed6b0a-de35-4730-9a51-1ac6735a7dce~animal:Grizzly bear~owner:Thornton Haburne~title:Mr~countryAnimalLives:Czech Republic~ownerPaid:$1016.5
+recordId:5bd43f53-e902-4879-ada8-64b89c10c350~animal:Bee-eater, nubian~owner:Kelley Kanwell~title:Ms~countryAnimalLives:Malta~ownerPaid:$1831.56
+recordId:6cc101a2-00dd-4d7e-8c1d-135894f7e108~animal:European beaver~owner:Tawsha Ambroise~title:Rev~countryAnimalLives:Philippines~ownerPaid:$3924.85
+recordId:29387456-0ab3-4ec3-9518-05ecb6458466~animal:Mountain goat~owner:Tiphani Connock~title:Rev~countryAnimalLives:France~ownerPaid:$986.31
+recordId:47ff5e65-b68c-4e73-a26f-8c093c9cd49e~animal:Bald eagle~owner:Dyann Ascroft~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$1106.93
+recordId:c230149e-131e-4b8a-acb0-f5b5bfc8de44~animal:Greylag goose~owner:Wald Semour~title:Dr~countryAnimalLives:Russia~ownerPaid:$850.78
+recordId:437409e0-7b07-415f-9250-67051ff6cee4~animal:Javan gold-spotted mongoose~owner:Sandye Jenkyn~title:Ms~countryAnimalLives:Czech Republic~ownerPaid:$1273.55
+recordId:7bdce0ad-2e99-42ef-8194-e86177b58c8a~animal:Crowned eagle~owner:Vito Hillam~title:Rev~countryAnimalLives:China~ownerPaid:$2651.21
+recordId:4bf5748d-be28-459b-8a69-3fadadf0d7bb~animal:Bonnet macaque~owner:Truda Greger~title:Mrs~countryAnimalLives:Philippines~ownerPaid:$892.86
+recordId:5e4dbf0f-8b44-4255-be9d-4554bd6018f5~animal:Rabbit, eastern cottontail~owner:Armin Lebang~title:Mr~countryAnimalLives:Poland~ownerPaid:$2009.01
+recordId:d5ec762b-4d4c-438b-9ed1-e833e8fddcd2~animal:Cattle egret~owner:Philly Skene~title:Dr~countryAnimalLives:Russia~ownerPaid:$4976.37
+recordId:bfcb5760-f026-4842-b6ca-23004649e038~animal:Galapagos sea lion~owner:Debee Armytage~title:Ms~countryAnimalLives:Czech Republic~ownerPaid:$1456.11
+recordId:66421279-c841-4fee-8a3b-f387b8524941~animal:Siskin, yellow-rumped~owner:Blanch Haselup~title:Mr~countryAnimalLives:Canada~ownerPaid:$1366.37
+recordId:e4e3784d-9551-41a2-9111-faa91e66f01e~animal:Herring gull~owner:Eachelle Slimm~title:Rev~countryAnimalLives:Ethiopia~ownerPaid:$1398.36
+recordId:7b2b193f-2199-48fc-acfd-29d66441b57f~animal:Fox, silver-backed~owner:Dominique Oldroyd~title:Rev~countryAnimalLives:Argentina~ownerPaid:$4695.72
+recordId:e92cde6d-1d01-426d-94fc-c4d7636e9bdd~animal:Woolly-necked stork~owner:Bevvy Lamps~title:Ms~countryAnimalLives:Finland~ownerPaid:$3163.37
+recordId:59a7e18a-dbb7-45dc-bf37-1633fd98346e~animal:Swallow-tail gull~owner:Cherianne Muzzall~title:Rev~countryAnimalLives:China~ownerPaid:$4893.51
+recordId:9c06b55a-6464-4b0e-80e7-b285de818edc~animal:Marine iguana~owner:Selie Meekin~title:Honorable~countryAnimalLives:Poland~ownerPaid:$4850.2
+recordId:2ca425b5-f1b6-4dd6-a836-7750e9e8fd04~animal:South American sea lion~owner:Angelo Deller~title:Dr~countryAnimalLives:Russia~ownerPaid:$2156.83
+recordId:760ee331-2edd-4f76-828e-04024ae55de6~animal:Grouse, greater sage~owner:Kelly Sharpe~title:Dr~countryAnimalLives:Brazil~ownerPaid:$1074.27
+recordId:ca62aa0b-fb49-4fdd-ac0c-13162bc12b67~animal:Trumpeter swan~owner:Sibyl Lappine~title:Rev~countryAnimalLives:Brazil~ownerPaid:$1984.39
+recordId:2a44f7a0-0816-4584-8339-7a1d2bb1b0ad~animal:Barbet, black-collared~owner:Lewiss Caldera~title:Dr~countryAnimalLives:Philippines~ownerPaid:$3899.91
+recordId:0c60b086-2b77-4ea5-a7b0-a13af6ea516c~animal:Zorro, common~owner:Lacey Aylen~title:Dr~countryAnimalLives:Japan~ownerPaid:$2970.88
+recordId:6dc7bd51-7cd2-4761-836d-f20de2ccac09~animal:Black-fronted bulbul~owner:Igor Thames~title:Mrs~countryAnimalLives:Argentina~ownerPaid:$2899.44
+recordId:cf1be8e1-a559-4d5a-a6a7-89a8223e0594~animal:Amazon parrot (unidentified)~owner:Wittie Beaglehole~title:Mrs~countryAnimalLives:Venezuela~ownerPaid:$2490.27
+recordId:af6d9de6-17ce-4d03-8834-db4db15d1232~animal:Racer snake~owner:Salim Lathan~title:Dr~countryAnimalLives:Vietnam~ownerPaid:$4840.67
+recordId:177cce3b-77f8-45e6-9375-e60921b09eb0~animal:Saddle-billed stork~owner:Alva Helwig~title:Honorable~countryAnimalLives:Russia~ownerPaid:$1509.63
+recordId:d23ac7d4-a0a1-48d5-9492-6227c9820414~animal:Tern, royal~owner:Mildred Kem~title:Mr~countryAnimalLives:Palestinian Territory~ownerPaid:$2852.41
+recordId:9105b40b-43d8-44e9-b93d-174a8a46f2a4~animal:Echidna, short-beaked~owner:Duffie Dumbrall~title:Ms~countryAnimalLives:China~ownerPaid:$4202.58
+recordId:231c8722-ff8f-492b-97a7-b0c93afc96e6~animal:Ground legaan~owner:Polly Borham~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$2920.45
+recordId:765e67ae-923e-4167-b941-b4a6065b19de~animal:Bird, red-billed tropic~owner:Marketa Versey~title:Dr~countryAnimalLives:Greece~ownerPaid:$783.33
+recordId:c8aaca88-87cd-4326-96ff-7b9c1d1fec86~animal:Legaan, ground~owner:Zebulen Glassford~title:Mr~countryAnimalLives:Bangladesh~ownerPaid:$4574.2
+recordId:ea01aabf-719f-4667-b0c9-2b47afbe7e94~animal:Pine siskin~owner:Harper Belsher~title:Dr~countryAnimalLives:Bolivia~ownerPaid:$1560.85
+recordId:470b2fac-ff51-4c14-8157-fb1c78da9601~animal:Waxbill, black-cheeked~owner:Jennine Gingedale~title:Honorable~countryAnimalLives:Russia~ownerPaid:$2850.6
+recordId:184ed709-253f-450c-b680-02cf15c0eb1c~animal:Jackal, indian~owner:Lilyan Fontelles~title:Dr~countryAnimalLives:Portugal~ownerPaid:$4900.4
+recordId:5bb6a8bb-d10f-470a-8709-83fd403e1a41~animal:Malay squirrel (unidentified)~owner:Bryon Pesak~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$1161.64
+recordId:2862299a-9724-4676-b4b3-aac8606f0170~animal:Small-toothed palm civet~owner:Lissy Nend~title:Rev~countryAnimalLives:Peru~ownerPaid:$2487.03
+recordId:78125d58-8cc3-4ebd-9f70-5a919dea0264~animal:Andean goose~owner:Olivier Streak~title:Mrs~countryAnimalLives:Russia~ownerPaid:$3580.62
+recordId:cd925817-2fed-4b82-a4aa-cb11b03b14a6~animal:Rat, arboral spiny~owner:Leshia McEntegart~title:Ms~countryAnimalLives:Mongolia~ownerPaid:$3335.41
+recordId:8bfef5f6-683a-4832-a23c-b4f00909657b~animal:Weaver, red-billed buffalo~owner:Gwen Burnett~title:Ms~countryAnimalLives:Myanmar~ownerPaid:$4750.79
+recordId:cc41c8dd-e5f8-44b9-9e67-3a9433742a80~animal:Southern right whale~owner:Jesse Mulhill~title:Ms~countryAnimalLives:Kenya~ownerPaid:$3058.06
+recordId:ad8d7783-fa4c-43a1-87b4-58012c3d4e27~animal:American badger~owner:Bradan Readshaw~title:Rev~countryAnimalLives:China~ownerPaid:$3516.11
+recordId:ed30e17d-0872-403b-a284-0d14cdc5591b~animal:Pied crow~owner:Victoir Danielis~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$4633.52
+recordId:464351e8-7c20-4ef0-bd51-5544710e48fc~animal:Defassa waterbuck~owner:Tyson Stanlike~title:Mrs~countryAnimalLives:Brazil~ownerPaid:$3078.71
+recordId:106354f0-d7ce-4822-a435-d2c896ba34a0~animal:American woodcock~owner:Del Marcone~title:Ms~countryAnimalLives:Finland~ownerPaid:$3504.91
+recordId:343aaea4-6998-4bbe-9649-ceb193eef204~animal:Mexican boa~owner:Fanchette Stanlock~title:Rev~countryAnimalLives:Norway~ownerPaid:$4041.32
+recordId:60fb213d-3691-40dc-abc0-3027d29ee05f~animal:Goliath heron~owner:Leopold Adamov~title:Dr~countryAnimalLives:Sudan~ownerPaid:$2546.47
+recordId:549d86c7-2569-4a4f-bcd6-1e1e4db5336d~animal:Pine siskin~owner:Bone Fri~title:Rev~countryAnimalLives:Serbia~ownerPaid:$2360.97
+recordId:5407f0b2-a4ce-4c50-a0d2-56820d82c2a6~animal:Shrike, southern white-crowned~owner:Jervis O'Calleran~title:Dr~countryAnimalLives:Ukraine~ownerPaid:$3794.68
+recordId:8a329cdd-197c-440f-87f6-0a4f0badcd47~animal:Buffalo, asian water~owner:Steffi Camolli~title:Mr~countryAnimalLives:Portugal~ownerPaid:$4813.62
+recordId:4a79c636-2fb2-4236-a5ba-8fc3afdac96f~animal:Lion, asian~owner:Kristi Sictornes~title:Ms~countryAnimalLives:Japan~ownerPaid:$2144.29
+recordId:b278f1a7-54b4-4c09-92a2-4e4b05ae779a~animal:Campo flicker~owner:Carline Gallier~title:Mrs~countryAnimalLives:Poland~ownerPaid:$1170.37
+recordId:f5134d7d-4a25-4639-abad-c44c7701786e~animal:Small-spotted genet~owner:Evangelin Plaistowe~title:Ms~countryAnimalLives:China~ownerPaid:$4203.81
+recordId:1b6b8a7e-d691-4797-afdb-f95f183ebbf5~animal:Elegant crested tinamou~owner:Odelinda Craufurd~title:Mrs~countryAnimalLives:Albania~ownerPaid:$3783.25
+recordId:0e6dcad2-c1c6-474d-a59f-2494c5a3e969~animal:Tern, arctic~owner:Winnah Queree~title:Rev~countryAnimalLives:China~ownerPaid:$4844.44
+recordId:779f802b-024d-4789-a610-5a2b64bba0d3~animal:Penguin, magellanic~owner:Holli Pressnell~title:Honorable~countryAnimalLives:Czech Republic~ownerPaid:$3432.42
+recordId:44eada18-3783-468b-a557-6ea68406c358~animal:Rock dove~owner:Merridie Flint~title:Rev~countryAnimalLives:China~ownerPaid:$2613.68
+recordId:3eeba3d6-c0a1-4f9e-94b8-1833a266be98~animal:Ibis, sacred~owner:Mil Bridgwater~title:Dr~countryAnimalLives:Thailand~ownerPaid:$3938.28
+recordId:102842bf-10b8-4447-bf8b-11fed7c62fc9~animal:Black-backed jackal~owner:Tome Michelle~title:Dr~countryAnimalLives:Russia~ownerPaid:$2515.19
+recordId:c685b115-1499-466f-83f7-15c403869282~animal:Eastern cottontail rabbit~owner:Rodrick Puden~title:Mr~countryAnimalLives:Slovenia~ownerPaid:$3550.98
+recordId:24127e0d-5b2e-4882-a970-e59e01bc2bb4~animal:Macaque, pig-tailed~owner:Pippo Platt~title:Mrs~countryAnimalLives:Russia~ownerPaid:$4133.1
+recordId:52691aae-0cb0-489d-a453-92dfa86466fa~animal:Trotter, lily~owner:Susy Giampietro~title:Mr~countryAnimalLives:Argentina~ownerPaid:$2931.71
+recordId:c04a7549-325f-4419-af30-3dc54cfdae95~animal:Spoonbill, white~owner:Fredric Fanning~title:Ms~countryAnimalLives:United States~ownerPaid:$1021.7
+recordId:d1d0c3de-31d8-4ee6-afe1-84b6a1f0eb8f~animal:Duiker, gray~owner:Sheela Hovy~title:Ms~countryAnimalLives:Armenia~ownerPaid:$2841.12
+recordId:e5856f9d-bed6-4bbf-9126-489dd5e59d55~animal:Viper, egyptian~owner:Ninon Bilbery~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$2040.15
+recordId:1036705d-95db-4f5d-a4d3-079c2af03621~animal:African polecat~owner:Laurence Hazeup~title:Dr~countryAnimalLives:China~ownerPaid:$1727.09
+recordId:b910b2e4-5e8a-4f98-8f4d-fbd1bc322ab0~animal:Anaconda (unidentified)~owner:Hubey Kaley~title:Rev~countryAnimalLives:Colombia~ownerPaid:$3483.32
+recordId:90091b3e-32c9-4fb6-9692-02c135739634~animal:Richardson's ground squirrel~owner:Edan Gladbeck~title:Rev~countryAnimalLives:Macedonia~ownerPaid:$1752.01
+recordId:5624b2e0-bd1b-45a7-83e9-e30283b5ba5b~animal:Warthog~owner:Hershel Carlsson~title:Mr~countryAnimalLives:Nigeria~ownerPaid:$3111.34
+recordId:256e61dc-8053-4f25-b26f-7c81baf140a4~animal:Grison~owner:Say Pilipets~title:Ms~countryAnimalLives:Russia~ownerPaid:$3680.17
+recordId:d0044d6e-bc9b-4cc1-ad99-c0c36f92871a~animal:Chestnut weaver~owner:Izaak Robet~title:Mr~countryAnimalLives:Latvia~ownerPaid:$2892.04
+recordId:14d5f545-8867-4ee7-9762-5b4c7aee40b6~animal:Kongoni~owner:Artair Scanlon~title:Mrs~countryAnimalLives:Poland~ownerPaid:$4886.35
+recordId:d305a587-a3aa-4db4-b794-b5e05f7becf3~animal:Monkey, rhesus~owner:Christalle Ralphs~title:Ms~countryAnimalLives:Thailand~ownerPaid:$1234.92
+recordId:0e474f88-3063-4da3-8145-2884719e84dd~animal:Blue catfish~owner:Idelle Cavet~title:Dr~countryAnimalLives:Malaysia~ownerPaid:$3541.98
+recordId:968b9537-8496-4388-b726-86ccaabfd243~animal:Mexican boa~owner:Stearne McGlone~title:Mr~countryAnimalLives:China~ownerPaid:$4547.41
+recordId:f94dbfec-f08e-490f-90a5-75771095a73c~animal:Eagle, pallas's fish~owner:Monique Attawell~title:Rev~countryAnimalLives:China~ownerPaid:$4828.67
+recordId:e3dafaf8-6451-4d23-9333-68b5bde9369c~animal:Hyrax~owner:Stormi Sendall~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$3867.76
+recordId:77882132-ee61-4b8e-b472-853e6cf7e5a2~animal:Jackal, indian~owner:Rhys Garfit~title:Ms~countryAnimalLives:Ukraine~ownerPaid:$3278.43
+recordId:c977e9d5-c3d2-465c-8e7b-a5d93cc27e20~animal:Siskin, pine~owner:Torry Darinton~title:Honorable~countryAnimalLives:Indonesia~ownerPaid:$1104.21
+recordId:5d27e9cc-34af-4011-9052-9dc5c35507bc~animal:Vulture, white-headed~owner:Nikaniki Betton~title:Mrs~countryAnimalLives:Kazakhstan~ownerPaid:$2088.25
+recordId:5da37445-cc2d-4936-8b7f-85e5af671df9~animal:Cat, african wild~owner:Joyan Showell~title:Honorable~countryAnimalLives:Colombia~ownerPaid:$1497.32
+recordId:2611fbd4-4760-4db2-8054-6bc09a788f7f~animal:Tree porcupine~owner:Olimpia McAllen~title:Dr~countryAnimalLives:Russia~ownerPaid:$1819.49
+recordId:3001793c-a3a6-4c45-89ff-90b715f12cc8~animal:Sockeye salmon~owner:Gibb Mattson~title:Mrs~countryAnimalLives:Colombia~ownerPaid:$4485.13
+recordId:4644f664-b242-44df-b0a4-ead801b4985b~animal:Tyrant flycatcher~owner:Sayre Hember~title:Mr~countryAnimalLives:China~ownerPaid:$1558.52
+recordId:55d821eb-ed54-4bba-a9c9-50807c8dd2c3~animal:Red-billed hornbill~owner:Delora Frotton~title:Honorable~countryAnimalLives:United States~ownerPaid:$4216.18
+recordId:4a96724f-89d4-4653-aad2-0e6a2a66ce2c~animal:Oribi~owner:Jaquelyn Rakestraw~title:Ms~countryAnimalLives:Sweden~ownerPaid:$4146.07
+recordId:875b8712-2566-4823-9cac-7eed459c15ad~animal:Indian peacock~owner:Tera Roggieri~title:Ms~countryAnimalLives:Democratic Republic of the Congo~ownerPaid:$2374.46
+recordId:95910df9-0626-45db-a37f-d97f851876f0~animal:Snake-necked turtle~owner:Avictor Spridgen~title:Dr~countryAnimalLives:Czech Republic~ownerPaid:$4446.78
+recordId:0868d889-052d-41f1-8956-683e1fde3434~animal:Toucan, red-billed~owner:Nolly Aston~title:Mr~countryAnimalLives:Malta~ownerPaid:$2210.04
+recordId:ceb7d282-8a71-4c56-8d3c-f162544817e5~animal:Chital~owner:Raf Wyeth~title:Rev~countryAnimalLives:Pakistan~ownerPaid:$3039.88
+recordId:09d145c1-7759-47fc-84f7-dba5b460525a~animal:Hawk, red-tailed~owner:Urson Moorwood~title:Honorable~countryAnimalLives:Pakistan~ownerPaid:$3931.48
+recordId:253dc88f-3589-456c-9e87-58daba6dfec1~animal:White-winged tern~owner:Vevay Petrelli~title:Dr~countryAnimalLives:Mexico~ownerPaid:$3319.8
+recordId:21d24c9e-df3f-4725-bf80-e83e87e0c74b~animal:Boat-billed heron~owner:Karel Harrigan~title:Ms~countryAnimalLives:China~ownerPaid:$3971.21
+recordId:5da55eec-8317-4340-a1c4-b8c9bacdfc82~animal:African lynx~owner:Lind Coulthard~title:Honorable~countryAnimalLives:Czech Republic~ownerPaid:$4320.69
+recordId:f4e386f0-1585-4964-ae85-444769eb6409~animal:Savannah deer (unidentified)~owner:Derby Wandrey~title:Dr~countryAnimalLives:Macedonia~ownerPaid:$1295.44
+recordId:87f967a9-6b20-44f1-a659-2b0d3ced3da5~animal:Sidewinder~owner:Lowell Ecclestone~title:Mrs~countryAnimalLives:China~ownerPaid:$3482.74
+recordId:a027ad38-9f32-4cf2-bf62-f875312c833c~animal:Bear, polar~owner:Anthia Walkinshaw~title:Mrs~countryAnimalLives:Indonesia~ownerPaid:$2772.11
+recordId:68e3c236-16e2-4d8c-9b08-ff75c0395dfe~animal:White-necked stork~owner:Tess Tuffs~title:Mrs~countryAnimalLives:China~ownerPaid:$3298.23
+recordId:1c149faf-62f8-4783-b61b-6d7c9025e644~animal:Asian water buffalo~owner:Thurstan Bodleigh~title:Rev~countryAnimalLives:Uruguay~ownerPaid:$3711.98
+recordId:c3caf291-5f81-495f-9c3b-264f6641ebda~animal:Mongoose, javan gold-spotted~owner:Carmen Saye~title:Dr~countryAnimalLives:Colombia~ownerPaid:$990.29
+recordId:fc1cabbe-1f74-4e73-b7c6-8c0afed06fad~animal:Common rhea~owner:Myra Tille~title:Honorable~countryAnimalLives:Zimbabwe~ownerPaid:$1200.43
+recordId:5d60b110-1a97-499b-a866-7830ffca4194~animal:Kafue flats lechwe~owner:Davida Crosthwaite~title:Ms~countryAnimalLives:Vietnam~ownerPaid:$609.81
+recordId:46264b2c-e824-403c-b9f8-71857371bf72~animal:Jackal, black-backed~owner:Ines Gogay~title:Rev~countryAnimalLives:Russia~ownerPaid:$2135.87
+recordId:35c8bbb7-1323-4dc8-a4af-9c90eeaf5ce3~animal:Snake (unidentified)~owner:Aime Schach~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$3843.66
+recordId:c4c2777f-7ea4-4097-88ca-7d9da47b6a88~animal:Jackal, black-backed~owner:Hugo Goodsell~title:Rev~countryAnimalLives:Brazil~ownerPaid:$1955.15
+recordId:e040514a-5882-4e6c-be3b-013a46dbf17a~animal:Brown pelican~owner:Wesley Lingner~title:Mr~countryAnimalLives:Poland~ownerPaid:$4775.21
+recordId:28078870-01d3-45f1-90fc-4b5c79a04724~animal:Arctic tern~owner:Loree Crocroft~title:Mrs~countryAnimalLives:Vietnam~ownerPaid:$1258.25
+recordId:a6d657b2-2e53-400f-a274-6a37eab859c0~animal:Bontebok~owner:Cory Bice~title:Ms~countryAnimalLives:Czech Republic~ownerPaid:$2412.78
+recordId:50775481-768b-4c68-ae36-d298f3b89a69~animal:Mocking cliffchat~owner:Chrysler Killford~title:Dr~countryAnimalLives:Russia~ownerPaid:$3683.19
+recordId:ef01ac76-e27d-46b6-9a90-de6a79a96cc8~animal:Ringtail~owner:Dee Castellet~title:Mr~countryAnimalLives:Sweden~ownerPaid:$3720.45
+recordId:80c209ff-c4bd-40b8-aa96-d7434c402020~animal:Dragon, frilled~owner:Brigitta Wrightem~title:Ms~countryAnimalLives:Philippines~ownerPaid:$600.06
+recordId:e394771b-7ed1-458f-afeb-28d180d30f97~animal:Wallaby, dama~owner:Ruttger Alliberton~title:Ms~countryAnimalLives:Bulgaria~ownerPaid:$4569.86
+recordId:68e64620-3533-4270-813a-c9dc10ed677d~animal:Red-tailed hawk~owner:Mame Firbanks~title:Ms~countryAnimalLives:France~ownerPaid:$2722.16
+recordId:09b177b2-a678-47ec-b8f1-cb96ae10ebdc~animal:Asian water dragon~owner:Eleanora Aslie~title:Dr~countryAnimalLives:Morocco~ownerPaid:$3081.59
+recordId:960a2ad2-57ed-42e9-afc4-4655cce414fd~animal:Tern, arctic~owner:Keefer Marchbank~title:Mr~countryAnimalLives:Philippines~ownerPaid:$4074.34
+recordId:3ee095aa-319a-4342-8a00-f28079c54e81~animal:Lemur, ring-tailed~owner:Maiga Ecles~title:Mrs~countryAnimalLives:Norway~ownerPaid:$1512.79
+recordId:dd632411-8ffe-415c-87e9-ccfc85600215~animal:Greater blue-eared starling~owner:Renie Martinon~title:Ms~countryAnimalLives:Czech Republic~ownerPaid:$3050.55
+recordId:6bcaaa1c-663b-418b-b35e-c326283aa7a0~animal:Puffin, horned~owner:Malanie Denys~title:Rev~countryAnimalLives:Afghanistan~ownerPaid:$630.82
+recordId:e4209c97-547f-4796-9c2f-a6fd5f15a1c1~animal:Dragon, asian water~owner:Audrie Rivallant~title:Ms~countryAnimalLives:Russia~ownerPaid:$1522.35
+recordId:7990a39a-3890-48cd-94ae-863169ccc4de~animal:Blue catfish~owner:Early Whitta~title:Rev~countryAnimalLives:Philippines~ownerPaid:$2053.76
+recordId:f83c5540-e4f5-417b-af79-f415aad92c46~animal:Wagtail, african pied~owner:Warden Jagger~title:Rev~countryAnimalLives:China~ownerPaid:$2385.79
+recordId:2b09014e-b67d-450a-922f-33a6d4dc9a45~animal:Western grey kangaroo~owner:Gwyn Obray~title:Ms~countryAnimalLives:Japan~ownerPaid:$610.04
+recordId:969f276a-975d-4a1b-99bc-d942dad6d238~animal:Hyena, spotted~owner:Brucie Botger~title:Honorable~countryAnimalLives:China~ownerPaid:$765.93
+recordId:fd8c5df8-f66e-4811-bb96-9e617db95f47~animal:Mandras tree shrew~owner:Sawyere Hanshaw~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$4904.57
+recordId:88074df8-b909-4fd5-9a02-467f26c7d221~animal:Snowy egret~owner:Tadeas Szymon~title:Mrs~countryAnimalLives:Poland~ownerPaid:$1968.05
+recordId:eb042b97-7821-4a83-ab4f-3474833919c5~animal:Glossy starling (unidentified)~owner:Vail Lamminam~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$3986.89
+recordId:d0bffd53-7e8a-490b-b86f-25a439897a78~animal:Cockatoo, long-billed~owner:Milena Fierman~title:Mr~countryAnimalLives:Venezuela~ownerPaid:$2785.57
+recordId:18ab7911-0439-4920-b691-1f92c17719ef~animal:Brush-tailed bettong~owner:Wilfred Copozio~title:Dr~countryAnimalLives:Lithuania~ownerPaid:$1530.38
+recordId:18e4cd5d-be3e-4d97-912c-6b876eb78380~animal:Bear, black~owner:Rhetta Cantrill~title:Mr~countryAnimalLives:Colombia~ownerPaid:$1058.66
+recordId:3c775cd4-95a5-4e08-814e-3054d02d12c1~animal:White-mantled colobus~owner:Brynn Ellit~title:Honorable~countryAnimalLives:El Salvador~ownerPaid:$4215.47
+recordId:5e55cd6d-c1bc-4cea-bbf5-a29fa1ee5f35~animal:Shelduck, common~owner:Letisha Roselli~title:Ms~countryAnimalLives:United States~ownerPaid:$4037.84
+recordId:8da21ab9-b3d3-41ed-8518-3f541c1fa67d~animal:Wombat, common~owner:David Cawdell~title:Rev~countryAnimalLives:Guatemala~ownerPaid:$3963.29
+recordId:24feaa28-4614-44de-a038-367b461c06ff~animal:Lilac-breasted roller~owner:Christophe Gosdin~title:Honorable~countryAnimalLives:Mexico~ownerPaid:$892.73
+recordId:72a2cddb-e1d8-4561-a5e7-6167099ed60d~animal:Yellow-billed hornbill~owner:Cory Lapree~title:Mr~countryAnimalLives:Nigeria~ownerPaid:$3874.18
+recordId:02f5cf84-9d08-4db2-8596-444c52223c6e~animal:Possum, common brushtail~owner:Jarrett Kimbling~title:Rev~countryAnimalLives:Portugal~ownerPaid:$2567.54
+recordId:a33ec543-9c65-43f1-82cd-311c8b2e203d~animal:Stork, yellow-billed~owner:Carroll Thornhill~title:Dr~countryAnimalLives:China~ownerPaid:$1256.53
+recordId:1513ec61-9d3f-4dbd-8536-f2a15aac5b14~animal:House sparrow~owner:Kerry Wedgbrow~title:Rev~countryAnimalLives:France~ownerPaid:$4875.75
+recordId:9c8eb431-d6c7-4c87-b6d2-595330ad9586~animal:White-nosed coatimundi~owner:Beatriz Cheves~title:Dr~countryAnimalLives:Ukraine~ownerPaid:$521.92
+recordId:f0eb1793-3da4-4ed3-87b1-d5975e2a19d5~animal:Crow, pied~owner:Abbi Thombleson~title:Ms~countryAnimalLives:Chile~ownerPaid:$3685.47
+recordId:cb32b112-c5ba-4dd8-ab38-845b980bf5ea~animal:Hanuman langur~owner:Sergei Losano~title:Mr~countryAnimalLives:Sweden~ownerPaid:$4789.58
+recordId:f193fe52-ff16-4dfe-8354-eff293b91b74~animal:Red-shouldered glossy starling~owner:Sarena Blood~title:Mrs~countryAnimalLives:Ethiopia~ownerPaid:$3014.35
+recordId:5341734c-5fe2-43b9-a879-66f756eb8c29~animal:Mountain goat~owner:Frants Gronou~title:Rev~countryAnimalLives:Peru~ownerPaid:$1111.46
+recordId:9f0b9d7e-f3d1-41e8-9f4b-91877556717e~animal:White-necked stork~owner:Gloriane Bolgar~title:Mrs~countryAnimalLives:China~ownerPaid:$2210.96
+recordId:5c35d8e9-1764-4086-a1ac-0f4cea16a32e~animal:Wallaby, red-necked~owner:Donaugh Peaple~title:Rev~countryAnimalLives:Philippines~ownerPaid:$1829.51
+recordId:b52cb3c2-f6c3-4316-aaae-2616e22d1c4c~animal:Raven, white-necked~owner:Celle Giffaut~title:Rev~countryAnimalLives:Philippines~ownerPaid:$3524.33
+recordId:ecc39257-0715-49eb-a43a-09c797812583~animal:European stork~owner:Steffane Norkutt~title:Honorable~countryAnimalLives:France~ownerPaid:$1754.89
+recordId:6a348ceb-602b-44c3-9061-2fc573459d1b~animal:Fox, arctic~owner:Adriaens Wyne~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4193.93
+recordId:2ec8ec89-8f58-4c78-907f-3de0a7981158~animal:Ground monitor (unidentified)~owner:Kent Guynemer~title:Mrs~countryAnimalLives:Greece~ownerPaid:$4553.56
+recordId:f794d672-e11d-4c59-9c5c-799792969b74~animal:Great white pelican~owner:Urbain Duckitt~title:Dr~countryAnimalLives:Jamaica~ownerPaid:$3529.05
+recordId:222a535d-8738-47ef-aa38-6a9e03766e23~animal:Goanna lizard~owner:Henryetta Burdytt~title:Mrs~countryAnimalLives:Mexico~ownerPaid:$2657.77
+recordId:8cba7603-3bea-4591-ae73-6c63342acf46~animal:Richardson's ground squirrel~owner:Giffer Gleeson~title:Ms~countryAnimalLives:United Kingdom~ownerPaid:$1616.94
+recordId:c7121fae-ce3e-4857-9cfd-8cff257aa521~animal:Scarlet macaw~owner:Joaquin Haseman~title:Ms~countryAnimalLives:Brazil~ownerPaid:$3903.58
+recordId:33f3a625-ec66-44fc-a292-60aba8131659~animal:Indian mynah~owner:Ches Bolletti~title:Honorable~countryAnimalLives:Peru~ownerPaid:$517.85
+recordId:c8e9cf6d-f298-438e-9850-0f74b3f7cea1~animal:Alpaca~owner:Mella Peeke-Vout~title:Ms~countryAnimalLives:El Salvador~ownerPaid:$1748.74
+recordId:94516a08-97f8-453c-912c-7f127220224d~animal:Marshbird, brown and yellow~owner:Inesita Keeton~title:Mr~countryAnimalLives:Japan~ownerPaid:$4001.34
+recordId:8bdb6ede-7b4b-4962-b308-5bfbc24b02c6~animal:Barasingha deer~owner:Francklyn Pennaman~title:Rev~countryAnimalLives:China~ownerPaid:$618.79
+recordId:825c9edd-a80a-45d6-aa49-97d5336f4ac1~animal:Wood pigeon~owner:Riccardo Dani~title:Mr~countryAnimalLives:Indonesia~ownerPaid:$4223.65
+recordId:a080f44c-5f7d-4c4b-a703-a3f794257a49~animal:Chacma baboon~owner:Tonnie Gargett~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$3148.8
+recordId:e42c29d0-1aeb-4cb6-9484-b077e05ddbc8~animal:Sandpiper, spotted wood~owner:Langsdon Shuard~title:Dr~countryAnimalLives:Japan~ownerPaid:$4459.74
+recordId:0f6ef296-0e94-4061-8924-ea0189d4177d~animal:Eland, common~owner:Erny Scragg~title:Ms~countryAnimalLives:Uruguay~ownerPaid:$1349.38
+recordId:42f59bc0-6392-4841-9600-3f9baad0d539~animal:Baleen whale~owner:Kelley Sybry~title:Rev~countryAnimalLives:Russia~ownerPaid:$3482.44
+recordId:5bf32985-9859-409f-9ea0-8a206f1dc2c7~animal:Dove, galapagos~owner:Abra Caudelier~title:Honorable~countryAnimalLives:China~ownerPaid:$4182.64
+recordId:d45a93d4-88e2-4ddd-b3ca-ed90ac3e52da~animal:Bustard, denham's~owner:Lorettalorna Palfreyman~title:Rev~countryAnimalLives:Madagascar~ownerPaid:$1953.37
+recordId:8fe61256-f795-4cfc-a21b-951ee41ce4f3~animal:Sandgrouse, yellow-throated~owner:Terri Dadson~title:Dr~countryAnimalLives:Philippines~ownerPaid:$4414.6
+recordId:a2746d97-4d9c-4741-ac4e-33a0900b2674~animal:Neotropic cormorant~owner:Cicily Duckett~title:Ms~countryAnimalLives:Nigeria~ownerPaid:$1745.4
+recordId:82c0863d-c56d-4671-a755-83ac805655ee~animal:Monitor, two-banded~owner:Palm Bothen~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$1682.94
+recordId:6927607b-236f-487a-9260-9349a6f3b0a2~animal:Stork, black-necked~owner:Nessie Hiner~title:Mr~countryAnimalLives:Slovenia~ownerPaid:$1087.54
+recordId:9b1d8c5e-2d3a-4228-8eb9-cbfd3151134a~animal:African snake (unidentified)~owner:Lemmy Ransome~title:Rev~countryAnimalLives:Equatorial Guinea~ownerPaid:$1631.07
+recordId:156337d4-58a0-4b25-9bdf-097398a1686e~animal:Red howler monkey~owner:Bealle Caw~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$4090.51
+recordId:80ae94be-f39e-431f-af1f-77fbe7d7deb6~animal:Rainbow lory~owner:Meredithe Estoile~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$2110.39
+recordId:be71c348-ed3f-4bec-8f6e-3c7899f7d211~animal:White-mantled colobus~owner:Creigh Wealleans~title:Ms~countryAnimalLives:Philippines~ownerPaid:$4033.41
+recordId:71a0f36a-e7a4-4507-acb4-44e158cb9e5b~animal:Common melba finch~owner:Nedi Rother~title:Dr~countryAnimalLives:Ukraine~ownerPaid:$2290.12
+recordId:aafc4efd-5ccc-4219-aa77-6235242ec669~animal:Langur, hanuman~owner:Paule Withull~title:Ms~countryAnimalLives:China~ownerPaid:$4673.56
+recordId:92d4adea-185c-442c-86a0-8778c868060d~animal:Lion, mountain~owner:Tommi Maundrell~title:Dr~countryAnimalLives:China~ownerPaid:$1606.34
+recordId:c9a270a4-673e-4c99-83b9-c355cfc4e554~animal:Fox, bat-eared~owner:Kermy Rambadt~title:Mr~countryAnimalLives:Albania~ownerPaid:$1938.81
+recordId:de8f14a1-d2e5-4af9-909b-9b7db8b75387~animal:Hippopotamus~owner:Stafani Challiss~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$1196.95
+recordId:21d46f60-3ec9-4905-8760-8db56f5a63fe~animal:Brocket, red~owner:Tildie Stollenbeck~title:Rev~countryAnimalLives:Russia~ownerPaid:$3858.61
+recordId:6d48e40e-7551-4eae-8611-9d6a71050514~animal:Killer whale~owner:Tucker Kings~title:Rev~countryAnimalLives:Peru~ownerPaid:$516.62
+recordId:35188ccd-8634-4749-8fda-98dc8c583795~animal:Penguin, galapagos~owner:Renee Riggott~title:Honorable~countryAnimalLives:Brazil~ownerPaid:$2379.48
+recordId:d6053bb5-cd3a-497a-a3c8-4e4f59fea9cf~animal:Quail, gambel's~owner:Elinore Winter~title:Rev~countryAnimalLives:Indonesia~ownerPaid:$2012.56
+recordId:a72978a6-2ca5-4a8c-8de2-0c121a88c9fc~animal:African black crake~owner:Sauveur Bambury~title:Mrs~countryAnimalLives:Peru~ownerPaid:$2658.47
+recordId:1051ef63-4774-48b5-8ec9-a1241dcbe8e9~animal:Lion, asian~owner:Elmore MacWilliam~title:Ms~countryAnimalLives:Argentina~ownerPaid:$3651.23
+recordId:5e1a33b4-61b3-48f6-9560-1163d55d1734~animal:Phalarope, red~owner:Ilene Weald~title:Dr~countryAnimalLives:China~ownerPaid:$4502.9
+recordId:d02d4724-0c90-4edc-9975-9d0287e5e6d6~animal:Lily trotter~owner:Eduardo Milvarnie~title:Mrs~countryAnimalLives:Albania~ownerPaid:$4196.62
+recordId:b22dd230-be13-4d8e-97d0-379f45c3f7fe~animal:Tarantula~owner:Aldrich Gartland~title:Mrs~countryAnimalLives:Philippines~ownerPaid:$4919.01
+recordId:c9dcc7da-794e-4cac-bc29-8245709d8bb4~animal:Duck, mountain~owner:Queenie Micah~title:Mr~countryAnimalLives:Colombia~ownerPaid:$4767.43
+recordId:ee56b81a-a659-493f-84cf-4b3fb63bce41~animal:Duck, white-faced whistling~owner:Aurea MacCroary~title:Mrs~countryAnimalLives:Andorra~ownerPaid:$4808.74
+recordId:e388f524-a7dd-48de-a8a3-63d9d2608af3~animal:Amazon parrot (unidentified)~owner:Annabella Fellibrand~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$4689.03
+recordId:d50b75d9-b8d3-490c-b057-c9ad9fd62b0b~animal:White-eye, cape~owner:Celinda O'Longain~title:Ms~countryAnimalLives:Philippines~ownerPaid:$1439.55
+recordId:1e10b6d6-c96c-4ac5-8c3a-841503a70df0~animal:Onager~owner:Ruperta Chesley~title:Honorable~countryAnimalLives:Poland~ownerPaid:$3859.54
+recordId:a048d48a-233d-4a24-ae64-354e03ef3915~animal:Square-lipped rhinoceros~owner:Claudette Kenney~title:Ms~countryAnimalLives:Russia~ownerPaid:$4209.19
+recordId:d098c486-02be-4269-91b3-f874056b16d5~animal:Long-nosed bandicoot~owner:Bentlee Balazin~title:Dr~countryAnimalLives:Ukraine~ownerPaid:$1933.29
+recordId:9d0fbdd2-abdf-4c3d-ac70-f3157a0c319d~animal:Squirrel, smith's bush~owner:Augusta Scotchmore~title:Mr~countryAnimalLives:China~ownerPaid:$526.35
+recordId:ac54439e-e368-4c67-978b-3191fcf25f8b~animal:Northern phalarope~owner:Mickey Prozescky~title:Ms~countryAnimalLives:Indonesia~ownerPaid:$4418.01
+recordId:b7104ade-c169-41bf-b94b-d9a83eea517d~animal:Cormorant, javanese~owner:Adoree Grahlmans~title:Mrs~countryAnimalLives:Portugal~ownerPaid:$4862.27
+recordId:be333dea-1c52-4654-a37c-3524644b02a6~animal:Downy woodpecker~owner:Glynis Gyford~title:Honorable~countryAnimalLives:Guatemala~ownerPaid:$1666.26
+recordId:ddd4c9fe-49d9-4f3b-8194-a931e2df0bb4~animal:Heron, yellow-crowned night~owner:Cullen Valero~title:Ms~countryAnimalLives:Bosnia and Herzegovina~ownerPaid:$580.28
+recordId:140523c0-ebd9-4b81-b389-29e4948c6c9c~animal:Bonnet macaque~owner:Alie Tatem~title:Honorable~countryAnimalLives:Democratic Republic of the Congo~ownerPaid:$1186.23
+recordId:c740c209-0bc1-4a57-ad44-5fe13a202be4~animal:Boa, cook's tree~owner:Eadie Kort~title:Honorable~countryAnimalLives:Portugal~ownerPaid:$891.44
+recordId:25b49b99-82ca-4266-8064-f4156d71c5ec~animal:Hudsonian godwit~owner:Pamelina Jurca~title:Honorable~countryAnimalLives:Ukraine~ownerPaid:$1314.98
+recordId:f83d7b6c-839b-4395-a02d-dbe607b71afb~animal:Grey fox~owner:Avram Jakubovski~title:Honorable~countryAnimalLives:Peru~ownerPaid:$2247.82
+recordId:df96eb40-4aed-4a4a-a4e7-0b28e7080011~animal:Common wombat~owner:Lucretia Dolle~title:Dr~countryAnimalLives:Colombia~ownerPaid:$2820.58
+recordId:def5196e-9d57-4006-b3f1-e06009f0c6af~animal:Savannah deer~owner:Lorrie Zarfat~title:Ms~countryAnimalLives:Japan~ownerPaid:$2936.72
+recordId:3f67bbf5-e5e1-4bda-8836-21d24f8fc83d~animal:Squirrel, thirteen-lined~owner:Winthrop Grishaev~title:Mrs~countryAnimalLives:Japan~ownerPaid:$1260.42
+recordId:cc0257d5-b51b-4d0e-ac67-1432ce74406c~animal:Gelada baboon~owner:Christabella Ughelli~title:Mr~countryAnimalLives:China~ownerPaid:$4832.12
+recordId:8f5c1ee0-ddfd-48e8-8369-59ab23a388ca~animal:Platypus~owner:Merry Columbine~title:Mr~countryAnimalLives:Poland~ownerPaid:$1108.73
+recordId:f9a557d6-8dda-4529-933a-ec8f628937cc~animal:Red deer~owner:Lowe Lavrick~title:Dr~countryAnimalLives:Indonesia~ownerPaid:$3077.08
+recordId:72bfc0bd-bab7-4421-9ccc-af1efa56a359~animal:Southern right whale~owner:Mychal Geroldo~title:Dr~countryAnimalLives:Portugal~ownerPaid:$4645.01
+recordId:ae526175-9bc5-4ad7-815e-cb5974bed5d7~animal:Raven, cape~owner:Sayers Aslett~title:Rev~countryAnimalLives:Portugal~ownerPaid:$1429.55
+recordId:757a8aa8-2fa5-46a1-9420-398d82282b70~animal:Stork, saddle-billed~owner:Gloria Metschke~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$1049.27
+recordId:e948fdb3-80e3-4913-ab08-bcd15429fa14~animal:Superb starling~owner:Ozzy Pennick~title:Mr~countryAnimalLives:Sweden~ownerPaid:$1564.04
+recordId:52184003-eeaa-4b6d-bb9b-c226f40367be~animal:Red squirrel~owner:Aundrea Aartsen~title:Honorable~countryAnimalLives:Philippines~ownerPaid:$800.49
+recordId:24b99904-98da-4456-964a-a5f9d3833be4~animal:Common langur~owner:Nathalia Carlisle~title:Rev~countryAnimalLives:China~ownerPaid:$691.68
