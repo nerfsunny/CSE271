@@ -2,6 +2,7 @@ package p;
 
 import java.util.*;
 import java.io.*;
+import java.security.*;
 
 public class Animal implements Comparable<Animal>
 {
@@ -37,13 +38,12 @@ public class Animal implements Comparable<Animal>
 
 	public Animal(String[] properties)
 	{
-		this(properties[0],
-			 properties[1],
-			 properties[2],
-			 properties[3],
-			 properties[4],
-			 properties[5],
-			 Double.parseDouble( (properties[6].replace("ownerPaid:", "") ).replace("$", "") )
+		this(properties[0].replaceAll("recordId:", ""),
+			 properties[1].replace("animal:", ""),
+			 properties[2].replace("owner:", ""),
+			 properties[3].replace("title:", ""),
+			 properties[4].replace("countryAnimalLives:", ""),
+			 Double.parseDouble( (properties[5].replace("ownerPaid:", "") ).replace("$", "") )
 			);
 	}
 
@@ -55,6 +55,11 @@ public class Animal implements Comparable<Animal>
 	public Animal(RandomAccessFile raf) throws Exception
 	{
 		this(raf.readLine());
+	}
+
+	public Animal(Scanner input) throws Exception
+	{
+		this(input.nextLine());
 	}
 
 	//Getter's and Setter's
@@ -70,14 +75,14 @@ public class Animal implements Comparable<Animal>
 			String a = animal.split(", ")[0];
 			String b = animal.split(", ")[1];
 
-			this.animal = b + " " + a;
+			this.animal = (b + " " + a).toLowerCase();
 		}else
 		if(animal.contains(" (unidenfied)"))
 		{
-			this.animal = animal.replace("(unidenfied", "");
+			this.animal = (animal.replace("(unidenfied", "")).toLowerCase();
 		}else
 		{
-			this.animal = animal;
+			this.animal = animal.toLowerCase();
 		}
 	}
 
@@ -137,5 +142,64 @@ public class Animal implements Comparable<Animal>
 		return title + " " + owner.split(" ")[1];
 	}
 
+	public String sortString()
+	{
+		return animal + " " + owner + " " + recordID; 
+	}
+
+	public void save(RandomAccessFile raf) throws Exception
+	{
+		raf.writeChars("ID: " + recordID);
+		raf.writeChars("Animal: " + animal);
+		raf.writeChars("Owner: " + owner);
+		raf.writeChars("Title: " + title);
+		raf.writeChars("Animal's Country of Residence: " + countryAnimalLives);
+		raf.writeDouble(ownerPaid);
+	}
+
+	public void save(PrintWriter pw)
+	{
+		pw.write("ID: " + recordID);
+		pw.write("Animal: " + animal);
+		pw.write("Owner: " + owner);
+		pw.write("Title: " + title);
+		pw.write("Animal's Country of Residence: " + countryAnimalLives);
+		pw.write(Double.toString(ownerPaid));
+	}
+
 	//Override Methods
+	@Override
+	public int compareTo(Animal a)
+	{
+		return this.sortString().compareTo(a.sortString());
+	}
+
+	@Override
+	public String toString()
+	{
+		return "Record ID: " + recordID + "\n" +
+			   "Animal: " + animal + "\n" +
+			   "Owner: " + owner + "\n" +
+			   "Title: " + title + "\n" +
+			   "Animal's Residence: " + countryAnimalLives + "\n" +
+			   "Amount Paid: " + ownerPaid + "\n";
+	}
+
+	@Override
+	public boolean equals(Object o)
+	{
+		if(!(o instanceof Animal))
+		{
+			return false;
+		}
+
+		Animal a = (Animal) o;
+
+		return  this.getCountryAnimalLives().equalsIgnoreCase(a.getCountryAnimalLives()) &&
+				this.getRecordID().equalsIgnoreCase(a.getRecordID()) &&
+				this.getAnimal().equalsIgnoreCase(a.getAnimal()) &&
+				this.getTitle().equalsIgnoreCase(a.getTitle()) &&
+				this.getOwner().equalsIgnoreCase(a.getOwner()) &&
+				this.getOwnerPaid() == a.getOwnerPaid();
+	}
 }
