@@ -79,8 +79,7 @@ public class Tester
 
 			while(raf.getFilePointer() < raf.length())
 			{
-				String line = raf.readLine();
-				person = new Athlete(line);
+				person = new Athlete(raf);
 
 				if(person.getCurrentlyInjured() == true)
 				{
