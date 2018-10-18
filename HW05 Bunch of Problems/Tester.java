@@ -75,13 +75,12 @@ public class Tester
 		
 		//======================> 8.12
 		System.out.println("#8.12" + "\n");
-		
+		Random value = new Random();
 		Bug insect = new Bug(10);
 		System.out.println("Initial Position of Bug: " + insect.getPosition());
 		
 		for(int k = 0; k < 15; k++)
 		{
-			Random value = new Random();
 			int possibility = value.nextInt(2) + 1;
 			
 			switch(possibility)
@@ -97,9 +96,73 @@ public class Tester
 					insect.turn();
 					break;
 			}
+			System.out.println("New Position of Bug: " + insect.getPosition());
 		}
 		
+		System.out.println("");
 		System.out.println("Final Position of Bug: " + insect.getPosition());
 		System.out.println("");
-	}	
+		
+		//======================> 9.8
+		System.out.println("#9.08" + "\n");
+		
+		Person p1 = new Student("Sunny", "Vaswani", 1998, "Engineering");
+		Person p2 = new Instructor("Zane", "Oliver", 1975, 55123.31);
+		
+		System.out.println(p1.toString());
+		System.out.println(p2.toString());
+		System.out.println("");
+		
+		//======================> 9.9
+		System.out.println("#9.09" + "\n");
+		
+		Employee emp1 = new Manager("Bob", "Jones", 45000.0, "Sales");
+		Employee emp2 = new Executive("Sue", "Roberts", 48945.12, "Education");
+		
+		System.out.println(emp1.toString());
+		System.out.println(emp2.toString());
+		System.out.println("");
+		
+		//======================> 9.10
+		System.out.println("#9.10" + "\n");
+		
+		Random num = new Random();
+		int x = num.nextInt(5);
+		int y = num.nextInt(5);
+		int width = num.nextInt(10) + 1;
+		int height = num.nextInt(10) + 1;
+		BetterRectangle shape = new BetterRectangle(x, y, width, height);
+		
+		System.out.println("Width: " + shape.getWidth());
+		System.out.println("Height: " + shape.getHeight());
+		System.out.println("Perimeter: " + shape.getPerimeter());
+		System.out.println("Area: " + shape.getArea());
+		System.out.println("");
+
+		//======================> 9.14
+		System.out.println("#9.14" + "\n");
+		
+		Random measurement = new Random();
+		SodaCan can = null;
+		ArrayList<SodaCan> listOfCans = new ArrayList<SodaCan>();
+		double totalSurfaceArea = 0;
+		double averageSurfaceArea;
+		
+		for(int i = 0; i < 20; i++)
+		{
+			double canRadius = measurement.nextInt(10) + 1;
+			double canHeight = measurement.nextInt(10) + 1;
+			
+			can = new SodaCan(canRadius, canHeight);
+			listOfCans.add(can);
+		}
+		
+		for(SodaCan c : listOfCans)
+		{
+			totalSurfaceArea = totalSurfaceArea + c.getSurfaceArea();
+		}
+		
+		averageSurfaceArea = (double) totalSurfaceArea/listOfCans.size();
+		
+		System.out.println("Average surface area for " + listOfCans.size() + " can(s) with various radius and height: " + averageSurfaceArea);
 }
