@@ -8,6 +8,7 @@ public class Letter
 		setReceiver(toPerson);
 		bodyLetter = "";
 		addLine("Dear " + toPerson + ":");
+		addLine("");
 	}
 
 	public void setSender(String sender)
