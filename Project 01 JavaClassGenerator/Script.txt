@@ -1,0 +1,38 @@
+Class:
+	Name: Car
+	Abstract: false
+	Extends: Rectamgle
+	Implements: iMovable, iDrawable
+	CloneMethod: true
+	EmptyConstructor: false
+	WorkhorseConstructor: true
+	CopyConstructor: true
+
+	Property:
+		name: make
+		Type: String
+		Scope: private
+		Getter: true
+		GetterScope: public
+		Setter: true
+		SetterScope: false
+
+	Property:
+		name: model
+		Type: String
+		Scope: private
+		Getter: true
+		GetterScope: public
+		Setter: true
+		SetterScope: private
+
+	Property:
+		name: year
+		Type: String
+		Scope: private
+		Getter: true
+		GetterScope: public
+		Setter: true
+		SetterScope: private
+
+End;
